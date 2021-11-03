@@ -1,0 +1,93 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Nationality = {{Skelliger}}
+|Name = Hjalmar an Craite
+|Aka = Wrymouth<ref name="ttots" /><br>Slackjaw
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Red
+|Titles = [[King of the Skellige Isles]] {{Small|text=optional}}
+|Abilities = Swordsmanship
+|Family = [[Clan an Craite]]
+|COA = COA an Craite.svg
+|Parents = [[Crach an Craite]] {{Small|text=father}}
+|Relative = [[Cerys an Craite]] {{Small|text=sister}}
+|Image = Tw3 journal hjalmar.png
+|Voice = [http://www.imdb.com/name/nm1395602/ Allen Leech]
+|Appears_games = {{Tw3}}
+|Born = {{Year|canon = yes|year = 1248}}}}
+{{Quote|text = Who wants to taste Skellige steel?!|citation = Hjalmar's war cry, {{Tw3}}|audio = Hjalmar voice line.ogg}}
+'''Hjalmar an Craite''', also known as '''Wrymouth'''<ref name="ttots">{{TTotS}}</ref> (Polish: ''Krzywogęby'' meaning "slackjaw"), born {{Year|canon = yes|year = 1248}},<ref>In {{TTotS}}, he's said to be 19 years old.</ref> is the son of [[Crach an Craite]] and is [[Cerys an Craite|Cerys]]' older brother, who he has a constant, but good-natured, rivalry with. He was in love with [[Ciri]].
+
+== Biography ==
+
+=== Early life ===
+He met Ciri during her stay in [[Skellige Islands|Skellige]] - where she spent a lot of her childhood. In Skellige, jumping competitions were held on ice and the boys would skate to see who could jump the farthest. However, Ciri was lightning fast and agile on the ice and the boys scoffed at the thought of being beaten by a young girl. Hjalmar attempted to beat Ciri but instead fell and injured himself. Despite this, he held no grudge against Ciri and, when she attended his bedside during his recovery, they fell in love.
+
+When Ciri was 10 years old<ref>This is an estimated guess here. In the English translations, Crach states Ciri was around 15, but this would have been impossible in the timeline. Instead, it's likely this happened the winter before Nilfgaard conquered Cintra as Crach puts that summer and autumn came then the Cintra massacre.</ref> and Hjalmar was 15, they got "engaged." Unfortunately their happiness was not to be and Ciri was dragged teary-eyed back to [[Cintra (city)|Cintra]] and a young Hjalmar was left sulking in Skellige.
+
+=== Northern Wars ===
+When the [[Slaughter of Cintra]] reached the ears of Hjalmar he sought to save his beloved. Alas, when he arrived at Cintra the place was already destroyed and its citizens massacred and Ciri had been taken by [[Cahir Mawr Dyffryn aep Ceallach]].
+
+Her escape from Cahir then opens up the chapter of her life with Geralt. When Yennefer returned to Skellige to reach Ciri, Hjalmar vowed to go on a ship with her to find his beloved to make up for missing Ciri in Cintra. However, despite volunteering to continue on the longship, ''Alkyone'', which Yennefer planned to use to sail into the infamous [[Sedna Abyss]], she ordered the number to be parsed down to 8, the minimum amount of people needed to keep the ship going for a short time. While she let the captain pick which 8 to transfer, she ordered Hjalmar to stay behind on the second ship, ''Tamara''. When he protested she threatened to tie him to its mast to stay, likely saving his life as it was believed all the crew aboard the ''Alkyone'' later drowned or died when it was teleported away.
+
+== {{Tw3}} ==
+[[File:Tw3 smiling Hjalmar.jpg|thumb|220x220px]]
+'''Hjalmar an Craite''' appears in the final installment of Geralt's trilogy. During the events of the game on Skellige, it is possible for Geralt to help either Cerys or Hjalmar to become the new ruler of the isles.
+
+=== Developer comments ===
+{{Quote|text = Hjalmar an Craite, Crach's elder child, is a good illustration of the saying "like father, like son"—especially when it comes to appearance. He is in this respect almost the exact opposite of his sister, having inherited his father's massive frame, broad facial features, and ferocity, but sadly very little of his prudence or patience. Hjalmar wears the simple garb of a Skellige warrior. <br>One can tell at a glance he is man who lives for battle and prefers to solve problems with brute strength. His battered face, which earned him the nickname "Crooked Gob" as a young lad, is the result of a spill he took while trying to show off on ice skates to a certain Cirilla, his one-time childhood playmate.|citation = ''[[The Witcher 3: Wild Hunt Artbook]]''}}
+
+=== Associated Quests ===
+* [[The Battle of Kaer Morhen]] (dependent)
+* [[Brothers In Arms: Skellige]]
+* [[Coronation]]
+* [[King's Gambit]]
+* [[The Lord of Undvik]]
+* [[The King is Dead – Long Live the King]]
+* [[On Thin Ice]] (dependent)
+
+=== Journal Entry ===
+: ''The saying "like father, like son" fits Crach and his first born son to a tittle. Young Hjalmar took after his father in both posture and character, and many predicted that in time he would ovetake his elder in the honor and fame he would gain.''
+: ''An extremely able, broad-shouldered swordsman, he had the makings of a superb warrior, and his charisma and tendency towards almost mad bravura meant he could stir the hearts of loot- and glory-craving youth from all Skellige's clans.''
+: ''All these traits made Hjalmar an obvious choice for the next king of Skellige. He thus did not hesitate to stake his claim when the time for this arrived and immediately set off for Undvik to prove his heroism by battling the legendary Ice Giant.''
+: ''Hjalmar accomplished what he set out to do. Fighting side by side with the witcher he defeated the fierce colossus of Undvik.''
+: '''If Geralt sides with Cerys in King's Gambit:'''
+:: ''Though his sister was chosen to be ruler instead of him, Hjalmar did not bear a grudge and decided to lend her reign all his strength, an act that showed surprising political maturity.''
+:: ''When discussing Hjalmar's heroic deeds it surely must be mentioned that he did not hesitate to support Geralt by answering his call and defending Ciri at Kaer Morhen.''
+: '''If Geralt doesn't side with either Hjalmar or Cerys in King's Gambit:'''
+:: ''Hjalmar's hot temper turned out to be his doom in the end. Young an Craite died alongside his sister while leading one of the first attacks on the Nilfgaardian fleet.''
+
+== Notes ==
+* In the {{BaW}}, there is a [[Hjalmar (gwent card)|gwent card]] that bears his image and name as part of the [[Skellige deck]].
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 3- Wild Hunt - Conclusion -8 - Ruler of Skellige - Hjalmar an Craite
+</gallery>
+
+== Gallery ==
+<gallery>
+Tw3 cardart skellige hjalmar.png|Gwent card art
+Tw3 conceptart hjalmar.jpg|Hjalmar - concept art
+Tw3 conceptrender hjalmar.jpg|Render
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|Hjalmar}}
+
+[[ar:هيلمار آن كريت]]
+[[de:Hjalmar]]
+[[es:Hjalmar an Craite]]
+[[fr:Hjalmar]]
+[[pl:Hjalmar Krzywogęby]]
+[[pt-br:Hjalmar an Craite]]
+[[ru:Хьялмар]]
+[[uk:Г'ялмар ан Крайт]]
+[[Category:Humans]]
+[[Category:The Tower of the Swallow characters]]
+[[Category:The Witcher 3 characters]]

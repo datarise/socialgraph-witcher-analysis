@@ -1,0 +1,20 @@
+{{Infobox Character
+|Image = Igor (pig).jpeg
+|Race = [[Human]] {{Small|text=presumably}}
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[Herbalist]]
+|Appears_games = {{Tw3}}
+|Name = Igor}}
+'''Igor''' was the local [[herbalist]] of [[Lurtch]], until {{Year|canon=no|year=1272}}, when he was transformed into a [[pig]].
+
+== Biography ==
+He and the other villagers, save [[Yontek]], robbed from a nearby altar, not realizing it was cursed. Shortly thereafter all the villagers turned into pigs and somehow Igor got left behind at the altar location, now in pig form.
+
+{{Condition|Text = If Geralt visited the "Hog Hut"}} the [[witcher]] found Igor and proceeded to have a "conversation" with him in the form of oinking a number of times for yes or no. After this, Geralt could then help lift the curse, transforming Igor back to [[human]] form.
+
+== Associated Quest ==
+* [[Fools' Gold]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

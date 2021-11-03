@@ -1,0 +1,18 @@
+{{Infobox Character
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Metinnese}}
+|Hair_color = Brown
+|Eye_color = Dark Brown
+|Profession = Fistfighter
+|Relative = [[Sofus]] {{Small|text=brother}}
+|Appears_games = {{Tw3}}
+|Image = Tw3 Hal.jpeg}}
+'''Hal''' was a fistfighter from [[Metinna]] that [[Geralt of Rivia|Geralt]] met in {{Year|canon=no|year=1272}}, when he was looking for ushers in the [[Novigrad Docks]]. Geralt can either pay 70 {{Crown Item}} or fight the two brothers and they will agree to usher for the play. If Geralt loses the fight they will still usher, but he will need to pay 140{{Crown Item}}.
+
+== Associated Quest ==
+* [[The Play's the Thing]]
+
+[[ru:Гал]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,19 @@
+{{DisambigMsg|This article is about = the ealdorman of [[Fayrlund]]|For = other people with the same name|see = Harald}}
+{{Infobox Character
+|Name = Harald
+|Image = Alderman Harald.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Profession = Ealdorman/village elder
+|Appears_games = {{Tw3}}
+|Hair_color = Grey
+|Eye_color = Blue}}
+'''Harald''' was a village elder of [[Fayrlund]].
+
+== Associated Quest ==
+* [[In the Heart of the Woods]]
+
+[[ru:Харальд]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

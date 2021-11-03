@@ -1,0 +1,24 @@
+{{Infobox_Character
+|Race = [[Human]]
+|Gender = Male
+|Titles = Saint
+|Worshiped = [[Novigrad]]ians
+|Appears_games = {{Tw1}} {{Mo}}<br>{{Tw3}} {{Mo}}
+}}'''St. Gregory''' was a hero of [[Novigrad]] living in the 10th century who was declared a saint after saving the city from a horrible famine by sacrificing half his fortune to import food from [[Nazair]]. The [[St. Gregory's Bridge|bridge]] connecting [[Temple Isle]] with the rest of Novigrad is named after him.
+
+Is it not clear if it is the same person which was mentioned in the first game - an inquisitor, author of litany, who, according to legend, died in the ancient crypt after defending himself from the heretics.
+
+== {{Tw1}} ==
+* [[Legend of Saint Gregory]]
+* [[Saint Gregory's litany (quest item)|Saint Gregory's litany]] (quest item)
+* [[Saint Gregory's Litany]] (quest)
+* [[Saint Gregory's tomb]]
+
+== {{Tw3}} ==
+* [[St. Gregory's Bridge]]
+
+[[pt-br:Gregório]]
+[[ru:Святой Григорий]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher 3 mentioned-only characters]]

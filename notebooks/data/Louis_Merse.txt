@@ -1,0 +1,40 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image =Tw2_journal_Louismerse.png
+|Aka =
+|Race =[[Human]]
+|Gender =Male
+|Affiliations =[[Temeria|Temerian crown]] 
+|Profession =Royal burgomaster in [[Flotsam]]
+|Abilities =
+|Family =
+|Relative =[[Bernard Loredo]] {{Small|text=cousin}}
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw2}}}}
+'''Louis Merse''' is a secondary character in {{Tw2}}. He seems to be very fond of forms, in particular, form WL-17 (for [[The Endrega Contract]]), form THX-114 (for [[The Nekker Contract]]), forms H-12 and AR-12 .
+
+Merse is the royal burgomaster. He moved from [[Vizima]] due to some unspecified trouble and established himself in [[Flotsam]] thanks to his cousin [[Bernard Loredo]]'s help. You can commonly find him in his home just off the main square, to the east of the scaffold (just behind [[Fioravanti]]'s stall). Louis Merse takes care of the bureaucratic business in the town and of the Royal Mail service. Also he is responsible for the announcements offering rewards in exchange of killing monsters.
+
+Later on, when Geralt finds [[Dmitri]] and kills him, you can find a [[Louis Merse's report|report]] on him, revealing that Merse and Loredo are involved in the local [[fisstech]] traffic. Also they are covering for criminals like Dmitri. The [[Dmitri's letter of safe passage|safeconduct letter]] found on Dmitri also confirms this.
+== Associated Quests ==
+* [[Mystic River]]
+* [[The Endrega Contract]]
+* [[The Kayran]]
+* [[The Nekker Contract]]
+* [[Troll Trouble]]
+
+== Journal Entry ==
+:''Louis Merse was a typical example of widespread bureaucratic nepotism. It was rumored that he had outright fled [[Vizima]] after bringing some unsavory troubles down upon his head. His cousin [[Bernard Loredo|Loredo]] then granted him a comfortable posting in [[Flotsam]], and Merse saw this as his second chance.''
+
+== Gallery ==
+<gallery>
+File:Louis merse.jpg|Louis Merse and [[Geralt of Rivia|Geralt]] during a dialogue.
+</gallery>
+[[de:Ludwig Merse]]
+[[fr:Louis Merse]]
+[[it:Louis Merse]]
+[[pl:Ludwig Merse]]
+[[ru:Людвиг Мерс]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:Humans]]

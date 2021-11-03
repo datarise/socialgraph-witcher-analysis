@@ -1,0 +1,24 @@
+{{DisambigMsg|This article is about = the merchant in [[Downwarren]]|For = the merchant with the same model in [[Crow's Perch]]|see = Trader (Crow's Perch)}}
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant
+|Image = Tw3_merchant_downwarren.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Black
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}
+}}
+The '''merchant''' is a [[gwent]] player, but doesn't sell any gwent cards. Although he claims to sell milk, he does not have any in his stock.
+
+Instead, he sells [[Water (item)|water]], [[bread]], and alcoholic beverages that can be used in alchemy such as: [[Temerian rye]], [[Mandrake cordial]], [[Cherry cordial]], and [[Nilfgaardian lemon]]. The random gwent card can be won from him.
+
+The merchant disappears from the village and his services become unavailable if [[the Ghost in the Tree]] is freed or killed during the quest [[The Whispering Hillock]].
+==Notes==
+*He boasts a particularly pathetic [[Monsters Gwent deck]] where nearly all of his Muster cards are impaired, except for the [[Nekker (gwent card)|Nekker]] which he has 2 instead of 3. Which makes him an easy source of income at the beginning of the game.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Sztygary)]]

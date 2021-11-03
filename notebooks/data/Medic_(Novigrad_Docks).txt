@@ -1,0 +1,14 @@
+{{Infobox_Character
+|Image = Tw3 Novigrad Medic.jpeg
+|Hair_color = Black
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Profession = [[Medic]]
+|Appears_games = {{Tw3}}
+|Name = Medic}}This unnamed '''medic''' used to work near the [[Novigrad Docks|docks]] of [[Novigrad]]. In {{Year|canon=no|year=1272}} he was tasked with doing autopsies of some dead bodies who were recently discovered near [[Crippled Kate's]] brothel. Apparently all the corpses looked dehydrated and without any visible signs of wound but light scratches.
+
+== Associated Quest ==
+* [[Contract: Deadly Delights]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

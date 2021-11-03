@@ -1,0 +1,36 @@
+{{DisambigMsg|This article is about = the character in {{Tw2}}|For = the jurist|see = Jacob Fenn|For second page = one of [[Nivellen]]'s women|see second page = Fenne}}
+{{Infobox Character
+|Name =Fenn
+|Image =Tw2 Fenn.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Bald
+|Affiliations =[[Blue Stripes]]
+|Abilities =Swordsmanship
+|Appears_games ={{Tw2}}
+|Nationality = {{Temerian}}
+|Status = Deceased}}
+'''Fenn''' was a member of the [[Blue Stripes]], an elite [[Temeria]]n Special Forces Unit in {{Year|canon = no|year = 1271}}.
+
+He enjoyed a good drink, [[arm wrestling]] and [[The Witcher 2 fistfighting|fistfighting]].
+
+Fenn shared the fate of the Blue Stripes and died by the order of [[Detmold|Dethmold]].
+
+== Trivia ==
+* Fenn's body is missing from the tent where the Blue Stripes were hanged. Same goes for [[Thirteen]] and [[Silas]]. It's unknown whether this was intended or an oversight.
+
+== Associated Quests ==
+* [[Hung Over]]
+* [[Against the Blue Stripes]]
+[[de:Fenn (The Witcher 2)]]
+[[fr:Fenn (PNJ)]]
+[[it:Fenn (PNG)]]
+[[pl:Fenn (NPC)]]
+[[ru:Фенн]]
+[[uk:Фенн (із Синіх Смужок)]]
+[[Category:Humans]]
+
+[[Category:The Witcher 2 Chapter I]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 characters]]

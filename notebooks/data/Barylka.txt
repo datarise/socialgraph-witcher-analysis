@@ -1,0 +1,27 @@
+{{Infobox Character
+|Name = Barylka
+|Image = Tw3 barylka.png
+|Hair_color = Black and Brown
+|Eye_color = Brown
+|Race = [[Dog]]
+|Affiliations = [[Druzus the Hermit's notes|Druzus the Hermit]] {{Small|text=owner}}
+|Appears_games = {{Tw3}}
+}}'''Barylka''' was a stray [[dog]] in [[Velen]] whose owner had been killed when bandits attacked their small village, [[Drudge]] in {{Year|canon = no|year = 1272
+|Type = game}}.
+
+==Biography==
+{{Condition|Text = If Geralt meets and follows the dog}} [[Geralt of Rivia|Geralt]], having rescued the dog from a pack of [[Wolf (creature)|wolves]], noted the dog was rather friendly and had a [[Key (quest item)|key]] sewn into its collar. The dog then led Geralt to his former owner's hut and the [[witcher]] deduced what'd happened. However, when he went back outside to see Barylka, the dog was nowhere to be found.
+
+{{Condition|Text = If Geralt doesn't save the dog}} Unfortunately Barylka met their end when a pack of wolves attacked the dog, killing it.
+
+{{Condition|Text = If Geralt helps but doesn't follow}} Barylka tried to get the witcher to follow, but for whatever reason Geralt didn't. The dog was never seen again.
+
+== Associated Quest ==
+* [[A Dog's Life]]
+
+== Videos ==
+<gallery position="center">
+File:A Dog's Life- Geralt and Barylka (Witcher 3 - Micro-Quest in Velen)
+</gallery>
+[[Category:The Witcher 3 characters]]
+[[Category:Dogs]]

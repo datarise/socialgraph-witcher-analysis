@@ -1,0 +1,27 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Old Woman.jpeg
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+|Aka = Gran
+|Eye_color = Blue
+|Name = "Old Woman"}}
+'''Old Woman''' or sometimes referred to as '''Gran''', was an elderly widow who lived in [[White Orchard]] her whole life, in a dilapidated hut near the main village.
+
+== Biography ==
+One night in May {{Year|canon=no|year=1272}}, while she was home she noticed a [[Thaler (spy)|stranger]] ride up and waltz into a long since abandoned hut nearby. Not sure what to make of the man, she continued to watch and, seeing her, the man came over and she grabbed her [[frying pan]] for protection. However, the stranger politely asked if she had various materials, like birch bark and coals. As she told him she didn't, she noticed he was eyeing her frying pan and asked if he could borrow it and return it in the morning and so she lent it to him and he headed back to the abandoned hut. Later that night, she saw another man ride up and enter the hut but come morning, she only saw the first man leave without returning her pan.
+
+She then headed over to the hut to find her pan, as it was the only one she had, but the door was locked and she could smell an odd stench, making her suspect the second man was lying inside, dead.
+
+{{Condition|Text = If Geralt helped the woman}} Geralt went inside the hut and found out the first man had been a spy of some sort and had needed the soot off the pan to make ink to write letters. Geralt retrieved the pan for the woman, who was very thankful and rewarded the [[witcher]]. He then warned her to gather some men and bury the dead man deep enough to not attract [[necrophage]]s and not to mention any of this to the [[Nilfgaardian Empire|Nilfgaardians]].
+
+{{Condition|Text = If Geralt didn't help the woman}} Geralt chose not to help the woman, and so she never got back her old pan.
+
+== Associated Quest ==
+* [[A Frying Pan, Spick and Span]]
+
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]

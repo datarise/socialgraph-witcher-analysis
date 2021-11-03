@@ -1,0 +1,40 @@
+{{Infobox Character
+|Image = Tw3 journal weavess.png
+|Gender = Female
+|Profession = [[Witch]]
+|Affiliations = [[Velen]]
+|Abilities = [[Magic]]<br>[[Polymorphism]]
+|Race = [[Relict]]
+|Appears_games = {{Tw3}}
+|Relative = [[Brewess]] {{Small|text=sister}}<br>[[Whispess]] {{Small|text=sister}}
+|Parents = [[The Ghost in the Tree|She-Who-Knows]] {{Small|text=mother; supposedly}}
+|Worshiped = People of Velen}}
+{{Quote|text = I sense your pain, I see your fear...|citation = Weavess, {{Tw3}}|audio = Weavess voice line.ogg}}
+'''Weavess''' was one of the three [[Velen]] [[Crones]] in [[Crookback Bog]]. The other two were [[Whispess]] and [[Brewess]] and they were the supposed to be the daughters of [[Whispering Hillock|She-Who-Knows]].
+
+==Biography==
+{{Condition|Text = If Ciri doesn't come back from fighting the White Frost}} Geralt afterwards ventured into the Bog and killed Weavess, reclaiming Cirilla's medallion.
+
+== Journal Entry ==
+: ''Though the youngest of the three Crones, the Weavess was not one jot less ugly or evil than her older sisters. It was she who wove their [[magic]] tapestries of [[human]] hair gathered as tribute from the young children of nearby villages during their "cutting" ceremonies. These tapestries were how the worshipers of the Ladies of the Wood made contact with and paid homage to their deities.''
+: ''The fight on [[Bald Mountain (location)|Bald Mountain]] was meant to put an end to all three Crones, but Weavess evaded her elder sisters' fate. She was able to escape by transforming into a flock of ravens and took [[Ciri]]lla's medallion with her.''
+
+== Associated Quests ==
+* [[Ladies of the Wood]]
+* [[Bald Mountain (quest)|Bald Mountain]]
+* [[Something Ends, Something Begins (quest)|Something Ends, Something Begins]]
+* [[Ciri's Story: Fleeing the Bog]]
+
+{{Clear}}
+== Gallery ==
+<gallery>
+Tw3 cardart monsters crone weavess.png
+Tw3 Weavess concept art.png|Concept art
+Gwent cardart monsters weavess incantation.png|Gwent card art
+</gallery>
+[[ar:الحائكة]]
+[[cs:Pletana]]
+[[pt-br:Tecelã]]
+[[tr:Dokumacı]]
+[[ru:Пряха]]
+[[Category:The Witcher 3 characters]]

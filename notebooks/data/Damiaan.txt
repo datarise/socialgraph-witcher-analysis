@@ -1,0 +1,23 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 Damiaan.png
+|Nationality = {{Redanian}}
+|Gender = Male
+|Profession = Soldier
+|Abilities =Archery 
+|Name = 
+|Race = [[Human]]
+|Eye_color = Green
+|Hair_color = Dark
+|Appears_games = {{Tw3}}
+}}
+
+'''Damiaan''' was a [[Redania]]n archer who served on [[HMS Oxenfurt-Tretogor]], protecting [[King]] [[Radovid V]].
+
+In {{Year|canon = no|year = 1272}}, he and his comrades, [[Caspar]], [[Jouke]], [[Freek]] and witch hunter [[Egbert]] were commanded by King Radovid to stay near the gate to [[St. Gregory's Bridge]] and secure the area. He died by the hand of either [[Geralt of Rivia|Geralt]], [[Ves]], [[Roche]] or some [[Temeria]]n partisan.
+== Associated Quest ==
+* [[Reason of State]]
+
+[[ru:Демьян]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

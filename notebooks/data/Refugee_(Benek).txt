@@ -1,0 +1,17 @@
+{{Infobox Character
+|Image = Tw3 refugee benek.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Gray {{Small|text=brown beard}}
+|Name = Refugee
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}
+|Relative = Thomil {{Small|text=brother}}}}The man only known as '''Refugee''' can be found sitting outside one of the cottages in [[Benek]]. He asks the [[witcher]] to find some "local lads" who have gone missing after being hired to investigate some missing shipments. One of the missing men is Thomil, his brother.
+
+== Associated Quest ==
+* [[Contract: Phantom of the Trade Route]]
+
+[[ru:Беженец]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

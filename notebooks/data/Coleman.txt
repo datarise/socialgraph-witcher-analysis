@@ -1,0 +1,40 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = People Coleman full.png
+|Aka = White death merchant
+|Hair_color = Greying black
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Fisstech Dealer
+|Appears_games = {{Tw1}}
+}}
+'''Coleman''' was known as a "white death merchant" by the [[elf|elves]]. He worked for [[Ramsmeat]], dealing [[fisstech]] and was the intended recipient of the [[Hot Potato|parcel Haren Brogg gave]] to [[Geralt of Rivia|Geralt]] in [[The Witcher storyline|Chapter I]], until it is "confiscated" by [[Jethro]]. He can be found in the back room of [[The Hairy Bear]] with Ramsmeat, in the [[Temple Quarter]], or just outside the western gate on the [[Vizima dike|dike]].
+
+Coleman also happened to be [[Vincent Meis]]' informant. Geralt can choose to turn him in or not.
+
+Depending on whether or not Geralt allowed the [[Scoia'tael]] to take the weapons from [[Strangers in the Night (The Witcher)|Haren Brogg's crates]] in the [[Outskirts]], Coleman could wind up on the wrong end of an elven arrow, but this only happens after Geralt begins investigating with [[Raymond]].
+
+== Associated Quests ==
+* [[Berengar's Secret]] (dependent)
+* [[Hot Potato]]
+* [[Strangers in the Night (The Witcher)|Strangers in the Night]] (indirectly)
+* [[The Rat]]
+* [[Vizima Confidential]] (indirectly)
+
+== Notes ==
+* Coleman will drink with you, but you gain nothing for out-drinking him, except a sample of his awful singing voice. However, during [[Berengar's Secret]], If you have talked to [[Thaler (spy)|Thaler]] about Berengar's belongings and asked about the middleman, Coleman will tell you that he bought them from the swamp [[Brickmakers|brickmakers]] and then sold them to Thaler for twice the cost.
+* Known as a "white death" merchant for selling fisstech to young and impressionable non-humans, possibly even Scoia'tael.
+* Coleman suggests that he sells more than just fisstech, but it is unclear how to convince him to show the player his other wares, or if these "other wares" actually exist in the first place.
+
+[[cs:Coleman]]
+[[de:Coleman]]
+[[fr:Coleman]]
+[[it:Coleman]]
+[[pl:Coleman]]
+[[ru:Кирпич]]
+[[uk:Колеман]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]

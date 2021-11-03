@@ -1,0 +1,30 @@
+{{Infobox Character
+|Image =Tw3 odolan.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Brown
+|Profession =Farmer
+|Children =[[Mandy]] {{Small|text=daughter}}
+|Appears_games ={{Tw3}}
+|Nationality = {{Temerian}}
+|Partner = Unnamed wife}}
+'''Odolan''' was a [[Temeria]]n farmer living in [[White Orchard]] with his wife and young daughter, [[Mandy]], in {{Year|canon=no|year=1272}}.
+
+== Biography ==
+When the [[Third Northern War]] broke out, White Orchard was no exception to the battles and soon the drinking water from the [[Ismena]] river became polluted with dead bodies. Unfortunately, Odolan's daughter drank the now contaminated water and became deathly ill. While she could be saved with safe drinking water, the only nearby source was a well in the abandoned town of [[Abandoned Village (White Orchard)|Hovel]], where a [[Devil by the Well|noonwraith]] killed anyone who got too close to the well. Desperate, he put out a contract for anyone to kill the noonwraith so he could access the clean water.
+
+{{Condition|Text = If Geralt helps him and accepts payment}} Grateful, Odolan offered the reward he promised.
+
+{{Condition|Text = If Geralt helps but refuses the payment}} Odolan decided the [[witcher]] shouldn't walk away empty-handed after refusing payment and thus gave [[Geralt of Rivia|Geralt]] an [[amethyst]] instead.
+
+== Associated Quest ==
+* [[Contract: Devil by the Well]]
+
+[[de:Odolan]]
+[[cs:Odolan]]
+[[it:Odolan]]
+[[ru:Одолан]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

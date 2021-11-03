@@ -1,0 +1,55 @@
+{{Character Tabs|first = main|second = netflix}}
+{{Infobox Character
+|Name = Boholt
+|Image = Boholt film.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Crinfrider}}
+|Profession = [[Mercenary]]
+|Affiliations = [[Crinfrid Reavers]]
+|Lookalike = [https://www.imdb.com/name/nm2425811/ Steve Wall] {{Small|text={{Witcher TV}}}}
+[[Wikipedia:Marian Glinka|Marian Glinka]] {{Small|text={{Hexer}}}}
+|Appears_books = {{SoD}}
+|Appears_games = {{Tw2}} {{Mo}}<br>{{BaW}} {{Mo}}
+}}
+'''Boholt''' was the oldest member and also the leader of the [[Crinfrid Reavers]], a group of [[Mercenary|mercenaries]] hired by [[King]] [[Niedamir]] to take part in the hunt for [[Myrgtabrakke]], a [[dragon]] outside [[Barefield]]. The two of his compatriots were [[Kennet]] and [[Gar]].<ref>{{SoD}}</ref>
+== Biography ==
+=== Early career ===
+Together with his comrades he managed to slay three [[red dragon|red]] and one [[black dragon]] as well as wiped out all of the dracolizards and forktails in [[Redania]]. Their fame became so notorious that even [[Geralt of Rivia]] admired their skill.
+
+=== The fateful hunt ===
+{{For|For = the main article on this hunt|see = The Bounds of Reason}}
+
+In {{Year|canon=yes|year=1254}} the Reavers were hired by [[Niedamir]] to help in hunting 
+[[green dragon]] [[Myrgtabrakke]]. This turned harder than expected – Myrgtabrakke had a [[Saesenthessis|baby]] and was protected by [[golden dragon]] [[Villentretenmerth]] who injured Boholt's head during the fight.
+
+=== Recovery and new recruits ===
+By the time of {{Year|canon=no|year=1271}}, when Kennet and Gar met again with [[Geralt of Rivia|Geralt]], they could tell him only a sad tale of what became of their leader after the dragon hunt. They said to him that Boholt lost his memory after taking a spill and hitting his head on a rock. While he could "still be a beast in battle", he did nought much else and even lost his interest in women.<ref>{{tw2}}</ref>
+
+He eventually recovered some of his memories and started training new Reavers, including [[Jamor]] and [[Auwry]].<ref>{{tw3}} – {{BaW}}</ref>
+
+== Trivia ==
+* {{hexer}}, Boholt was portrayed by [http://www.celebrities411.com/MarianGlinka/ Marian Glinka].
+* Early concept art from {{Tw1}} suggests that Boholt was considered as a character, but did not make the final cut.
+
+== Gallery ==
+<gallery>
+Netflix The Witcher Boholt.png|Boholt in {{Witcher TV}}
+Boholt figur.jpg|Boholt render for "The Witcher" game, never used
+BoholtPC.jpg|concept for ''The Witcher''
+Boholt concept.gif|cutout of concept
+Boholt_comic.jpg|Boholt in {{Comics|Comic=gm}}
+</gallery>
+
+== References ==
+<references />[[de:Boholt]]
+[[fr:Boholt]]
+[[pl:Boholt]]
+[[pt-br:Boholt]]
+[[ru:Богольт]]
+[[Category:Humans]]
+[[Category:Mercenaries]]
+[[Category:The Witcher characters]]
+[[Category:Sword of Destiny characters]]
+[[Category:Blood and Wine mentioned-only characters]]
+[[Category:The Witcher 2 mentioned-only characters]]

@@ -1,0 +1,31 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name =Ardal
+|Image =Tw3 sergeant ardal.png
+|Race =[[Human]]
+|Gender =Male
+|Nationality ={{Temerian}}
+|Eye_color =Blue
+|Hair_color =Brown
+|Profession =[[Soldier]]
+|Affiliations =[[Phillip Strenger]]
+|Ranks =[[Sergeant]]
+|Appears_games ={{Tw3}}
+}}
+'''Ardal''' was the most respected and influential of the [[Phillip Strenger|Bloody Baron]]'s militia while at [[Crow's Perch]]. He served alongside the "baron" in the war, but after their group was massacred by [[Nilfgaardian Empire|Nilfgaardian]] soldiers, Phillip, Ardal, and the remnants of the [[Temeria]]n forces in [[Velen]] took over Crow's Perch and ruled over the region, and though they maintained order, the Baron and his men harassed and brutalized the locals.
+
+Around this time, Ardal also became the champion of Velen's fist-fighting ring.
+
+{{Condition|Text = If [[Return to Crookback Bog]] is completed}} after the Baron left or hanged himself, Ardal took over, beginning an even harsher reign of terror.
+
+== Associated Quests ==
+* [[Fists of Fury: Velen]]
+* [[Family Matters]]
+* [[Ugly Baby]]
+* [[Bloody Baron (quest)|Bloody Baron]]
+* [[Ciri's Story: The Race]]
+
+[[pl:Ardal]]
+[[ru:Сержант Ардаль]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

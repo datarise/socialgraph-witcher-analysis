@@ -1,0 +1,19 @@
+{{Infobox Character
+|Image = TW3 Hubrecht.png
+|Ranks = 
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Affiliations = [[Radovid V]]<br>[[Witch hunter]]s
+|Abilities = 
+|Eye_color = Hazel
+|Hair_color = Bald
+|Appears_games = {{Tw3}}
+|Profession = [[Witch hunter]]
+}}
+'''Hubrecht''' was the [[commander]] of the [[witch hunter]]s guarding [[King]] [[Radovid V]] on his ship, the ''[[HMS Oxenfurt-Tretogor]]''.
+
+== Associated Quest ==
+* [[Reason of State]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

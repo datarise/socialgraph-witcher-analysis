@@ -1,0 +1,24 @@
+{{Infobox_Animal
+|Name = Strawberry
+|Image = People_Strawberry.png
+|Hair_color = Brown
+|Species = [[Cow]]
+|Gender = Female
+|Appears_games = {{Tw1}}}}
+'''Strawberry''' is the village of [[Murky Waters]]' '''prize-winning cow'''. She has the glossiest coat in the area, glossier than her rival in [[Bullsville]], thanks to [[Abigail]], the local healer, who has concocted an ointment to enhance the shine. She is also extremely fond of [[The Witcher food and drink|dried fruit and nuts]]. Unfortunately for Strawberry, the [[Friendly vodyan priest|vodyanoi]] would like to sacrifice her at the [[Altar of Dagon]].
+
+If [[Geralt of Rivia|Geralt]] chooses to side with the vodyanoi and offer Strawberry as a sacrifice to [[Dagon]], then he must lure her all the way from her pen in the village to the landing where the [[Fisher King (lover of Lady of the Lake)|Fisher King]]'s boat is tied. He must then take her to [[Black Tern Island]], and once there, to the altar, carefully avoiding any [[wyvern]]s which might get in the way. Then he must kill her. Yes, kill poor, sweet, glossy-coated Strawberry.
+
+== Associated Quest ==
+* [[Ripples]]
+
+== External Links ==
+*{{Gwent|Prize-Winning Cow}}
+
+[[cs:Výstavní kráva]]
+[[de:Preisgekrönte Kuh]]
+[[fr:Vache de concours]]
+[[it:Premiato mucca]]
+[[ru:Корова-медалистка]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]

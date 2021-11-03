@@ -1,0 +1,30 @@
+{{Infobox_Character
+|Image = Witcher2-bolton-01.png
+|Gender = Male
+|Race = [[Human]]
+|Profession = [[Knight]]
+|Hair_color = Grey
+|Eye_color = Brown
+|Appears_games = {{Tw2}}}}
+'''Bolton of Ironford''' was a [[Nordling]] [[knight]].
+
+== Biography ==
+Sometime in the 13th century, Bolton and his squire traveled to [[Temeria]] to enlist in its notorious [[The Witcher 2 Arena|Grand Arena]]. Unluckily, [[necrophage]]s ambushed them just when they were nearing the arena gates. Alone as the squire fled and died in a nearby river, Bolton fought the beasts off but was badly wounded.
+
+Luckily, [[Geralt of Rivia]] was passing by a while later and made him a [[healing brew]]. Bolton then gave Geralt his arena invitation to show his gratitude.<ref>{{Tw2}}</ref>
+
+== Notes ==
+* In {{Tw2}} Polish version, he's named "Eryk of the Crossing" (''Eryk z Przeprawy''). Reason for this remains unknown.
+
+== References ==
+<references />
+[[de:Bolton von Eisenfurt]]
+[[fr:Bolton d'Ironford]]
+[[it:Bolton di Ironford]]
+[[pl:Eryk z Przeprawy]]
+[[ru:Болтон с Переправы]]
+
+[[Category:Humans]]
+[[Category:Knights]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Tutorial]]

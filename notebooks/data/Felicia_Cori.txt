@@ -1,0 +1,63 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image =Tw3_journal_feliciacori.png
+|Race =[[Human]]
+|Gender =Female
+|Affiliations =[[Aretuza]]
+|Profession =[[Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress]]
+|Abilities =[[Magic]]
+|Appears_games ={{Tw2}}<br>{{Tw3}}
+|Status = Deceased {{Small|text=burned alive during the [[witch hunts]]}}
+|Hair_color = Brown|Name=|Aka=|Born=|Eye_color=Blue|Skin_color=|Height=|Nationality=|Culture=|COA=|Badge=|Titles=|Ranks=|Family=|Parents=|Partner=|Children=|Relative=|Worshiped=|Symbol=|Among=|Center=|Voice=|Lookalike=|Appears_books=|Appears_other=}}
+'''Felicia Cori''' was a [[sorceress]] who graduated from [[Aretuza]].<ref>{{Tw2}}</ref>
+
+== Biography ==
+In {{Year|canon = no|year = 1272}}, Felicia was in [[Novigrad]], when she was captured by the [[witch hunter|witch hunters]] and taken to [[Hierarch Square]], where she was burned at the stake for being a mage, just as [[Geralt of Rivia|Geralt]] arrived in the square.<ref>{{Tw3}}</ref>
+
+=={{tw2}}==
+She was a [[The Witcher 2 merchants|merchant]], [[The Witcher 2 dice poker|dice poker player]], and [[Barbers and Coiffeuses|coiffeuse]].
+
+=== [[The Witcher 2 journal|Journal]] Entry ===
+[[File:Tw2 journal Feliciacori.png|left|thumb|250x250px]]
+:''Young sorceresses from the school at Aretuza must, apart from passing exams, complete an internship under a mistress' watchful eye. As part of such an internship, the young Felicia Cori peddled [[magic]]al curios of her own production in [[Vergen]].''
+:''Hoping to earn approval and a passing grade, Felicia had come to [[Loc Muinne]] with [[Philippa Eilhart|Philippa]]. She waited there for her instructor to find some free time for her.''
+:''As it turned out, the young adept of magic, Felicia Cori, was also a talented coiffeuse. Geralt could avail himself of her services and change his hairstyle for a modest fee.''
+::''In Loc Muinne's central square, in addition to selling a variety of useful items, Felicia Cori also offered hairstyling services.''
+
+=== Associated Quest ===
+*[[With Flickering Heart]]
+
+== {{tw3}} ==
+=== Journal Entry ===
+: ''Geralt had been in situations where he could not prevent someone's death on more than one occasion. In fact, you might say he had grown accustomed to that particular form of agony. It is another thing altogether, however, to stand powerless and watch the unjust, cruel execution of an acquaintance for whom one has developed a fondness.''
+: ''Such was his lot as regards Felicia Cori, a young sorceress whom Geralt had met while chasing the kingslayer, Letho. Though Geralt had not gotten to know her deeply, he had nonetheless taken a liking to this former pupil of Philippa Eilhart, who had seemed to him a pleasant and enterprising young woman. Yet she was a wielder of magic and, as such, met her end on a pyre.''
+
+=== Associated Quest ===
+*[[Pyres of Novigrad]]
+
+==Notes==
+*During the quest With Flickering Heart, Felicia also sells [[surgical tools]] for examining corpses as well as a [[The Rudiments of Pathomorphology|book about autopsies]].
+
+== Gallery ==
+<gallery>
+Tw3 pyres felicia stake.jpg|Felicia tied to the stake
+Tw3 witch pyres novigrad.jpg
+Tw3 Novigrad witch hunts.jpeg|Felicia and the unnamed Doppler burnt at the stake
+</gallery>
+
+== References ==
+<references />[[ar:فيليشيا كوري]]
+[[de:Felicitas Cori]]
+[[fr:Felicia Cori]]
+[[it:Felicia Cori]]
+[[pt-br:Felicia Cori]]
+[[ru:Фелиция Кори]]
+[[pl:Felicja Cori]]
+[[cs:Felicia Cori]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:Humans]]
+[[Category:Mages]]
+[[Category:Merchants]]
+[[Category:The Witcher 3 characters]]

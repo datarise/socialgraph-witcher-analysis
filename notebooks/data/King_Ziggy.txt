@@ -1,0 +1,31 @@
+{{Infobox Character
+|Image = Tw2_journal_Kingziggy.png
+|Race =[[Human]]
+|Profession =Fistfight organizer
+|Abilities =
+|Appears_games ={{Tw2}}
+}}
+'''King Ziggy''' is a minor character in {{Tw2}}. He appears after Geralt has proven himself by beating all the fistfighters at the [[Flotsam inn]] and offers the witcher more challenging opponents.
+
+== Associated Quests ==
+*[[Fight Club]]
+*[[One on One: Flotsam]]
+
+== Videos ==
+<gallery position="center">
+File:Fight_Club_(The_Witcher_2)_Full_HD
+</gallery>
+
+== Gallery ==
+<gallery>
+File:King ziggy screen.jpg|[[Geralt of Rivia|Geralt]] and King Ziggy during a dialogue.
+</gallery>
+
+[[de:Siggi König]]
+[[fr:Ziggy le roi]]
+[[it:Re Ziggy]]
+[[pl:Ziggy Król]]
+[[ru:Король Зигги]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]

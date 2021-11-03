@@ -1,0 +1,15 @@
+{{DisambigMsg|This article is about = the Skelliger|For = the similarly spelled character in the {{HoS}}|see = Ewald Borsodi}}
+{{Infobox Character
+|Image = Tw3 Evald.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Brown
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+}}
+
+'''Evald''' was one of six guardsmen watching over the outermost gate leading to [[Kaer Trolde citadel]]. He, his friend and shieldmaiden can be seen talking about various topics, such as who will become the next [[King of the Skellige Isles|King]] after the death of [[Bran Tuirseach]], and when will next raid occur and so on.
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

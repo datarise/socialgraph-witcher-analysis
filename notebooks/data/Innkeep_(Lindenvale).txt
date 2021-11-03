@@ -1,0 +1,24 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} Innkeep
+|Image = <gallery>
+Tw3 day lindenvale innkeep.png|Day Innkeep
+Tw3 night lindenvale innkeep.png|Night Innkeep
+</gallery>
+|Race = [[Human]]
+|Gender = Male
+|Profession = [[Innkeeper]]
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+There are actually two '''innkeeps''' in [[Lindenvale]]. Both work in the [[Lindenvale tavern|tavern]] behind the village's noticeboard, one during the day, and one during the evening.
+
+The night innkeep a few [[The Witcher 3 alchemy ingredients|herbs]], some [[The Witcher 3 food and drink|food and drink]], and [[pure silver]] on the other hand the day innkeep sells herbs, powdered pearl, and pure silver.
+
+== Notes ==
+* Night innkeep looks exactly like [[Marcus T.K. Hodgson]], the bookseller in [[Novigrad]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[Category:Innkeepers]]
+
+[[pl:Karczmarz (Zalipie)]]

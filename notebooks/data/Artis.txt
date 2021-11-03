@@ -1,0 +1,27 @@
+{{Stub}}
+{{Infobox Character
+|Image = Tw3 artis.jpg
+|Status = Depending on player's choice
+|Hair_color = Grey
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Profession = [[Druid]] {{Small|text=formerly}}<br>[[Priest]] of [[Svalblod]]<br>King [[Svanrige Tuirseach|Svanrige]]'s advisor {{Small|text=optional}}
+|Affiliations = [[Vildkaarl]]s
+|Appears_games = {{Tw3}}
+}}'''Artis''' was a fallen [[druid]] of [[Skellige]] circle who at some point become priest to cruel deity of [[Svalblod]] and as such had also became the leader of the [[Vildkaarl]]s.
+
+== Associated Quest ==
+* [[King's Gambit]]
+
+==Gallery==
+<gallery>
+Gwent cardart skellige artis.jpg|Gwent card art
+</gallery>
+
+[[pl:Artis]]
+[[ru:Артис]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[Category:Druids]]

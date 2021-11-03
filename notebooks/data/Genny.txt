@@ -1,0 +1,24 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 genny.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Parents = 
+|Relative = [[Zemek]] {{Small|text=brother}}
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+'''Genny''' was one of the [[orphans]] that [[Gran]] looked after in [[The Orphans of Crookback Bog|Crookback Bog]] in {{Year|canon=no|year=1272}}. At one point Genny got a fever but the [[godling]] [[Johnny]] helped cure it.
+
+{{Condition|Text = If Geralt freed [[the Ghost in the Tree]]}} Genny, along with all the other orphans from Crookback Bog, was saved by the Ghost from the [[Crones]]. The orphans later ended up in [[Novigrad]], and were placed under the care of [[Marabella]] at [[Marabella's School for Tots|her school]].
+
+{{Condition|Text = If Geralt killed the Ghost in the Tree}} Genny, along with all the other orphans from Crookback Bog, was taken to [[Bald Mountain (location)|Aard Cerbin]] by the [[Crones]], where he was killed and consumed by them.
+== Associated Quests ==
+* [[Ladies of the Wood]]
+* [[The Whispering Hillock]]
+
+[[ru:Гневко]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

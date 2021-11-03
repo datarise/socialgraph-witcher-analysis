@@ -1,0 +1,122 @@
+{{DisambigMsg|This article is about=Eist Tuirseach's brother|For=an early hero|see=Bran Tuirseach (the Conqueror)}}
+{{Infobox Character
+|Image = Tw3 journal kingbran.png
+|Status = Deceased {{Small|text=killed by a bear}}
+|Hair_color = White, formerly brown<ref name="tw3"/>
+|Eye_color = Blue<ref name="tw3"/>
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Born = {{Year||canon=no|year=1192}}<ref group="N" name="birth"/>
+|COA = COA Tuirseach.svg
+|Titles = [[King of the Skellige Isles]]<br>Jarl of [[An Skellig]]
+|Family = [[Clan Tuirseach]]
+|Partner = [[Bran's unidentified concubine|Redhead woman]] {{Small|text=mistress}}<br>[[Birna]] {{Small|text=wife}}<br>At least one other {{Small|text=wife}}<ref name="tw3"/>
+|Children = [[Svanrige Tuirseach]] {{Small|text=son}}<ref name="tw3"/>
+|Relative = [[Eist Tuirseach]] {{Small|text=brother}}<br>[[Crach's mother]] {{Small|text=sister}}<br>[[Crach an Craite]] {{Small|text=nephew}}
+|Appears_books = {{TLW}}<br>{{TTotS}}
+|Appears_games = {{Tw3}}<br>{{BaW}} {{mo}}<br>{{TWRPG}}
+|Appears_other = {{Hexer}} {{mo}}<br>{{Witcher TV}} {{mo}}
+}}
+{{Quote|text = Smooth seas this morn. As if the gods themselves were payin' respect to the great Konung Bran.|citation = [[Sjusta]], {{Tw3}}}}
+'''Bran Tuirseach''' was jarl of [[An Skellig]] who ruled as the [[King of the Skellige Isles]] in the 1250s before the ascension of his brother [[Eist Tuirseach]] and again from {{Year|year = 1267}} until {{Year||canon=no|year = 1272}}.
+
+Though initially a marriage of his nephew [[Crach an Craite]] and Princess [[Pavetta]] had been planned, King Bran managed to form an alliance with [[Cintra]] by marrying Eist off to Queen [[Calanthe]] in {{Year|canon=yes|year=1252}}. With crown passed to Eist, the bond elevated into a personal union.
+
+After an interregnum following King Eist's death, Bran regained the iron crown of [[Skellige]] and ruled for a few more years. Once he felt too old, Bran set out to hunt a [[bear]] and died.
+
+==Biography==
+===Early life===
+Born in {{Year||canon=no|year = 1192}},<ref group="N" name="birth">In {{Gwent standalone}}, Bran is said to have just passed 80 when he decided to end his life. As {{Tw3}} is set in 1272 and it mentions the king as "recently-departed", Bran's birth year can be deduced as being 1192.</ref> Bran had two siblings, brother [[Eist Tuirseach]] and a [[Crach's mother|sister]] who later gave birth to his nephew [[Crach an Craite]].<ref name="tlw">{{TLW}}</ref> As a member of [[Clan Tuirseach]], Bran eventually inherited the title of the jarl of [[An Skellig]] and thereby the clan's leadership.
+
+After the previous [[King of the Skellige Isles|Konung]] died, Bran submitted his candidacy and proved himself worthy by slaying a [[dragon]] named [[Evren]]. The display of valor won the hearts of the jarls, and Bran was given the crown.<ref name="tw3">{{Tw3}}</ref>
+
+[[File:Gwent cardart skellige bran tuirseach.jpg|thumb|170px|Flanked by his honor guard in battle.]]
+===Primary reign===
+King Bran united the [[clans of Skellige|clans]] through the way unknown to his predecessors: compromise. He invited his rivals to banquets and with sweet words, coin, and barrels of mead persuaded most to join his side.<ref name="gwent">{{Gwent standalone}}</ref> During one such feast, warrior [[Uve Jabberjaw]] got drunk and insulted the king. Angered, Bran let Uve live but ordered him to tear out his tongue and therefore retain honor.
+
+At some point, Bran had met the love of his life [[Birna]] who, although not his first nor last lover, had always been closest to him and had become the mother of his firstborn son, [[Svanrige Tuirseach]].<ref name="tw3" /> To keep rivals in check, King Bran was aided by his wife, who told him every suspicious rumor or deed that she had noticed during the feasts.<ref name="gwent">{{Gwent standalone}}</ref> Aside from her, King Bran had [[druid]] [[Mousesack]] as an advisor and confidant. His brother Eist who by then rose to be the [[jarl of Skellige]], commander of the armed forces, was an advisor as well.<ref name="tlw" />
+
+When [[Queen]] [[Calanthe]] of [[Cintra]] set up [[Pavetta]]'s 15th birthday feast in {{Year|canon=yes|year=1252}}, would-be suitors arrived. Bran sent his nephew Crach an Craite with Eist, Mousesack and [[Draig Bon-Dhu]] as an entourage but the event turned out unexpectedly. While Crach didn't win Pavetta's hand, Eist married the queen.<ref name="tlw" /> Bran was pleased with the result as it seated the remote islands at the same table as the mightiest dynasties of the [[Continent]].<ref>''[[The Art of the Witcher: Gwent Gallery Collection]]''</ref>
+
+===Pause and continuous reign===
+Despite his wife's repeated requests, the King refused to champion their son Svanrige as rightful heir to the throne. He perceived the concept of hereditary monarchy as preposterous and believed that the boy would earn the crown himself was he worthy.<ref name="gwent" /> By {{Year||canon=yes|year=1257}}, the crown has been bequeathed to Eist while Crach became the new jarl of Skellige.<ref>[http://web.archive.org/web/20000305080928/http://sapkowski.fantasy.art.pl/wc/ciri/eist.html.po Genalogy of Ciri - Eist]</ref> The reign of his brother and Queen Calanthe, titled ''Ard Rhena'' (High Queen) on Skellige, lasted for over ten years until they died fighting the [[Nilfgaardian Empire]].<ref>{{BoE}}</ref>
+
+After a brief interregnum during which Jarl Crach an Craite was effectively the steward of the Isles, leading the Skelligers against the Black Ones,<ref>{{TTotS}}</ref> Bran was reinstated as the king.<ref name="trpg">{{TWRPG}}</ref> For the next few years, Bran continued to rule as before, keeping the clans under him and leading them on profitable raids. Nevertheless, he never united the jarls as one massive fleet which could more seriously threaten Nilfgaard.<ref name="tw3" />
+
+===Last hunt===
+[[File:Tw3 the king is dead.jpg|left|thumb|215px|Bran on his final voyage.]]
+Bran lived long and reached 80 years of age in {{Year|canon=no|year=1272}}. When his hands began to tremble and his ideas wandered off mid-sentence, Bran decided to go into the woods of An Skellig to hunt a great [[bear]] armed with only a knife and dressed in delicate cloth, leaving the [[world]] on his own terms.<ref name="gwent" />
+
+His body was put on a [[drakkar]] in [[Kaer Trolde Harbor]] by Tuirseach warriors with all items he could need in an afterlife. When everybody bid him farewell, [[Bran's unidentified concubine|his young lover]] willingly lay next to his body as the ship was set out to sea and set ablaze by his nephew, Jarl Crach. One shepherd sacrificed his best mare for the king, while a group of An Craite warriors offered Bran their manes, swearing to remain bald until a new king had been chosen.<ref name="tw3" />
+
+===Legacy===
+[[File:Tw3 cave of dreams Bran.png|thumb|215px|The specter of Bran confronts Uve Jabberjaw and his companions.]]
+On the day of his burial, a wooden bust of Bran with detailed trimming was carved out by the harbor's artisans to be put up on the shore of [[Larvik]] where, the islanders believed, its fierce gaze would protect them from Nilfgaard. At the wake in [[Kaer Trolde citadel]] that ensued straight after the funeral, Bran was recalled as a hero by all present. [[Holger Blackhand]] remembered him fondly for keeping Birna in line and hoped for the next king to be his equal. With toasts raised to his memory, there were still likes of [[Cerys an Craite]] who felt Bran did little to resolve old quarrels.
+
+To prove himself a worthy candidate to the crown, [[Blueboy Lugos]] set out to best his fears in the [[Cave of Dreams]]. He took along [[witcher]] [[Geralt of Rivia]] and two raiders, Uve Jabberjaw and [[Jorulf the Wolverine]]. Inside, Uve saw specters of Tuirseach warriors and Bran. As his fear of insulting Bran once more manifested, Uve had to defeat the ghost warriors before they could proceed.<ref name="tw3" />
+
+Inspired by their visit to the isles sometime prior to {{Year|canon=no|year=1275}}, two brothers from [[Toussaint]], Counts [[Igor Monnier|Igor]] and [[Martin Monnier]], invented a [[Skellige Gwent deck]] and commemorated Bran on a leader card.<ref>{{BaW}}</ref>
+
+==Appearance and personality==
+{{Quote|text = Sit at my table and let's drink!|citation = King Bran's hospitality, {{Gwent standalone}}|audio = King Bran voice line.ogg}}
+Unlike the other jarls and konungs of Skellige, Bran knew how to use compromise to his advantage. In his early years, hospitality and friendly demeanor enabled him to easily win over any opponent and turn him into his vassal.<ref name="gwent" /> However, by the end of his reign, memory began to fail the elderly Konung and he could no longer unite the clans into one great force which may seriously endanger to the Nilfgaardian Empire.<ref name="tw3" />
+
+=={{Tw3}}==
+===Journal Entry===
+:''King Bran, former King of the Skellige Isles, lived a long and storied life. When he finally felt decrepitude taking a hold of him, he went into the woods to hunt a bear armed with only a knife – and thus ended his reign. It was remembered as an honorable and respected one, though some complained he preferred raiding to confronting the Isles' long-term problems, and that he let his wife's tongue wag too freely. Some connected the two, claiming Bran sailed out to fight overseas battles to put off dealing with the ones awaiting him at home.''
+
+=== Associated Quests===
+*[[The King is Dead – Long Live the King]]
+*[[The Cave of Dreams]]
+
+=={{Gwent standalone}}==
+Bran is a leader in the Homecoming version.
+===Reward Tree entries===
+:'''''Scroll 1:''' They say it is easier to tame the seas crashing against Skellige's shores than the Skelligers themselves. Yet Bran did just that. He united the isles and the clans behind him – and long ruled with an iron fist.''
+:'''''Scroll 2:''' What was his secret? How did he succeed when others failed? Was it courage? Cunning? Intimidation? No, nothing of the sort. Bran tapped into a power previously unknown to the isles' inhabitants – compromise.''
+:'''''Scroll 3:''' When others would reach for ax and bow, Bran invited his rivals to banquet. With honey-sweet words, purses laden with coin, and barrels heavy with mead, it proved difficult to disagree with Skellige's king for long.''
+:'''''Scroll 4:''' Despite never slaying an ice giant or raiding the City of Golden Towers, Bran is remembered as a truly great ruler. Though not a hero in his own right, he delivered peace to the Isles, ushering in a period of growth and prosperity for the next generation of Skellige's champions.''
+:'''''Chest 1:''' Bran's closest advisor and confidant was his wife, Birna. During banquets, she always sat at his side, silent, nearly unnoticeable in the bustle. She could recall every uttered rumor, every knowing wink, every raised eyebrow. Then later, in the bear skin-adorned bed of the royal bedchamber, she would whisper into her husband's ear all that she had learned...''
+:'''''Chest 2:''' Despite Birna's repeated requests, Bran refused to champion their son, Svanrige, as rightful heir to the throne. He believed if the boy truly deserved the crown, he'd earn it without the king's intercession. If found unworthy, so be it. Bran found the Continent's long history of dynastic rule preposterous. Birna, on the other hand, could not be persuaded to feel the same...''
+:'''''Chest 3:''' Bran lived a long life – a very long life. When, just after his eightieth birthday, his hands began to tremble and his thoughts began to wander mid-sentence, he set out with a small hunting party. Wearing only delicate linens and armed with only a knife, he departed for An Skellig in search of a bear... And an honorable death.''
+
+==Notes==
+*In {{AFL}}, a sentence above Bran's entry mistakenly attributes the cognomen of "the Conquerer" to him. This, however, not only doesn't fit with the character of his reign but also refers to [[Bran Tuirseach (the Conqueror)|another Tuirseach ruler]] mentioned in the 3rd game.
+
+==Trivia==
+* In Middle Welsh, ''brân'' means "crow".
+**Within the universe, his name may derive from the [[Elder Speech]] word ''breinne'' which aptly translates to "royal".<ref name="tw3" />
+
+==Gallery==
+<gallery>
+Skins Bran front.png|Gwent leader skin front
+Skins Bran back.png|Leader skin back
+</gallery>
+
+==Footnotes==
+<references group="N" />
+
+==References==
+<references />
+
+==External Links==
+*{{Gwent|Bran Tuirseach}}
+{{Skellige}}
+
+[[ar:بران تويرسيخ]]
+[[cs:Bran an Tuirseach]]
+[[de:Bran von Skellige]]
+[[es:Bran de Skellige]]
+[[it:Bran di Skellige]]
+[[pl:Bran]]
+[[ru:Бран]]
+[[sk:Bran Tuirseach]]
+[[uk:Бран Турсех]]
+[[Category:Humans]]
+[[Category:Monarchs]]
+[[Category:The Last Wish characters]]
+[[Category:The Tower of the Swallow characters]]
+[[Category:The Witcher 3 characters]]
+[[Category:Blood and Wine mentioned-only characters]]
+[[Category:The Witcher Role-Playing Game characters]]

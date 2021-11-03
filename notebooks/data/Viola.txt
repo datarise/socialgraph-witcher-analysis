@@ -1,0 +1,16 @@
+{{Infobox Character
+|Image = Tw3 viola.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = [[Prostitute]]
+|Appears_games = {{Tw3}}
+}}'''Viola''' was a [[prostitute]] working at the [[Passiflora]] in {{Year|canon=no|year=1272}}.
+
+[[es:Viola]]
+[[pl:Viola]]
+[[it:Viola]]
+[[ru:Фиалка (Ведьмак 3)]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

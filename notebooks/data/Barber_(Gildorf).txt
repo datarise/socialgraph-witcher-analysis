@@ -1,0 +1,14 @@
+{{Infobox Character
+|Name = {{Barber}} Barber
+|Image = barber-novigrad-gildorf.jpg
+|Race = [[Human]]
+|Nationality = {{Redanian}}
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Grey
+|Profession = [[Barber]]
+|Appears_games = {{Tw3}}
+}}
+This '''barber''' lived in the [[Gildorf]] district of [[Novigrad]], in a shop south of the unnamed merchant [[Shop (Gildorf)|shop]]. He charged 10 {{Crown}} for cutting [[Geralt of Rivia|Geralt]]'s hair and 5 {{Crown}} for cutting his beard
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

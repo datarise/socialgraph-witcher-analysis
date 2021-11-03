@@ -1,0 +1,40 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Race =[[Human]]
+|Gender =Male
+|Nationality ={{Temerian}}
+|Profession =[[Soldier]]
+|Affiliations =[[Temerian Army]]
+|Relative =[[Dune Vildenvert]] {{Small|text=brother}}<br>[[Liesje]] {{Small|text=sister-in-law}}
+|Appears_games ={{Tw3}}
+|Image = <gallery>
+Tw3 bastien vildenvert wounded.png|Wounded
+Tw3 bastien vildenvert.png|Saved
+</gallery>
+|Hair_color = Bald
+|Eye_color = Green
+|Parents = Unnamed parents {{Small|text=deceased}}}}
+'''{{PAGENAME}}''' was a [[Temeria]]n [[soldier]] who fought at the [[Battle of White Orchard]] in the [[Third Northern War]] and the owner of a [[Dog|hound]] named [[Hussar]].
+
+==Biography==
+During the Third Northern War, Bastien was drafted into the [[Temerian Army]] while living in [[White Orchard]]. Unlike his brother, [[Dune Vildenvert|Dune]], who cut his thumb off to be ineligible for the draft, Bastien did not do so.
+
+In the Spring of {{Year|canon=no|year=1272}}, Bastien participated in a battle near White Orchard in which [[Nilfgaardian Empire|Nilfgaardian]] and Temerian forces clashed. He was wounded but was saved by another wounded soldier, a Nilfgaardian named [[Rhosyn]], and together the two crawled away from the battle and found refuge in a nearby hut in the woods where they sat and told stories for several days. Meanwhile, Bastien was declared missing by his brother, who appealed for help in finding either Bastien or his corpse, so that he may at least receive a proper burial. [[Geralt of Rivia|Geralt]] could choose to help, and if he did, headed for the battlefield.
+
+{{Condition|Text = If Geralt finds Bastien and Rhosyn with Hussar}} Geralt convinced Dune to let the deserted Nilfgaardian stay with them and they all went to [[Vildenvert's farm|their farm]], east of [[White Orchard inn]], where Rhosyn helped them out.
+
+{{Condition|Text = If Geralt doesn't find the brothers, or finds them after going to [[Vizima]]}} Bastien and Rhosyn died in the hut as their injuries were too severe to get help on their own.
+
+{{Condition|Text = If Geralt finds them before talking to Dune}} Geralt wasn't there to convince Dune to take in the Nilfgaardian, and so while Bastien survived, Rhosyn died alone in the hut.
+
+== Associated Quest ==
+*[[Missing in Action]]
+
+[[cs:Bastián Vildenvert]]
+[[de:Bastien Vildenvert]]
+[[es:Bastien Vildenvert]]
+[[it:Bastien Vildenvert]]
+[[ru:Бастьен Вильдерверт]]
+[[tr:Bastien Vildenvert]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

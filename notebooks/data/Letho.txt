@@ -1,0 +1,169 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name =Letho of Gulet
+|Image =Tw2 full Letho 1.png
+|Aka =The Kingslayer
+|Affiliations =[[School of the Viper]]<br>[[Kingslayers]]<br>[[Emhyr var Emreis]]<br>[[Vattier de Rideaux]]
+|Profession =[[Witcher]]<br>Assassin
+|Abilities =Superhuman Abilities<br>Swordsmanship<br>[[Alchemy]]<br>[[Signs]]
+|Race =[[Human]] {{Small|text=[[Witcher]]}}
+|Gender =Male
+|Eye_color =Amber
+|Hair_color =Bald
+|Voice =[http://www.imdb.com/name/nm0428765/ Mark Lewis Jones]
+|Appears_games ={{Tw2}}<br>{{Tw3}} {{Small|text=dependent}}}}
+'''Letho of Gulet''', also known as the '''Kingslayer''', was a [[witcher]] from the [[School of the Viper]]. His closest associates were [[Auckes]] and [[Serrit]], also [[kingslayers]] and fellow witchers from the School of the Viper. Letho enlisted the help of [[Iorveth]] and the [[Scoia'tael]] to aid him in his plan to kill the kings of the [[Northern Kingdoms]]; to back his claim, the Viper showed Iorveth a head that belonged to [[Demavend III]], the king of [[Aedirn]], whom Letho had previously slain.
+
+== Biography ==
+In the forests of [[Angren]] on July 25, {{Year|canon=no|year=1270}}, Letho was near death after being struck by a [[slyzard]]'s tail but [[Geralt of Rivia|Geralt]], a witcher from the [[School of the Wolf]], found and saved him while chasing after the [[Wild Hunt]] to rescue [[Yennefer of Vengerberg|Yennefer]]. As thanks for saving his life, Letho told Geralt where to find the Wild Hunt and, alongside his own companions, travelled with him to find the spectral riders. Eventually, the group caught up with the Wild Hunt on the Winter Solstice, by the Hanged Man's Tree in Nilfgaard. Despite their skill, the witchers couldn't defeat all the warriors and a stalemate ensued before Geralt offered himself in exchange for Yennefer.
+
+Feeling it'd be disrespectful to Geralt to just leave the sorceress somewhere, Letho and the witchers took care of her. However, she was in pain, suffering from amnesia and caused an endless source of trouble for the group, which, in the [[Nilfgaardian Empire]], meant she was liable to get caught and killed. While the group traveled constantly to try and avoid attention, they were eventually detained and thrown in jail. However, [[Emperor]] [[Emhyr var Emreis]] himself later approached Letho and offered him a deal he couldn't refuse: sow chaos in the North by killing some of its rulers, lay the blame on the [[Lodge of Sorceresses]], and the School of the Viper would be restored.
+
+=== Killing kings ===
+King [[Esterad Thyssen]] of [[Kovir and Poviss]] was initially Letho's first target, but this never came to be as the kingslayers came into contact with [[Sheala de Tancarville|Síle de Tansarville]], who contracted Letho with assassinating King Demavend and helped to organise it. Thus, in {{Year|canon=no|year=1271}}, Letho snuck onboard Demavend's ship out on the [[Pontar (river)|Pontar]] and, using a [[Northern Wind]]-based capsule, froze most of the ship and nearly everyone on board except a handful that were protected by [[Abelard of Hagge|Abelard]]'s counter spell. However, this wasn't enough and all the guards fell to Letho's blade before he rounded on the king and killed him, then cut off his head for proof. Per de Tansarville's suggestion, Letho subsequently sought out Iorveth with the head in tow; yet, instead of merely using the Scoia'tael in order to lie low after the killing as Síle had envisaged, Letho also secured an alliance between the kingslayers and the Scoia'tael, whereby the latter would help Letho and his comrades to kill the kings of the North in whatever way they could.
+
+Because of the kingslayers' first attempt on King Foltest's life having failed due to Geralt being there at the time of the attack and the [[Mysterious assassin|would-be assassin]]'s death, Letho planned a second attempt on the Temerian monarch's life with Iorveth, while being out of Síle's or anyone else's reach. Aware of the imminent siege at [[La Valette Castle]], Letho decided to pose as a monk guarding over the king's children - a disguise which he enacted by framing himself as a helpless monk being tortured and then killing the person who treated him to keep the secret. Foltest, after successfully taking over the castle, appeared with Geralt, now acting as a bodyguard, at which point the king asked for Geralt to give him and the children some space. With his back turned, Geralt heard the attack too late as Letho revealed himself just after he killed Foltest and fled out a window to escape with Scoia'tael assistance, leaving Geralt to be wrongly accused of regicide. Shortly after this assassination, Letho attempted to betray Iorveth by turning [[Ciaran aep Easnillen|one of his lieutenants]] against him. However, the elf refused, so Letho killed his entire unit to cover his tracks and left Ciaran to be captured by [[Flotsam]]'s guards.
+
+In an attempt to catch Letho, Geralt, who now knew that Letho had attempted to get rid of Iorveth, the elf to the kingslayer as a ruse to expose the latter's treachery. However, Iorveth and his Scoia'tael were attacked by the [[Blue Stripes]], leaving Geralt and Letho to battle each other. Letho prevailed in the battle with Geralt, but once the Wolf was down, he spared him. Letho revealed that Geralt once saved his life and so they were now "even", before running off to kidnap [[Triss Merigold|Triss]] and force her to teleport them to Aedirn. He succeeded in capturing the sorceress, but fought and killed [[Cedric (elf)|Cedric]] in the process as he tried to defend her.
+
+After arriving in Vergen, Letho abandoned Triss and regrouped with Serrit and Auckes in their hideout. Knowing that the Scoia'tael in the area would soon become aware of his betrayal, Letho and his two comrades massacred them, leaving only [[Elven prisoner|one survivor]]. Upon hearing about the upcoming summit at [[Loc Muinne]], Letho headed there, entrusting Serrit and Auckes with assassinating Henselt.
+:{{Condition|Text = If Geralt didn't save Triss}} Letho, having no personal quarrel against Triss, rescued her from the Nilfgaardians in Geralt's stead. While he was successful in rescuing the sorceress, he was ultimately captured and brought before the kings at the summit, where he revealed that he had killed Foltest and Demavend, and that he had co-operated with the [[Lodge of Sorceresses|Lodge]] in order to accomplish this. When the dragon [[Saesenthessis]] attacked, Letho managed to escape.
+
+Knowing that Síle had become a liability for him, Letho sabotaged her megascope by replacing one of the crystals with a flawed one in order to dispose of her. Unless Geralt intervenes, Letho is successful and Síle explodes. Afterwards, the kingslayer waited in the center of the [[Temerian Quarter]] in Loc Muinne to talk with his former companion. Letho offered Geralt vodka, while explaining that he never had anything personal against him and proceeded to tell him about his deal with the emperor, the fate of Yennefer, and all that he knew about the Wild Hunt.
+
+{{Condition|Text = If Geralt fights Letho}} the two fought one last time and Geralt ultimately defeated Letho, killing him.
+
+{{Condition|Text = If Geralt lets Letho go}} Letho and Geralt parted ways, believing they'd never see each other again.
+
+=== On the run ===
+{{Condition|Text = Note}} if Letho was killed at the end of the second game, what follows below isn't applicable.
+
+Having succeeded in tearing the North apart, Letho learned afterwards that it was all for naught, with Emperor Emhyr not only going back on his word to restore the School of the Viper but, as Letho was now a living witness to the emperor's plans, the witcher was a liability and assassins were sent after him. With a high price on his head and bounty hunters chasing him everywhere, Letho traveled around, not staying anywhere too long, before he dropped in at the abandoned [[Reardon Manor]] in [[Velen]] in {{Year|canon=no|year=1272}}. Coincidentally, Geralt was in the area as well on unrelated business.
+
+{{Condition|Text = If Geralt doesn't help him out}} the two parted ways, with Letho heading off to take care of his business by himself.
+
+{{Condition|Text = If Geralt helps him out}} Letho and Geralt talked for a bit, with Letho explaining his "on the run" situation before a group of scouts arrived, no doubt sent to see if Letho was there. After the two witchers killed them off, Letho asked his former friend for help in dealing with the bounty hunters and the two set out together to track down [[Louis (bandit)|Louis]], an acquaintance of Letho's and the only one who knew where the witcher was hiding, having recommended the manor to Letho. It turned out that Louis sold him out and, not one to forgive such actions, Letho left him to die. He then had Geralt follow him to [[Lindenvale]] and told Geralt that whatever happened next, to not interfere, before throwing a bomb at a nearby barn, causing it to explode and several armed bounty hunters to run out of a nearby hut. After a short conversation between Letho and the group's leader, [[Arnout Vester]], one of the bounty hunters shot a crossbow at the witcher and he attacked, killing off six of them before falling over, seeming dead. Letho woke up sometime later, with Geralt waiting nearby, having sensed on closer inspection that Letho had used a substance to only make it appear that he died.
+::{{Condition|Text = If Geralt kills the hunters}} However, as Geralt hadn't known about this beforehand, he'd killed off all the rest of the bounty hunters in retaliation and Letho told him off, stating his plan was to make it appear that he'd died so the bounty hunters would stop chasing him and spread the news of his "death" but now all the eyewitnesses were dead, ruining that plan.
+::{{Condition|Text = If Geralt doesn't interfere}} Having let the rest of the bounty hunters go, Letho was pleased to see that Geralt hadn't interfered with his ultimate plan: to make it look like he'd died so that the bounty hunters would stop chasing him and the witnesses would spread the news of his "death". However, he was thankful that Geralt had come along to help as his friend explained if he hadn't spoken up, the other bounty hunters would have cut off his head as proof; instead, they just took his medallion.
+:{{Condition|Text = If Geralt invites him to Kaer Morhen}} regardless of the outcome with the bounty hunters, having nowhere else to go, Geralt invited Letho to [[Kaer Morhen]], a place where he could lay low for awhile. Taking the offer, Letho made his way there and later participated in [[The Battle of Kaer Morhen]], fighting alongside Geralt and [[Lambert]] against the Wild Hunt's scouts initially before the group retreated into the keep's courtyard. After the battle, he then informed Geralt he planned to travel east, past the mountains.
+:{{Condition|Text = If Geralt doesn't invite him to Kaer Morhen}} After talking with Geralt about where he planned to go, Letho stated he wanted a change in scenery and thought maybe [[Zerrikania]] might be a nice place to visit.
+
+== {{Tw2}} ==
+
+=== Journal Entry ===
+[[File:Tw2_journal_Letho.png|right|Letho]]
+:''Disguised as a blind monk, the mysterious assassin took Geralt by surprise. Displaying immense self-control and lightning reflexes — not to mention a talent for acting — he murdered the king before the witcher's very eyes. He then leapt out the window of the solar before Geralt could grab him. Surviving the fall unharmed, the assassin fled with the aid of some Scoia'tael.''
+:''The information in [[Vernon Roche]]'s possession served to confirm what Geralt had witnessed. A man matching the kingslayer's description had been seen in the company of Scoia'tael near the trading post of Flotsam. Finding him seemed like the witcher's only chance.''
+:''The mysterious individual now had a name. It appeared that this Letho, whoever he might be, was playing his own game — one in which the Scoia'tael had become an impediment. Yet his ultimate objective remained a mystery to Geralt.''
+:''Letho had indeed been working with the Squirrels, doing their wet work for them. Geralt would soon learn the answers to many more questions.''
+:''In the ruins of the elven bath, Geralt and the mysterious assassin stood eye to eye a second time. Geralt was surprised by what he learned. Letho of Gulet had been a witcher! What is more, there were other kingslayers, and they and Letho had worked together to assassinate the two dead northern monarchs. The witcher and the assassin were also no strangers — in fact, Geralt had once saved Letho's life. Their discussion ended abruptly as arrows whistled through the air and swords clashed. Letho demonstrated his strength and skills by beating Geralt black and blue. Before leaving, he announced that he was on his way to Aedirn.''
+:''The kingslayer proved true to his word and kidnapped Triss, wounding [[Cedric (elf)|Cedric]] mortally in the process. He forced the sorceress to aid him by teleporting them both to Aedirn.''
+:''The magic sent Geralt a vision and gave us another bit of information. Letho had been in the area earlier and had ordered his accomplices to assassinate King [[Henselt]]. The kingslayers had been working with [[Síle de Tansarville]], but, just as with Iorveth, their paths had diverged. Whatever finale would conclude this story, Letho claimed it would take place in Loc Muinne.''
+:''I listened to the rest of the tale with bated breath. Led to the summit by Nilfgaardian envoys, Letho publicly accused the sorcerers of commissioning the assassinations of the northern monarchs.''
+:''The kingslayer's intricate plan was revealed too late. Letho had been working for the Nilfgaardian Empire from the very beginning — his mission, to seed chaos before the Black Ones embarked upon a new war. Taking advantage of the ambitions of the Lodge of Sorceresses, its contacts and financial means — not to mention the support of the oblivious Scoia'tael partisans — Letho had eliminated two of the Nordlings' most important monarchs, plunging their realms into chaos.''
+:''On top of that, he had thrown suspicion on the sorcerers, who were just regaining their standing. Thus was the force which had stopped Nilfgaard at [[Battle of Sodden Hill|Sodden]] dealt a truly shattering blow.''
+:''Now Geralt had only to confront the kingslayer himself, so that the man could confirm or deny the witcher's suspicions. Only Letho knew the truth of the backroom intrigue which had left the north running with the blood of kings. Now I shall tell you about their final meeting, and its conclusion...''
+
+== {{TWBA}} ==
+[[File:TWBA hero letho.jpg|thumb|250x250px]]
+
+'''Letho of Gulet''' was one of the playable heroes in the now defunct MOBA and had a lot of interesting weapons, skills, and skins. He was a warrior class hero.
+
+=== Hero Presentation ===
+:''Letho of Gulet - a witcher, a mighty warrior also known as The Kingslayer. Letho is a fantastic tank (i.e. a warrior whose main occupation is to keep enemies busy) and is very efficient against mages.''
+:''He excels in one-on-one fights, in which, thanks to his QUEN sign, he can sustain a fair number of magical and physical damage. It's also worth mentioning that his shield, rather than just decreasing damage by a fixed amount, takes the full blow of a given enemy skill and allows Letho to remains unscathed as long as the spell is active. In practice, this means that each layer of QUEN (quantity depending on the ability level) will completely absorb both a mere hand-to-hand attack performed by a mage, as well as a powerful spell that would otherwise take half of Letho's HP.''
+:''Letho's AARD sign is a "crowd control" ability. CC (short for Crowd Control) is usually used to stun, displace and slow down opponents, and it can play a pivotal role in a fight. If cast at the right time, the AARD Sign can put an enemy right in the middle of your group, allowing others to finish him or her off quickly. On the other hand, if used without thinking, it can facilitate an enemy's escape, or move them away from a friendly offensive spell's area of effect.''
+:''Cleave, Letho's special skill, is a perfect finisher ability. You can use it to finish off fleeing and wounded enemies. Cleave makes Letho become invisible for a short period of time, and also gives him a huge speed boost. The witcher can then easily catch up with his enemy, and dispose of them with one powerful strike. Cleave, just like AARD, should be used with great consideration. It's an awesome finishing move, but it can also be used as an escape tool, which will save your skin on multiple occasions. There is one more aspect of Cleave you need to be aware of - when used, it silences the enemy making him or her unable to use abilities for a short time. Thanks to this, Letho can also take the role of an initiator - a fighter who spearheads the fight, taking the most dangerous enemy out of the equation first.''<ref>[https://en.cdprojektred.com/news/letho-of-gulet-hero-presentation/ Letho of Gulet – hero presentation]</ref>
+
+=== Skins ===
+* Primal Instinct - ?,€99 - 1500{{Crown}}
+* Scoia'tael Rags - €1,99 - 1000{{Crown}}
+* Crimson Armor - €1,99 - 1000{{Crown}}
+* Mutation - €1,99 - 1000{{Crown}}
+
+=== Weapons ===
+* Kingslayer - €2,99 - 750{{Crown}}
+* Bone Sword - €2,99 - 750{{Crown}}
+* Assassin's Blade - €0,99 - 500{{Crown}}
+* Bone Shredder - €0,99 - 500{{Crown}}
+
+== {{Tw3}} ==
+[[File:Tw3 journal letho.png|thumb|328x328px]]
+
+{{Quote|text = Gotta understand, Louis. You don't betray men like me.|citation = Letho of Gulet}}
+
+=== Journal Entry ===
+:''Some friends you see after many years apart and you immediately develop a headache. Not out of antipathy, but as a somatic premonition of the hangover sure to follow your drunken reunion. Seeing others, however, gives you an itching pain in your back and a desire to reach for your blade.''
+:''For Geralt, Letho of Gulet had a foot in both of these camps. This renegade witcher of the school of the Viper had the blood of at least two Nordling kings on his hands, the fruit of his cooperation with Nilfgaard's emperor, Emhyr var Emreis. Accused of these crimes, Geralt was forced to chase down Letho to clear his own name. Though both walked away from their final confrontation in the ruins of Loc Muinne alive and unharmed, Geralt did not think he would ever see Letho again.''
+:''It thus came as quite a shock when he happened across Letho in a barn loft somewhere in the war-ravaged Temerian borderlands.''
+: '''If Geralt decides not to follow Letho:'''
+:: ''It turned out Letho's former employer was less than satisfied with his performance and had set a variety of blood hounds on his trail. In these circumstances, the presence of another witcher to guard his back was more than welcome. Geralt, however, could not shake the bad taste left in his mouth by their prior interactions and went his own way, leaving Letho to clean up his own mess.''
+: '''If Geralt decides to help Letho:'''
+:: ''It turned out Letho's former employer was less than satisfied with his performance and had set a variety of blood hounds on his trail. In these circumstances, the presence of another witcher to guard his back was more than welcome. Geralt remembered the care Letho had given Yennefer and, in a show of solidarity, decided to help his former companion deal with his pursuers.''
+:: '''If Geralt kills Letho's pursuers:'''
+::: ''In order to shake the hounds off his trail, Letho had decided on a risky maneuver — faking his own death. His plan would have worked perfectly, too, had Geralt's hero reflexes not been a tad overstrung, causing him to butcher any and all witnesses who might have spread the news.''
+::'''If Geralt goes along with Letho's plan:'''
+::: ''In order to shake the hounds off his trail, Letho had decided on a risky maneuver — faking his own death. Although Geralt had no forewarning of this, he improvised with aplomb and sent Letho's pursuers off convinced they had rid the world of a kingslayer.''
+::'''If Geralt asks him to go to Kaer Morhen:'''
+::: ''After that, there was nothing more for Letho to do but disappear. Geralt proposed he hide out at Kaer Morhen for a while, and after a bit of thought Letho agreed.''
+:::''Though some of Geralt's companions did not extend Letho a very warm welcome, the decision to invite him to Kaer Morhen proved wiser than Geralt could have known. During the battle against the Wild Hunt Letho proved his courage and valor while contributing to the victory over the Red Riders.''
+::'''If Geralt doesn't ask him to go to Kaer Morhen:'''
+:::''After that, there was nothing more for Letho to do but disappear. He and Geralt shared a brief farewell and then went their separate ways once more.''
+
+=== Associated Quests ===
+* [[The Fall of the House of Reardon]] (proximity)
+* [[Ghosts of the Past]]
+* [[The Battle of Kaer Morhen]] (dependent)
+* [[Blood on the Battlefield]] (dependent)
+
+== Notes ==
+* In ''The Witcher 3'', Letho talks about heading to Zerrikania if not asked to go to Kaer Morhen, citing a possible reason that it's a matriarchy and he's always had a deep belief "that it's women who should rule the world." Whether this was in jest or what he really thinks, however, is uncertain.
+
+== Videos ==
+<gallery position="center">
+File:Iorveth meets Kingslayer
+File:Death of King Foltest (The Witcher 2)
+</gallery>
+
+== Gallery ==
+<gallery>
+Witcher2-kingslayer-001.png|Kingslayer
+2012-04-25 00036.jpg
+Iorveth and Kingslayer.png|Iorveth and the Kingslayer
+Witcher2CutsceneScreen-Kingslayer.jpg|Still from a cutscene
+tw2-screenshot-letho-elven-ruins-02.png
+tw2-screenshot-letho-elven-ruins-03.png
+tw2-screenshot-letho-elven-ruins-01.png
+Assassin layers-1-.jpg|Letho concept
+Tw2 full Letho 2.png|Kingslayer concept art cutout
+Letho-Egan.jpg|Letho presenting crowned head to [[Auckes]]
+Tw3 in-game Letho.png
+Tw3 cardart nilfgaard letho.png|Letho's gwent card art
+Gwent cardart nilfgaard letho of gulet.png|Letho in Gwent: The Witcher Card Game
+Gwent cardart nilfgaard letho kingslayer.jpg|Letho as a monk murdering Foltest
+Twba character model Letho.png|Letho's character model in TWBA
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|Letho of Gulet}}
+[[ar:ليثو من غوليت]]
+[[de:Letho von Guleta]]
+[[es:Letho de Guleta]]
+[[fr:Letho de Guletta]]
+[[it:Letho]]
+[[nl:Letho van Gulet]]
+[[pl:Letho]]
+[[pt-br:Letho]]
+[[ru:Лето из Гулеты]]
+[[uk:Лето з Ґулети]]
+[[Category:Witchers]]
+[[Category:The Witcher 2 Prologue]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 3 characters]]
+[[Category:The Witcher Battle Arena characters]]

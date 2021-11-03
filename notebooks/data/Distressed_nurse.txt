@@ -1,0 +1,22 @@
+{{Infobox Character
+|Name = Distressed nurse
+|Image = People Novice nun.png
+|Race = [[Human]]
+|Gender = Female
+|Profession = Nurse
+|Affiliations = [[St. Lebioda's Hospital]]
+|Appears_games = {{Tw1}}}}
+The '''distressed nurse''' can be found between 12 noon and 1 pm just outside [[St. Lebioda's Hospital]], near the garden. She is a bit reluctant to speak at first, but the witcher can choose to lend a sympathetic ear and help her out.
+
+== Associated Quests ==
+* [[Medic in Distress]]
+
+== Videos ==
+<gallery position="center">
+File:Medic in Distress
+</gallery>
+
+[[cs:Vyděšená ošetřovatelka]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter III]]

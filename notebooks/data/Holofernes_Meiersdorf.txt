@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image = Tw3 holofernes meiersdorf.png
+|Race = [[Halfling]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = Miller<br>Apiarist
+|Children = Franklin {{Small|text=son}}<br>Bernie {{Small|text=son}}<br>Hugo {{Small|text=son}}<br>[[Rico Meiersdorf|Rico]] {{Small|text=son}}
+|Family =
+|Aka = Holoferenes<br>Holofernus
+|Appears_games = {{Tw3}}
+}}'''Holofernes Meiersdorf''' was a [[halfling]] that ran the successful [[Honeyfill Meadworks]] east of [[Novigrad]] in {{Year|canon=no|year=1272}} and was the father of 4 sons: Franklin, Bernie, Hugo, and [[Rico Meiersdorf|Rico]]. However, the last one decided to seek out his own path and left for Novigrad and began to work for the [[Francis Bedlam|King of Beggars]] but Holofernes held out hope that Rico would one day return.
+
+However, his bee business ran into a problem when something they called [[The Apiarian Phantom]] was destroying bee hives and had killed a farmhand. If [[Geralt of Rivia|Geralt]] helps him out, he'll learn that it was a lone [[Hound of the Wild Hunt|Wild Hunt hound]].
+
+== Associated Quest ==
+* [[Contract: The Apiarian Phantom]]
+
+[[ru:Холоферн Майерсдорф]]
+[[Category:Halflings]]
+[[Category:The Witcher 3 characters]]

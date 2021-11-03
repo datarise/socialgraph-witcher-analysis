@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Nationality = {{Skelliger}}
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant 
+|Image =Tw3 Fayrlund merchant.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Blue
+|Hair_color =Dark
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}
+'''Merchant''' was a resident of [[Fayrlund]] in {{Year|year=1272|canon=no}}.
+
+He was a [[gwent]] player, using the [[Scoia'tael Gwent deck|Scoia'tael deck]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Ferlund)]]

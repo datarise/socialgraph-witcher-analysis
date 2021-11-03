@@ -1,0 +1,27 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Bertram
+|Image = Tw3 bertram yantra.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Graying black
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}
+|Affiliations = [[Little Red (bandit)|Little Red]] {{Small|text=formerly}}}}
+
+'''Bertram''' was a peasant living in the village of [[Yantra]] around {{Year|canon = no|year = 1272}}.
+
+== Biography ==
+One day, about half a year ago, he approached [[Little Red (bandit)|Little Red]] and her gang with an offer: he'd point out who was worth robbing in the area and in return he got a share of the intake. Eventually he grew greedy and demanded a larger share but Little Red refused, so he sent the [[witch hunter]]s after her group.
+
+However, this secret deal was unknown to the other villagers, and when they learned Little Red planned to attack the village and kill Bertram for setting the witch hunters on them, they sought to protect Bertram, not realizing he'd been selling some of them out for his own gain.
+
+{{Condition|Text = If Geralt lets Little Red have Bertram}} Bertram soon met his death as [[Geralt of Rivia|Geralt]], on hearing the full story, let Little Red exact her revenge.
+
+{{Condition|Text = If Geralt kills Little Red}} Bertram was saved thanks to the [[witcher]], and the deal he made with Little Red never came to light.
+
+== Associated Quest ==
+* [[Little Red (quest)|Little Red]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

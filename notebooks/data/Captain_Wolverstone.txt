@@ -1,0 +1,29 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 wolverstone.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Graying black
+|Profession = Ship captain
+|Appears_games = {{Tw3}}
+|Status = Deceased}}
+'''Wolverstone''' was the captain of the ''[[Atropos]]'', serving routes between [[Novigrad]] and [[Skellige]].
+
+In {{Year|canon=no|year=1272}}, he was the only person willing to take [[Geralt of Rivia|Geralt]] to Skellige, as all the other captains at the [[Novigrad Docks]] deemed the journey too risky. Wolverstone demanded a fee of 1000{{Crown}} for passage, owing to the lack of competition and the risks associated with the trip. In his usual style, he began the trip intoxicated.
+
+On its approach into [[Kaer Trolde Harbor]], the ''Atropos'' was boarded by pirates of [[Clan an Craite]]. This, combined with terrible weather, led to the ship veering off course south towards [[Rannvaig]], near which it wrecked, leading to Wolverstone's death.
+
+== Associated Quest ==
+* [[Destination: Skellige]]
+
+==Notes==
+*It is possible to reclaim the 1000 {{Crown}} passage fee by looting Wolverstone's body near the shipwreck.
+
+==Trivia==
+*He is likely a reference to Edward Wolverstone, who also commandeers a ship named ''Atropos'' in the novel ''[[wikipedia:Captain Blood (novel)|Captain Blood]]'' by [[wikipedia:Rafael Sabatini|Rafael Sabatini]].
+
+[[pl:Kapitan Wolverstone]]
+[[ru:Капитан Волверстон]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

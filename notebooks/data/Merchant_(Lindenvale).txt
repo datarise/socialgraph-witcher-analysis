@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant
+|Image =Tw3 merchant from Lindenvale.jpg
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Brown
+|Profession =[[Merchant]]
+|Appears_games ={{Tw3}}
+|Nationality = {{Temerian}}}}
+The '''Merchant''' is a [[Gwent]] player, using the [[Northern Realms Gwent deck|Northern Realms deck]]. He sells the [[Manuscript page: Chort lure|formula]] for [[Chort lure]]. He also sells two copies of the book [[Tristianna and Isador]], which is a quest item and also several Gwent cards can be purchased from him.
+
+== Associated Quest ==
+* [[Free Spirit]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Zalipie)]]

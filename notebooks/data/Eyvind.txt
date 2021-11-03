@@ -1,0 +1,22 @@
+{{Infobox Character
+|Image = Tw3 Eyvind.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Brown
+|Hair_color = White
+|Profession = [[Skald]]
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = Fleet? Oh, aye, they mentioned something... Nay, I've more important matters on my mind.|citation = Answering Geralt's question about Nilfgaardians, {{Tw3}}}}
+'''Eyvind''' was a [[skald]] from [[Arinbjorn]] and considered an expert on legends about [[Aen Elle]] and [[Aen Seidhe]] [[elf|elves]] and even translated a legend about Gealbhan. Even though he had this extensive knowledge his only true life goal was to see the legendary white [[whale]], [[Gevorg]], and write the first trustworthy ballad about it.
+
+{{Condition|Text = If Geralt sought out his help}} the creature finally swam by but he was distracted in talking to Geralt and thus didn't see Gevorg.
+
+== Associated Quest ==
+* [[The Sunstone]]
+
+[[ru:Эйвинд]]
+[[Category:Humans]]
+[[Category:Bards]]
+[[Category:The Witcher 3 characters]]

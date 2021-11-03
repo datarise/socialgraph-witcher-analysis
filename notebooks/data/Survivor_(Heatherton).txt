@@ -1,0 +1,19 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Survivor
+|Image = Tw3 Heatherton survivor.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw3}}}}
+{{Quote|text = They nabbed 'im in that hut. If you'd o' heard the cries, sir... if you'd o' heard how a man can scream... how he can suffer|citation = The survivor talking about [[Hendrik]], {{Tw3}}}}The unnamed '''Survivor''' was the only one who survived when [[Heatherton]] was attacked by the [[Wild Hunt]] in {{Year|canon=no|year=1272}}. However, he was so distraught by what happened to everyone else that when [[Geralt of Rivia|Geralt]] approached to find out what happened to the [[Nilfgaardian Empire|Nilfgaardian]] spy, Hendrik, he had to use [[Axii]] to calm the survivor down. Afterwards, the survivor told Geralt what happened that fateful night.
+
+== Associated Quest ==
+* [[The Nilfgaardian Connection]]
+
+[[it:Superstite (Heatherton)]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

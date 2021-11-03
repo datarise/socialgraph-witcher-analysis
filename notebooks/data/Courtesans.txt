@@ -1,0 +1,33 @@
+[[File:People Courtesans full.png|right|150px|a courtesan]]For 500 {{oren}}, or a refined gift (e.g., [[gold ring]]), the '''courtesans''' in the [[Trade Quarter]] are willing to let you see their wares, more economical companionship can be found with the [[Prostitute|prostitutes]] in the [[Temple Quarter]]. The price list would suggest a direct affiliation with the House of the Night brothel, also located in the quarter. If that were not proof enough, presenting the [[House of the Night signet ring]] brings a significant discount, reducing the going rate to a "mere" 350 {{oren}}.
+
+The [[Blue-eyed lass]] provides the same sex card as the courtesans.
+
+== [[The Witcher journal|Journal]] Entry ==
+:''It's amazing who you run into when you venture deep into the Temple Quarter's stench-filled alleys.''
+
+== Notes ==
+* The cheapest way to "persuade" them is [[Perfume]], as while they are worth 100 {{oren}}, the [[Potion bases|base]] to make them costs only 20 {{oren}}. It will not work on the [[Blue-eyed lass]] however, she will just mention she prefers [[sapphire]]s as usual.
+
+== Videos ==
+<gallery position="center">
+File:Blue Eyes and Vampire Brothel
+</gallery>
+
+== Gallery ==
+<gallery>
+People_Courtesans.png|A courtesan, journal image
+Romance_Courtesans.png|A courtesan's romance card
+Romance_Blue-eyes_censored.png|Censored romance card
+</gallery>
+
+[[cs:Kurtizány]]
+[[de:Verführung Kurtisane]]
+[[es:Cortesanas]]
+[[fr:Courtisanes]]
+[[hu:Kurtizánok]]
+[[it:Cortigiane]]
+[[pl:Kurtyzany]]
+[[ru:Куртизанки]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter III]]
+[[Category:Romance cards]]

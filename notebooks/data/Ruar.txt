@@ -1,0 +1,17 @@
+{{Infobox Character
+|Nationality = {{Skelliger}}
+|Image = Tw3_Ruar.png
+|Name = Ruar
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Dark
+|Appears_games = {{Tw3}}}}
+'''Ruar''' was a warrior of [[Ard Skellig]] who can be seen repairing his hut in [[Kaer Trolde|town]] under [[Kaer Trolde citadel]] while his two friends, [[Folmer]] and other warrior, are advising him to not eat so much before the raid.
+
+== Trivia ==
+* Ruar does not have his own model and will appear in the form of a random Warrior.
+
+[[ru:Рори]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

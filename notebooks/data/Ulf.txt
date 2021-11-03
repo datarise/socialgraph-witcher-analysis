@@ -1,0 +1,18 @@
+{{Infobox Character
+|Image =Tw3 ulf.png
+|Race =[[Human]]
+|Gender =Male
+|Nationality ={{Skelliger}}
+|Eye_color =Gray
+|Hair_color =Brown
+|Appears_games ={{Tw3}}
+}}'''Ulf''' was a [[Skellige]]r who tried to help his friend [[Petter]], who broke his leg falling off the [[Grymmdjarr Monument]] while trying to light the fires in {{Year|canon=no|year=1272}}.
+
+{{Condition|Text = If Geralt comes across them}} Geralt gave Petter some [[Celandine]], saying it wouldn't fix his leg just make it hurt less. Ulf thanked him and Geralt went on his way.
+
+== Associated Quest ==
+*[[Brave Fools Die Young]]
+
+[[ru:Ульф (Ведьмак 3)]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

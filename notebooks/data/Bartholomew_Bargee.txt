@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image = BartholomewBargee.jpg
+|Race = [[Human]]
+|Gender = Male
+|Abilities = [[Arm wrestling]]
+|Appears_games = {{Tw2}}
+|Nationality = {{Temerian}}}}
+'''{{PAGENAME}}''' was a resident of [[Lobinden]] and the reigning [[arm wrestling]] champion in the [[Flotsam]] area. His only rival, other than [[Geralt of Rivia|Geralt]], of course, was [[Adam Pangratt|Adam "Adieu" Pangratt]].
+
+== Associated Quest ==
+* [[Bring it on: Flotsam]]
+
+==Note==
+* You can challenge him at arm wrestling only during the daylight. You can find him at work by the river, while arguing with his old mother.
+[[de:Bart Schute]]
+[[fr:Bart Labarque]]
+[[it:Bart la Chiatta]]
+[[pl:Ba﻿rtosz Szkuta]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:Humans]]

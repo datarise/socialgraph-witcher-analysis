@@ -1,0 +1,24 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Fabian Meyer.png
+|Race = [[Dwarf]]
+|Gender = Male
+|Nationality = {{Mahakaman}}
+|Hair_color = Brown
+|Profession = Woodcarver
+|Relative = [[Gus Meyer]] {{Small|text=brother}}
+|Appears_games = {{Tw3}}}}
+'''Fabian Meyer''' (died {{Year|canon=no|year=1272}}) was a victim of the so-called [[Hubert Rejk|Concerned Citizen]], a serial killer who targeted those in [[Novigrad]] they deemed sacrilegious in the name of the [[Eternal Fire]]. A woodworker by trade, Fabian had been making religious statues with large busts, something that displeased the killer. His injuries included coals in his eyes and a salamander egg in his chest, both allegories to the Eternal Fire.
+
+If [[Geralt of Rivia|Geralt]] chooses to help [[Dandelion]] in {{Year|canon=no|year=1272}} by finding the person who attacked [[Priscilla]], [[Joachim von Gratz]] will recommend doing an autopsy on Fabian's body that was attacked in a similar way.
+
+== Associated Quest ==
+* [[Carnal Sins]]
+
+==Notes==
+*It is possible to see Fabian alive before the Carnal Sins quest, if one jumps into the dwarves' locked workshop from [[the Butcher's Yard theater]]. He is wearing a red vest and is standing next to his brother, though they can't be interacted with.
+
+[[pl:Fabian Meyer]]
+[[ru:Фабиан Мейер]]
+[[Category:Dwarves]]
+[[Category:The Witcher 3 characters]]

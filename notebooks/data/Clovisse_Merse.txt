@@ -1,0 +1,15 @@
+{{Infobox Character
+|Image = Tw2 journal Clovissemerse.png
+|Race = [[Human]]
+|Gender = Female
+|Affiliations = [[Flotsam]]
+|Appears_games = {{Tw2}}
+|Hair_color = Red
+|Eye_color = Brown}}
+'''Clovisse Merse''' is a non-speaking woman who can be found upstairs in [[Louis Merse]]'s house off the main square in [[Flotsam]], and despite [[Margot]]'s [[Margot's letter to Iorveth|description]], she was hardly a "hag".
+
+[[de:Chlodwiga Merse]]
+[[pl:Chlodwiga Merse]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:Humans]]

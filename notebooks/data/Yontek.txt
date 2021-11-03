@@ -1,0 +1,20 @@
+{{Stub}}
+{{Infobox Character
+|Name =Yontek 
+|Image = Tw3 yontek.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+'''Yontek''' was said to be biggest fool in the village of [[Lurtch]] located in central [[Velen]]. Despite this, he wasn't greedy like the other villagers, which actually resulted him being the only one not turned into a pig when the rest stole from an underground altar.
+
+== Associated Quest ==
+* [[Fools' Gold]]
+
+== Notes ==
+* He can be found sometimes with his hand glowing and waving it around, suggesting he is capable of magic. However, this could just be a bug or an oversight.
+
+[[pl:Jontek]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

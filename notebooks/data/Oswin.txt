@@ -1,0 +1,25 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 Oswin.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Light brown
+|Profession = Stablemaster
+|Affiliations = [[Phillip Strenger]]
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}
+}}
+'''Oswin''' was the stablemaster at [[Crow's Perch]].
+
+==Biography==
+In May {{Year|year=1272|canon=no}}, the fortresses' barn was struck by lightning and set ablaze, and Oswin became trapped in the stables.
+
+{{Condition|Text=If Geralt chose to save him}} The [[witcher]] [[Geralt of Rivia]] climbed through the roof down into the stables and opened the barred door to rescue him from the fire. He later showed his gratitude by offering a monetary reward to Geralt the next time the witcher visited Crow's Perch.
+
+== Associated Quest ==
+* [[Family Matters]]
+
+[[ru:Освин]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

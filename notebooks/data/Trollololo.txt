@@ -1,0 +1,44 @@
+{{Infobox Character
+|Race = [[Troll]]
+|Gender = Male
+|Affiliations = [[Royal Redanian Army]] {{Small|text=unofficially}}
+|Abilities = 
+|Image = Tw3 trollololo.jpg
+|Nationality = 
+|Profession = 
+|Ranks = 
+|Appears_games = {{Tw3}}
+|Aka = Trollolo}}
+{{Quote|text = Nilfgaard scum must die die die!|citation = Trollololo singing in {{Tw3}}|audio = Trololo voice line.ogg}}
+'''Trollololo''' was a [[rock troll]] who was the sole resident and protector of [[White Eagle Fort]] in {{Year|canon=no|year=1272}}.
+
+== Biography ==
+When the [[Third Northern War]] broke out, Trollololo was in the area when he was approached by a group of [[Redania]]n soldiers and was ordered to watch and guard over some boats they had acquired. However, these boats happened to be taken from local peasants who weren't too pleased about this. The soldiers proceeded to get drunk and started singing Redanian songs when the peasants showed up, aiming to take back their boats by force. Trollololo tried to step in and help the soldiers, but due to his brute strength, he accidentally killed all the soldiers and peasants. Not wanting the "meat" to go to waste, he then cooked the bodies and ate them.
+
+However, believing he'd been recruited into the Redanian army now, he decided to take his orders seriously and constructed a fence out of some of the boats to guard the other boats and began to chant some of the Redanian songs.
+
+{{Condition|Text = If Geralt lets it slide}} Trollololo "ordered" [[Geralt of Rivia|Geralt]] to retrieve some [[paint]] as he had to stay behind to watch the boats. Geralt brought him some red and white paint which the troll used to have the Redanian coat of arms painted on his hut to make the place more "official".
+
+{{Condition|Text = If Geralt decides to kill him}} deciding it wasn't a good idea to have a man-eating troll so close to [[Oxenfurt]], Trollololo was killed by the [[witcher]].
+
+== Associated Quest ==
+*[[The Volunteer]]
+
+== Trivia ==
+* Trollololo's name may be a reference to a song by Russian singer Eduard Khil, which is known as the "Trololo Song", an Internet meme.
+
+==Notes==
+*Trollololo sings a multitude of songs, many of them being very similar if not straight up parodies of Polish songs. For example Trollololo sings one song which is very similar to "Żurawiejki" - a song about the Polish cavalry regiments.
+
+== Gallery ==
+<gallery>
+Gwent cardart northern trollololo.jpg
+</gallery>
+
+== External Links ==
+*{{Gwent|Trollololo}}
+
+[[pl:Łupek]]
+[[ru:Трололо]]
+[[Category:The Witcher 3 characters]]
+[[Category:Trolls]]

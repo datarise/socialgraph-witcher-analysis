@@ -1,0 +1,36 @@
+{{Infobox_Character
+|Name = Pat
+|Image = People_Ferryman_full.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Abilities = Bowmanship
+|Parents = [[Mason Harn|Harn]] {{Small|text=father}}
+|Appears_games = {{Tw1}}}}
+'''Pat''' was the son of the village mason, [[Mason Harn|Harn]].
+
+== Biography ==
+[[Geralt of Rivia|Geralt]] met the boy one day near the village of [[Murky Waters]] and learned he was an avid archer. He was trying to help his father repair the [[Ruined bridge (Murky Waters)|ruined bridge]], but he would much rather have been adventuring.
+
+Geralt could choose to have the boy accompany him while he is in the area as one possible reward for completing the quest Small Problems. As an archer, Pat was quite competent. His vitality, on the other hand, was considerably low.
+
+== Associated Quest ==
+* [[Small Problems]]
+
+== Notes ==
+* Most players who have chosen to take Pat along have reported that he gets killed virtually instantly (poor Pat!), or at the very least takes much "babysitting" by the witcher if he is to be kept alive.
+* His death does not seem to negatively affect gameplay in any way.
+* [https://www.youtube.com/watch?v=1xnSbXKuPGQ Pat can even be attacked by non-hostile NPCs]
+
+== Videos ==
+<gallery position="center">
+File:Griggs_Small_Problems
+</gallery>
+
+[[cs:Pat]]
+[[de:Pat]]
+[[fr:Pat Harn]]
+[[pl:Pat]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]

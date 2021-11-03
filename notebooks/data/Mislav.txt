@@ -1,0 +1,37 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 mislav.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[Hunter]]
+|Eye_color = Brown
+|Hair_color = Brown
+|Partner = [[Florian Verrieres]] {{Small|text=lover}}
+|Appears_games = {{Tw3}}
+|Abilities = Archery}}
+{{Quote|text = The lord's son, Florian, and I... We loved each other. Dieter walked in on us in the stables. They drove me away... Florian hanged himself. Lord started drinkin', and the estate fell into ruin. That's the long and short of it.|citation = Mislav about his past, {{Tw3}}}}
+'''Mislav''' was a [[hunter]] who lived in a small hut near [[White Orchard]].
+
+== Biography ==
+When he was younger, he served as the [[Ignatius Verrieres|local lord]]'s hunter in his [[Amavet Fortress Ruins|employer's manor]] until [[Dieter]], another servant, discovered the homosexual relationship between Mislav and [[Florian Verrieres|Florian]], the lord's son. Dieter outed them and Mislav was exiled from the manor and became an outcast.
+
+When [[Geralt of Rivia|Geralt]] came to White Orchard in the May of {{Year|canon=no|year=1272}}, he was contracted by [[Captain]] [[Peter Saar Gwynleve]] to kill the [[Griffin (creature)|griffin]] that was prowling the area, and he would provide Geralt with information about the location of [[Yennefer of Vengerberg|Yennefer]]. After Geralt agreed, he was given two names, [[Tomira]], the local herbalist and Mislav, the local hunter.
+
+Geralt found Mislav in the woods, hunting a pack of [[Dog|wild dogs]], in which he got assistance from Geralt. Mislav then showed him the camp where the griffin attacked a group of [[Nilfgaardian Empire|Nilfgaardian soldiers]]. Geralt thanked Mislav, and continued on his hunt.
+
+==Notes==
+*If Geralt finds the griffin's nest on his own, Mislav can still be found outside his hut, but it would not be possible to start a conversation with him.
+
+== Associated Quests ==
+* [[The Beast of White Orchard]]
+* [[Something Ends, Something Begins (quest)|Something Ends, Something Begins]] (dependent)
+
+[[de:Mislav]]
+[[cs:Mislav]]
+[[es:Mislav]]
+[[pl:Mysław]]
+[[ru:Мыслав]]
+[[tr:Mislav]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

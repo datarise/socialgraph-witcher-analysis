@@ -1,0 +1,16 @@
+{{Infobox Character
+|Name = Vilmar
+|Image = Tw3 Vilmar druid.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Dark
+|Profession = [[Druid]]
+|Nationality = {{Skelliger}}
+|Appears_games = {{Tw3}}}}
+'''Vilmar''' was one of many [[druid]]s living in the grotto under the sacred tree [[Gedyneith]] in {{Year|canon = no|year = 1272}}.
+
+He appeared to be snarky and when another druid approached him in hurry with news about budworms and weevils that had infested every pine on [[Spikeroog]] he said that he would help pesticide.
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

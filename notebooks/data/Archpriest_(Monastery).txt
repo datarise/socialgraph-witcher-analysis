@@ -1,0 +1,32 @@
+{{Infobox Character
+|Name = Archpriest
+|Image = Tw2_journal_Archpriest.png
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Titles = [[Archpriest]]
+|Profession = [[Priest]]
+|Affiliations = [[House of La Valette]]
+|Appears_games = {{Tw2}}}}
+{{Quote|text = Confess, Foltest! Before the gods and the people! Boussy and Anais are the fruit of your loins! Bow to the Gods and admit the truth!|citation = Archpriest, {{Tw2}}}}
+The '''Archpriest''' was [[archpriest|high-ranking cleric]] in {{Year|canon=no|year=1271}} who run the ancient [[Monastery]] on grounds of [[La Valette Castle]].
+
+== Biography ==
+In April 1271, when nobles of northwestern [[Temeria]] spearheaded by [[Maria Louisa La Valette]] revolted against [[Foltest]], the archpriest sided with them.
+
+After the rebellious army's defeat, Foltest, [[Geralt of Rivia]] and [[Vernon Roche]] met him once they manage to reach the Monastery in order to learn where the royal children were taken. Geralt hexed the archpriest with [[Axii]] to reveal they are in the [[solar]].
+
+== Associated Quest ==
+* [[To the Temple!]]
+
+== Journal Entry ==
+:''This church dignitary, confident of his god's protection, greeted the intruders with harsh words. Yet he succumbed to persuasion and revealed where the king would find his illegitimate offspring.''
+
+[[de:Erzpriester]]
+[[fr:Archiprêtre]]
+[[it:Arciprete]]
+[[pl:Arcykapłan]]
+[[ru:Верховный жрец]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]

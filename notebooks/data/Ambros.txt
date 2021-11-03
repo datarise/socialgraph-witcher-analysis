@@ -1,0 +1,26 @@
+{{Infobox Character
+|Image = Tw3 ambros spirit.jpg
+|Race = [[Human]] {{Small|text=presumably}}
+|Gender = Male
+|Nationality = {{Temerian}}
+|Partner = Unnamed woman
+|Children = [[The Pellar]] {{Small|text=son}}
+|Appears_games = {{Tw3}} {{Small|text=as a ghost}}
+|Status = Deceased {{Small|text=killed by the [[The Pellar|pellar]]}}}}
+'''Ambros''' was the [[The Pellar|pellar]]'s father and, from what the pellar told [[Geralt of Rivia|Geralt]], was an evil man who the pellar feared once.
+
+== Biography ==
+Ambros was abusive towards his family to the point he mistreated the pellar's mother so badly the pellar couldn't watch anymore. Finally having enough of his father's treatment, the pellar took an axe to his father's head while out in the swamps, killing him and leaving his body behind.
+
+However, Ambros' body managed to stay pretty well preserved in the swamps which kept his spirit tied to the world of the living. As such, if Geralt helped the pellar with the [[Forefathers' Eve]] ritual, his spirit returned, claiming the pellar knows who he is and that he committed patricide. Geralt could later help the pellar by finding Ambros' body and burning it, severing the spirit's ties to the world.
+
+== Associated Quest ==
+* [[Forefathers' Eve]]
+
+== Gallery ==
+<gallery>
+Tw3 ambros body.jpg|Ambros' body
+</gallery>
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]
+[[uk:Амброш]]

@@ -1,0 +1,26 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Quartermaster
+|Image = Tw3 quartermaster crows perch.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green/Hazel
+|Profession = [[Quartermaster]]<br>[[The Witcher 3 merchants|Merchant]]
+|Ranks = 
+|Nationality = {{Temerian}}
+|Hair_color = Dark
+|Affiliations = [[Phillip Strenger|Bloody Baron]]
+|Appears_games = {{Tw3}}
+}}
+The '''Quartermaster''' lives in the upper part of [[Crow's Perch]] next to the armorers [[Fergus Graem]] and [[Yoana]]. [[Geralt of Rivia|Geralt]] can play [[Gwent]] with him and buy some cards. He also sells the [[Nilfgaardian Armor set]] and the [[Nilfgaardian crossbow]] once the free DLC has been installed.
+
+== Associated Quests ==
+* [[Contract: The Griffin from the Highlands]]
+* [[Scavenger Hunt: Cat School Gear|Scavenger Hunt: Cat School Gear Upgrade Diagrams - Part 3]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[cs:Provianťák (Vranohrad)]]
+[[pl:Kwatermistrz (Wrońce)]]
+[[ru:Квартирмейстер (Замок Вроницы)]]

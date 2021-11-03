@@ -1,0 +1,19 @@
+{{Infobox Character
+|Nationality = {{Skelliger}}
+|Name = Sverre
+|Image = Tw3 sverre.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Brown
+|Profession = Warrior
+|Affiliations = 
+|Appears_games = {{Tw3}}
+|Family = [[Clan Heymaey]]}}
+'''Sverre''' was a [[Clan Heymaey]] warrior who cobbled a crew together to try to deal with the [[Contract: Monster on the High Road|beast on the High Road]]. However, they were unprepared for such a beast that could lay ambushes and only 4 of the men survived the attack, including Sverre. Despite this, the survivors were set on trying to go back for their fallen comrades to at least give them a proper burial.
+
+== Associated Quest ==
+* [[Contract: Strange Beast]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

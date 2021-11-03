@@ -1,0 +1,27 @@
+{{Name Unknown}}
+{{Infobox Character
+|Name = La Valette Guard Captain
+|Image = Tw3 La Valette Guard Captain.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Grey
+|Profession = Soldier
+|Affiliations = [[House of La Valette]]
+|Nationality = {{Redanian}}
+|Appears_games = {{Tw3}}
+}}
+'''La Valette Guard Captain''' was an old and experienced soldier who served [[Baroness]] [[Maria Louisa La Valette]] as commander of her guard around her [[Baroness la Valette's Villa|villa]] in [[Novigrad]].
+
+==Biography==
+In {{Year|year=1272|canon=no}}, he met [[Geralt of Rivia]] when the [[witcher]] came looking for Maria Louisa. While he originally objected to their meet, Maria and [[Morvran Voorhis]] came out of their own accord to meet Geralt.
+
+== Associated Quest ==
+* [[Broken Flowers]]
+
+== Notes ==
+* Unlike the other guards in the game, you are unable to attack the captain or members of the La Valette guard.
+
+[[pl:Kapitan straży La Valette]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

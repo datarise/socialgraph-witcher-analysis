@@ -1,0 +1,24 @@
+{{DisambigMsg|This article is about = the villager|For = the [[witcher]]|see = Gerd (witcher)}}
+{{Infobox Character
+|Name = Gerd
+|Image = Tw3 gerd.png
+|Race = [[Human]]
+|Nationality = {{Redanian}}
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+}}
+'''Gerd''' was a poor [[Redania]]n living around the [[Novigrad]] region in {{Year|canon = no|year = 1272}}.
+
+== Biography ==
+Around that time, [[Rostan Muggs]] was visiting the area and got drunk and proceeded to play [[gwent]] against Gerd, offering his employer's [[title to property]] in the match. However, the [[dwarf]] lost and, desperate to get the title back, smashed his bottle against Gerd but when Gerd pulled a weapon out, Rostan ran off. Despite not knowing how to read, Gerd knew the seals on the document were important and planned to talk to someone that was better educated to learn their worth.
+
+{{Condition|Text = If Geralt helps Rostan}} [[Geralt of Rivia|Geralt]] approached Gerd, erroneously believing he stole the documents, but Gerd informed the [[witcher]] the truth of what happened. However, he soon lost the documents to the witcher.
+
+== Associated Quest ==
+* [[The Dwarven Document Dilemma]]
+
+[[ru:Герд (Человек)]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

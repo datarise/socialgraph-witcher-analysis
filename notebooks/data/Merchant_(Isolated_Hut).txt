@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant
+|Image = Tw3 merchant Hindarsfjall hut.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Nationality = {{Skelliger}}
+|Appears_games = {{Tw3}}
+}}
+The '''merchant''' who moves back to the [[Isolated Hut (Hindarsfjall)|Isolated Hut]]. He sells [[Runestone|runestones]], [[The Witcher 3 crafting components|crafting components]] and a number of [[:Category:The Witcher 3 crafting diagrams|crafting diagrams]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Handlarz (Samotna chata)]]

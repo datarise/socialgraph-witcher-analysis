@@ -1,0 +1,97 @@
+{{Stub}}
+[[File:Gwent_cardart_syndicate_townsfolk.png|thumb|357x357px]]
+'''Merchants''' in {{Tw3}} can buy and sell: [[The Witcher 3 food and drink|food and drinks]], all [[:Category: The Witcher 3 ingredients|alchemical ingredients]] (except [[loot]] from [[The Witcher 3 bestiary|monsters]] such as [[The Witcher 3 mutagens|mutagens]] and [[:Category:The Witcher 3 trophies|trophies]]), and junk items.
+
+Other (junk) items can be sold to merchants at higher prices compared to other types of shopkeepers, except [[:Category:The Witcher 3 keys|keys]] and [[Currency|currencies]]. Most merchants have preferred items and will offer higher prices for them, such as blacksmiths preferring weapons, armor, and runestones. Merchants of the same type have a few set tiers for purchasing your gear, ranging from offering 20% to ~41.5% of an item's face value. Generally, but not always, merchants in villages on the continent offer the least, those in large cities (those you cannot gallop within) offer the most, and Skellige merchants typically offer 35% of the item's face value.
+
+Waiting or meditating for 5 whole days will refresh a merchant's cash supply.
+
+== [[White Orchard]] ==
+* [[Bram]]
+* [[Merchant (White Orchard sawmill)|Merchant]] at the [[Sawmill (White Orchard)|Sawmill]]
+
+== [[Velen]] ==
+* [[Merchant (Blackbough)|Merchant]] at [[Blackbough]]
+* [[Merchant (Boatmakers' Hut)|Merchant]] at [[Boatmakers' Hut]]
+* [[Merchant (Calveit Watchtower)|Merchant]] at [[Calveit Watchtower]]
+* [[Merchant (Claywich)|Merchant]] at [[Claywich]]
+* [[Merchant (Downwarren)|Merchant]] at [[Downwarren]]
+* [[Merchant (Lindenvale)|Merchant]] at [[Lindenvale]]
+* [[Merchant (Midcopse)|Merchant]] at [[Midcopse]]
+* [[Merchant (Oreton)|Merchant]] at [[Oreton]]
+* [[Quartermaster (Crow's Perch)|Quartermaster]] at [[Crow's Perch]]
+* [[Trader (Crow's Perch)|Trader]] at [[Crow's Perch]]
+* [[Anselm (merchant)|Anselm]] at [[Crow's Perch]]
+* [[Traveling trader (Velen)|Traveling trader]] in [[Velen]]
+* [[Merchant (campsite)|Merchant]] in the liberated camp west of [[Lurtch]]
+* Merchant at the crossroads between [[Mulbrydale]] and [[Devil's Pit]]
+* [[Merchant (Nilfgaardian Army Group 'Center' Camp)|Merchant]]s at [[Nilfgaardian Army Group 'Center' Camp]]
+
+== [[Novigrad]] and [[Oxenfurt]] ==
+* [[Merchant (Gildorf)|Merchant]] at [[Shop (Gildorf)|shop]] in [[Gildorf]]
+* [[Merchant (Putrid Grove)|Merchant]] in [[Putrid Grove]]
+* [[Merchant (Fish Market)|Merchant]] in the [[Fish Market]]
+* [[Merchant (Hierarch Square)|Merchant]]s in [[Hierarch Square]]
+* [[Marcus T.K. Hodgson]], just off [[Hierarch Square]]
+* [[Loan Shark]], in [[The Bits]] near the [[Southern Gate]]
+* [[Merchant (The Bits)|Poor merchant]] near the [[Loan Shark]] in [[The Bits]]
+* [[Merchant (Silverton docks)|Merchant]] by the docks in north [[Silverton]]
+* [[Merchant (halfling)|Halfling merchant]] who sells alchemy ingredients in west [[Silverton]]
+* [[Merchant (fishmonger)|Merchant]] who sells fish in [[Silverton]]
+* [[Merchant (Silverton)|Merchant]] inside a store in [[Silverton]]
+* [[Merchant (Tretogor Gate)|Merchant]] in the northwest of the [[Tretogor Gate]]
+* [[Merchant (Oxenfurt)|Merchant]] in the North of [[Oxenfurt]]
+* [[Merchant (Scoia'tael)|Scoia'tael Merchant]] in the forest outside [[Novigrad]]
+* [[Moving merchant|Merchant]] outside the city walls near [[Farcorners]]
+* [[Merchant (Mohrin Village)|Merchant]] in [[Mohrin Village]] {{HOS icon}}
+* [[Merchant (Upper Mill)|Ofieri merchant]] in [[Upper Mill]] {{HOS icon}}
+* [[Merchant (circus troupe)|Merchant]] at the circus troupe encampment northwest of [[Carsten]] {{HOS icon}}
+* [[Merchant (Stacheier)|Merchant]] in [[Stacheier]] {{HOS icon}}
+* [[Merchant (Crane Cape)|Merchant]] at [[Crane Cape]] {{HOS icon}}
+
+== [[Skellige]] ==
+=== [[Ard Skellig]] ===
+* [[Merchant (Blandare)|Merchant]] in [[Blandare]]
+* [[Merchant (Fayrlund)|Merchant]] in [[Fayrlund]]
+* [[Merchant (Fyresdal)|Merchant]] in [[Fyresdal]]
+* [[Merchant (Holmstein's Port)|Merchant]] in [[Holmstein's Port]]
+* [[Merchant (Kaer Trolde Harbor)|Merchant]] in [[Kaer Trolde Harbor]]
+* [[Merchant (Ard Skellig sawmill)|Merchant]] at the [[Sawmill (Ard Skellig)|Sawmill]]
+* several traveling merchants and traders
+
+=== [[Hindarsfjall]] ===
+* [[Merchant (Isolated Hut)|Merchant]] at the [[Isolated Hut (Hindarsfjall)|Isolated Hut]]
+* [[Merchant (Larvik)|Merchant]] in [[Larvik]]
+
+=== [[Spikeroog]] ===
+* [[Merchant (Svorlag)|Merchant]] in [[Svorlag]]
+
+=== [[Faroe]] ===
+* [[Merchant (Harviken)|Merchant]] in [[Harviken]]
+
+== [[Toussaint]] ==
+* [[Butcher of Blaviken|Butcher]] at [[Beauclair Port]]
+* [[Clerk (Villa Vedette)|Clerk]] at [[Villa Vedette]]
+* [[Hugo Monnart]]
+* [[Merchant (Dupont & Sons)|Merchant]] at [[Dupont & Sons Emporium of Diverse Merchandise|Dupont & Sons]]
+* [[Merchant (Flovive)|Merchant]] in [[Flovive]]
+* [[Merchant (Francollarts)|Merchant]] in [[Francollarts]]
+* [[Merchant (Perfumery)|Merchant]] at the [[Perfumery]]
+* [[Merchant (The Cockatrice Inn)|Merchant]] at [[The Cockatrice Inn]]
+* [[Merchant (Wine Market)|Merchant]] at the [[Wine Market]]
+* [[Pierre]]
+* [[Little Flint Girl]] in the [[Land of a Thousand Fables]] 
+
+== See Also ==
+* {{Armorer}} [[Armorer]]s
+* {{Blacksmith}} [[Blacksmith]]s
+
+==Gallery==
+<gallery>
+Gwent cardart neutral traveling merchant.jpg|Travelling merchant
+</gallery>
+
+[[Category:The Witcher 3 characters|Merchants]]
+[[Category:Merchants]]
+
+[[pl:Kupcy w Wiedźminie 3]]

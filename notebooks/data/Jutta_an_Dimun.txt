@@ -1,0 +1,45 @@
+{{Infobox Character
+|Name = Jutta an Dimun
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Skelliger}}
+|Image = Tw3 jutta an dimun.png
+|Appears_games = {{Tw3}}
+|Hair_color = Black
+|Abilities = Swordsmanship
+|Family = [[Clan Dimun]]
+|Eye_color = Blue
+|Aka = Iron Maiden<ref name="gwent" />}}
+{{Quote|text = So? No one else dares face me?|citation = Jutta in the arena, {{Tw3}}|audio = Jutta voice line.ogg}}
+'''Jutta an Dimun''', called the '''Iron Maiden'''<ref name="gwent">{{Gwent standalone}}</ref> by some, was an excellent [[Skellige]]r warrior hailing from [[Faroe]] in {{Year|canon = no|year = 1272}}.
+
+== Biography ==
+Since childhood, Jutta devoted most of her time to developing her swordsmanship skills. At one time, she made a vow to [[Freya]] that she would only sleep with, marry, and have children with the man who would defeat her in single combat. Over the years, many men from Faroe attempted to defeat her but to no avail, leading her to wonder if any guy would be able to defeat her.
+
+{{Condition|Text = If Geralt agrees to do a task}} on meeting [[Geralt of Rivia|Geralt]], who she'd never heard of, she demanded he complete a task before she'd fight him to show he was worthy. After Geralt completed it, he returned to fight her.
+
+:{{Condition|Text = If Geralt does the laid out task but doesn't fight}} however, the [[witcher]] had a change of heart and chose not to fight her. Insulting Skellige custom, Jutta then refused to fight him in the future.
+:{{Condition|Text = If Geralt fights but loses or cheats}} Jutta defeated Geralt and was annoyed at the fact that even the witcher couldn't defeat her and went back to trying to find another worthy opponent.
+:{{Condition|Text = If Geralt fights, wins, but turns her down}} The two dueled and Geralt eventually bested her. Impressed, she invited Geralt back to her hut at night to "talk". However, the witcher turned her down. Jutta then wished him luck on the path and the two parted ways.
+:{{Condition|Text = If Geralt fights, wins, and meets her later}} The two dueled and Geralt eventually bested her. Impressed, she invited Geralt back to her hut at night to "talk" and the witcher took her up on the offer, meeting her later at her hut. She eventually revealed she had a hard time talking to men as she mostly just fought against them and never really conversed, before revealing her vow to Freya and it must have been a cruel trick that the one to best her would be sterile.
+::{{Condition|Text = If Geralt decides to just talk}} while Jutta wanted more, she was ok with talking with Geralt, and agreed it was time she left Faroe to look for more opponents elsewhere.
+::{{Condition|Text = If Geralt takes up her offer to sleep together}} while Geralt couldn't help with the husband or children part, Jutta gladly accepted the other part and the two slept together that night.
+
+== Associated Quest ==
+* [[Iron Maiden]]
+
+== Gallery ==
+<gallery>
+File:Gwent cardart skellige jutta an dimun.jpg|Gwent standalone cardart.
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|Jutta an Dimun}}
+
+[[es:Jutta an Dimun]]
+[[ru:Ютта ан Димун]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

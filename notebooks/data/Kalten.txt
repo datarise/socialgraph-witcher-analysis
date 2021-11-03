@@ -1,0 +1,20 @@
+{{Infobox Character
+|Image = Tw2_journal_Kalten.png
+|Race =[[Human]]
+|Gender =Male
+|Appears_games ={{Tw2}}
+}}
+'''{{PAGENAME}}''' is a secondary character in {{Tw2}}.
+
+== Associated Quest ==
+* [[Royal Blood]]
+
+== Journal Entry ==
+: ''Revolutions breed monsters, and Kalten was one beyond all doubt. Embodying the most primitive peasant desires, frustrations and fears, he was not bound by moral chains. Such people can commit acts most foul, and the list of this once simple farmer's atrocities was long indeed.''
+
+[[de:Kalten]]
+[[fr:Kalten]]
+[[it:Kalten]]
+[[ru:Кальтен]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]

@@ -1,0 +1,12 @@
+{{Infobox_Character
+|Image = Tw2 Ogden.jpeg
+|Race = [[Dwarf]]
+|Gender = Male
+|Profession = Funder
+|Appears_games = {{Tw2}}}}'''Ogden''' was a [[Dwarf|dwarven]] funder living in [[Vergen]] specialized in casting mugs, plates and chalices.
+
+He was the one who casted and decorated the chalice from which [[Saskia]] drank the poisoned wine.
+
+[[ru:Огден]]
+[[Category:Dwarves]]
+[[Category:The Witcher 2 characters]]

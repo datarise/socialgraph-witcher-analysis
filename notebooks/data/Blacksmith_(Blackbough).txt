@@ -1,0 +1,21 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} {{Gwent Player}} Blacksmith
+|Image = Tw3 blacksmith blackbough.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Blue
+|Hair_color = Graying black
+|Profession = [[Blacksmith]] {{Small|text=amateur}}
+|Appears_games = {{Tw3}}
+}}
+This '''Blacksmith''' is a player of [[gwent]], using the [[Scoia'tael Gwent deck|Scoia'tael deck]], who sells to [[Geralt of Rivia|Geralt]] and others from around a number of [[:Category:The Witcher 3 crafting components|crafting components]] and [[:Category:The Witcher 3 weapons|weapons]], mostly swords. He is also one of those selling [[Adalbert Kermith's second map]].
+
+== Associated Quest ==
+* [[Wild at Heart]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Konary)]]

@@ -1,0 +1,40 @@
+{{Infobox Character
+|Image = Tw2_journal_Skalenburdon.png
+|Race = [[Dwarf]]
+|Gender = Male
+|Profession = [[Arm wrestling|Arm wrestler]]
+|Family = [[Cecil Burdon]] (uncle)
+|Appears_games = {{Tw2}}
+}}'''Skalen Burdon''' is a secondary character in {{Tw2}}. He is a [[The Witcher 2 dice poker|dice poker player]] and [[Arm wrestling|arm wrestler]]. He can be found in [[Vergen]] during Chapter II. [[Saskia]] describes him as "a gambler, an addict, and perhaps Vergen's top sharp".
+
+For [[Death Symbolized]], Geralt must beat Skalen at poker to retrieve [[Head of the spear that pierced Sabrina|Sabrina's spear]].
+
+== Associated Quests ==
+* [[Bring it on: Vergen]]
+* [[Death Symbolized]]
+* [[Poker Face: Vergen]]
+* [[The Spear of Destiny]]
+
+== Journal Entry ==
+:''[[Cecil Burdon|Cecil]]'s nephew, the young Skalen Burdon, had been taken in by the alderman after the lad's parents perished in one of the nonhuman massacres that occured in [[Aedirn]]. As friendly, hard working and efficient as his uncle, Skalen took it upon himself to act as Vergen's official representative in his uncle's absence, providing all newcomers to the town with any information or assistance they needed.''
+
+==Notes==
+* If Geralt beats him twice more at dice poker, Skalen will first reward the witcher with the "[[Princess Xenthia sword|the sword of the warrior princess Xenthia]]" and then the [[Dun Banner cloak]], which can be used in the quest "[[Death Symbolized]]". Prior to version 2.0, a [[rusty steel sword]] would be received instead of the Princess Xenthia sword.
+
+* On the Xbox 360 you still only receive a [[Rusty steel sword]].
+* If you lose to him, trying to win off the Iorveth's Spearhead for the quest, he will say that you "Lost like that pal Blaskowitz, who was searching for some [http://wolfenstein.wikia.com/wiki/Spear_of_Destiny old spear of Fate] or whatnot". This is an easter egg, a reference to Wolfenstein protagonist, [http://wolfenstein.wikia.com/wiki/William_ &#x22;B.J.&#x22;_Blazkowicz William Blaskowicz.]
+
+== Gallery ==
+<gallery>
+Tw2_screenshot_sword_of_the_warrior_princess_Xenthia.png|Skalen watches Geralt strike a dramatic pose with the Princess Xenthia sword
+Skalen screen1.jpg
+</gallery>
+
+[[de:Skalen Burdon]]
+[[fr:Skalen Burdon]]
+[[it:Skalen Burdon]]
+[[pl:Skalen Burdon]]
+[[ru:Скален Бурдон]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Dwarves]]

@@ -1,0 +1,20 @@
+{{Infobox Character
+|Image = Volund.jpeg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Hair_color = Brown
+|Eye_color = Brown
+|Appears_games = {{Tw3}}
+|Relative = Unnamed brother {{Small|text=deceased}}}}'''Volund''' was a [[Skellige]]r that lived north of [[Blandare]] in {{Year|canon=no|year=1272}}. He had a brother once but he was killed after being tricked and betrayed by [[Simun Brambling]], and ever since Volund tried to get revenge for his brother's death.
+
+If Simun helps Geralt escape [[Madman Lugos]]' prison, he'll then ask for [[Geralt of Rivia|Geralt]] to return the favor and meet him near Volund's hut without explaining why. If Geralt agrees and heads to the hut, Simun will antagonize Volund before asking Geralt to kill him. Volund will then tell Geralt what Simun did to his brother, leaving it up to the [[witcher]] to pick a side.
+
+{{Condition|Text = If Geralt refuses to kill Volund}} Volund is grateful and warns the witcher not to say a word of what they did, as Simun has a cousin who would swear blood revenge if he ever found out. They then part ways.
+
+{{Condition|Text = If Geralt kills Volund}} Volund dies along with one of his warriors.
+
+== Associated Quest ==
+* [[An Unpaid Debt]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

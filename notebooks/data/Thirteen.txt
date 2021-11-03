@@ -1,0 +1,26 @@
+{{Infobox Character
+|Image = Tw2 screenshot thirteen.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[Knight]]
+|Affiliations = [[Blue Stripes]]
+|Appears_games = {{Tw2}}
+}}'''Thirteen''' was a member of the elite [[Temeria]]n special forces unit, the [[Blue Stripes]]. He enjoyed a good drink and [[arm wrestling]].
+
+== Associated Quest ==
+* [[Hung Over]]
+
+== Notes ==
+* Thirteen's name is likely a bit of a homage to the character [[Fifteen]], one of [[Renfri]]'s band, in the short story "[[The Lesser Evil]]".
+* Thirteen has "''13''" tattooed on the right side of his neck.
+* His body is missing from the tent where the Blue Stripes were hanged. Same goes for [[Fenn (commando)|Fenn]] and [[Silas]]. It's unknown whether this was intended or an oversight.
+[[de:Dreizehn]]
+[[fr:Treize]]
+[[it:Tredici]]
+[[pl:Trzynastka]]
+[[ru:Тринадцатый]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:The Witcher 2 Chapter II]]

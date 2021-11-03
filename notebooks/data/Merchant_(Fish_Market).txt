@@ -1,0 +1,17 @@
+{{Character Tabs|first = Main|second = Store}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant
+|Image = Tw3 merchant fishmarket.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Auburn
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}
+}}
+This '''merchant's''' stall is located in the northwest corner of the [[Fish Market]] in [[Novigrad]]. He sells some [[The Witcher 3 alchemy ingredients|alchemical ingredients]], [[:Category:The Witcher 3 crafting components|crafting components]] and some [[The Witcher 3 food and drink|food and drink]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Targ rybny)]]

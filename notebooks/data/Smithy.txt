@@ -1,0 +1,16 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 Smithy.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw3}}
+|Profession = Blacksmith}}'''Smithy''' was one of the fistfighters from [[Velen]] who could be found in the [[Inn at the Crossroads]].
+
+== Associated Quest ==
+* [[Fists of Fury: Velen]]
+[[ru:Кузнец (Кулачный боец)]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

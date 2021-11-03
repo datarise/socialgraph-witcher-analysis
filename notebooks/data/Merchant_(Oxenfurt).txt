@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{Shopkeep}} {{Gwent Player}} Merchant
+|Image =Tw3 merchant oxenfurt.png
+|Race =[[Human]]
+|Gender =Male
+|Nationality = {{Redanian}}
+|Eye_color =Brown
+|Hair_color =Dark brown
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}This '''Merchant''' offers his goods at the marketplace in the north of [[Oxenfurt]]. He sells animal hides, [[The Witcher 3 crafting components|crafting components]], [[Mandrake cordial|mandrake cordial]], and [[Paint|paint]]. He is also a [[Gwent players|Gwent player]] and uses the [[Northern Realms Gwent deck|Northern Realms]] deck.
+
+== Associated Quest ==
+* [[The Volunteer]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Oxenfurt)]]

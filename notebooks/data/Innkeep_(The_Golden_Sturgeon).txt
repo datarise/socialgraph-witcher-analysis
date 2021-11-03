@@ -1,0 +1,22 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{innkeep}} {{Gwent Player}} Innkeep
+|Image = Innkeep-golden-sturgeon.jpg
+|Hair_color = Brown
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Profession = [[Innkeeper]]
+|Appears_games = {{Tw3}}
+}}The '''Innkeep''' of [[The Golden Sturgeon]] in [[Novigrad]] is a [[Gwent players|gwent player]] ([[Scoia'tael Gwent deck|Scoia'tael]] deck). He is quite often absent from his workplace. He also sells a few cards, including:
+* [[Barclay Els (gwent card)|Barclay Els]]
+* [[Dol Blathanna Scout (gwent card)|Dol Blathanna Scout]]
+* [[Mahakaman Defender (gwent card)|Mahakaman Defender]]
+* [[Siege Technician (gwent card)|Siege Technician]]
+
+[[Category:Humans]]
+[[Category:Innkeepers]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Karczmarz (Karczma Złocisty Jesiotr)]]

@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image = Tw3 Uve.png
+|Aka = Jabberjaw
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Gray
+|Profession = Warrior
+|Nationality = {{Skelliger}}
+|Affiliations = [[Clan Drummond]]
+|Abilities = Swordmanship
+|Appears_games = {{Tw3}}}}
+'''Uve Jabberjaw''' was the younger of [[Blueboy Lugos]]'s friends. He did not have a tongue, and therefore couldn't speak. If [[Geralt of Rivia|Geralt]] asked about his condition, Lugos says that Jabberjaw tore out his own tongue because he cursed the monarch [[Bran Tuirseach]] while drunk. He lost his power to speak... but kept his honour.
+
+== Associated Quest ==
+* [[The Cave of Dreams]]
+
+[[pl:Uwe Milczek]]
+[[ru:Уве Молчун]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

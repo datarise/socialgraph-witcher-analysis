@@ -1,0 +1,18 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} {{Gwent Player}} Smith
+|Image = Tw3 blacksmith svorlag.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = [[Blacksmith]] {{Small|text=amateur}}
+|Appears_games = {{Tw3}}
+}}
+
+This '''smith''' lives in [[Svorlag]] and plays [[gwent]]. He also sells [[Runestone|runestones]], [[:Category:The Witcher 3 weapons|weapons]], [[The Witcher 3 crafting components|crafting components]], and several [[:Category:The Witcher 3 crafting diagrams|crafting diagrams]].[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Svorlag)]]

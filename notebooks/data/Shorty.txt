@@ -1,0 +1,13 @@
+{{Infobox Character
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw2}}
+|Profession = Soldier
+|Affiliations = [[Blue Stripes]]}}
+'''{{PAGENAME}}''' was a member of the elite [[Temeria]]n special forces unit, the [[Blue Stripes]]. Apparently he had sixteen children, all named after Temerian troop divisions. Furthermore, his name was, according to him, not in reference to his manhood, something he expressed to Triss Merigold.
+
+[[de:Der Kurze]]
+[[pl:Krótki]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]

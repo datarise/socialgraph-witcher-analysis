@@ -1,0 +1,35 @@
+{{Infobox Character
+|Image = People Druid full.png
+|Hair_color = White
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Titles = Elder
+|Profession = [[Druid]]
+|Appears_games = {{Tw1}}}}The '''Elder Druid''' seems to be the most senior [[Druid]] in the [[Druids' grove]] in Chapter II. It is from the Elder Druid that one can purchase a variety of items during day time, including [[:Category:Plants|herbs]], [[:Category:The Witcher books|books and scrolls]]. In Chapter III, this position seems to have been taken over by the [[Hierophant]].
+
+In Chapter V, there are several druids going by the title of "Elder druid" in the [[druids' cave]] in the [[swamp cemetery]]. They are accompanied by an ''Eldest druid'' and are preparing for [[The Green March]]. They are interested in trading potions for a number of items to help with the march.
+
+The Elder Druid typically buy and sell the following:
+* some [[Book prices|books and scrolls]], notably involving herbs: [[The Druid's Herbarium]]
+* some [[:Category:Plants|herbs]]
+* some [[The Witcher food and drink|food]]
+
+== Associated Quests ==
+* [[The Green March]] (unofficial quest)
+* [[The Sentry]]
+
+[[cs:Starší druid]]
+[[de:Ältere Druiden]]
+[[fr:Vieux druide]]
+[[hu:Bodza druida]]
+[[pl:Starszy Druid]]
+[[it:Druido anziano]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Chapter V]]
+[[Category:The Witcher Epilogue]]
+[[Category:Druids]]
+[[Category:Humans]]

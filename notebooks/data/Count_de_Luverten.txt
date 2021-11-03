@@ -1,0 +1,23 @@
+{{Infobox Character
+|Image =Tw3 Count de Luverten.png
+|Titles =[[Count]] de [[Luverten]]
+|Nationality ={{Ebbinger}} 
+|Gender =Male
+|Parents =[[Duke]] de [[Salm]] {{Small|text=Unnamed father}} 
+|Relative =Unnamed siblings 
+|Race =[[Human]]
+|Eye_color =Brown
+|Hair_color =Brown
+|Appears_games ={{Tw3}}}}
+'''Count de Luverten''' was the youngest of the [[Duke]] de [[Salm]], from its ruling family well-known and rich from trading with gems. He was a friend of [[Vegelbud family|Vegelbuds]] and portraitist [[Henri Rautlec]].
+
+== Biography ==
+In {{Year|year = 1272|canon = no}}, Rautlec promised [[Dandelion]] to make new posters for [[Rosemary and Thyme|Chameleon]] but since he got in debt again he couldn't bring them. The Count met with Henri on races in front of [[Vegelbud Residence]] to discuss this and he offered a deal to the halfling that he would pay his debt if he wagered one more time on a racer and won.
+
+== Associated Quest ==
+* [[Cabaret]]
+
+[[pl:Luverten]]
+[[ru:Граф де Лувертен]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

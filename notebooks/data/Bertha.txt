@@ -1,0 +1,21 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 bertha.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Green
+|Hair_color = Brown
+|Profession = [[Prostitute]]
+|Appears_games = {{Tw3}}
+}}'''Bertha''' was a [[prostitute]] working at [[Crippled Kate's]] in [[Novigrad]] during {{Year|canon=no|year=1272}}. Despite some looking down on such a line of work, Bertha enjoyed her job and was putting away savings to one day own her own [[brothel]].
+
+== Notes ==
+* Note that employing the services of strumpets at Crippled Kate's will never result in any backlash from either [[Triss Merigold|Triss]] or [[Yennefer of Vengerberg|Yennefer]] and will not affect any of the romance endings [[Geralt of Rivia|Geralt]] can receive.
+
+== Bugs ==
+* In {{Patch|Game = the witcher 3|Patch = 1.30}}, Bertha always wears a top during sex scenes.
+[[es:Bertha]]
+[[pl:Berta]]
+[[ru:Берта]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

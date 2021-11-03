@@ -1,0 +1,18 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} {{Gwent Player}} Blacksmith
+|Image = Tw3 novigrad blacksmith.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Gray
+|Profession = [[Blacksmith]] {{Small|text=journeyman}}
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}}}
+
+A '''blacksmith''' in [[Novigrad]] is based in an alcove on the northern side of the [[Fish Market]]. He is a [[gwent]] player (using the [[Monsters Gwent deck|Monsters deck]]), and sells [[Runestone|runestones]], [[The Witcher 3 crafting components|crafting components]] and a number of [[:Category:The Witcher 3 crafting diagrams|crafting diagrams]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Targ rybny)]]

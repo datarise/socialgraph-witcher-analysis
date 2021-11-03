@@ -1,0 +1,34 @@
+{{stub}}
+{{Infobox Character
+|Image = Tw2_journal_Cecil.png
+|Hair_color = Brown
+|Eye_color = Brown
+|Race = [[Dwarf]]
+|Gender = Male
+|Profession = Alderman
+|Family = [[Skalen Burdon]] (nephew)
+|Appears_games = {{Tw2}}
+}}
+'''Cecil Burdon''' was the alderman, or head man in [[Vergen]] and [[Skalen Burdon]]'s legal guardian. Cecil can be found in his home in the far right region of Vergen.
+
+== Associated Quests ==
+* [[A Matter of Life and Death (The Witcher 2)|A Matter of Life and Death]]
+* [[Baltimore's Nightmare]]
+* [[Bring it on: Vergen]]
+* [[The Harpy Contract]]
+* [[Hunting Magic]]
+* [[The Queen Harpy Contract]]
+* [[Hey, Work's on in the Mines!]]
+* [[Subterranean Life]]
+
+== Journal Entry ==
+:''When we arrived in Vergen, we learned that the town's elder was named Cecil Burdon. This former [[Dwarf|dwarven]] miner was typical of his kin - realistic, substantive and possessed of a sober outlook. Vergen needed an administrator like that, so Burdon was, beyond all doubt, the right dwarf in the right place.''
+
+[[de:Cecil Burdon]]
+[[fr:Cecil Burdon]]
+[[it:Cecil Burdon]]
+[[pl:Cecil Burdon]]
+[[ru:Сесиль Бурдон]]
+[[Category:The Witcher 2 characters]]
+[[Category:Dwarves]]
+[[Category:The Witcher 2 Chapter II]]

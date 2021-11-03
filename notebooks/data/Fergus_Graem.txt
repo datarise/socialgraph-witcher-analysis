@@ -1,0 +1,29 @@
+{{SpoilerBanner}}{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw3 fergus graem.png
+|Race = [[Dwarf]]
+|Gender = Male
+|Profession = [[Armorer]] {{Small|text=journeyman}}
+|Affiliations = 
+|Appears_games = {{Tw3}}
+|Name = {{Armorer}} {{Gwent Player}} {{PAGENAME}}
+|Hair_color = Gray and white
+|Eye_color = Blue}}
+'''Fergus Graem''' was a [[Dwarf|dwarven]] [[armorer]] working at [[Crow's Perch]] in central [[Velen]]. He shared a work area with [[Yoana]], who was treated as his assistant but was actually a master at forging armor.
+
+== Biography ==
+Outwardly, he was considered the best armorer in the area but in actuality it was Yoana that did all the work. As Yoana felt many would doubt a [[human]], nevertheless female, could be better than a dwarf at forging armor, the two struck a deal for her to act as his assistant. This plan might have worked well, but Fergus refused to believe the master armorer and always waylaid her suggestions in front of others.
+
+When the local [[Nilfgaardian Empire|Nilfgaardian]] commander came by and ordered a suit of armor that could withstand a shot from a crossbow, Fergus stated it couldn't be done and Yoana, having enough, stated it could actually, with the right tools.
+
+{{Condition|Text = If Geralt helps Yoana out and wears the armor}} Fergus created shoddy armor and it quickly proved it couldn't withstand a crossbow bolt when tested out. Yoana, having received help in acquiring the right tools to do the job, created a piece of armor that, true to her word, repelled the bolts, showing who the true master armorer was. Impressed, the commander promoted her to be the head armorer and Fergus, saddened, got ready to leave. However, Yoana offered for him to stay, but this time in the appropriate roles: she as the master armorer and Fergus as the apprentice, and the dwarf agreed.
+
+{{Condition|Text = If Geralt refuses to wear the test armor}} With no way to show the effectiveness of her armor, the commander pronounced her as a fraud. Upset, she left, leaving Fergus to manage the orders himself.
+
+== Associated Quest ==
+* [[Master Armorers]]
+
+[[cs:Fergus Graem]]
+[[pl:Fergus Graem]]
+[[Category:Dwarves]]
+[[Category:The Witcher 3 characters]]

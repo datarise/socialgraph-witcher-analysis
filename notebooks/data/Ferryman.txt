@@ -1,0 +1,39 @@
+{{Infobox Character
+|Name = Ferryman
+|Image = People_Ferryman_full.png
+|Race = [[Human]]
+|Gender = Male
+|Profession = Ferryman
+|Appears_games = {{Tw1}}}}
+The '''ferryman''' can be found on the [[Vizima dike|dike]] and on the [[Landing in the swamp|landing]] in the [[swamp]]. He carries paying customers back and forth between these two locations for 5 [[oren]]s a trip.
+
+'''Note:''' He is not available from the Dike at night.
+
+I also do not know if it is just my twisted mind but there seem to be a lot of allusions to bisexuality in this little exchange! When Geralt first asks Kalkstein about getting to the swamp, he asks ''"Does the ferry go both ways?"''. Then later at the dike, who — having played the game — can forget this exchange?
+
+:'''Ferryman''': ''Transport services at the best prices.''<br>'''Geralt''': ''Take me to the other side.''<br>'''Ferryman''': ''Made up your mind?''<br><br>The [[:File:Game_Pay_dialog.png|pay dialogue box]] appears, Geralt pays his 5 {{oren}}.<br><br>'''Ferryman''': ''Ready?''<br>'''Geralt''': ''How many times are you going to ask me that? Mhm. To the swamp.''
+
+Since the ferryman is involved in buying [[Beggartick blossoms|beggartick]], and we know from both [[Vaska]] and the [[Hierophant]] that beggartick is used in the production of [[fisstech]], it is possible that our chief means of transportation to and from the swamp is slightly less than legitimate in his other dealings. I wonder, does that make Geralt an accessory to the drug trade in addition to facilitating [[Jethro]]'s drug habit?
+
+== Associated Quests ==
+* [[Flowers and Gold]]
+* Indirectly, any quest which requires Geralt to go to both the [[swamp]] and the [[Temple Quarter]] in Chapter II (you may feel differently about some quests, but I feel these are the only ones that absolutely require "to-ing and fro-ing" to the swamp):
+** [[A Mysterious Tower]]
+** [[Bloodthirsty Vegetation]]
+** [[Monoliths]]
+** [[Safe Haven]]
+** [[The Drowned Dead Contract]]
+** [[The Wolf Contract]]
+** [[Worth its Weight in Gold]]
+
+[[cs:Převozník]]
+[[de:Fährmann]]
+[[es:Barqueros]]
+[[fr:Passeur]]
+[[it:Traghettatore]]
+[[pl:Przewoźnik]]
+[[ru:Паромщик]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]

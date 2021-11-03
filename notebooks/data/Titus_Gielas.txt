@@ -1,0 +1,25 @@
+{{Infobox Character
+|Image = Tw3 titus gielas.png
+|Profession = [[Fisstech]] dealer
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Gray
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw3}}}}'''Titus Gielas''' was a [[fisstech]] dealer who in {{Year|canon=no|year=1272}}, was nearly killed during a deal gone wrong with a [[priest]] of the [[Eternal Fire]].
+
+== Biography ==
+The priest of the Eternal Fire had been a customer of Titus', buying fisstech off him three times without a hassle. That changed one day though, where the priest decided to silence Titus completely and had his thugs attack him, then left him for dead, hoping the [[necrophage]]s in the area would kill him.
+
+{{Condition|Text = If Geralt saves Titus then questions him}} The priest hired [[Geralt of Rivia|Geralt]] to burn the bodies in the area, claiming that it'd prevent the spread of disease and necrophages. However, Geralt found Titus fighting a pack of [[ghoul]]s and jumped in to help him out. Afterwards, Titus revealed what had transpired beforehand before deciding he had enough of the area and was going to leave.
+
+{{Condition|Text = If Geralt saves him but doesn't question him}} Having enough with the area and nearly being killed for it, Titus proclaimed he was leaving, even if it meant traveling all the way to [[Poviss]].
+
+{{Condition|Text = If Geralt doesn't save him}} Unfortunately for Titus, he was killed by the ghouls in the area and thus all evidence of the priest's crimes disappeared.
+
+== Associated Quest ==
+* [[Funeral Pyres]]
+
+[[ru:Тит Гелас]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,38 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} {{Gwent Player}} {{PAGENAME}}
+|Image =Tw3 yanne blacksmith.png
+|Nationality ={{Skelliger}} 
+|Gender = Male
+|Profession = [[Blacksmith]] {{Small|text=journeyman}}
+|Affiliations = [[Clan an Craite]]
+|Relative =Singa {{Small|text=sister, deceased}}<br>Bjorn {{Small|text=brother-in-law}} 
+|Race = [[Human]]
+|Eye_color =Green 
+|Hair_color =Black 
+|Appears_games = {{Tw3}}
+|Parents = Unnamed mother}}
+'''Yanne'''<ref>[[Letter to Yanne]]</ref> was the blacksmith stationed at [[Kaer Trolde]] keep in {{Year|canon = no|year = 1272}}.
+
+He sells the [[Skellige Armor set]], a variety of upgrades, number of weapons, crafting components and crafting diagrams.
+
+== Biography ==
+While he worked at Kaer Trolde, his family was from [[Faroe]]. However, he constantly wrote to them, asking them to move to Kaer Trolde as well, though they chose not to. Things took a turn for the worse though for the family in Faroe and so Yanne's sister, Singa, made her way to Kaer Trolde in the hopes of finding work while their mother stayed behind for now.
+
+Singa's trip soon met its end though on [[Ard Skellig]], having run into a [[cyclops]] on the road, which promptly killed all the travelers.
+
+{{Condition|Text = If Geralt finds the wagon but hides the truth}} Upset, Yanne incorrectly believed the [[witcher]] himself killed Singa and refused to do business with him.
+
+{{Condition|Text = If Geralt finds the wagon and tells the truth}} While upset, Yanne thanked the witcher for bringing him the news of what happened to his sister and sent people out to recover her body to bury her.
+
+== Associated Quest ==
+* [[Hard Times]]
+
+==References==
+<references />
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Yanne]]
+[[ru:Йонн]]

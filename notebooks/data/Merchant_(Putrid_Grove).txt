@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Merchant-putrid-grove.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Novigradian}}
+|Eye_color = brown
+|Hair_color = dark brown
+|Profession = [[Merchant]]
+|Appears_games = {{Tw3}}
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant
+|Affiliations = [[Blindeyes]]}}
+The '''Merchant''' resides in [[Putrid Grove]], an enclave within the district of [[Lacehalls]] in [[Novigrad]]. He is a [[Gwent players|Gwent player]] ([[Monsters Gwent deck|Monsters deck]]). He sells [[The Witcher 3 alchemy ingredients|alchemy ingredients]] and [[The Witcher 3 crafting components|crafting components]].[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Zgniły Gaj)]]

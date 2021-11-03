@@ -1,0 +1,87 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3_journal_cerys.png
+|Aka = Sparrowhawk
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Brown
+|Hair_color = Red
+|Titles = [[Queen of the Skellige Isles]] {{Small|text=optional}}
+|Nationality = {{Skelliger}}
+|COA = COA an Craite.svg
+|Abilities = Swordsmanship
+|Family = [[Clan an Craite]]
+|Parents = [[Crach an Craite]] {{Small|text=father}}
+|Relative = [[Hjalmar an Craite]] {{Small|text=brother}}
+|Name = Cerys an Craite
+|Voice = [http://www.imdb.com/name/nm2497366/ Sarah Greene]
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = I'm ready.|citation = Cerys, {{Tw3}}|audio = Cerys voice line.ogg}}
+'''Cerys an Craite''', aka "Sparrowhawk", was the daughter of [[Crach an Craite]], and [[Hjalmar]]'s younger sister. The young woman was a courageous islander like her father and had inherited all his stubbornness. She was very self-confident and always ready to prove she could fulfill any task as good as a man, which caused her and Hjalmar to have a constant, but good-natured, rivalry. However, unlike her brother, she appeared more levelheaded, choosing to investigate and think things through first before jumping to conclusions.
+
+=={{tw3}}==
+In ''The Witcher 3: Wild Hunt'', [[Geralt of Rivia|Geralt]] can help either Hjalmar or Cerys to become the new [[King of the Skellige Isles|ruler]] of [[Skellige]] during a secondary quest.
+
+In the quest [[Possession (quest)|Possession]], Cerys sails to [[Spikeroog]] to free [[Udalryk|Jarl Udalryk]] from a curse. Thanks to Geralt's assistance, her endeavour is successful and the [[Hym]] is expelled from Udalryk, ending his afflictions. Later on, she is present at the ill-fated [[King's Gambit|feast]] at [[Kaer Trolde]]. If Geralt decides to help her, she adopts a methodical approach and ultimately succeeds in uncovering the culprit: [[Birna Bran]]. For her actions, Cerys is subsequently chosen to be the queen of Skellige. Under her rule, Skellige prospers and becomes a much more peaceful place. If Cerys does indeed become queen, Geralt can approach her to ask for assistance in the upcoming battle at Kaer Morhen; while she does not go herself, she sends Hjalmar to help.
+
+=== Developer comments ===
+{{Quote|text = The character Cerys, Crach's daughter, was designed from scratch for the purposes of this game. Called Sparrowhawk by some, this brave, strongwilled, and yet at the same time prudent young woman takes after her father more in manner than appearance.<br>The clothes Cerys wears combine elements of feminine attire with some more militaristic touches. A woolen gambeson with a fur collar and metal shoulder plates sit atop a base layer consisting of a simple blue dress with ornamental stitching on the sleeves. A wide leather belt similar to the one worn by her father wraps around her waist. Adding a bright splash of color is her red checkered scarf, a symbol showing she belongs to Clan an Craite.|citation = ''[[The Witcher 3: Wild Hunt Artbook]]''}}
+== Associated Quests ==
+* [[Brothers In Arms: Skellige]]
+* [[Coronation]]
+* [[The King is Dead – Long Live the King]]
+* [[King's Gambit]]
+* [[Possession (quest)|Possession]]
+
+== Journal Entry ==
+: ''While in Skellige Geralt finally had the chance to meet Cerys an Craite, the younger of Crach's two children. Known as Sparrowhawk to her friends, she was as fierce and swift as this name would indicate.''
+: ''Cerys was an islander through and through and the spitting image of her father, having inherited all his courage, resolve and stubbornness. Dauntlessly she sought to prove at every turn that there was no task she could not fulfill as well as - or better than - any man in the islands, including her older brother Hjalmar.''
+: ''Though Cerys' decision to stake a claim to Skellige's throne came as a shock to everyone else, she had thought it over quite thoroughly beforehand. Striving as always to outdo her brother, she intended to perform a great deed that would earn her widespread recognition and respect.''
+: ''That is why she had sailed to Spikeroog to free Jarl Udalryk from the strange affliction that seemed to curse him.''
+: '''If Geralt helps Cerys in Possession:'''
+:: ''Cerys did what she set out to do - with the [[witcher]]'s help she freed clan Brokvar's leader from the wraith that had tormented him for years.''
+: '''If Geralt sides with Cerys in King's Gambit:'''
+:: ''Once again Sparrowhawk gave proof of her cunning, this time by unmasking [[Birna]]'s plot and cleansing the shame from her clan's name after the infamous "bloody banquet" at Kaer Trolde.''
+::''All these feats convinced the Skelligers that Cerys was fit to be queen. Though it was clear it would take some time before the young ruler could step entirely out of her father and brother's shadow, the greater part of the islanders were pleased and proud with their choice of ruler.''
+: '''If Geralt doesn't side with either Cerys or Hjalmar in King's Gambit:'''
+:: ''Sadly Crach's daughter died alongside her brother during a failed attack on the Nilfgaardian fleet. The inhabitants of Skellige long mourned the brave Sparrowhawk's premature death.''
+
+== Notes ==
+* In the {{BaW}}, there is a gwent card that [[Cerys (gwent card)|bears her image]] and name as part of the [[Skellige deck]].
+* In the original version of the plot, Cerys' true identity was [[Cirilla Fiona (imposter)|False Ciri]], which she tried to keep a secret.<ref>[https://drive.google.com/file/d/0B9wkPHeEwGZnYS1oXzRGRmYtZDA/view Leaked CD Projekt Red materials from 2014]</ref>
+*In the Polish (original) version her nickname is ''"Przepióreczka"'' which is an affectionate form of ''"Przepiórka"'' which means "Quail" in English.
+*Cerys is a Welsh name, meaning love or loved one. However, in welsh, the name is pronounced with a hard C. Instead of being pronounced, ser-is, as it is in the game.
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 3- Wild Hunt - Conclusion -8 - Ruler of Skellige - Cerys an Craite
+</gallery>
+
+== Gallery ==
+<gallery>
+Gwent cardart skellige cerys.png|Cerys an Craite in {{Gwent standalone}}
+Gwent cardart skellige cerys fearless.png|Cerys: Fearless in {{Gwent standalone}}
+Cerys Challenger 1920x1080.jpg|Cerys leading ''GWENT Challenger 4''
+Ruler of Skellige - Cerys.jpg|Cerys' epilogue storyboard
+Tw3 concept cerys ending.jpg|Concept/sketch for Cerys ending
+Tw3 concept Cerys.png|Concept art for {{Tw3}}
+</gallery>
+
+== References ==
+<references/>
+
+== External Links ==
+*{{Gwent|Cerys an Craite}}
+*{{Gwent|Cerys: Fearless}}
+
+[[ar:سيرس آن كريت]]
+[[cs:Cerys an Craite]]
+[[es:Cerys an Craite]]
+[[fr:Cerys an Craite]]
+[[pl:Cerys an Craite]]
+[[pt-br:Cerys an Craite]]
+[[ru:Керис ан Крайт]]
+[[uk:Керіс ан Крайт]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

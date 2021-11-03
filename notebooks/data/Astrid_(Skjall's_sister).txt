@@ -1,0 +1,26 @@
+{{DisambigMsg|This article is about = [[Skjall]]'s sister|For = other people with the same name|see = Astrid (disambiguation)}}
+{{Infobox Character
+|Name = Astrid
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Skelliger}}
+|Family = [[Clan Heymaey]]
+|Parents = Unnamed mother
+|Relative = [[Skjall]] {{Small|text=brother}}
+|Appears_games = {{Tw3}}
+|Image = Tw3 astrid skjalls sister.png
+|Hair_color = Black {{Small|text=clothes}}<br>
+Brown {{Small|text=sauna}}
+|Eye_color = Green}}
+'''Astrid''' was a young woman living in [[Lofoten]] with her brother, [[Skjall]], and their mother. One day, her brother brought home an injured [[Ciri]] while the [[The Mysterious Elf|mysterious elf]] that was with Ciri went off to find a boat. After Ciri woke up, Astrid took her to the sauna to help her heal while her brother went to ready a couple horses to get Ciri to her destination.
+
+At the sauna, Astrid and her mother talked with Ciri about her life as someone from the continent. After Ciri finished up at the sauna, she headed off to the barn.
+
+Astrid and her mother most likely died when the [[Wild Hunt]], looking for Ciri, attacked Lofoten, as nobody knew what happened to Ciri when [[Geralt of Rivia|Geralt]] and [[Yennefer of Vengerberg|Yennefer]] later passed through the village looking for answers.
+
+== Notes ==
+* Astrid appears to have two different hair colors. When she's dressed, her hair appears black, but when she changes to use the sauna, her hair appears brown.
+
+[[ru:Астрид]]
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]

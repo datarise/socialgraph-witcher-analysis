@@ -1,0 +1,27 @@
+{{Infobox Character
+|Name = {{Gwent Player}} {{PAGENAME}}
+|Image = Margrave Vladimir.png
+|Titles = [[Margrave]]
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Profession = Nobleman
+|Affiliations = Court at [[Tretogor]]
+|Abilities = Playing [[gwent]]
+|Family = 
+|Appears_games = {{Tw3}}
+}}
+[[Margrave]] '''Vladimir de Cret''' was a powerful [[Redania]]n magnate and aristocrat, with close ties to the [[Vegelbud family]]. He was also a recognized [[gwent]] player who was not particularly averse to losing, given his wealth.
+
+== {{Tw3}} ==
+Vladimir de Cret may be encountered during the masquerade ball at the [[Vegelbud Residence]], where he is participating in a gwent contest. He gives the [[Milva (gwent card)|Milva]] gwent card if beaten.
+
+He uses the [[Nilfgaardian Empire Gwent deck|Nilfgaardian Empire deck]].
+
+=== Associated Quest ===
+* [[A Matter of Life and Death (The Witcher 3)|A Matter of Life and Death]]
+
+[[pl:Vladimir Cretu]]
+[[ru:Вольдемар де Крот]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

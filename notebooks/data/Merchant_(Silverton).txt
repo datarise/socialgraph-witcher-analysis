@@ -1,0 +1,25 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{Shopkeep}} {{Gwent Player}} Merchant
+|Image =Tw3 merchant silverton store.png
+|Race =[[Human]]
+|Gender =Male
+|Nationality = {{Redanian}}
+|Eye_color =Hazel
+|Hair_color =Dark brown
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}This '''merchant''' works out of a store in the [[Silverton]] and is a [[Gwent players|gwent player]], using the [[Scoia'tael Gwent deck|Scoia'tael]] deck.
+
+== Associated Quest ==
+* [[Suspicious Shakedown]]
+
+== Notes ==
+* He won't appear at his shop until Suspicious Shakedown is completed. Depending how it's done, he'll react one of two ways when [[Geralt of Rivia|Geralt]] sees him at this shop:
+** Refuse to do business if Geralt left him to the bandits
+** Gives Geralt a discount for saving him
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Srebrne Miasto)]]

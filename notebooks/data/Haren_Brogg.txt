@@ -1,0 +1,47 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = People_Haren_full.png
+|Race = [[Human]]
+|Gender = Male
+|Profession = Merchant ([[fence]], [[havekar]])
+|Affiliations = [[Scoia'tael]]<br>[[Salamandra]]
+|Voice = [http://www.imdb.com/name/nm1218328/ Andrew Wincott]
+|Appears_games = {{Tw1}}
+|Nationality ={{Temerian}} 
+|Hair_color = Bald
+|Eye_color = Green}}
+'''Haren Brogg''' was a local merchant and [[The Witcher dice poker|dice poker]] enthusiast who lived in the [[fishing village]] in the [[Outskirts]]. His demeanour changed to suit the occasion, so the first impression of him was not one which inspired much trust. Since the [[The Witcher: Enhanced Edition|Enhanced Edition]] of the game, he also now stuttered.
+
+He appeared to have dealings with [[Havekar|hawker]]s, but the exact nature of the dealings was unclear. Is he a hawker? It was also possible that he had sold out [[Scoia'tael|Squirrels]] for gold.
+
+He also recognized [[Zoltan]]'s name.
+
+== Associated Quests ==
+* [[Dice Poker: The Novice]]
+* [[Hot Potato]]
+* [[Of Monsters and Men]]
+* [[Strangers in the Night (The Witcher)|Strangers in the Night]]
+* [[The Rat]], indirectly
+
+== [[The Witcher journal|Journal]] Entry ==
+:''Haren Brogg is a suspicious character who fears only the Reverend. He sneers at the law and surrounds himself with thugs who protect his shady dealings.''
+:''Brogg lives in the Outskirts, in a little lakeside settlement that he rules outright. He never strays far from his home. Brogg runs a store trading in weapons and alchemical ingredients used to produce bombs.''
+
+== Gallery ==
+<gallery>
+People_Haren Brogg.png|Haren's journal image
+</gallery>
+
+[[cs:Haren Brogg]]
+[[de:Haren Brogg]]
+[[es:Haren Brogg]]
+[[fr:Haren Brogg]]
+[[hu:Haren Brogg]]
+[[it:Haren Brogg]]
+[[pl:Haren Brogg]]
+[[pt-br:Haren Brogg]]
+[[ru:Харен Брогг]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]

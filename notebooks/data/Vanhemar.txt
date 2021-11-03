@@ -1,0 +1,56 @@
+{{Infobox Character
+|Image = Tw2 journal Vanhemar.png
+|Status = 
+|Hair_color = Brown
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Alban}} (?)
+|Profession = [[Mage]]
+|Affiliations = [[Shilard Fitz-Oesterlen]]
+|Abilities = [[Magic]]
+|Appears_games = {{tw2}}
+}}
+{{Quote|text = Your words mean nothing now.|citation = Vanhemar about to execute Geralt, {{Tw2}}}}
+'''Vanhemar''' was a [[Nilfgaardian Empire|Nilfgaardian]] [[fire]] [[mage]], [[Cynthia]]'s master, and personal sorcerer to [[Ambassador]] [[Shilard Fitz-Oesterlen]], whom he accompanied as part of the Empire's delegation.
+
+== Biography ==
+{{Condition|Text = If Roche's Path was chosen}} Vanhemar stood at Ambassador Fitz-Oesterlen's side while the latter talked with [[Geralt of Rivia|Geralt]] at the Kaedweni camp.
+
+{{Condition|Text = If Iorveth's Path was chosen}} Vanhemar was able to sense [[Triss Merigold]]'s presence as Geralt unwittingly carried her in figurine form to the Nilfgaardian camp. Subsequently, after taking Triss from Geralt, Shilard Fitz-Oesterlen asked Vanhemar to personally execute the witcher and then congratulate [[Cynthia]] for capturing Triss.
+
+However, as Vanhemar prepared to execute Geralt, a Nilfgaardian soldier at his side was shot by [[Ves]]; in the confusion, Geralt knocked the mage over and incapacitated him with a kick in the face. The witcher was untied by [[Vernon Roche]] and managed to acquire his sword, initiating a fight between himself and Vanhemar in which the Nilfgaardian mage was slain.
+
+== Journal Entry ==
+: ''Shilard Fitz-Oesterlen's personal sorcerer had only just made Geralt's acquaintance when he died at the witcher's hand.''
+
+== Associated Quest ==
+* [[Where is Triss Merigold?]]
+
+== Notes ==
+* In {{Tw3}}, he appears on [[Vanhemar (gwent card)|gwent card]].
+
+== Videos ==
+<gallery position="center">
+File:Geralt_brings_Triss_to_nilfgaardians_(The_Witcher_2)_Full_HD
+</gallery>
+
+== Gallery ==
+<gallery>
+Gwent cardart nilfgaard vanhemar.jpg
+tw2-screenshot-Vanhemar-01.png
+Tw3 cardart nilfgaard vanhemar.png|Gwent card art
+</gallery>
+
+== External Links ==
+*{{Gwent|Vanhemar}}
+
+[[de:Vanhemar]]
+[[fr:Vanhemar]]
+[[it:Vanhemar]]
+[[pl:Vanhemar]]
+[[ru:Вангемар]]
+[[Category:Humans]]
+[[Category:Mages]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]

@@ -1,0 +1,42 @@
+{{Infobox Character
+|Image = Var attre ambasador.png
+|Hair_color = Brown
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Attrean}}
+|COA = COA Attre Nilf.svg
+|Titles = [[Ambassador]] to [[Novigrad]]
+|Affiliations = [[Nilfgaardian Empire]]
+|Family = [[Attre ruling houses|var Attre family]]
+|Children = [[Edna var Attre|Edna]] {{Small|text=daughter}}<br>[[Rosa var Attre|Rosa]] {{Small|text=daughter}}
+|Relative = [[Duke var Attre]] {{Small|text=unknown relation}}
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = The empire brings progress, advances civilization.|citation = Henry var Attre, {{Gwent standalone}}|audio = Henry var Attre voice line.ogg}}
+
+'''Henry'''<ref>''[[Diplomatic report]]''</ref>''' var Attre''' was a noble who served as a diplomat to [[Novigrad]] for thirteen years, first as consul and later as [[ambassador]]. He lived there in his [[Var Attre Villa]] in the rich [[Gildorf]] district. He informed [[Geralt of Rivia|Geralt]] of the political situation in the [[Northern Kingdoms]] during the [[witcher]]'s visit to [[Royal Palace (Vizima)|Vizima]]. He was the father of both [[Edna var Attre|Edna]] and [[Rosa var Attre]].
+
+== Associated Quest ==
+* [[Imperial Audience]]
+
+== Notes ==
+* [[Duke var Attre]], commander of the [[7th Ymlats Infantry Regiment]], is likely a relative.
+
+== Gallery ==
+<gallery>
+Gwent cardart nilfgaard henry var attre.jpg|Gwent card art
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|Henry var Attre}}
+
+[[cs:Henry var Attre]]
+[[it:Henry var Attre]]
+[[pl:Henry var Attre]]
+[[ru:Генри вар Аттре]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

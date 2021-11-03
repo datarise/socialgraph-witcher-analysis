@@ -1,0 +1,54 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw2_journal_Trollica.png
+|Race =[[Troll]]
+|Gender = Female
+|Appears_games = {{Tw2}}
+|Partner = [[Troll of Vergen]] {{Small|text=husband}}}}
+'''She-Troll of Vergen''' is a secondary character in {{Tw2}}, who can be found in the ravines during Chapter II. She is also the wife of the [[Troll of Vergen]].
+
+On [[Iorveth]]'s path, in order to find [[Triss Merigold]] who has been kidnapped by the [[Letho|Kingslayer]], Geralt must speak with the [[Troll of Vergen]]. The creature explains that he did find the sorceress after she fell from the sky. She was wounded and he tried to help her, but his jealous wife didn't appreciate the intruder, so she ran away leaving her husband. Geralt can choose to help the He-troll to find his woman and convince her to go back home. If he accepts, he finds the She-troll on a mountain in the southern area of [[Vergen]], being attacked by [[Adam Pangratt]] and a group of his mercenaries. Geralt can decide to side with these men and kill the troll, or defend her and fight the mercenaries.
+
+On [[Roche]]'s path, she is encountered during the quest "[[The Siege of Vergen]]".
+== Associated Quests ==
+* [[Where is Triss Merigold?]]
+* [[The Siege of Vergen]]
+* [[Vergen Besieged]]
+
+== Journal Entry ==
+:''I can confirm, based on my own experience, that feelings of jealousy for a partner and demands for monogamy (even if made for the wrong reasons) can cause many a quarrel and even, on occasion, outright end a relationship. As it turned out, she-trolls are not immune to these feelings and are perfectly capable of turning into "screamers," thus spoiling the idyll of the family hut.''
+:'''If Geralt chooses to kill her during Chapter II: [[Where is Triss Merigold?]]:'''
+::''If a monster is busy killing humans, Geralt tends to put his scruples aside. Seeing no chance for dialogue, he ended the female troll's life.''
+:'''If Geralt chooses to help her against [[Adam Pangratt]] during Chapter II: [[Where is Triss Merigold?]]:'''
+::''Once more Geralt put the cart before the horse as the witchers' rules go and stood alongside the monster, rather than the humans. He even managed to convince the troll to return to her husband, who eagerly awaited her.''
+::''The final episode took place when both creatures arrived in [[Vergen]] to help defend it. The Kaedweni had occasion to learn that the phrase "the monstrosities of war" can be more than a figure of speech.''
+
+==Achievements==
+* In order to obtain the [[Steam Achievements|Friend of Trolls]] achievement, Geralt must choose to help her.
+* In order to obtain the [[Steam Achievements|Trollslayer]] achievement, Geralt must kill her.
+
+== Videos ==
+<gallery position="center">
+Trolls of Vergen (The Witcher 2) Full HD
+How Triss Broke up Happy Troll Family
+</gallery>
+
+== Gallery ==
+<gallery>
+She troll vergen screen3.jpg|Geralt and Roche meet the She-troll (Roche path)
+She troll vergen screen2.jpg
+She troll vergen screen1.jpg
+Gwent cardart monsters she troll of vergen.jpg|Gwent standalone card art
+</gallery>
+
+== External Links ==
+*{{Gwent|She-Troll of Vergen}}
+
+[[de:Die Trollin von Vergen]]
+[[fr:La troll de Vergen]]
+[[it:Troll femmina]]
+[[ru:Троллиха из-под Вергена]]
+[[Category:The Witcher 2 characters]]
+[[Category:Creatures]]
+[[Category:Trolls]]
+[[Category:The Witcher 2 Chapter II]]

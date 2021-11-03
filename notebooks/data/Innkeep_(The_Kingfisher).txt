@@ -1,0 +1,18 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{Innkeep}} {{Gwent Player}} Innkeep
+|Image =Innkeep-kingfisher.jpg
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Green
+|Hair_color =Dark brown
+|Profession = [[Innkeeper]]
+|Appears_games ={{Tw3}}
+|Nationality ={{Redanian}}
+}}This unnamed '''innkeep''' replaces [[Olivier]] at [[the Kingfisher Inn]], if the latter is killed during the quest [[Now or Never]]. He is a [[Gwent players|gwent player]], using the [[Scoia'tael Gwent deck|Scoia'tael deck]].
+
+[[Category:Humans]]
+[[Category:Innkeepers]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Karczmarz (Karczma Zimorodek)]]

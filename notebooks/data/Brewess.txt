@@ -1,0 +1,43 @@
+{{Infobox Character
+|Image = Tw3 journal brewess.png
+|Race = [[Relict]]
+|Gender = Female
+|Profession = [[Witch]]
+|Affiliations = [[Velen]]
+|Abilities = [[Magic]]<br>[[Polymorphism]]
+|Appears_games = {{Tw3}}
+|Status = Deceased {{Small|text=killed by [[Ciri]]}}}}
+{{Quote|text = I'd suck every last drop out of you.|citation = Brewess, {{Tw3}}|audio = Brewess voice line.ogg}}
+
+'''Brewess''' was one of the three [[Velen]] [[Crones]] in [[Crookback Bog]]. The other two were [[Weavess]] and [[Whispess]] and they were supposed to be the daughters of [[Whispering Hillock|She-Who-Knows]].
+
+Brewess had a limited control over plant life, as well as the ability to magically manipulate blood coating the floor, enabling it to drain life from those standing in it, as well as the ability to take on [[human]] female form.
+
+== Journal Entry ==
+:''The Crone known as Brewess was the middle of the three demonic sisters in terms of age – but the first in terms of size. Brewess was said to be a master concocter of magical mixtures, and, in the more ghastly legends, was said to know over a dozen different recipes for [[human]] soup.''
+:''During the Crones' sabbath it turned out the sisters truly did feed on human flesh, cooking them up in infernal pots spiced with root from the cursed tree growing on [[Bald Mountain (location)|Bald Mountain]].''
+:''In the end Brewess shared Whispess' fate: she was slain by [[Ciri]]'s blade.''
+== Associated Quests ==
+* [[Ladies of the Wood]]
+* [[Bald Mountain (quest)|Bald Mountain]]
+* [[Ciri's Story: Fleeing the Bog]]
+
+==Trivia==
+*Brewess' appearance bares many similarities to the beekeeper's outfit from [[wikipedia:Pieter Bruegel the Elder|Pieter Bruegel the Elder]]'s picture "[https://www.wikiart.org/en/pieter-bruegel-the-elder/the-beekeepers-and-the-birdnester-1568 The Beekeepers]" from 1568.
+
+== Gallery ==
+<gallery>
+Tw3 Brewess concept art.png|Concept art
+Tw3 cardart monsters crone brewess.png
+Gwent cardart monsters ritual sacrifice.jpg
+Tw3 marcin klicki brewess pose 01.jpg|Modeling
+Tw3 marcin klicki brewess pose 02.jpg|Modeling
+</gallery>
+
+== External Links ==
+*{{Gwent|Brewess}}
+
+[[cs:Vařena]]
+[[pt-br:Alquimista (Moira)]]
+[[ru:Кухарка]]
+[[Category:The Witcher 3 characters]]

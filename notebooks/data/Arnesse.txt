@@ -1,0 +1,13 @@
+{{Infobox Character
+|Image = Arnesse.png
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Eye_color = Black
+|Hair_color = Blonde
+|Profession = [[Prostitute]]
+|Appears_games = {{Tw2}}}}
+'''Arnesse''' was a [[prostitute]], who in {{Year|canon=no|year=1271}}, was working at the [[Flotsam brothel]].
+[[Category:Humans]]
+
+[[Category:The Witcher 2 characters]]

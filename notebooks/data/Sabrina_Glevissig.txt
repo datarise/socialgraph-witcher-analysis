@@ -1,0 +1,156 @@
+{{Character Tabs|first = main|second = netflix}}
+{{Stub}}
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Gwent cardart northern sabrinas specter.jpg
+|Aka = Daughter of the Kaedweni Wilderness
+|Hair_color = Black {{Small|text=canon}}<br>Red {{Small|text=games}}
+|Eye_color = Black {{Small|text=canon}}<br>
+Brown {{Small|text=games}}
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Kaedwenian}}
+|Titles = Martyr Saint {{Small|text=posthumously}}
+|Profession = [[Resident mage|Advisor]]<br>[[Mage]]
+|Affiliations = [[King]] [[Henselt]] of [[Kaedwen]]<br>[[Lodge of Sorceresses]]
+|Abilities = [[Magic]]
+|Relative = [[Jade Glevissig]] {{Small|text=ancestor}}
+|Symbol = [[Head of the spear that pierced Sabrina|Spear of Destiny]]
+|Among = [[Kaedwenian Army|Kaedwenian soldiers]]
+|Center = [[Lormark]]
+|Voice = [http://www.imdb.com/name/nm2069308/ Ruth Gibson] {{Small|text={{Tw2}}}}
+|Lookalike = [[Therica Wilson-Read]]
+|Appears_books = {{ToC}}<br>{{BoF}}<br>{{TLotL}}
+|Appears_games = {{PN}}<br>{{Tw2}}<br>{{Gwent standalone}}
+|Appears_other = {{Witcher TV}}
+}}
+{{Quote|text = Battles are won or lost by the commanders, not by sorceresses.|citation = Sabrina to the [[Draug]], {{Tw2}}|audio = Sabrina Glevissig voice line.ogg}}
+'''Sabrina Glevissig''' of [[Ard Carraigh]] was a [[Kaedwen]]ian [[Mage|sorceress]] and an advisor to [[King]] [[Henselt]] as well as a member of the [[Lodge of Sorceresses]]. She was related to [[Jade Glevissig]].
+
+== Biography ==
+===Early life===
+In the {{Year|year=1180|canon=yes}}s, Sabrina was studying at the [[magic]]al school of [[Aretuza]] on [[Thanedd Island]]. She made friends with the young [[Yennefer of Vengerberg]], which developed into a rivalry, and the two graduated together in {{Year|year=1186|canon=yes}}.<ref name="toc" /><ref name="boe">{{BoE}}</ref>
+
+=== Thanedd Coup ===
+In June {{Year|year=1267|canon=yes}}, she was invited to the [[Thanedd coup|Grand Mage's Conclave]] on Thanedd, and arrived on the last night of the month, the night of the banquet. At the beginning, she talked to Yennefer with her company, the [[witcher]] [[Geralt of Rivia]], and the two exchanged some courtesy as well as hidden insults and parted ways. She then later talked with [[Marti Södergren]] about Geralt, who stood near them and could hear what they're saying. They talked mainly about his relationship with Yennefer and how they didn't understand how he could date her. Sabrina then said that if she had the chance she would bed him even on rocks; going as far to eavesdrop on his conversation with [[Dorregaray|Dorregaray of Vole]].<ref name="toc">{{ToC}}</ref>
+
+After everyone was fast asleep, she joined her [[Northern Kingdoms|Northern]] allies in the early hours of dawn, and started to arrest the traitors allied with [[Nilfgaardian Empire|Nilfgaard]]. As [[Radcliffe]] and her were leading a [[dimeritium]]-shackled [[Vilgefortz]] out of his room, his assistant [[Lydia van Bredevoort]] attacked them from the side, though in the scuffle Lydia was killed by her own blade, likely at Vilgefortz's orders. Sabrina, [[Triss Merigold]] and Radcliffe were dealing with her body when Geralt was brought in. She was then sent by [[Philippa Eilhart]] to get [[Marti Södergren]] out of bed, as [[Gerhart of Aelle|Hen Gedymdeith]] was dying and needed treatment.<ref name="toc">{{ToC}}</ref>
+
+=== First meeting of [[Lodge of Sorceresses|the Lodge of Sorceresses]] ===
+On 5th of August, 1267, Sabrina was one of the sorceresses invited to [[Montecalvo|Montecaltvo]] by [[Philippa Eilhart]] to attend a meeting and officially form [[Lodge of Sorceresses|the Lodge]]. Sabrina was firstly hateful against [[Francesca Findabair]] for betraying [[Brotherhood of Sorcerers|the Brotherhood]] and siding with [[Nilfgaardian Empire|Nilfgaard]]. She also expressed her distrust against [[Assire var Anahid]], for she thought she was spying for [[Emhyr var Emreis|Emhyr]]. Amongst other, she also accused [[Philippa Eilhart|Philippa]] for spying for [[Sigismund Dijkstra|Dijkstra]], because they used to be lovers.
+
+When [[Philippa Eilhart]] revealed that [[Lodge of Sorceresses|the Lodge]] will be formed only by women members, Sabrina suspected that it is because her newfound sexuality. But she also stated that men are indeed mentally unstable, subjecting to emotions and under critical circumstances non-reliable.
+
+Sabrina, afraid that [[Lodge of Sorceresses|the Lodge]] will require becoming apolitical, warned everyone that she will not give up her political influence. Mainly because she served [[Henselt|king Henselt]] and [[Kaedwen|the kingdom of Kaedwen]], but also because [[Nilfgaardian Empire|Nilfgaard]] would hunt down the sorceresses for the loss in [[Battle of Sodden Hill|the Battle of Sodden Hill]]. She unintentionally insulted [[Assire var Anahid|Assire]] for her looks.<ref name="bof">{{BoF}}</ref>
+
+=== Second meeting of [[Lodge of Sorceresses|the Lodge of Sorceresses]] ===
+Sabrina was personally present to the second meeting of [[Lodge of Sorceresses|the Lodge]] in [[Montecalvo]]. At the beginning, she refused to eat oysters and said that she prefered venison on plums. The dish was immediately brought on order of [[Philippa Eilhart|Philippa]].
+
+When [[Francesca Findabair]] teleported in, accompanied by [[Yennefer of Vengerberg|Yennefer]] and [[Ida Emean aep Sivney]], Sabrina hatefuly stated that only [[Vilgefortz]] is missing, as a toxic note against [[Yennefer of Vengerberg|Yennefer]].
+
+The meeting started by disscusing the war events and current world troubles. Sabrina declared that for preserving the future of [[magic]] they should mainly serve the purpose of sorcerers meaning their role in society and service to their allegiances, in order for everyone to understand the necessity of magic and sorceresses.<ref name="bof" />
+
+TBA
+
+=== Hunting [[Vilgefortz]] ===
+TBA
+
+=== Finding [[Ciri]] ===
+TBA
+
+== Appearance and personality ==
+She often wore provocative outfits to underline her beauty and had dark long hair, which was matched by her diamond and onyx earrings. To the ball on Thanedd, she wore a black chiffon blouse and a crimson skirt with a side slit that went up to the hips.<ref name="toc">{{ToC}}</ref>
+
+=={{PN}}==
+Sabrina appears in this premium module for {{Tw1}}, originally released without voices in April, then re-released as part of the [[The Witcher: Enhanced Edition]] in a fully voiced version in September 2008.
+
+Based in the surroundings of the [[Kaer Morhen]] stronghold, ''[[The Price of Neutrality]]'' finds [[Geralt of Rivia|Geralt]] coming back to the [[witcher]]s base of operations for the winter. Coming across a small camp near the stronghold, Geralt meets a nobleman and Sabrina Glevissig, who are trying to find a young woman staying in the stronghold.
+
+Born under the [[Black Sun]] and prophesied to ruin the world, [[Deidre Ademeyn|Deidre]] is [[Eskel]]'s [[surprise child]] and the sister of the nobleman who wants to make sure she will not have the crown. Sabrina wants to kill her as well to examine her body and discover the truth about the Black Sun — being a witcher, Geralt has to choose who he sides with.
+
+Sabrina stays in her very luxuriously appointed tent in the camp across the ford from the keep. She uses a particularly impressive illusion to bring her interior décor up to her standards. This décor also includes a "boy", actually a young man, presumably conjured to help her while away the lonelier times as she waits for Deidre to be delivered to her. She also dabbles in sales.
+
+=== Sabrina buys and sells: ===
+* [[wyvern blood spirit|wyvern blood]]
+* [[blade coating bases|bear fat]]
+* alchemical ingredients: [[Ginatz's acid]], [[white vinegar]], [[naezan salts]]
+* [[vodon]] rune stones
+and she will buy [[wolf pelt]]s, [[basilisk hide]]s, books and most potion ingredients.
+
+=== Associated Quests ===
+* [[The Howling]]
+* [[The She-Wolf]]
+
+=== [[The Witcher journal|Journal]] Entry ===
+:''Sabrina Glevissig is one of the most powerful and influential sorceresses in the Northern Kingdoms. She lives in Ard Carraigh, Kaedwen's capital, acting as an advisor to King Henselt. The sorceress, who is sometimes unceremonious and quick to judge, is justly called the "true daughter of the Kaedwenian wilderness." She often underlines her somewhat predatory and vivid beauty by donning provocative outfits.''
+:''Sabrina arrived at Kaer Morhen while pursuing Deidre Ademeyn. She suspects the girl of being a mutant affected by the [[Curse of the Black Sun]], which renders her a monster, a serious threat to the human race. To prove this contention, the sorceress must capture Deidre and subject her to detailed testing.''
+
+=== Inconsistencies with the books ===
+''"The Price of Neutrality"'' takes place before the [[Witcher saga]], even though in the books Geralt first met Sabrina on [[Thanedd Island]], in {{ToC}}.
+
+=={{tw2}}==
+[[File:Tw2_journal_Sabrina.png|right|Sabrina Glevissig]]'''Sabrina Glevissig''' is a secondary character in {{Tw2}}.
+
+=== Associated Quest ===
+* [[The Blood Curse]]
+
+=== Journal Entry ===
+:''The sorceress Sabrina Glevissig was from Ard Carraigh, the capital of [[Kaedwen]], and had been King Henselt's advisor. The reader, however, should not be deceived by that term – this true daughter of the Kaedweni wilderness was famous for her determination and temperament. There was no exaggeration to the rumors that on many occasions she would interrupt the King, thumping her fist on the table and yelling that he should shut up and listen - and the King would indeed shut up and listen. Sabrina Glevissig's predatory nature was paired with an equally predatory beauty, which she emphasized through appropriately chosen attire. Add to that the power she commanded as a sorceress, and it should become clear to what she owed her strong position not only in Kaedwen, but also beyond its borders.''
+:''This position could not protect her from the king's wrath, however, and when she failed Henselt one time too many, the sorceress ended up at [[Site of Sabrina Glevissig's execution|the stake]], where her life ended.''
+:'''If Geralt chooses [[Vernon Roche|Roche]]'s path during the end of chapter I:'''
+::''Sabrina cast a curse on the monarch and the battlefield with her dying breath. Many years later we were to feel the effects of this malediction.''
+::''Sabrina had become a martyr in the eyes of some soldiers, thus possibly achieving greater esteem in death than she had enjoyed in life.''
+::''It cost Geralt a great deal of sweat, but he finally found a solution to the problem. Sabrina's spirit finally found solace, and the curse she had placed on Henselt was lifted.''
+
+== {{Tw3}} ==
+There is a [[Sabrina Glevissig (gwent card)|gwent card]] with her name. It is part of Geralt's initial base deck for [[Northern Realms Gwent deck|Northern Kingdoms]].
+==Notes==
+*A notice board posting in the {{BaW}} advertising cheap relics lists "a charred bit of kindling from Saint Sabrina Glevissig's pyre," suggesting that religious veneration of Glevissig has spread considerably since the events of ''The Witcher 2''.
+
+== Videos ==
+<gallery position="center">
+File:Sabrina and Draug (The Witcher 2) Full HD
+</gallery>
+
+== Gallery ==
+<gallery>
+People_Sabrina_Glevissig.png|Sabrina's journal image
+Romance_Sabrina.png|Sabrina's sex card
+Places_Camp_Outside_Kaer_Morhen.png|her tent, exterior
+People_Adam.png|her youthful companion
+People Sabrina full.png
+Tw2_Sabrina_Glevissig's_ghost.jpg|Sabrina's ghost
+Sabrina screen3.jpg|Sabrina Glevissig
+tw2-screenshot-sabrina-02.png|Henselt killing Sabrina's Ghost
+Sabrina screen4.jpg|Calling sorceresses
+tw2-screenshot-sabrina-03.png|Sabrina and Draug
+tw2-screenshot-sabrina-04.png|At the gathering of sorceresses
+Tw3 cardart northernrealms sabrina.png|Gwent card art
+Gwent cardart northern sabrina glevissig.jpg|Gwent standalone card art
+Gwent cardart northern sabrinas specter.jpg|Gwent standalone alternative cardart
+Denis Gordeev Marti sodergren sabrina glevissig.jpeg|Sabrina and [[Marti Södergren]] at Thaned
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|Sabrina Glevissig}}
+
+[[cs:Sabrina Glevissig]]
+[[de:Sabrina Glevissig]]
+[[pl:Sabrina Glevissig]]
+[[pt-br:Sabrina Glevissig]]
+[[ru:Сабрина Глевиссиг]]
+[[uk:Сабріна Ґлевіссіг]]
+[[Category:Humans]]
+[[Category:Mages]]
+[[Category:Sword of Destiny characters]]
+[[Category:Time of Contempt characters]]
+[[Category:Baptism of Fire characters]]
+[[Category:The Lady of the Lake characters]]
+[[Category:Season of Storms characters]]
+[[Category:Romance cards]]
+[[Category:The Price of Neutrality characters]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]

@@ -1,0 +1,23 @@
+{{Infobox Character
+|Image = Happen the Eunuch.jpg
+|Race = [[Human]]
+|Gender = Male
+|Hair_color = Bald
+|Profession = Bookkeeper
+|Affiliations = [[Sigi Reuven]]<br>[[Sigismund's Bathhouse]]
+|Appears_games = {{Tw3}}
+|Name = Happen
+|Aka = The Eunuch}}'''Happen the Eunuch''' was an assistant of [[Sigismund Dijkstra|Sigi Reuven]] and the bookkeeper of the [[Sigismund's Bathhouse|bathhouse]] of [[Novigrad]], where he had the assignment of receiving guests and writing their names in a ledger.
+
+According to his boss Dijkstra, he helped Happen escape from a [[Kovir and Poviss|Kovirian]] prison the night before his execution, thus the reason for Happen's undying loyalty to his boss. In turn, this caused Dijkstra to trust his assistant completely as he believed saving one's life meant they wouldn't turn against him.<ref>{{Tw3}}</ref>
+
+== Associated Quests ==
+* [[Get Junior]]
+* [[Count Reuven's Treasure]]
+
+==References==
+<references/>
+[[pl:Happen]]
+[[ru:Гаппен]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

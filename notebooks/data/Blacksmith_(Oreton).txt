@@ -1,0 +1,19 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} Blacksmith
+|Image = Tw3 blacksmith oreton.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Gray-blue
+|Hair_color = Black
+|Profession = [[Blacksmith]] {{Small|text=amateur}}
+|Appears_games = {{Tw3}}
+}}
+
+The '''Blacksmith''' from [[Oreton]] will eventually sell to [[Geralt of Rivia|Geralt]] some of [[The Witcher 3 crafting components|crafting components]], [[Runestone|runestones]], and also [[:Category:The Witcher 3 crafting diagrams|crafting diagrams]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Rudnik)]]

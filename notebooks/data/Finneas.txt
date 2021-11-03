@@ -1,0 +1,19 @@
+{{Infobox Character
+|Image = Tw3 Finneas.png
+|Gender = Male
+|Abilities = Archery
+|Race = [[Half-elf]]
+|Eye_color = Brown
+|Hair_color = Black
+|Appears_games = {{Tw3}}
+}}
+'''Finneas''' is a racist [[half-elf]] and one of the contestants in the [[Gwent]] tournament at the [[Passiflora]]. Geralt plays him if he first beats [[Bernard Tulle]] and [[Carthia van Canten|Sasha]]. If [[Geralt of Rivia|Geralt]] defeats Finneas, the half-elf accuses the witcher of cheating and fisticuffs break out.
+
+He uses the [[Scoia'tael Gwent deck|Scoia'tael deck]].
+
+== Associated Quests ==
+* [[High Stakes]]
+[[pl:Finneas]]
+[[ru:Финнеас]]
+[[Category:Half-elves]]
+[[Category:The Witcher 3 characters]]

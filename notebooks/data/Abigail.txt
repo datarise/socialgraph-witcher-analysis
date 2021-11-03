@@ -1,0 +1,82 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = People Abigail full.png
+|Hair_color = Red
+|Race = [[Human]]
+|Nationality = {{Temerian}}
+|Profession = [[Witch]]
+|Abilities = [[The Witcher alchemy|Alchemy]]
+|Voice = [http://www.imdb.com/name/nm0302502/ Teresa Gallagher]
+|Appears_games = {{Tw1}}
+|Gender = Female
+}}
+'''Abigail''' was a [[witch]] who lived in her [[Abigail's house|house]] in the [[outskirts]] of [[Vizima]]. She was not well-liked by the villagers and got blamed for many bad or strange occurrences. Her main skill was [[The Witcher alchemy|alchemy]], so though the villagers approached her with suspicion, they also relied on her for potions and poisons - which she provided, rarely bothering with questions or moral objections.
+
+In the course of Chapter I, Abigail took in the orphaned [[Alvin]] after [[Geralt of Rivia|Geralt]] saved him from the [[barghest]]s as [[Shani]] could not care for him from an [[Outskirts Inn|inn]]. She also facilitated a trance where the boy revealed more about [[Hellhound|the beast]] and its minions who were plaguing the village.
+
+Geralt can buy a [[Specter Oil|blade coating]] formula from her that makes it easier to battle specters and ghosts. In fact, she buys and sells quite a few things:
+* the aforementioned [[Specter oil|Specter Oil]]
+* some [[The Witcher ingredients|ingredients]] in particular [[Phosphorus]], the only source of [[Vermilion]] in Chapter I
+* some [[blade coating bases|greases]] (bear fat)
+* [[Bomb making bases|bomb making]] ingredients
+* a few books
+** [[The Book of Animals]]
+** [[Barghests]]
+** [[Field Plants]]
+** [[Swamp Monsters]]
+* an [[Red ribbon|anti-drowner talisman]]
+* [[Barghest skull]]s (she will buy these as well as the [[pouch of salt]])
+* [[Wolf pelt]]s
+* [[Basilisk hide]]s
+* [[Fleder fang]]s
+If her fate was left to the villagers, she cursed Geralt in the name of the [[Coram Agh Tera|Lionhead Spider]], which she called the Black Legba. Whether this meant she was also responsible for the misdeeds of the other villagers is unclear.
+
+== Associated Quests ==
+* [[Frozen Reflections]]
+* [[Of Monsters and Men]]
+* [[Small Problems]]
+* [[The Barghest Contract]]
+* [[The Devourer Contract]]
+* [[The Heat of the Day]]
+
+== [[The Witcher journal|Journal]] Entry ==
+:''"A witch named Abigail lives in a village in the Outskirts. Though the villagers buy herbs and potions from her, she also faces much hostility."''
+:'''if Geralt saves Abigail from the mob''':
+::''The Reverend informed the congregation that Abigail had uttered the Curse of the Hellhound and the witch was surrounded by an angry mob. I decided that she did not deserve to die, and saved her from being lynched. Abigail left the Outskirts for good.''
+::''I met Abigail again in the village of [[Murky Waters]]. The witch still trades in herbs and potions.''
+:'''if Geralt leaves Abigail to be lynched''':
+::''The Reverend informed the congregation that Abigail had uttered the Curse of the Hellhound and the witch was surrounded by an angry mob. I decided not to interfere in the shadowy internal affairs of the Outskirts. The witch was burned at the stake just after I left.''
+== Notes ==
+* Abigail took Alvin under her wing after the demise of his foster mother, [[Caroline]].
+* Abigail is in possession of [[Berengar's notes on the Beast]].
+* A vial of Specter Oil can be looted from her corpse on the occasion of her death.
+* If Abigail is spared at the end of [[Chapters|Chapter I]], she will take [[Murky Waters healer|the healer]]'s place in [[Chapters|Chapter IV]], just outside of the inn.
+* If Abigail was lynched, The Heat of the Day quest will play out differently.
+* If Abigail was lynched, the healer in Chapter IV tells Geralt that he shed innocent blood (Abigail) by not saving her.
+* In {{BoF}}, the speech made by the local priest is virtually identical to the speech delivered by the [[Reverend]] in the Outskirts when the villagers try to lynch Abigail.
+== Gallery ==
+<gallery>
+People Abigail.png|Abigail's journal image
+Romance_Abigail_censored.png|Censored Romance Card
+Places_Abigails_house.png|Abigail's house
+</gallery>
+
+[[cs:Abigail]]
+[[de:Abigail]]
+[[el:Άμπιγκεϊλ]]
+[[es:Abigail]]
+[[fr:Abigail]]
+[[hu:Abigail]]
+[[it:Abigail]]
+[[pl:Abigail]]
+[[ru:Абигайл]]
+[[pt-br:Abigail]]
+[[tr:Abigail]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:Soothsayers]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]
+[[Category:The Witcher Chapter IV]]
+[[Category:The Witcher Epilogue]]
+[[Category:Romance cards]]

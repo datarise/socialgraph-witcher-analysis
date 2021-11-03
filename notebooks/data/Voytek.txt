@@ -1,0 +1,30 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 Voytek.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = Fisherman
+|Partner = Unnamed wife
+|Children = Three unnamed sons
+|Relative = Unnamed brother
+|Affiliations = 
+|Appears_games = {{Tw3}}
+}}
+'''Voytek''' was a fisherman in {{Year|canon=no|year=1272}} that lived east of [[Crow's Perch]] with his wife and three sons in a small [[Voytek's hut|hut]] near the water of the [[Pontar (river)|Pontar]].
+
+== Biography ==
+At one point, one of his sons became gravely ill and, being dirt poor, they couldn't afford anything to help him. However, when [[Tamara Strenger]] learned of this, she showed up with food and medicine, saving the boy's life. Voytek knew her mother, [[Anna Strenger|Anna]], was being beaten by her [[Phillip Strenger|husband]], but was still hesitant of helping the women until his wife told him that those who sit idly by and do nothing are helping the evil continue. With that in mind, he decided to help them.
+
+The night the two women fled Crow's Perch, he waited for them with horses at the old smokehouse and started to lead them to his hut. However, a [[fiend]] came out of nowhere and attacked, grabbed Anna, and carried her off into the woods. Voytek was able to get Tamara safely to his hut, and from there sent her off to [[Oxenfurt]] to stay with his brother.
+
+Later, when [[Geralt of Rivia|Geralt]] came looking around for clues on the missing women, Voytek tried to say nobody had been by until one of his sons gave them away. He then told Geralt the full story of what happened that night and where Tamara was.
+
+== Associated Quest ==
+* [[Family Matters]]
+
+[[ru:Войцех]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

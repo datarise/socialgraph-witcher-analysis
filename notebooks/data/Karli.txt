@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image = Tw3 karli.png
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Skelliger}}
+|Hair_color = Grey
+|Eye_color = Brown
+|Children = Askel {{Small|text=son}}<br>Nilas {{Small|text=son}}
+|Appears_games = {{Tw3}}}}'''Karli''' was the mother of two young men, Askel and Nilas, but were sadly killed in {{Year|canon=no|year=1272}} by a [[forktail]] living near [[Fyresdal]].
+
+== Biography ==
+With the villagers incorrectly believing it'd been a [[dragon]], they paid no heed to Karli and practically barged into her home to gape at her sons' bodies.
+
+{{Condition|Text = If Geralt helps out}} Initially believing [[Geralt of Rivia|Geralt]] was just like the rest, Karli showed her clear disapproval with the [[witcher]] until he explained he was there to avenge her sons. On learning this, and being asked permission for once to view the bodies, she let the witcher do so.
+
+== Associated Quest ==
+* [[Contract: Dragon]]
+
+[[ru:Карли]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

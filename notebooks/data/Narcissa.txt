@@ -1,0 +1,18 @@
+{{Infobox Character
+|Image = Tw3 narcissa.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = [[Prostitute]]
+|Appears_games = {{Tw3}}
+}}'''Narcissa''' was a [[prostitute]] working in the [[Passiflora]] in {{Year|canon=no|year=1272}}. Despite the [[Eternal Fire]] condemning prostitution, many [[Temple Guard]]s use the Passiflora's services and treat the women well.
+
+== Notes ==
+* Due to her using the same hair model as [[Tamara Strenger]], some players confuse her with the [[Phillip Strenger|Bloody Baron]]'s daughter.
+
+[[es:Narcissa]]
+[[pl:Narcissa]]
+[[ru:Нарцисса]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

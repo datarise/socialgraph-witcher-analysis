@@ -1,0 +1,24 @@
+{{Infobox Character
+|Name = Rufus
+|Image = Tw3 rufus.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Profession = [[Soldier]]
+|Nationality = {{Redanian}}
+|Affiliations = 
+|Appears_games = {{Tw3}}
+|Hair_color = Graying brown}}'''Rufus''' was a [[Redania]]n soldier stationed between [[Novigrad]] and [[Oxenfurt]] in {{Year|canon = no|year = 1272}}. Being a soldier, he knew the general situation of what was going on during the [[Third Northern War]]. At one point, he ended up camping out with two others: a merchant named [[Manfred (merchant)|Manfred]] and a sorcerer named [[Theophile Maria Rosco]].
+
+{{Condition|Text = If Geralt stops by to talk and refuses to get involved or helps Rufus}} Rufus killed Manfred, believing he was a spy, though he had no proof. On searching Manfred's body, he felt the [[Nilfgaardian Empire|Nilfgaardian]] [[Floren|florens]] the merchant had been carrying were enough to justify his suspicions.
+
+{{Condition|Text = If Geralt stops by to talk but then defends Manfred}} Sadly, [[Geralt of Rivia|Geralt]] had no other choice but to kill Rufus, who was dead set on killing Manfred, believing he was a spy.
+
+{{Condition|Text = If Geralt stops by but leaves after introduction}} Rufus remained passive, and the original three men continued to camp out.
+
+== Associated Quest ==
+* [[Strangers in the Night (The Witcher 3)|Strangers in the Night]]
+
+[[ru:Руфус]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

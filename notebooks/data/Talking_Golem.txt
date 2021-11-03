@@ -1,0 +1,18 @@
+{{Stub}}
+{{Infobox Character
+|Image = Tw2-screenshot-talking-golem-01.png
+|Appears_games = {{tw2}}
+|Affiliations = [[Dearhenna]]
+|Profession = Guard
+}}
+'''Talking Golem''' is a [[golem]] created by [[Dearhenna]] to Guard his laboratory and encountered in [[The Secrets of Loc Muinne]].
+
+It was created with a greater degree of intelligence, autonomy and judgement than normal golems.
+
+The golem's role was to greet "guests" and eliminate "intruders" to Dearhenna's laboratory.
+
+[[it:Golem parlante]]
+[[ru:Голем-автомат]]
+[[uk:Говорючий голем]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter III]]

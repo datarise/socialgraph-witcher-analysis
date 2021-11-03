@@ -1,0 +1,33 @@
+{{Infobox Character
+|Name = 
+|Image = Tw2 screenshot vencelpugg.jpg
+|Affiliations = 
+|Profession = [[Alchemist]]
+|Abilities =
+|Hair_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Appears_games = {{Tw2}}}}
+'''{{PAGENAME}}''' was an [[Alchemist|alchemist]] and generally shady character who asked Geralt to get him the formula for a particular type of incense which is manufactured and distributed by a [[Vilmos Bartok|vendor]] in [[Flotsam]].
+
+He can be found hanging out near the docks early in Chapter I.
+
+== Associated Quest ==
+* [[The Scent of Incense]]
+
+== Notes==
+* Vencel Pugg seems to be a member of [[Salamandra]]. He is a [[fisstech]] dealer and during the conversation with Geralt in his [[Vencel Pugg's laboratory|lab]] (only if Geralt accepts to give him the recipe, whatever real or false), he mentions that he dealt with [[Roland Bleinheim]] of [[Vizima]].
+
+== Videos ==
+<gallery position="center">
+File:Where to Get Dope in Flotsam? Ask Geralt The Scent of Incense (The Witcher 2 Drugs)
+</gallery>
+
+[[en:Wenzel Pugg]]
+[[fr:Vencel Pugg]]
+[[it:Vencel Pugg]]
+[[ru:Венцель Пагг]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:Humans]]
+[[Category:Alchemists]]

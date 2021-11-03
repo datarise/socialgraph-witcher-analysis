@@ -1,0 +1,23 @@
+{{Infobox Character
+|Image = Tw3 brean hotsch.png
+|Race = [[Halfling]]
+|Gender = Male
+|Profession = Lumberjack
+|Appears_games = {{Tw3}}
+|Hair_color = Brown
+|Eye_color = Brown}}
+'''Brean Hotsch''' was a [[Nordling]] [[halfling]] who worked as a lumberjack in the 13th century.
+
+== Biography ==
+Around {{Year|canon = no|year = 1272|Type = game}}, Brean saw too good of an opportunity to pass up and bought a [[Loggers' Hut|section of woods]] just outside [[Novigrad]], with the idea of creating a lumberjack business here, as it was close to Novigrad's [[Harborside|ports]].
+
+However, the lumberjacks he hired spoke of something evil in the woods though he dismissed this as superstition until one day something massacred nearly all his workers save for one. Finally realizing something was going on, he put out a [[Contract: Devil in the Woods|notice]] asking for a [[witcher]]'s help.
+
+{{Condition|Text = If Geralt helps him}} [[Geralt of Rivia|Geralt]] eventually tracked down the monster, a young [[leshen]] known as [[Kernun]], and killed it. Brean readily paid the witcher for his services and prepared to hire more workers now that the threat was gone.
+
+== Associated Quest ==
+*[[Contract: Lord of the Wood]]
+
+[[ru:Бреан Хотч]]
+[[Category:Halflings]]
+[[Category:The Witcher 3 characters]]

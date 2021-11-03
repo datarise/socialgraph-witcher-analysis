@@ -1,0 +1,22 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw3 arinbjorn blacksmith.png
+|Name = {{Blacksmith}} {{Gwent Player}} {{PAGENAME}}
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Gray
+|Profession = [[Blacksmith]] {{Small|text=amateur}}
+|Nationality = {{Skelliger}}
+|Appears_games = {{Tw3}}}}
+{{Quote|text = Aye, who built you a monument more lasting than any bronze. When next you see him, White Wolf, please convey the great esteem in which I, Sigurd, hold his many achievements.|citation = Talking to Geralt about Dandelion}}
+'''Sigurd''' was a [[Blacksmiths|blacksmith]] from [[Arinbjorn]]. When he has a free time he is either playing [[gwent]] or writing poems. He sells [[The Witcher 3 crafting components|crafting components]], [[Runestone|runestones]], and a number of [[:Category:The Witcher 3 crafting diagrams|crafting diagrams]].
+
+==Trivia==
+* The name could be a reference to the [https://en.wikipedia.org/wiki/Sigurd legendary hero] in Norse mythology.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Sigurd]]
+[[ru:Сигурд]]

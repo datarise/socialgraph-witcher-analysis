@@ -1,0 +1,19 @@
+{{Infobox Character
+|Name = Ulf
+|Image = 
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Family = 
+|Appears_games = {{Tw3}}
+|Relative = [[Mikkel (Skelliger)|Mikkel]] {{Small|text=brother}}<br>[[Timmon]] {{Small|text=brother}}}}
+'''Ulf''' was a [[Skellige|Skelliger]] that lived on [[Faroe]] with his brothers, [[Timmon]] and [[Mikkel (Skelliger)|Mikkel]].
+
+== Biography ==
+In {{Year|canon = no|year = 1272}} he and Mikkel were sent to pick up Timmon's fiancée, [[Agda]], and bring her back to Faroe so the two could get married. Sadly, a storm hit and the boat crashed, killing Agda. Rather than face their brother over their disgrace at failing to protect Agda, Ulf and Mikkel then committed suicide to maintain their honor.
+
+== Associated Quest ==
+* [[The Price of Honor]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

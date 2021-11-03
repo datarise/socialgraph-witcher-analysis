@@ -1,0 +1,13 @@
+{{Infobox Character
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Soldier
+|Affiliations = [[Blue Stripes]]
+|Appears_games = {{Tw2}}}}
+'''{{PAGENAME}}''' was a member of the elite [[Temeria]]n special forces unit, the [[Blue Stripes]].
+
+[[Category:The Witcher 2 characters]]
+
+[[fr:Fournaise]]
+[[Category:Humans]]

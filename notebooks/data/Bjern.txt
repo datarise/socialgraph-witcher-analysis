@@ -1,0 +1,16 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 Bjern.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Blue
+|Hair_color = Dark
+|Profession = Fisherman
+|Appears_games = {{Tw3}}
+}}
+
+'''Bjern''' was a fisherman who lived on western [[Faroe]] in village [[Harviken]]. He sometimes sat in front of [[Tavern (Harviken)|local tavern]] where he jabbered with some girl.
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

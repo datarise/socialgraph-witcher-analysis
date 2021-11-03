@@ -1,0 +1,76 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 journal hermit.png
+|Aka = The Hermit of [[Lac Célavy]]
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Grey
+|Profession = [[Druid]]
+|Titles = Advisor of [[King]] [[Foltest]]
+|Affiliations = [[Lady of the Lake (nymph)|Lady of the Lake]]
+|Abilities = [[Wikipedia:Stick-fighting|Stick-fighting]] (staff)<br>[[Magic]]
+|Appears_games = {{Tw1}}<br>
+{{BaW}}}}The '''Hermit''' was a [[druid]] that dedicated his life to service of the [[Lady of the Lake (nymph)|Lady of the Lake]] and the protection of chivalric virtues.
+== {{Tw1}} ==
+The '''Hermit''' lives alone in his [[Hermit's hut|hut]] in the [[Fields]] near the village of [[Murky Waters]], feeding his chickens and geese and tending to the [[Kurgans|barrows]] of the knights who died in the service of the Lady of the Lake. In fact, he is the only (living) human resident of the fields.
+
+He is a learned man, for he spent most of his life as a diplomat for king [[Foltest]], before he found his calling serving the Lady of the Lake. He is an expert in legends about the [[Holy Grail]]. He is also a Professional [[The Witcher dice poker|dice player]] and does a little trading on the side. He buys and sells:
+
+* Some [[The Witcher ingredients|ingredients]]
+* Some potions ([[White Raffard's Decoction]])
+* Some [[Book prices|books and scrolls]]
+* [[Potion bases|Alcohol]]
+* Some talismans
+* [[Basilisk hide]]s
+
+He has work for a [[witcher]] in the form of the quest [[Hunting the Wild Hunt]].
+
+In the Epilogue, Geralt meets the Hermit one last time at the [[safe house]] in the [[Temple Quarter]]. It seems that he has decided to go back to his old diplomatic role and would like an audience with the King.
+
+=== Associated Quest ===
+* [[Hunting the Wild Hunt]]
+
+== {{BaW}} ==
+[[File:Tw3 There Can Be Only One.png|thumb|300x300px|Meditating Hermit at Lac Célavy]]
+Where The Lady is, there is her servant. '''The Hermit of Lac Célavy''' seems to be someone other, who just happened to have some similiraties with hermit from Murky Waters. But the truth is that he is using illusions to look different for he wants to confuse Geralt.
+
+In the [[Toussaint|Duchy of Toussaint]] he is known as guardian of the five chivalric virtues. Whosoever proves that these virtues are dwelling in his heart is then challenged to also prove his fighting skill during combat atop the water's surface. And if he manages to that, he is given [[Aerondight]] by the Lady of the Lake herself.
+
+=== Journal Entry ===
+: ''The hermit who lived on the isle on [[Lac Célavy]] had become the guardian of the duchy's Five Principle Virtues. This virtuous man watched over the boulders on which the virtues had been engraved and put any knights who came by through a trial to prove they embodied them. When the witcher arrived at the isle and met with the hermit, it seemed to him it was not their first encounter. Only later did he find out how right he was.''
+: ''The hermit turned out to be the Lady of the Lake, a mysterious being whom Geralt had once met in Murky Waters. After Geralt passed the hermit's trials, the holy man changed form and showed him his true face, then bestowed upon Geralt a gift: the sword Aerondight.''
+
+=== Associated Quest ===
+* [[There Can Be Only One]]
+
+== Notes ==
+* He also provides some information on [[nightwraith]]s and the [[Wreath of Immortelles]].
+* One reward for solving his quest is the [[witcher's hut]]. Alas it can not be used for storage or meditation.
+* You may seek out the hermit and speak with him about the Holy Grail as one way to get to the conversation that leads to a [[:File:Romance Lady of the Lake.png|Romance Card]] from the Lady of the Lake.
+
+== Videos ==
+<gallery position="center">
+File:Hunting the Wild Hunt and Holy Grail Story
+</gallery>
+
+== Gallery ==
+<gallery>
+File:People_Hermit.png|The Hermit's journal image
+File:People_Hermit_full.png|The Hermit full render
+</gallery>
+[[ar:الناسك]]
+[[cs:Poustevník]]
+[[de:Einsiedler]]
+[[es:Ermitaño]]
+[[fr:Ermite]]
+[[it:Eremita]]
+[[pl:Pustelnik]]
+[[ru:Отшельник]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:Druids]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]
+[[Category:The Witcher Epilogue]]
+[[Category:Blood and Wine characters]]

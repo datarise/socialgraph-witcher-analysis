@@ -1,0 +1,22 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image =Tw2_screenshot_haggard.jpg
+|Race =[[Dwarf]]
+|Gender =Male
+|Profession =[[The Witcher 2 merchants|Merchant]]<br>[[Craftsman]]<br>
+Blacksmith's apprentice
+|Appears_games ={{Tw2}}
+}}
+'''Haggard''' is the [[blacksmith]]'s apprentice in [[Vergen]]. He is very knowledgeable about [[meteorite]] ore and is always up for a good [[The Witcher 2 dice poker|game of dice]]. He is also a [[The Witcher 2 merchants|merchant]] and [[craftsman]].
+
+== Associated Quest ==
+* [[Poker Face: Vergen]]
+
+[[de:Hagard]]
+[[fr:Haggard]]
+[[it:Haggard]]
+[[ru:Тит Сорока]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Merchants]]
+[[Category:Dwarves]]

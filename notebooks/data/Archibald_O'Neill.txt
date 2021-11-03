@@ -1,0 +1,18 @@
+{{Infobox Character
+|Image = Tw3 archibald oneill.png
+|Race = [[Human]]
+|Gender = Male
+|Hair_color = Black
+|Profession = Fistfighter
+|Appears_games = {{Tw3}}
+|Aka = Archibald O'Neil<ref>On the [[Notice board (Hierarch Square)|notice board flyer]], his last named is spelled with one "L".</ref> 
+|Eye_color = Brown}}
+'''Archibald O'Neill''' was a fistfighter in [[Novigrad]] in {{Year|canon=no|year=1272}}.
+
+== Associated Quest ==
+* [[Fists of Fury: Novigrad]]
+
+== References ==
+<references />[[ru:Арчибальд О'Нейл]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

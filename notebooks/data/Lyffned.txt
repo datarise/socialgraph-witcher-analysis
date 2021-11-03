@@ -1,0 +1,25 @@
+{{Infobox Character
+|Image = Deadmerchant.jpg
+|Ranks = Corporal
+|Nationality = {{Nilfgaardian}}
+|Gender = Male
+|Profession = Soldier
+|Affiliations = [[Nilfgaardian Army]]
+|Status = Deceased
+|Race = [[Human]]
+|Appears_games = {{Tw3}}}}Corporal '''Lyffned''' was a military officer from the [[Nilfgaardian Empire]]. He was sent on a mission to [[White Orchard]] in the May {{Year|canon=no|year=1272}} while it was occupied by captain [[Peter Saar Gwynleve]] but he was killed by [[John Geermer]], a [[Temeria]]n guerrilla, with an arrow to the neck.
+
+== Associated Quest ==
+* [[Precious Cargo]]
+
+== Gallery ==
+<gallery>
+Tw3 Corporal Lyffned cart.png
+Tw3 Corporal Lyffned death corpse.png
+Tw3 Corporal Lyffned death corpse 2.png
+</gallery>
+
+[[ru:Лффынед]]
+[[tr:Lyffned]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

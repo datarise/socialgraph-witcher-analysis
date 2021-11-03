@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant
+|Image = Merchant-kaer-trolde-harbor.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Brown
+|Hair_color = Grey
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}}}
+The '''merchant''' in [[Kaer Trolde Harbor]] sells all the "Lonesome World" guides.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Port pod Kaer Trolde)]]

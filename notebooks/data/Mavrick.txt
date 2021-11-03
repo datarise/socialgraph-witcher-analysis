@@ -1,0 +1,42 @@
+{{Infobox Character
+|Image = Tw2_journal_Mavrick.png 
+|Aka ="The Crapper" 
+|Affiliations = [[Henselt]]'s [[Kaedwenian Army|army]]
+|Profession =[[Soldier]]
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Kaedwenian}}
+|Appears_games = {{tw2}}
+|Eye_color = Brown
+|Hair_color = Dirty blond}}
+'''Mavrick''' was a [[Kaedwen]]i soldier who fought in [[Henselt]]'s second campaign in [[Aedirn]]. Geralt first met him in the western part of the lower [[Kaedweni camp]], where the soldier told him about being ridiculed by his fellow comrades.
+
+== Associated Quest ==
+*[[Little Sisters]]
+
+== Journal Entry ==
+:''One does not need to move in high society for a public defecation to end his social career. Exactly such an event made a Kaedweni soldier, Mavrick, the laughing-stock of the entire camp. Yet it turned out that neither rations nor dysentery had caused him to fill his pants.''
+:''In truth, his reputation – and not just that – had been soiled by the events of one ghastly night when Mavrick had encountered a terrifying specter.''
+:''According to the ghost, Mavrick's conscience was as stained as his undergarments.''
+:'''If Geralt doesn't believe Mavrick:'''
+::''Mavrick's death was the fault of the witcher, who assumed one time too many that a damned spirit tells the truth.''
+:'''If Geralt believes Mavrick:'''
+::''Yet Geralt believed his words. Mavrick knew that there was only one way to remove the brown blemish from his honor. He battled not only the monsters, but also his own fear. After the fight ended, he told Geralt of the dark events of years past which had led to this story.''
+
+== Videos ==
+<gallery position="center">
+File:Little_Sisters_(The_Witcher_2)_Full_HD
+</gallery>
+
+== Gallery ==
+<gallery>
+Mavrick screen.jpg
+</gallery>
+
+[[de:Mawrik]]
+[[fr:Mawrik]]
+[[it:Mavrick]]
+[[ru:Маврик]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]

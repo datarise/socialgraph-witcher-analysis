@@ -1,0 +1,20 @@
+{{Infobox Character
+|Name = Gravedigger
+|Image = Tw3 Gravedigger.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = Gravedigger
+|Appears_games = {{Tw3}}
+}}
+The unnamed '''gravedigger''' in [[Lindenvale]] is a character in {{Tw3}}. [[Geralt of Rivia|Geralt]] can learn more about the monster from the village's cemetery, and haggle for the price of killing it from him.
+
+== Associated Quest ==
+* [[The Merry Widow|Contract: The Merry Widow]]
+
+[[ru:Могильщик из Залипья]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

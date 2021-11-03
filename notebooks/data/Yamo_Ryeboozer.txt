@@ -1,0 +1,13 @@
+{{Infobox Character
+|Name = Yamo Ryeboozer
+|Image = People_Ferryman_full.png
+|Race = [[Human]]
+|Gender = Male
+|Appears_games = {{Tw1}}}}
+'''Yamo Ryeboozer''' hangs out around [[The Hairy Bear]] in the slums of the [[Temple Quarter]].
+
+Geralt can do a [[drinking contest]] with him and get a [[Wives' Tears]] formulae as a prize. There would be no prize however if Geralt has won a contest with a Drunkard in the [[Outskirts Inn]], getting ''[[The Tome of Fear and Loathing, volume I|The Tome of Fear and Loathing I]]'' book.
+
+[[pl:Jarno Żytochlej]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]

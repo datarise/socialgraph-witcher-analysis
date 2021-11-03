@@ -1,0 +1,43 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = Anezka
+|Image = Tw2_journal_Anezka.png
+|Aka = 
+|Race = [[Human]]
+|Gender = Female
+|Affiliations = 
+|Profession = [[Merchant]]<br>[[Herbalist]]
+|Abilities = 
+|Voice = [http://www.imdb.com/name/nm4358535/ Claire Morgan]
+|Appears_games = {{Tw2}}
+|Nationality = {{Temerian}}
+|Hair_color = Brown
+|Eye_color = Brown}}
+'''Anezka''' was a [[The Witcher 2 merchants|merchant]] and [[The Witcher 2 dice poker|dice poker player]] who can be found in the easternmost building in [[Lobinden]].
+
+== Journal Entry ==
+: ''Anezka, the local [[herbalist]] in [[Lobinden]], took care not to stand out in any way. Though some people respect women who know much about herbs and folk medicine, others fear them. Skilled herbalists are often thought to be [[witches]] and suspected of sorcery, so they must remain mindful that [[human]] mistrust can quickly turn into hostility.''
+:''Anezka's anxieties were augmented by the fact that she was also a priestess of [[Veyopatis]] - a deity that had once been revered in the region. Thus, she generally preferred not to draw too much attention to herself.''
+
+== Associated Quests ==
+* [[Melitele's Heart]]
+* [[Hung Over]] (indirectly)
+
+==Note==
+* Anezka's face is Didi Cardoso, who won the Doppler Effect's Contest in April 2011.
+* Among all the herbs that Anezka sells, there are some useful ingredients to magically remove the Geralt's tattoo in [[Hung Over]] quest. She sells the [[Green mold]] and the [[Wolf's aloe leaves]], that you cannot find growing anywhere wild in the game.
+
+== Gallery ==
+<gallery>
+Witcher2-anezka-ritual-01.png|Anezka performing a ritual
+</gallery>
+
+[[de:Anezka]]
+[[fr:Anezka]]
+[[it:Anezka]]
+[[pl:Aneżka]]
+[[ru:Анешка]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 Chapter I]]

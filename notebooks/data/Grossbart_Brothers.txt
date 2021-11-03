@@ -1,0 +1,50 @@
+The '''Grossbart Brothers''' were a trio of [[Skellige]]r brothers who murdered, raped, and burned down homes so severely a bounty was put out on them in {{Year|canon = no|year = 1272}}, drawing the attention of [[Djenge Frett]], a [[bounty hunter]] in the area. At the time, the three were camping out in the [[Grotto (Ard Skellig)|Grotto]] on [[Ard Skellig]].
+
+== Hegel Grossbart ==
+{{Infobox Character
+|Image =Tw3 hegel grossbart.png 
+|Nationality = {{Skelliger}}
+|Gender = Male
+|Profession = Bandit
+|Relative = Jesse {{Small|text=brother}}<br>Manfred {{Small|text=brother}}
+|Appears_games = {{Tw3}}
+|Name = Hegel Grossbart
+|Hair_color = Gray
+|Eye_color = Brown}}Hegel preferred to fight with a heavy blunt axe.{{clear}}
+
+== Jesse Grossbart ==
+{{Infobox Character
+|Image =Tw3 jesse grossbart.png 
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Profession = Bandit
+|Relative = Hegel {{Small|text=brother}}<br>Manfred {{Small|text=brother}}
+|Appears_games = {{Tw3}}
+|Name = Jesse Grossbart
+|Hair_color = Brown
+|Eye_color = Blue}}Jesse tended to go for a bow, staying at a distance, though he'd switch to a small blunt axe when cornered. {{clear}}
+
+== Manfred Grossbart ==
+{{Infobox Character
+|Image =Tw3 manfred grossbart.png 
+|Nationality = {{Skelliger}}
+|Race = [[Human]]
+|Gender = Male
+|Profession = Bandit
+|Relative = Hegel {{Small|text=brother}}<br>Jesse {{Small|text=brother}}
+|Appears_games = {{Tw3}}
+|Hair_color = Graying brown
+|Eye_color = Green
+|Name = Manfred Grossbart}}Manfred preferred to fight with a sword.{{clear}}
+
+== Associated Quest ==
+* [[The Sad Tale of the Grossbart Brothers]]
+
+== Trivia ==
+* They are most likely a reference to the book ''[https://books.google.com.ph/books/about/The_Sad_Tale_of_the_Brothers_Grossbart.html?id=MBL0lwEACAAJ The Sad Tale of the Brothers Grossbart]'' by [[wikipedia:Jesse_Bullington|Jesse Bullington]], in which a pair of ne'er-do-well brothers traverse medieval Europe and encounter witches, demons, and other supernatural monsters in their search for treasure.
+[[Category:Gangs]]
+[[Category:The Witcher 3 characters]]
+[[es:Hermanos Grossbart]]
+[[pl:Bracia Grossbart]]
+[[ru:Братья Гроссбарт]]

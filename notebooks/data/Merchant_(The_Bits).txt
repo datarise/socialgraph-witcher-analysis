@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{Shopkeep}} {{Gwent Player}} Merchant
+|Image =Merchant-the-bits.jpg
+|Race =[[Human]]
+|Gender =Male
+|Nationality = {{Redanian}}
+|Eye_color =Light brown
+|Hair_color =Grey
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}This '''Merchant's''' from the poor [[Novigrad]]-district [[The Bits]] is a neighbor of the [[Loan Shark]]. He is also a [[Gwent players|Gwent player]] ([[Northern Realms Gwent deck|Northern Realms]] deck).
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec z Okrawków (sprzedawca rupieci)]]

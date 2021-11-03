@@ -1,0 +1,24 @@
+{{stub}}
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image =Dragan.jpg
+|Race =[[Human]]
+|Gender =Male
+|Affiliations =[[The Witcher 2 Arena|Arena]]
+|Profession =[[Merchant]]
+|Abilities =
+|Appears_games ={{Tw2}}
+}}
+'''Dragan''' is a merchant at the [[The Witcher 2 Arena|arena]] introduced in version 2.0 of {{Tw2}}. He is available to buy and sell equipment between fights.
+
+== Gallery ==
+<gallery>
+Tw2 screenshot Dragan 02.png
+</gallery>
+
+[[de:Dragan]]
+[[fr:Dragan]]
+[[it:Dragan]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:Merchants]]

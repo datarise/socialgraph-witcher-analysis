@@ -1,0 +1,33 @@
+{{SpoilerBanner}}
+{{Infobox Needed}}
+[[File:Trophy_Coccacidium.png|thumb]]'''Coccacidium''' is an unusually vicious and large [[archespore]] in the [[Swamp]]. It is particularly nasty if [[Geralt of Rivia|Geralt]] is not very experienced. [[Vincent Meis]] will pay handsomely for its [[The Witcher trophy quests|head]].
+
+== Associated Quest ==
+* [[Bloodthirsty Vegetation]]
+[[File:Map coccacidium spawnpoints.png|right|300px|spawnpoints of the coccacidium]]
+The '''Coccacidium''' usually spawns in a few places preferentially, but the longer you manage to avoid it, the more likely it is to spawn, so after a while it really begins to feel like you are being chased.
+* One spot is just north of the [[Brickmakers' quarry]] (or clay pits), on the west side of the path where it is joined by a side-path from the east.
+* The other is along the southernmost part of the road through the swamp between the [[swamp cave]] and the [[Lumberjacks' glade]], but before the road turns north towards the glade, technically closer to the cave. There is another side-path leading north along the water's edge, off the main path near the spawning location.
+* A third spot is to the northwest of the area, near [[Gramps' hut|Gramps' cottage]].
+* '''Coccacidium''' spawns also in at least one place in the Small Islands region north of [[Shrine of Melitele|Melitele's shrine]].
+* The map on the right which was researched and created by our own [[User talk:Edirr|Edi]]. He denotes with red dots all the places the '''Coccacidium''' can potentially spawn.
+
+== Notes ==
+* '''Coccacidium''' is worth approximately 2000 XP (exactly 2000 XP at level 19, +5 XP per each level less than 19, so e.g. 2030 XP at level 13) on top of the quest reward XP for [[Bloodthirsty Vegetation]].
+* Igni level 3 or a Dragon's Dream Bomb work well. This means Level 3+, not lower. Any lower level will prove to be pretty much useless aside from giving you enough time to run away.
+* It is advised to kill the '''Coccacidium '''at your first encounter with the monstrous plant; as mentioned above, the longer you avoid it the more frequently it will pop up at random in different spots (and you will easily get caught off guard when in a middle of some other quests). It will always appear at the first red dot nearest the Clay Pits. If you do not think you are up to the challenge (the Plant hit '''hard '''and is definitely one of the stronger foes you can face this early in the game) then avoid going in that direction at the moment. The quest [[A Pilgrimage]] given by [[Gramps]] (first encounter standing at the first crossroad between the Brickmakers' village and the Ferry) will make you escorting the old man to the Shrine past the '''Coccacidium'''. So avoid talking to him if you are not ready.
+* The trick to beating the Plant early at the first encounter is first you must drink a Swallow (for obvious reasons) and preferably a [[Golden Oriole]] to prevent the extra damage from poison. Apply a sword enhancement like [[Grindstone]] or one of its relatives to boost your Silver Sword damage (use Strong Style). The cheap way to win is by using the good old "hit and run" tactic. Since the Plant cannot move (odd since it obviously can burrow around the entire Swamp) you can run up to it for a couple of swings and then run back as soon as you are below half health. It can still shoot needles at you, so be careful for running out of health. Wait just outside it aggro range and let your health regenerate. Repeat. Sometimes if you are lucky, your attack can knock the '''Coccacidium''' off balance and canceling its own attack, giving you more time to pound on it (though you can 'sort of' stun it a bit by your sword, Aard doesn't do anything to the Plant so don't bother).
+* Use of torch for incineration is also very effective and can deal large amounts of damage.
+* Despite being one of the hardest hitters in the early game, the '''Coccacidium '''doesn't have that much health. A couple of combos with the Strong Style is enough to put an end to it (essentially a stationary glass-cannon).
+* The '''Coccacidium '''won't spawn if the quest [[A Long Way from Home]] is active.
+
+[[cs:Coccacidium]]
+[[de:Coccacidium]]
+[[es:Coccacidium]]
+[[fr:Cocaxydium]]
+[[it:Coccacidium]]
+[[pl:Coccacidium]]
+[[ru:Кокакцидий]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher bestiary]]

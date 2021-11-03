@@ -1,0 +1,49 @@
+{{Infobox Character
+|Name = Lugos Drummond
+|Image = Tw3 journal madman lugos.png
+|Aka = Madman
+|Hair_color = Bald, grey beard
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|COA = COA Drummond.svg
+|Titles = Jarl of [[Clan Drummond]]
+|Family = [[Clan Drummond]]
+|Parents = [[Lugos Harelip]] {{Small|text=father}}
+|Partner = Hulda {{Small|text=wife}}
+|Children = [[Blueboy Lugos]] {{Small|text=son}}<br>[[Einar (Harviken)|Einar]] {{Small|text=illegitimate son}}
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = WAAAAAAAAAAGH!!!!|citation = Madman Lugos' cry, {{Tw3}}|audio = Madman Lugos voice line.ogg}}
+
+'''Madman Lugos''', son of [[Lugos Harelip]] and jarl of [[Clan Drummond]], had an especially fiery personality, even more so than the typical residents of [[Skellige]]. He reigned from [[Kaer Muire]] on the southern half of [[Ard Skellig]].
+
+== Journal Entry ==
+:''Though Madman Lugos, jarl of Clan Drummond, was nothing special in terms of size or strength, most men in the isles still stepped aside when they saw him coming. Eternally feuding with his neighbors, Lugos had a reputation for a furious and violent temper and managed to get into shouting matches with even the usually-placid [[Donar an Hindar]].''
+:''Yet Lugos' biggest rival was [[Crach an Craite]], whom he accused of stealing part of his domain (which in his reckoning encompassed all of Ard Skellig). The clans' quarrel went back hundreds of years and there was nothing to indicate it would end while these two fierce enemies lived. Lugos hated Crach with a passion dampened only by the laws of Skellige and the disproportionate balance of power between the two clans.''
+:'''If [[Cerys an Craite|Cerys]] or [[Hjalmar an Craite|Hjalmar]] become the next ruler:'''
+::''Seeing his own son die and Crach an Craite's child take the throne of Skellige proved too much for Lugos to bear. Enraged and embittered, he refused to listen to reason and attacked the [[witcher]], thus picking a fight that could only end one way.''
+
+== Associated Quests ==
+* [[The King is Dead – Long Live the King]]
+* [[The Sunstone]]
+* [[Gwent: Skellige Style]]
+* [[Stranger in a Strange Land]]
+* [[King's Gambit]]
+* [[Coronation]]
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 3 Madman Lugos Boss Fight (Hard Mode)
+</gallery>
+
+== Gallery ==
+<gallery>
+Tw3 cardart skellige madman lugos.png|Gwent card art
+</gallery>
+[[ar:لوغوس المجنون]]
+[[pl:Lugos Szalony]]
+[[ru:Лугос Безумный]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

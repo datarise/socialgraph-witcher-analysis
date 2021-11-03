@@ -1,0 +1,25 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Armorer}} Armorer
+|Image = Tw3 armorer hierarch square.png
+|Race = [[Human]]
+|Gender = Male
+|Profession = [[Armorer]] {{Small|text=journeyman}}
+|Abilities = 
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}
+|Hair_color = Black
+|Eye_color = Blue}}
+The '''armorer''' in [[Hierarch Square]] operated out of a small store in an alcove located on the square's west side.
+
+==Notes==
+*Despite being an armorer, his standard greeting is "top notch swords!"
+
+==Bugs==
+*It is possible that the armorer may be absent from his shop during working hours. Meditating for some amount of time may cause him to return. Note that this is a persistent bug that affects several armorers and blacksmiths in the game.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[it:Armaiolo (Piazza del Gerarca)]]
+[[pl:Płatnerz (Novigrad)]]

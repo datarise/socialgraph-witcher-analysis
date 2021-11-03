@@ -1,0 +1,24 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image =Tw2_journal_Isidorkay.png
+|Aka =
+|Race =[[Dwarf]]
+|Gender =Male
+|Affiliations ={{Kaedwenian}}
+|Profession =[[The Witcher 2 merchants|Merchant]]<br>[[Craftsman]]
+|Abilities =
+|Appears_games ={{Tw2}}
+}}
+'''Isidor Kay''' (spelled "Isidor Quay" in the journal heading) is a secondary character in {{Tw2}}. He is a [[The Witcher 2 merchants|merchant]], [[craftsman]], and [[The Witcher 2 dice poker|dice poker player]] who can be found in the [[Kaedweni camp]], standing outside the tent northwest of [[Lasota]]'s during Chapter II.
+
+== Journal Entry ==
+: ''Whether it was building fortifications or constructing clever traps, dwarven technical skills had no equals and Isidor Kay used them well. The mercenary made money on the side, running a small stall in the royal camp.''
+
+[[de:Isidor Kay]]
+[[fr:Isidor Kay]]
+[[it:Isidor Kay]]
+[[ru:Исидор Кай]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Dwarves]]
+[[Category:Merchants]]

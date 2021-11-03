@@ -1,0 +1,34 @@
+{{Infobox Character
+|Image = Tw2 journal Arnolt.png
+|Race = [[Human]]
+|Gender = Male
+|Affiliations = [[Kaedwenian Secret Service]]
+|Profession = Spy
+|Abilities = 
+|Appears_games = {{Tw2}}
+|Nationality = {{Kaedwenian}}
+|Hair_color = Gray
+|Eye_color = Brown
+|Status = }}
+'''Arnolt Malliger''' was a [[Kaedwen]]i spy who lived at [[Bernard Loredo]]'s [[Loredo's residence|residence]]. You could meet him for the first time when visiting commandant Loredo in the night, during the [[Indecent Proposal]] quest.
+
+Later on, if you side with [[Vernon Roche]], you discover what is the deal between Loredo and Kaedwen and that Arnolt was killed while being interrogated by Roche.
+
+== Associated Quests ==
+* [[Death to the Traitor!]]
+* [[At a Crossroads: Vernon Roche]]
+* [[Indecent Proposal]]
+
+== Journal Entry ==
+: ''Supposedly involved in commercial dealings with Bernard Loredo, this man was a frequent guest at the commandant's abode.''
+: ''In point of fact, Arnolt was an agent serving the kingdom of Kaedwen, which sought to annex the trading post so as to take control of the trade route upon which it lay.''
+: ''Unfortunately, mortality rates are terrifyingly high among spies who are captured and then prove uncooperative. Arnolt failed to survive his interrogation, and so this "living proof of Kaedweni scheming" was history.''
+
+[[de:Arnolt Malliger]]
+[[it:Arnolt Malliger]]
+[[pl:Arnolt]]
+[[ru:Арнольт]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+
+[[Category:Humans]]

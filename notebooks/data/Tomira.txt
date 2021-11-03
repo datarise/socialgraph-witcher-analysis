@@ -1,0 +1,51 @@
+{{SpoilerBanner}}
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{herbalist}} Tomira
+|Image =Tw3 tomira.png
+|Race =[[Human]]
+|Gender =Female
+|Eye_color =Blue
+|Hair_color =Black
+|Profession =[[Herbalist]]
+|Nationality ={{Temerian}}
+|Affiliations =
+|Partner =Goslav {{Small|text=lover, formerly}}
+|Appears_games ={{Tw3}}
+|Parents = Unnamed parents}}
+'''Tomira''' was the local [[herbalist]] of [[White Orchard]] in {{Year|canon=no|year=1272}}.
+
+== Biography ==
+When Tomira was 18 years old, she was taken in by Mother [[Nenneke]] to become a healer. However, there was a young man named Goslav that all the novices, including Tomira, couldn't keep their eyes off of at work and Tomira ended up leaving the [[Temple of Melitele (Ellander)|temple]] for him. The two spent a summer together but then Goslav left and when Tomira tried to return to the temple, Nenneke refused to take her back. Her own parents refused to say a word to her as well and simply gave her a travel cloak and a small coin pouch.
+
+Tomira traveled for a long time, trying to find a place that was both safe and where she felt she was needed and finally ended up in White Orchard. At one point she befriended another villager in the area, [[Claer]], and the two became close friends until Claer's untimely death.
+
+In 1272, during the [[Nilfgaardian Empire|Nilfgaardian]] invasion, White Orchard had its own problems in the form of a [[Griffin (creature)|griffin]], which was attacking people on the roads. One such woman, [[Lena]], was gravely injured and brought to Tomira's [[Tomira's hut|hut]] to try and heal her. Unfortunately, there wasn't anything else Tomira could do for Lena other than try to make her as comfortable as possible until she succumbed to her wounds.
+
+{{Condition|Text = If Geralt helps Lena}} she thanked the [[witcher]] "for giving a damn" and gave him a small gift in return. Later, if the witcher returned and asked about Lena, she explained that Nilfgaardian soldiers showed up and took her but doesn't know where to or why.
+
+{{Condition|Text = If Nilfgaard wins the war}} Tomira lived out her days in White Orchard as she supplied herbs to the local peasants under Nilfgaard's rule.
+
+{{Condition|Text = If Redania wins the war}} [[Radovid V|Radovid]] hunted down all the [[mage]]s, herbalists, and [[alchemist]]s and killed them. When [[Geralt of Rivia|Geralt]] came back to White Orchard, he found Tomira's hut ablaze and her tied to a stake, prepared to be burned by a group of [[witch hunter]]s. He saved Tomira, and she traveled far away, to escape Radovid and his wild groups of witch hunters.
+
+== Associated Quests ==
+* [[On Death's Bed]]
+* [[Contract: Devil by the Well]]
+* [[The Beast of White Orchard]]
+
+== Notes ==
+* If you speak to her after completing the quest, Contract: Devil by the Well, and ask her about Claer, she'll reward you with some [[saltpeter]] as well as other [[The Witcher 3 alchemy ingredients|alchemical ingredients]].
+* If Geralt already possesses some buckthorn, he will not be asked to visit Tomira in order to advance the quest, The Beast of White Orchard.
+* In the [[The Witcher 3 cut content|leaked materials]], originally Claer and Tomira were supposed to be twin sisters but this was later re-written.
+*If you never visit Tomira at first and come back after Lena dies you can ask what happened to Lena and reference the choice to not give her the potion even though you never made that choice.
+
+[[de:Tomira]]
+[[cs:Tomira]]
+[[ru:Томира]]
+[[uk:Томіра]]
+[[pt-br:Tomira]]
+[[tr:Tomira]]
+[[pl:Tomira]]
+[[it:Tomira]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

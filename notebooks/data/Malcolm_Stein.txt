@@ -1,0 +1,34 @@
+{{Infobox_Character
+|Name = Malcolm Stein
+|Image = People_Blacksmith_dwarf.png
+|Hair_color = Brown
+|Race = [[Dwarf]]
+|Gender = Male
+|Profession = [[Blacksmith]]<br>[[Merchant]]
+|Affiliations = [[Scoia'tael]]
+|Appears_games = {{Tw1}}
+}}'''Malcolm Stein''' is a [[dwarf]] who, together with his apprentice, runs the [[Dwarven blacksmith shop|blacksmith shop]] in [[Little Mahakam]], the non-human district of Vizima's [[Temple Quarter]]. He will serve only people who come recommended, and will not have his weapons be used against [[nonhuman]]s. So take heed, and do not cross [[Yaevinn]] or Malcolm's services will be off limits to you. Alternatively, [[Zoltan]]'s word carries a lot of weight with both Malcolm and his apprentice.
+
+His main competition in town is the [[Armorer of the Order|Order armorer]], who has recently acquired some [[Mahakam]]an anvils remarkably similar to those confiscated by the [[City Guard]] from Malcolm's own smithy. But if things seem bleak in Chapter II, they are even bleaker in Chapter III where his workplace is pretty much reduced to a firepit.
+
+In Chapter V, it seems Malcolm has relocated to the [[makeshift forge]] in Old Vizima to help the Scoia'tael cause. It is he who makes the Scoia'tael (elven) variant of the [[Raven's armor]] for Geralt. Although he is not specifically identified, the conversation he has with Geralt would only make sense if it was Malcolm.
+
+== Associated Quests ==
+* [[A Gnomish Device]]
+* [[Armor (quest)|Armor]]
+* [[The Sentry]]
+
+== Notes ==
+* Incidentally the name ''Stein'' means stone in German.
+
+[[cs:Malcolm Stein]]
+[[de:Moritz Stein]]
+[[fr:Malcolm Stein]]
+[[it:Malcolm Stein]]
+[[ru:Малькольм Штейн]]
+[[Category:Dwarves]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Chapter V]]

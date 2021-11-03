@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{innkeep}} {{Gwent Player}} Innkeep
+|Image = Innkeep-seven-cats-inn.jpg
+|Race = [[Human]]
+|Gender = Female
+|Hair_color = Blonde
+|Nationality = {{Redanian}}
+|Profession = [[Innkeeper]]
+|Appears_games = {{Tw3}}
+|Eye_color = Brown}}The '''Innkeep''' of [[Seven Cats Inn]] in the southeast of [[Novigrad]] is a [[Gwent players|Gwent player]] ([[Northern Realms Gwent deck|Northern realms]] deck).
+
+[[Category:Humans]]
+[[Category:Innkeepers]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Karczmarka (Karczma Siedem Kotów)]]

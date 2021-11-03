@@ -1,0 +1,19 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 egbert.jpeg
+|Race = [[Human]]
+|Gender = Male
+|Profession = Guard/soldier
+|Affiliations = [[Witch hunter]]s
+|Eye_color = Brown
+|Hair_color = Dark
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}}}
+'''Egbert''' was a member of the [[witch hunter]]s and guard of [[King]] [[Radovid V|Radovid]] on the [[HMS Oxenfurt-Tretogor]], under the command of [[Hubrecht]].
+
+== Associated Quest ==
+* [[Reason of State]]
+
+[[ru:Эгберт]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,27 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 patricia vegelbud.png
+|Race = [[Human]]
+|Hair_color= Grey
+|Gender = Female
+|Titles = Countess
+|Family = [[Vegelbud family]]
+|Children = [[Ingrid Vegelbud]] {{Small|text=daughter}}
+|Relative = [[Albert Vegelbud]] {{Small|text=grandson}}<br>[[Luc Vegelbud]] {{Small|text=grandson}}
+|Partner = Unnamed husband {{Small|text=deceased}}
+|Appears_games = {{Tw3}}
+}}
+'''Patricia Vegelbud''' was the mother of [[Ingrid Vegelbud|Ingrid]] and grandmother of [[Albert Vegelbud|Albert]]. Being the oldest living family member, she was also technically the matriarch, though her daughter Ingrid led the family instead.
+
+She'd been a follower of the [[Eternal Fire]] until sometime around {{Year|canon=no|year=1272}}, when she began to question it and was subsequently killed by the [[Hubert Rejk|Concerned Citizen]].
+
+== Associated Quest ==
+* [[Carnal Sins]]
+
+== Notes ==
+* Another character, [[Luc Vegelbud]], is introduced during a side quest as Albert's cousin and part of the family name. If that's the case, then Patricia had to have had at least one more child besides Ingrid. However, this person is never mentioned or referred to anywhere.
+
+[[pl:Patrycja Vegelbud]]
+[[ru:Патриция Вегельбуд]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,22 @@
+{{Infobox Character
+|Image = Tw3 rogg and shoes.jpg
+|Aka = 
+|Race = [[Troll]]s
+|Gender = Male
+|Voice = [http://www.imdb.com/name/nm0580550/ Julian Mere]
+|Appears_games = {{Tw3}}
+}}
+'''Ogg, Pogg and Rogg''' are three rock trolls living in [[Velen]] with whom [[Thaler (spy)|Thaler]] is hiding out. The trio appears to be very fond of "shoeses" (shoes) especially those made by Thaler. While hiding out in their cave, Thaler has also instructed them in the fine art of verbal expression.
+
+== Associated Quest ==
+* [[A Deadly Plot]]
+
+== Gallery ==
+<gallery>
+Tw3 ogg, pogg and thaler.jpg
+</gallery>
+
+[[ru:Огг, Погг и Рогг]]
+[[Category:Trolls]]
+[[Category:The Witcher 3 characters]]
+[[Category:The Witcher 3 bestiary]]

@@ -1,0 +1,22 @@
+{{Infobox Character
+|Image = Tw3 Leslav.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Light brown
+|Hair_color = Brown
+|Profession = Peat digger
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}'''Leslav''' was a peat digger from [[Downwarren]] and worked in [[Crookback Bog]]. In {{Year|canon=no|year=1272}}, a monster was attacking and killing the workers and so he paid a scribe a dozen eggs to write up [[Contract: Monster from the Swamp|a notice]] for help in dealing with the [[Ignis Fatuus|creature]].
+
+{{Condition|Text = If Geralt helps him but haggled}} after Geralt killed the foglet and came to collect his reward, Leslav gave him a smaller amount. When Geralt called him out on it, the peat digger admitted he didn't have enough coin to pay the witcher.
+
+{{Condition|Text = If Geralt demands pay right then}} scared, Leslav paid all he had on him, but it was only a portion of what was agreed on.
+
+{{Condition|Text = If Geralt agrees to wait a week}} Geralt showed up a week later and Leslav was true to his word, returning the original amount plus interest.
+
+== Associated Quest ==
+* [[Contract: Swamp Thing]]
+
+[[ru:Леслав]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

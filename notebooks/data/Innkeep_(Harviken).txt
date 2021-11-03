@@ -1,0 +1,24 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} {{Gwent Player}} Innkeep
+|Image = Tw3 Harviken inkeeep.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Light brown
+|Hair_color = Black
+|Profession = [[Innkeeper]]
+|Appears_games = {{Tw3}}
+}}
+The '''innkeep''' in [[Harviken]] plays [[gwent]]. He also sells a few cards from the [[Monsters Gwent deck|Monsters deck]], including:
+* [[Nekker (gwent card)|"Nekker"]]
+* [[Vampire: Fleder (gwent card)|"Vampire: Fleder"]]
+* [[Harpy (gwent card)|"Harpy"]]
+* [[Ghoul (gwent card)|"Ghoul"]]
+He also sells [[cherry cordial]], [[mandrake cordial]] and [[dwarven spirit]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[Category:Innkeepers]]
+
+[[pl:Karczmarz (Harviken)]]

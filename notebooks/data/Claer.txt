@@ -1,0 +1,29 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = 
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Parents = Unnamed mother
+|Partner = [[Volker]] {{Small|text=husband}}
+|Appears_games = {{Tw3}}
+|Status = Deceased {{Small|text=hanged}}}}
+'''Claer''' was a [[Temeria]]n woman living in [[White Orchard]] in the {{Year|canon = no|year = 1250}}s<ref>[[Yellowed diary]]</ref> and was a subject of the violent local lord, [[Ignatius Verrieres]].
+
+== Biography ==
+Her husband [[Volker]] sent a petition to the court in [[Vizima]], listing out all their grievances against Ignatius, like how he refused to make amends to his subjects when he trampled their crops and killed whoever when it suited him. The court recognized these as valid reasons and waived Ignatius' subjects bonds and duties to him.
+
+With this, Claer and Volker set up a village named [[Abandoned Village (White Orchard)|Hovel]] to the south of White Orchard village and appeared to doing well. However, Ignatius came to the village, under the pretext of asking them to come back to White Orchard, but instead he killed every last one of them.
+
+Because Claer had such a sudden and cruel death, she was still tied to the world of the living in the form of the [[Devil by the Well]].
+
+== Notes ==
+*Claer was a friend of the local herbalist, [[Tomira]]. In the [[The Witcher 3 cut content|leaked materials]], originally the two were supposed to be twin sisters but this was later re-written.
+
+==References==
+<references />
+
+[[de:Claer]]
+[[es:Claer]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image = Tw3 vagn.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Hair_color = Graying brown
+|Eye_color = Brown
+|Appears_games = {{Tw3}}}}
+'''Vagn''' was the elder of [[Fyresdal]] in {{Year|canon=no|year=1272}}. However, despite being an elder he lacked wisdom in regards to monsters: in particular being able to tell a [[dragon]] from a [[forktail]] and instead relied on folklore.
+
+{{Condition|Text = If Geralt helps him out and lies}} Vagn was short and to the point, claiming they had a dragon problem and so [[Geralt of Rivia|Geralt]] set abut helping him, eventually luring out the forktail with [[Mia]]. Not wanting to dampen the man's spirits, Geralt lied and told him it was a (now dead) dragon, much to Vagn's delight.
+
+{{Condition|Text = If Geralt helps him out but tells the truth}} Geralt helped out Vagn but soon learned it was just a common forktail, a much smaller looking creature compared to a dragon. However, when Geralt told Vagn this after killing it, Vagn claimed he could have dealt with the "forkytail" himself if he'd known and thus cut Geralt's agreed upon reward in half.
+
+== Associated Quest ==
+* [[Contract: Dragon]]
+
+[[ru:Вагн]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

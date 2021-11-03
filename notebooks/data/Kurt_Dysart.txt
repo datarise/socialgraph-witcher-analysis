@@ -1,0 +1,26 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 kurt dysart.png
+|Nationality = {{Temerian}}
+|Gender = Male
+|Titles = Count of [[Anchor]]
+|Race = [[Human]]
+|Eye_color = Green
+|Hair_color = Black
+|Appears_games = {{Tw3}}}}
+'''Kurt Dysart''' was a [[Temeria]]n nobleman and [[Count]] of [[Anchor]] in {{Year|canon = no|year = 1272}}, and had recently acquired the [[Moldavie Residence]] while he was in [[Novigrad]].
+
+== Biography ==
+He acquired the property at an unbelievable deal, having been approached by a presumed [[mage]]'s widow who wished to sell her husband's estate. However, it turned out the house had a major problem: something was causing it to tremble and quake and nearly bringing the house down with it. Not one for superstitions though, Kurt felt it was something more sensible and thus tried to find a [[witcher]] to help him with his house problem.
+
+{{Condition|Text = If Geralt helps him}} It was soon discovered that in fact Kurt was right: instead of being a haunted house, one of the previous house owners had been a mage who kept an [[earth elemental]], [[Therazane]], hidden in some [[Elf|elven]] ruins below the house. On learning Geralt had dealt with it, Kurt was delighted to not only solve the problem but now had an extended cellar to use.
+:{{Condition|Text = If Geralt knocked down the wooden supports}} Unfortunately for Kurt, as the renovations were going on, he went into the new cellar to inspect it personally when the ceiling collapsed, killing him instantly.
+
+== Associated Quest ==
+* [[Contract: Doors Slamming Shut]]
+
+[[pl:Kurt Dysart]]
+[[pt-br:Kurt Dysart]]
+[[ru:Курт Дисарт]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

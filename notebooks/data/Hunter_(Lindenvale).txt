@@ -1,0 +1,18 @@
+{{Infobox Character
+|Image = Tw3 lindenvale hunter.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = Hunter
+|Name = Hunter
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+The '''Hunter '''living in [[Lindenvale]] in {{Year|canon=no|year=1272}}, observed large tracks in the woods near his village, and was fearful to follow them. He later found a dozen dead [[Wolf (creature)|wolves]] while hunting in the woods, with many of them uneaten. He put up a [[Contract on... Gods Know What On!|notice]] and in time, [[Geralt of Rivia|Geralt]] read it and could choose to help.
+
+== Associated Quest ==
+* [[Mysterious Tracks|Contract: Mysterious Tracks]]
+[[ru:Охотник (Залипье)]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

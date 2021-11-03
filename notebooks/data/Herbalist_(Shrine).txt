@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Herbalist}} Herbalist
+|Image = Tw3 Shrine herbalist.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Graying dark
+|Profession = [[:Category:Herbalists|Herbalist]]
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw3}}}}
+This '''herbalist''' can be found during daytime once [[Geralt of Rivia]] dispatches the [[ghoul]]s by the roadside shrine east of the [[Abandoned Village (White Orchard)|Abandoned Village]] in [[White Orchard]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[es:Herborista (capilla)]]
+[[it:Erborista (Santuario)]]
+[[pl:Zielarz (Biały Sad)]]
+[[tr:Otacı_(Shrine)]]

@@ -1,0 +1,24 @@
+{{Infobox Character
+|Image = People_Waitress_Hairy_Bear.png
+|Status = Deceased {{Small|text=killed by [[barghest]]s}}
+|Hair_color = Blonde
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Children = [[Alvin]] (ward)
+|Appears_games = {{Tw1}}}}'''Caroline''' was [[Alvin]]'s foster mother. She died in the fangs of [[barghest]]s one night on her way to the [[Outskirts Inn|Inn]] with the boy in the opening sequence of [[:Category:The Witcher Chapter I|Chapter I]]. We know she was not his biological mother because of a conversation Alvin has with [[Geralt of Rivia|Geralt]] at the Inn the following day. During that conversation, Alvin mentions that his parents were already dead and that he has no other kin whatsoever.
+
+{{clear}}
+
+== Gallery ==
+<gallery>
+People Caroline dead.png
+</gallery>
+[[de:Caroline]]
+[[es:Carolina]]
+[[fr:Caroline]]
+[[pl:Karolina]]
+[[ru:Каролина (Персонаж)]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]
