@@ -16,7 +16,7 @@ import plotly.express as px
 
 @st.cache(allow_output_mutation=True)
 def load_graph():
-    with open("pages/data/WG.pickle", 'rb') as f:
+    with open("website/pages/data/WG.gpickle", 'rb') as f:
         G = pickle.load(f)
 
     Gcc = sorted(nx.weakly_connected_components(G), key=len, reverse=True)

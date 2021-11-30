@@ -18,7 +18,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 @st.cache(allow_output_mutation=True)
 def load_graph():
-    with open("pages/data/WG.gpickle", 'rb') as f:
+    with open("website/pages/data/WG.gpickle", 'rb') as f:
         G = pickle.load(f)
 
     Gcc = sorted(nx.weakly_connected_components(G), key=len, reverse=True)
@@ -31,7 +31,7 @@ def load_graph():
     return G 
 
 def set_attributes(G):
-    df = pd.read_csv("pages/data/cleaned_characters_attr.csv")
+    df = pd.read_csv("website/pages/data/cleaned_characters_attr.csv")
 
     df = df.set_index("title")
     df = df[["Race", "Gender", "Nationality", "Family", "Profession"]]
