@@ -5,7 +5,6 @@ through an object oriented framework.
 
 # Import necessary libraries 
 import streamlit as st
-st.set_page_config(layout="wide")
 
 
 # Define the multipage class to manage the multiple apps in our program 

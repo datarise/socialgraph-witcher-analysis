@@ -1,7 +1,9 @@
 # Custom imports 
 from multipage import MultiPage
 from pages import intro1, explore2, statistics3, compare4, wordclouds5, communities6, conclusion7
+import streamlit as st
 
+st.set_page_config(page_title="The Witcher Network Analysis", layout="wide")
 # Create an instance of the app 
 app = MultiPage()
 
