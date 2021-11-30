@@ -7,3 +7,4 @@ seaborn
 networkx 
 pyvis
 plotly
+fa2
