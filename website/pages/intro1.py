@@ -15,6 +15,7 @@ def read_markdown_file(markdown_file):
 def app():
     # Read dataset (CSV)
     # Title of the main page
+    st.text(Path.cwd())
     st.markdown(read_markdown_file("pages/text/introduction1.md"), unsafe_allow_html=True)
 
     st.image(display_image("pages/images/the_witcher.jpeg"))
