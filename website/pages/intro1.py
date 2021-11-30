@@ -3,6 +3,7 @@ import streamlit as st
 from pathlib import Path
 from PIL import Image
 
+
 def display_image(image_path):
     image = Image.open(image_path)
     return image
