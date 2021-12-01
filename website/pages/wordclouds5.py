@@ -14,7 +14,8 @@ from scipy.ndimage import gaussian_gradient_magnitude
 import matplotlib
 import os
 matplotlib.rcParams["figure.dpi"] = 200
-#plt.rcParams['axes.facecolor'] = '#31333F'
+plt.style.use('dark_background')
+import random
 
 @st.cache()
 def load_data():
@@ -101,10 +102,10 @@ def generate_word_clouds(texts_dict, col1, col2):
 
         if c % 2 == 0:
             with col1:
-                make_cloud(wordcloud_string, attr, f"{icons_path}/{icons[c]}")    
+                make_cloud(wordcloud_string, attr, f"{icons_path}/{icons[random.randint(0, n_icons)]}")    
         else:
             with col2:
-                make_cloud(wordcloud_string, attr, f"{icons_path}/{icons[c]}")  
+                make_cloud(wordcloud_string, attr, f"{icons_path}/{icons[random.randint(0, n_icons)]}")  
         if c == n_icons:
             c = 0
         else:
@@ -122,7 +123,7 @@ def make_cloud(wordcloud_string, attr, icon_path):
     fig, ax = plt.subplots(figsize=(10, 10))
     plt.imshow(wc, interpolation="bilinear")
     plt.title(f"{attr} Wordcloud")
-    ax.set_facecolor('#31333F')
+    plt.gcf().set_facecolor('black')
     plt.axis("off")
     st.pyplot(fig)
 
