@@ -9,3 +9,5 @@ pyvis
 plotly
 fa2
 powerlaw
+nltk
+wordcloud
