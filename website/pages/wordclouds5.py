@@ -14,7 +14,7 @@ from scipy.ndimage import gaussian_gradient_magnitude
 import matplotlib
 import os
 matplotlib.rcParams["figure.dpi"] = 200
-plt.rcParams['axes.facecolor'] = '#31333F'
+#plt.rcParams['axes.facecolor'] = '#31333F'
 
 @st.cache()
 def load_data():
@@ -142,7 +142,7 @@ def app():
             attributes = st.multiselect("Select the attributes to visualize", choose)
 
 
-    if attributes and len(attributes) == 2:
+    if attributes and len(attributes) >= 2:
         texts_dict = generate_dict_corpuses(df, attribute, len(attributes), attributes)
         generate_word_clouds(texts_dict, col1, col2)
     else:
