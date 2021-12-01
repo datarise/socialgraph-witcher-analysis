@@ -1,17 +1,13 @@
 # Import dependencies
 import streamlit as st
-import streamlit.components.v1 as components
 import pandas as pd
-import networkx as nx
-from pyvis.network import Network
 import networkx as nx
 import pickle
 import numpy as np
 import matplotlib.pyplot as plt
 import collections
-import plotly.figure_factory as ff
-
 import plotly.express as px
+import powerlaw as pw
 
 
 @st.cache(allow_output_mutation=True)
@@ -140,6 +136,66 @@ def plot_loglog_degree_histogram(G, b, normalized=True):
 
     st.plotly_chart(fig, use_container_width=True)
 
+
+def top_n_degree(G, n, sort_by):
+    df_in = pd.DataFrame.from_dict(dict(G.in_degree()), orient='index')
+    df_out = pd.DataFrame.from_dict(dict(G.out_degree()), orient='index')
+    df = pd.merge(df_in, df_out, left_on=df_in.index, right_on=df_out.index)
+    df.columns = ["Character", "In-Degree", "Out-Degree"]
+    df = df.sort_values(by=sort_by, ascending=False)
+
+    st.dataframe(df.head(n))
+
+def get_plt_data(fig):
+
+    ax = plt.gca() 
+    line = ax.lines[0] 
+
+    return line.get_xydata()
+
+
+
+def plot_powerlaw(G, degree_type):
+    if degree_type == "In-Degree":
+        degree = sorted([d for n, d in G.in_degree()], reverse=True)
+    else:
+        degree = sorted([d for n, d in G.out_degree()], reverse=True)
+
+    fit = pw.Fit(np.array(degree), xmin=0)
+
+    fig = plt.figure()
+    fit.power_law.plot_pdf( color= 'b',linestyle='--', label='fit pdf')
+    pdf_fit = get_plt_data(fig)    
+
+    fig = plt.figure()
+    fit.plot_pdf(color= 'b', label='data')
+    pdf_data = get_plt_data(fig)  
+
+    df_fit = pd.DataFrame(pdf_fit)
+    df_fit["Data"] = "PDF Powerlaw"
+    df_data = pd.DataFrame(pdf_data)
+    df_data["Data"] = "PDF Data"
+    df = pd.concat([df_fit, df_data], axis=0)
+    df.columns = ["Bin", "PDF", "Data"]
+
+    fig = px.line(df, x="Bin", y="PDF", color='Data', log_x=True, log_y=True)
+
+    fig.update_layout(
+    title={
+        'text': f"{degree_type} - PDF fitted vs data - Exponent: {str(round(fit.power_law.alpha,2))}",
+        'y':0.91,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'},
+    template="plotly_dark",
+    font=dict(
+        family="Sans serif",
+    )
+    )
+    st.plotly_chart(fig, use_container_width=True)
+    
+
+
 def app():
     theme = "plotly_dark"
 
@@ -153,17 +209,24 @@ def app():
 
     with col1:
         plot_deg_dist(G, True)
-        graph_stats(G)
+        st.text("Some explainer text")
+        st.write('Remember to talk about number of nodes and average degree')
+        st.write('')
+        st.write('')
+        st.write('')
         plot_loglog_degree_histogram(G, True, normalized=True)
+        n = st.slider("Select top n character to display", 0, 700, 10, 1)
+        sort_by = st.radio("Sort by:", ("In-Degree", "Out-Degree"))
+        st.text("Some explainer text")
+        powerlaw_select = st.radio("Select the degree to analyse", ("In-Degree", "Out-Degree"))
 
 
     with col2:
         plot_deg_dist(G, False)
-        st.text("Some explainer text")
+        graph_stats(G)
         plot_loglog_degree_histogram(G, False, normalized=True)
+        top_n_degree(G, n, sort_by)
+        plot_powerlaw(G, powerlaw_select)
 
-    #fig = plot(G)
-
-    #st.pyplot(fig)
 
   
