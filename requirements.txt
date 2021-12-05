@@ -11,3 +11,6 @@ fa2
 powerlaw
 nltk
 wordcloud
+python-louvain
+gensim
+pyldavis

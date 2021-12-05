@@ -1,0 +1,734 @@
+Name,Race,Gender,Nationality,Family,Profession,Community,Vader_Sentiment
+Innkeeper,No Race,No Gender,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,0.4404
+The Witcher journal character entries,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.296
+Abigail,Human,Female,Temerian,No Family,Witch,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9913
+Adalbert (soldier),Human,Male,Temerian,No Family,Soldier,The Witcher journal character entries-Thaler (spy)-Eskel,-0.128
+Adam (Murky Waters),Human,Male,Temerian,No Family,Poet,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9892
+Adda the White,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9988
+Alina,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9059
+Alvin,Human,Male,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9964
+Angus,Human,Male,Temerian,No Family,Drug dealer,The Witcher journal character entries-Thaler (spy)-Eskel,0.802
+Antoinette,Human,Female,Toussaintois,No Family,No Profession,Ramerot-Corbin-Buse,-0.4417
+Armorer,No Race,No Gender,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Azar Javed,Human,Male,Zerrikanian,No Family,Mage,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9993
+Berengar,Human,Male,No Nationality,No Family,Witcher,The Witcher journal character entries-Thaler (spy)-Eskel,-0.997
+Blacksmith,No Race,No Gender,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9743
+Blacksmith's son,Human,Male,Temerian,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.9448
+Blacksmith's wife,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.6901
+Blue-eyed lass,Human,Female,Temerian,No Family,Courtesan,Dandelion-Prostitute-Priscilla,0.9725
+Bogut Kuternoga,Human,Male,No Nationality,No Family,No Profession,Boholt-Crinfrid Reavers-Missing creatures,-0.933
+Boholt,Human,Male,Crinfrider,No Family,Mercenary,Boholt-Crinfrid Reavers-Missing creatures,-0.476
+Bootblack (Vizima),No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.0
+Brickmakers,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.5267
+Brogg,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.0
+Buse,Human,Male,Toussaintois,No Family,No Profession,Ramerot-Corbin-Buse,-0.296
+Carmen,Human,Female,Temerian,No Family,Prostitute,The Witcher journal character entries-Thaler (spy)-Eskel,0.9868
+Caroline,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.8779
+Celina,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9799
+Chireadan,Elf,Male,Redanian,No Family,Tavern owner,The Witcher journal character entries-Thaler (spy)-Eskel,0.8971
+City Guard,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9946
+Coccacidium,No Race,No Gender,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9918
+Coleman,Human,Male,Temerian,No Family,Fisstech Dealer,The Witcher journal character entries-Thaler (spy)-Eskel,-0.872
+Corbin,Human,Male,Toussaintois,No Family,No Profession,Ramerot-Corbin-Buse,-0.296
+Courtesans,No Race,No Gender,No Nationality,No Family,No Profession,Dandelion-Prostitute-Priscilla,0.8555
+Dandelion,Human,Male,Redanian,No Family,Bard,Dandelion-Prostitute-Priscilla,0.9997
+Declan Leuvaarden,Human,Male,Alban,Leuvaarden family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.8862
+Elder druid,Human,Male,Temerian,No Family,Druid,The Witcher journal character entries-Thaler (spy)-Eskel,0.6908
+Elven craftsman,Elf,Male,No Nationality,No Family,Master craftsman,The Witcher journal character entries-Thaler (spy)-Eskel,-0.0534
+Elves of Murky Waters,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.6614
+Erkyn Blunt,Human,Male,Temerian,No Family,Knight,The Witcher journal character entries-Thaler (spy)-Eskel,0.9158
+Eskel,Human,Male,No Nationality,No Family,Witcher,The Witcher journal character entries-Thaler (spy)-Eskel,0.2955
+Fence,Human,Male,No Nationality,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,-0.3071
+Ferryman,Human,Male,No Nationality,No Family,Ferryman,The Witcher journal character entries-Thaler (spy)-Eskel,0.8482
+Fisher King (lover of Lady of the Lake),Human,Male,No Nationality,No Family,Ferryman,The Witcher journal character entries-Thaler (spy)-Eskel,0.96
+Fistfighters in The Witcher,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.9984
+Foltest,Human,Male,Temerian,Temerian Dynasty,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9984
+Franz Kniprode,Human,Male,Temerian,No Family,Mage,Boholt-Crinfrid Reavers-Missing creatures,-0.8658
+Friendly vodyan priest,Vodyanoy,Male,No Nationality,No Family,Priest,The Witcher journal character entries-Thaler (spy)-Eskel,0.9616
+Gambling ghost,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9419
+Gardener,Human,Male,No Nationality,No Family,Mercenary,The Witcher journal character entries-Thaler (spy)-Eskel,-0.296
+Gellert Bleinheim,Human,Male,No Nationality,No Family,Drug lord,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.7783
+Geralt of Rivia,Human,Male,No Nationality,No Family,Witcher,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-1.0
+Golan Vivaldi,Dwarf,Male,No Nationality,Vivaldi family,Bank,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9878
+Gramps,Human,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.872
+Grandma,Human,Female,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.985
+Greater cockatrice,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.802
+Halfar,Human,Male,No Nationality,No Family,Bandit,Boholt-Crinfrid Reavers-Missing creatures,-0.3369
+Haren Brogg,Human,Male,Temerian,No Family,fence,The Witcher journal character entries-Thaler (spy)-Eskel,-0.8263
+Havekar,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.8201
+Headhunter (person),No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9473
+Herbalist,No Race,No Gender,No Nationality,No Family,No Profession,Herbalist-Abbé Faria-Jonna,0.9531
+Hermit,Human,Male,No Nationality,No Family,Druid,The Witcher journal character entries-Thaler (spy)-Eskel,0.9914
+Hierophant,Human,Male,Temerian,No Family,Druid,The Witcher journal character entries-Thaler (spy)-Eskel,0.3818
+Ida Vertz,No Race,No Gender,No Nationality,No Family,No Profession,Vertz-Ida Vertz-Marcus Vertz,0.0
+Ilsa,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.978
+Jacques de Aldersberg,Human,Male,Aedirnian,No Family,No Profession ,The Witcher journal character entries-Thaler (spy)-Eskel,-0.4933
+Jean-Pierre,Human,Male,Toussaintois,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.6369
+Jethro,Human,Male,Temerian,No Family,Jailer,The Witcher journal character entries-Thaler (spy)-Eskel,0.4497
+Juan Pablo Vassermiller,Human,Male,Ebbinger,No Family,No Profession,Dandelion-Prostitute-Priscilla,-0.5423
+Julian,Human,Male,Kovirian,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.9227
+Kalkstein,Human,Male,Temerian,No Family,Alchemist,The Witcher journal character entries-Thaler (spy)-Eskel,0.9828
+King of the Wild Hunt,Ghost,Male,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9982
+Kingslayers,No Race,No Gender,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.993
+Kobus de Vollen,Human,Male,Temerian,No Family,Palantine,The Witcher journal character entries-Thaler (spy)-Eskel,0.3182
+Kristina,Human,Female,No Nationality,No Family,No Profession,Boholt-Crinfrid Reavers-Missing creatures,0.0
+Lady of the Lake (nymph),Nymph,Female,No Nationality,No Family,Goddess of chivalry,The Witcher journal character entries-Thaler (spy)-Eskel,0.996
+Lambert,Human,Male,No Nationality,No Family,Witcher,Vesemir-Lambert-Eredin Bréacc Glas,-0.9863
+Leo,Human,Male,No Nationality,No Family,Witcher,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9943
+Lilly,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.3612
+Maggot,Human,Male,Temerian,No Family,No Profession,Boholt-Crinfrid Reavers-Missing creatures,0.9181
+Malcolm Stein,Dwarf,Male,No Nationality,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.8736
+Marcus Vertz,No Race,No Gender,No Nationality,No Family,No Profession,Vertz-Ida Vertz-Marcus Vertz,0.0
+Mason Harn,Human,Male,Temerian,No Family,Mason,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3176
+Meis,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.0
+Mikul,Human,Male,Temerian,No Family,Guard,The Witcher journal character entries-Thaler (spy)-Eskel,0.931
+Missing creatures,No Race,No Gender,No Nationality,No Family,No Profession,Boholt-Crinfrid Reavers-Missing creatures,-0.6452
+Moa,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.5859
+Morenn,Dryad,Female,Brokilonian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.6386
+Munro Bruys,Dwarf,Male,Mahakaman,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9599
+Murky Waters blacksmith,Human,Male,Temerian,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.4788
+Murky Waters healer,Human,Female,Temerian,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.1335
+Mysterious assassin,Human,Male,No Nationality,No Family,Witcher,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9836
+Mysterious man,Human,Male,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.7845
+Nadir,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.3506
+Naiad (Murky Waters lakeside),Naiad,Female,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9829
+Novice nun,Human,Female,No Nationality,No Family,Nurse,The Witcher journal character entries-Thaler (spy)-Eskel,0.9415
+Nurses,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.9161
+Odo (merchant),Human,Male,No Nationality,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,-0.8307
+Order quartermaster,Human,Male,No Nationality,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.0772
+Ori Reuven,Human,Male,Redanian,No Family,Assistant,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9403
+Ozzrel,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9281
+Pat,Human,Male,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.807
+Patrick de Weyze,Human,Male,Temerian,No Family,Knight,Dandelion-Prostitute-Priscilla,0.8881
+People of Murky Waters,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.4966
+People of the Outskirts,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.3522
+Philippa Eilhart,Human,Female,Redanian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9568
+Poor townsfolk,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.9571
+Prize-winning cow,No Race,Female,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.701
+Professor (assassin),Human,Male,No Nationality,No Family,Assassin-for-hire,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9899
+Prostitute,No Race,No Gender,No Nationality,No Family,No Profession,Dandelion-Prostitute-Priscilla,0.9322
+Queen of the Night,Bruxa,Female,No Nationality,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.7645
+Radovid V,Human,Male,Redanian,Redanian Dynasty,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9912
+Ramerot,Human,Male,Toussaintois,No Family,No Profession,Ramerot-Corbin-Buse,-0.296
+Ramsmeat,Human,Male,Temerian,No Family,Leader of Vizima's underground,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9679
+Raven,Human,Male,No Nationality,No Family,Witcher,The Witcher journal character entries-Thaler (spy)-Eskel,0.6486
+Rayla,Half-elf,Female,Lyrian,No Family,Mercenary,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9952
+Raymond Maarloeve,Human,Male,Temerian,No Family,Private investigator,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9963
+Ren Grouver,Dwarf,Male,No Nationality,No Family,Guerrilla fighter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8126
+Resolute girl,Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.8074
+Reverend (Outskirts),Human,Male,No Nationality,No Family,Priest,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9894
+Roderick de Wett,Human,Male,Alban,de Wett family,Knight,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9714
+Roland Bleinheim,Human,Male,No Nationality,No Family,Drug lord,The Witcher journal character entries-Thaler (spy)-Eskel,-0.8934
+Royal huntsman,Human,Male,Temerian,No Family,Huntsman,The Witcher journal character entries-Thaler (spy)-Eskel,0.7717
+Savolla,Human,Male,No Nationality,No Family,Mage,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9936
+Scoia'tael quartermaster,Dwarf,Male,No Nationality,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,-0.4303
+Shani,Human,Female,Redanian,No Family,Medic,The Witcher journal character entries-Thaler (spy)-Eskel,0.9997
+Siegfried of Denesle,Human,Male,Redanian,No Family,Knight,The Witcher journal character entries-Thaler (spy)-Eskel,0.989
+Teyu,Vodyanoy,Male,No Nationality,No Family,Priest,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9231
+Thaler (spy),Human,Male,Temerian,No Family,Spy,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9824
+The Witcher merchants,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.3847
+Tobias Hoffman,Human,Male,Temerian,No Family,Murky Waters,The Witcher journal character entries-Thaler (spy)-Eskel,0.705
+Toruviel,Elf,Female,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9992
+Townsfolk,No Race,No Gender,No Nationality,No Family,No Profession,Dandelion-Prostitute-Priscilla,0.4003
+Trader,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.0
+Triss Merigold,Human,Female,Temerian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9997
+Ureus,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.5093
+Vaska,Human,Female,No Nationality,No Family,Merchant,The Witcher journal character entries-Thaler (spy)-Eskel,0.9186
+Velerad,Human,Male,Temerian,No Family,Vizima,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9677
+Vertz,Human,Female,Temerian,No Family,No Profession,Vertz-Ida Vertz-Marcus Vertz,-0.9744
+Vesemir,Human,Male,No Nationality,No Family,Witcher,Vesemir-Lambert-Eredin Bréacc Glas,-0.9994
+Vesna Hood,Human,Female,No Nationality,No Family,Waitress,The Witcher journal character entries-Thaler (spy)-Eskel,0.9708
+Vesper,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.7351
+Vetala,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9716
+Vincent Meis,Human,Male,Temerian,No Family,Guard,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9891
+Voref,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.7505
+Yaevinn,Elf,Male,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9844
+Zahin Schmartz,Dwarf,Male,No Nationality,No Family,Dentist,The Witcher journal character entries-Thaler (spy)-Eskel,0.3362
+Zdenek,Human,Male,Temerian,No Family,Fistfighters,The Witcher journal character entries-Thaler (spy)-Eskel,-0.737
+Zephyr,No Race,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9679
+Zoltan Chivay,Dwarf,Male,Mahakaman,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9971
+The Witcher 2 merchants,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.7096
+Abelard of Hagge,Human,Male,Aedirnian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,0.0731
+Adalbert (Nilfgaardian sorcerer),Human,Male,Nilfgaardian,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8913
+Adam Pangratt,Human,Male,No Nationality,No Family,Mercenary,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.992
+Adrianna,Human,Female,No Nationality,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7857
+Aep Dearhenna,Human,Male,No Nationality,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,0.0772
+Allgood,Human,Male,Aedirnian,No Family,Fist fighter,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8402
+Anaïs La Valette,Human,Female,Temerian,House of La Valette,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,0.7551
+Anezka,Human,Female,Temerian,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.7566
+Anselm of Aedirn,Human,Male,Aedirnian,No Family,Royal Guard,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.1779
+Archpriest (Monastery),Human,Male,Temerian,No Family,Priest,Ciri-Triss Merigold-Yennefer of Vengerberg,0.126
+Arnesse,Human,Female,Temerian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Arnolt Malliger,Human,Male,Kaedwenian,No Family,Spy,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9153
+Arseleta,Human,Female,Kaedwenian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Arthur Tailles,Human,Male,Temerian,No Family,Knight,Dandelion-Prostitute-Priscilla,-0.6315
+Aryan La Valette,Human,Male,Temerian,House of La Valette,Knight,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9512
+Assire var Anahid,Human,Female,Vicovarian,var Anahid family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9928
+Auckes,Human,Male,No Nationality,No Family,Witcher,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9933
+Baltimore,Dwarf,Male,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.5708
+Bartholomew Bargee,Human,Male,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.296
+Bernard Loredo,Human,Male,Temerian,No Family,Commandant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.1854
+Berthold Candeleria,Dwarf,Male,Temerian,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.2575
+Big Bust Miriam,Human,Female,Kaedwenian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Birdie,Human,Female,Kaedwenian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Bolton of Ironford,Human,Male,No Nationality,No Family,Knight,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.3291
+Boussy La Valette,Human,Male,Temerian,House of La Valette,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9716
+Bras of Ban Ard,Human,Male,Kaedwenian,No Family,Mage,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.6469
+Brigida Papebrock,Human,Female,Temerian,Papebrock family,Informant,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.775
+Burton,Human,Male,Kaedwenian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.8126
+Carduin,Human,Male,Kovirian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8369
+Cecil Burdon,Dwarf,Male,No Nationality,Skalen Burdon,Alderman,Ciri-Triss Merigold-Yennefer of Vengerberg,0.128
+Cedric (elf),Elf,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9188
+Chorab,Human,Male,Temerian,No Family,Village Elder,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.7227
+Ciaran aep Easnillen,Elf,Male,No Nationality,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9504
+Clovisse Merse,Human,Female,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.0
+Count Felart,Human,Male,Aedirnian,No Family,Nobleman,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.2439
+Count Tybalt (knight),Human,Male,No Nationality,No Family,Knight,The Witcher journal character entries-Thaler (spy)-Eskel,-0.6115
+Craftsman,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.7579
+Crinfrid Reavers,No Race,No Gender,No Nationality,No Family,No Profession,Boholt-Crinfrid Reavers-Missing creatures,-0.8671
+Cynthia,Human,Female,Alban,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.997
+Dagonet,Human,Male,Aedirnian,No Family,Court jester,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8173
+Dalum,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.4767
+Demavend III,Human,Male,Aedirnian,Aedirnian Dynasty,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9981
+Derae,Elf,Female,No Nationality,No Family,Prostitute,Dandelion-Prostitute-Priscilla,-0.3459
+Detmold,Human,Male,Kovirian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9989
+Dmitri,Human,Male,No Nationality,No Family,Bandit,The Witcher journal character entries-Thaler (spy)-Eskel,-0.987
+Dragan,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.4019
+Earso,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8261
+Edwin Leistham,Human,Male,Kaedwenian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.1027
+Einar Gausel,Dwarf,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8588
+Ekhart Henessy,Human,Male,Kaedwenian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9833
+Elven prisoner,Elf,Male,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.5425
+Enzo Etcheverry,Human,Male,Temerian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.5368
+Eredin Bréacc Glas,Elf,Male,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.9996
+Falas,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.8873
+Farid,Human,Male,No Nationality,No Family,Alchemist,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2023
+Felicia Cori,Human,Female,No Nationality,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,0.978
+Felix Favela,Dwarf,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.6808
+Fenn (commando),Human,Male,Temerian,No Family,No Profession,Fenn (commando)-Thirteen-Silas,0.6705
+Fioravanti,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.9323
+Gar,Human,Male,Crinfrider,No Family,Mercenary,Boholt-Crinfrid Reavers-Missing creatures,0.7783
+Gaspar,Human,Male,No Nationality,No Family,Alchemist,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2023
+Gavrilo,Human,Male,Kaedwenian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.4588
+Gridley,Human,Male,Aedirnian,No Family,Medic,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9649
+Gus of Tretogor,Human,Male,Redanian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.2144
+Haggard,Dwarf,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.4404
+Harald Gord,Dwarf,Male,Mahakaman,No Family,Mercenary,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3818
+Harmond,Human,Male,Aedirnian,No Family,Court jester,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8173
+Henselt,Human,Male,Kaedwenian,Dynasty of the Unicorn,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9996
+Hieronymus Lash,No Race,Male,No Nationality,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.3612
+Himsbach,Human,Male,Aedirnian,No Family,Royal Guard,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.1779
+Igor Vivaldi,Dwarf,Male,No Nationality,Vivaldi family,Bank,Gwent players-The Witcher 3 merchants-Blacksmith,0.2732
+Ilona,Elf,Female,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.296
+Iorweth,Elf,Male,No Nationality,No Family,Guerrilla fighter,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9673
+Isidor Kay,Dwarf,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.2732
+Jan Natalis,Human,Male,Temerian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9009
+Julia (prostitute),Human,Female,Temerian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Kennet,Human,Male,Crinfrider,No Family,Mercenary,Boholt-Crinfrid Reavers-Missing creatures,0.0
+King Ziggy,Human,No Gender,No Nationality,No Family,Fistfight organizer,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2748
+Lasota,Human,Male,Kaedwenian,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.2944
+Letande Avet,Human,Male,Cidarian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9664
+Letho,Human,Male,No Nationality,No Family,Witcher,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9995
+Licking Lucy,Human,Female,Kaedwenian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Linus Maravel,Human,Male,Temerian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9075
+Louis Merse,Human,Male,Temerian,No Family,Flotsam,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.4927
+Madame Carole,Human,Female,No Nationality,No Family,Kaedweni brothel,Dandelion-Prostitute-Priscilla,0.296
+Mael,Elf,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.931
+Magnus,Human,Male,No Nationality,No Family,Blacksmith,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.4767
+Malget,No Race,No Gender,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9633
+Manfred (soldier),Human,Male,Kaedwenian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.6915
+Mantas Birut,Dwarf,Male,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.1531
+Marcus,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8122
+Margot,Human,Female,No Nationality,No Family,Madame,Dandelion-Prostitute-Priscilla,-0.3239
+Maria Louisa La Valette,Human,Female,No Nationality,House of La Valette,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,0.1765
+Marietta Loredo,Human,Female,Temerian,No Family,Fisstech,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.5719
+Matilda Szabo,Human,Female,Temerian,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.6293
+Mavrick,Human,Male,Kaedwenian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9398
+Moril,Elf,Female,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9253
+Mottle,Elf,Female,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8509
+Myron,Human,Male,Kaedwenian,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8316
+Mysterious merchant,No Race,No Gender,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.992
+Newboy,Human,Male,Temerian,No Family,Mercenary,Boholt-Crinfrid Reavers-Missing creatures,0.9522
+Nilfgaardian's wraith,Human,Male,Nilfgaardian,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9611
+Norman Sador,Human,Male,Temerian,No Family,Crossbowman,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.6808
+Odrin,Human,Male,Kaedwenian,No Family,Soldier,Gwent players-The Witcher 3 merchants-Blacksmith,0.9452
+Olcan,No Race,No Gender,Aedirnian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9921
+Operator,Vran,Male,No Nationality,No Family,Mage,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9978
+Penitent Monk,Human,Male,No Nationality,No Family,Monk,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9923
+Polycarp of Rinde,Human,Male,Redanian,No Family,Knight,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.7059
+Proximo,Human,Male,No Nationality,No Family,Arena master,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9492
+Ravanen Kimbolt,Human,Male,Temerian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9928
+Raymond Gessler,Dwarf,Male,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8625
+Relic peddler,Human,Male,Kaedwenian,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.9889
+Renuald aep Matsen,Human,Male,Alban,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9265
+Roach,No Race,Female,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,0.7045
+Roderick of Daevon,Human,Male,Kaedwenian,No Family,Knight,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8126
+Rupert Brandhuber,Human,Male,Aedirnian,No Family,Medic,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.987
+Sabrina Glevissig,Human,Female,Kaedwenian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9723
+Saesenthessis,Dragon,Female,Aedirnian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9992
+Sambor,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.8207
+Seherim,Elf,Male,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.7876
+Seltkirk,Human,Male,Aedirnian,No Family,Knight,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9295
+Semko,Human,Male,Aedirnian,No Family,Fist fighter,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8402
+Sendler,Human,Male,No Nationality,No Family,Tanner,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.1134
+Serrit,Human,Male,No Nationality,No Family,Witcher,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.992
+Seuxen,Human,Male,Temerian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.5994
+She-troll of Vergen,Troll,Female,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9771
+Sheala de Tancarville,Human,Female,Creydener,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7897
+Sheldon Skaggs,Dwarf,Male,Mahakaman,No Family,Warrior,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9758
+Shilard Fitz-Oesterlen,Human,Male,Alban,Fitz-Oesterlen family,Ambassador,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9252
+Silas,Human,Male,Temerian,No Family,Soldier,Fenn (commando)-Thirteen-Silas,0.0516
+Silgrat,Human,Male,Aedirnian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9161
+Skalen Burdon,Dwarf,Male,No Nationality,Cecil Burdon,Arm wrestler,Ciri-Triss Merigold-Yennefer of Vengerberg,0.5574
+Spark,Elf,Female,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.2263
+Stennis,Human,Male,Aedirnian,Aedirnian Dynasty,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9838
+Sven (Manfred's son),Human,Male,Kaedwenian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.3182
+Swann,Human,Male,Temerian,No Family,Knight,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7269
+Talking Golem,No Race,No Gender,No Nationality,No Family,Guard,Ciri-Triss Merigold-Yennefer of Vengerberg,0.872
+The Incredible Lockhart,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9287
+The Mighty Numa,Human,Male,No Nationality,No Family,Arm wrestler,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.9036
+Thirteen,Human,Male,Temerian,No Family,Knight,Fenn (commando)-Thirteen-Silas,0.3182
+Thorak,No Race,No Gender,No Nationality,No Family,Runesmith,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.9623
+Troll of Flotsam,Troll,Male,No Nationality,No Family,No Profession,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.9959
+Troll of Vergen,Troll,Male,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9403
+Tybalt of Vengerberg,Human,Male,Aedirnian,No Family,Archer,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7191
+Vandergrift,Human,Male,Kaedwenian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9929
+Vanhemar,Human,Male,Alban,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.6597
+Vencel Pugg,Human,Male,No Nationality,No Family,Alchemist,The Witcher journal character entries-Thaler (spy)-Eskel,0.3182
+Vernon Roche,Human,Male,Temerian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9992
+Ves,Human,Female,Temerian,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.7236
+Vilmos Bartok,Human,Male,No Nationality,No Family,Merchant,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.1045
+Vincent Molnar,Human,Male,No Nationality,No Family,Knight,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3818
+Vinson Traut,Human,Male,Kaedwenian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.8214
+Visionary,Human,Male,No Nationality,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9787
+Whistling Wendy,Human,Female,Kaedwenian,No Family,Prostitute,Dandelion-Prostitute-Priscilla,-0.8992
+Willy Oblate,Human,Male,Aedirnian,No Family,Servant,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9062
+Yarpen Zigrin,Dwarf,Male,Mahakaman,Clan Zigrin,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9986
+Yennefer of Vengerberg,Quarter-elf,Female,Aedirnian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.6743
+Zindrab,Human,Male,No Nationality,No Family,Dice poker,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.6908
+Zyvik,Human,Male,Kaedwenian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7933
+Gwent players,No Race,No Gender,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,-0.7096
+Abbé Faria,Human,Male,Redanian,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,-0.9779
+Abelard Rizza,Human,Male,Redanian,No Family,Actor,Dandelion-Prostitute-Priscilla,0.969
+Aegar,Elf,Male,No Nationality,No Family,Circus performer,Ciri-Triss Merigold-Yennefer of Vengerberg,0.5837
+Agda,Human,Female,Skelliger,No Family,No Profession,Mikkel (Skelliger)-Timmon-Agda,-0.7003
+Agneta,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.743
+Aki II,Human,Male,Skelliger,Clan Brokvar,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.8934
+Albert Vegelbud,Human,Male,Redanian,Vegelbud family,Amateur alchemist,Dandelion-Prostitute-Priscilla,0.6603
+Albin Hart,Human,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.1027
+Alchemist (Crematory),Human,Male,Redanian,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8674
+Aldert Geert,Human,Male,Redanian,No Family,Assistant professor,Gwent players-The Witcher 3 merchants-Blacksmith,0.9186
+Alexander,Human,Male,No Nationality,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9913
+Allgod,Sylvan,Male,No Nationality,No Family,Self-appointed god,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.714
+Ambros,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.902
+Amos var Ypsis,No Race,Male,No Nationality,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.0183
+Amrynn,Elf,Female,No Nationality,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.4767
+Anabelle,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9695
+Anisse,Human,Female,No Nationality,No Family,Mage,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9042
+Anna Strenger,Human,Female,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9994
+Anselm (merchant),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.296
+Armorer (Hierarch Square),Human,Male,Redanian,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.5707
+Armorer (Kaer Muire),Human,Male,Skelliger,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Armorer (Kaer Trolde keep),Human,Male,Skelliger,Clan an Craite,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.6486
+Armorer (Larvik),Human,Male,Skelliger,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.4767
+Armorer (Midcopse),Human,Male,Temerian,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.2746
+Armorer (Oxenfurt),Human,Male,Redanian,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.659
+Armorer (Urialla Harbor),Human,Male,Skelliger,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.34
+Arnout Vester,Human,Male,Nilfgaardian,No Family,Bounty hunter,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9724
+Arnvald,Human,Male,Skelliger,No Family,Seneschal,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9883
+Artis,Human,Male,Skelliger,No Family,Druid,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.743
+Astrid (Skjall's sister),Human,Female,Skelliger,Clan Heymaey,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.3998
+Auberon Muircetach,Elf,Male,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.9815
+Avallac'h,Elf,Male,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,0.9816
+Aynara,Human,Female,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.802
+Barber (Claywich),Human,Male,Temerian,No Family,Barber,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.4019
+Barber (Gildorf),Human,Male,Redanian,No Family,Barber,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.4215
+Barber (Svorlag),Human,Male,Skelliger,No Family,Barber,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2732
+Barber (The Bits),Human,Male,Redanian,No Family,Barber,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.5744
+Bart,Rock troll,Male,Zerrikanian,No Family,Count Reuven's Treasure,Ciri-Triss Merigold-Yennefer of Vengerberg,0.9151
+Barylka,Dog,No Gender,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7322
+Bastien Vildenvert,Human,Male,Temerian,No Family,Soldier,Bastien Vildenvert-Dune Vildenvert-Rhosyn,-0.9648
+Bea,Human,Female,Redanian,No Family,Barmaid,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8519
+Beast Tamer,Human,Male,Redanian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.8723
+Berem,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.8834
+Bernard Tulle,Halfling,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.7466
+Bertha,Human,Female,No Nationality,No Family,Prostitute,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8271
+Berthold,Human,Male,No Nationality,No Family,Alchemist,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9042
+Bertram (peasant),Human,Male,Redanian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9647
+Birna,Human,Female,Skelliger,Clan Tuirseach,No Profession ,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9976
+Bjorg,Human,Male,Skelliger,No Family,Master shipwright,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.6908
+Blacksmith (Bald Mountain),Human,Male,Temerian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Blacksmith (Blackbough),Human,Male,Temerian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.3818
+Blacksmith (Fayrlund),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.6705
+Blacksmith (Harviken),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Blacksmith (Larvik),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.3182
+Blacksmith (Lindenvale),Human,Male,Temerian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.5106
+Blacksmith (Novigrad),Human,Male,Redanian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.0772
+Blacksmith (Oreton),Human,Male,Temerian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Blacksmith (Oxenfurt),Human,Male,Redanian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Blacksmith (Silverton),Human,Male,Redanian,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,-0.4404
+Blacksmith (Urialla Harbor),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,-0.3818
+Boatwright,Human,Male,Temerian,No Family,Boatwright,Gwent players-The Witcher 3 merchants-Blacksmith,-0.4404
+Boris (bear),Bear,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9136
+Boris (troll),Rock troll,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.1045
+Bram,Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.9738
+Bran Tuirseach,Human,Male,Skelliger,Clan Tuirseach,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.9975
+Bran's unidentified concubine,Human,Female,Skelliger,No Family,No Profession ,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9062
+Brean Hotsch,Halfling,Male,No Nationality,No Family,Lumberjack,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.4588
+Brewess,Relict,Female,No Nationality,No Family,Witch,Crones-Phillip Strenger-Anna Strenger,0.899
+Caesar Bilzen,Dwarf,Male,Novigradian,No Family,Accountant,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.4404
+Caleb Menge,Human,Male,Novigradian,No Family,Witch hunter,Dandelion-Prostitute-Priscilla,-0.1891
+Captain Liglad,Human,Male,No Nationality,No Family,Ship captain,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7184
+Captain Wolverstone,Human,Male,No Nationality,No Family,Ship captain,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8957
+Caranthir Ar-Feiniel,Elf,Male,No Nationality,No Family,Navigator,Vesemir-Lambert-Eredin Bréacc Glas,-0.9843
+Carlo Rycher,Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.5719
+Carlo Varese,Dwarf,Male,Novigradian,No Family,Crime boss,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.0748
+Carthia van Canten,Human,Female,Nilfgaardian,No Family,Spy,Gwent players-The Witcher 3 merchants-Blacksmith,0.1922
+Caspar,Human,Male,Redanian,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.2732
+Cerys an Craite,Human,Female,Skelliger,Clan an Craite,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.9978
+Chappelle,Human,Male,Redanian,No Family,No Profession,Dandelion-Prostitute-Priscilla,-0.5806
+Chet,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.7269
+Ciri,Human,Female,Cintran,House of Raven,Imperator Empress of Nilfgaard,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9999
+Claer,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9802
+Cledwyn,Human,Male,Nilfgaardian,No Family,Barber,Ciri-Triss Merigold-Yennefer of Vengerberg,0.5106
+Corinne Tilly,Human,Female,No Nationality,No Family,Oneiromancer,Vesemir-Lambert-Eredin Bréacc Glas,0.9786
+Count de Luverten,Human,Male,Ebbinger,No Family,No Profession,Dandelion-Prostitute-Priscilla,0.4767
+Count Tybalt (Novigrad),Human,Male,Redanian,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,-0.0772
+Crach an Craite,Human,Male,Skelliger,Clan an Craite,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.9922
+Crones,No Race,No Gender,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,0.8849
+Cyprian Wiley,Human,Male,Novigradian,No Family,Crime boss,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9996
+Cyrus Engelkind Hemmelfart,Human,Male,No Nationality,No Family,Priest,Dandelion-Prostitute-Priscilla,-0.674
+Dagmar,Human,Male,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9913
+Damiaan,Human,Male,Redanian,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.128
+Dea,No Race,Female,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9565
+Dieter,Human,Male,Temerian,No Family,Servant,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7783
+Dilvyn,Human,Male,Nilfgaardian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.128
+Dirk,Human,Male,Novigradian,No Family,Torturer,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9403
+Dolores Reardon,Human,Female,Temerian,No Family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8705
+Donar an Hindar,Human,Male,Skelliger,Clan an Hindar,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.8896
+Draig Bon-Dhu,Human,Male,Skelliger,No Family,Skald,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.5423
+Drogodar,Human,Male,Cintran,No Family,Bard,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.4215
+Dromle,Human,Male,Temerian,No Family,No Profession ,Vesemir-Lambert-Eredin Bréacc Glas,-0.631
+Dudu,Doppler,Male,No Nationality,Biberveldt family,Businessman,Dandelion-Prostitute-Priscilla,0.8353
+Duke (gangster),Human,Male,Redanian,No Family,Crime boss,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9054
+Dune Vildenvert,Human,Male,temerian,No Family,No Profession,Bastien Vildenvert-Dune Vildenvert-Rhosyn,-0.8263
+Ealdorman (Downwarren),Human,Male,Temerian,No Family,Ealdorman,Crones-Phillip Strenger-Anna Strenger,-0.3612
+Ealdorman (White Orchard),Human,Male,Temerian,No Family,Ealdorman,Gwent players-The Witcher 3 merchants-Blacksmith,-0.8243
+Earl (gangster),Human,Male,Redanian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9581
+Edna var Attre,Human,Female,Attrean,Attre ruling houses|var Attre family,No Profession,Dandelion-Prostitute-Priscilla,0.9186
+Egbert,Human,Male,Redanian,No Family,Guard,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.3612
+Egill,Human,Male,Skelliger,No Family,Druid,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9552
+Éibhear Hattori,Elf,Male,No Nationality,No Family,Blacksmith,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8338
+Einar (Harviken),Human,Male,Skelliger,No Family,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.5719
+Einar (Larvik),Human,Male,Skelliger,No Family,Pirate,Vesemir-Lambert-Eredin Bréacc Glas,-0.9109
+Elihal,Elf,Male,No Nationality,No Family,Tailor,Dandelion-Prostitute-Priscilla,0.9788
+Elsa,Human,Female,Temerian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,-0.994
+Emhyr var Emreis,Human,Male,Alban,House of Emreis,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9984
+Ernst van Hoorn,Human,Male,No Nationality,No Family,Swordsmith,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8497
+Eryka,Human,Female,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.8442
+Evald,Human,Male,Skelliger,No Family,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.1779
+Fabian Meyer,Dwarf,Male,Mahakaman,No Family,Woodcarver,Dandelion-Prostitute-Priscilla,-0.9726
+Felix Grubb,Human,Male,Redanian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8442
+Fergus Graem,Dwarf,Male,No Nationality,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.9692
+Finneas,Half-elf,Male,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,-0.8834
+Folan,Human,Male,Skelliger,Clan Tuirseach,Warrior,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.6497
+Francis Bedlam,Human,Male,Novigradian,No Family,Crime lord,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9313
+Freek,Human,Male,Redanian,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,0.0516
+Fringilla Vigo,Human,Female,Toussaintois,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.969
+Fritjof,Human,Male,Skelliger,No Family,Vaedermakar,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.7579
+Fugas,Sylvan,Male,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9588
+Gaetan,Human,Male,No Nationality,No Family,Witcher,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9965
+Gascoigne,Human,Male,No Nationality,No Family,Bard,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.4084
+Gaspard,Dwarf,Male,Mahakaman,No Family,Real estate,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7506
+Gaunter O'Dimm,No Race,Male,No Nationality,No Family,No Profession ,Dandelion-Prostitute-Priscilla,0.1011
+Ge'els,Elf,Male,No Nationality,No Family,Viceroy,Vesemir-Lambert-Eredin Bréacc Glas,0.9562
+Genny,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.8957
+Georgius Georg,Human,Male,No Nationality,No Family,Fistfighter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.6369
+Gerd (peasant),Human,Male,Redanian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.6486
+Gert Borel,Human,Male,Temerian,No Family,Corpse collector,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.4763
+Ginter de Lavirac,Human,Male,No Nationality,No Family,Fisstech,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.8765
+Glenna,Human,Female,Temerian,No Family,Meat seller,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.0
+Gomo Seeling,Human,Male,Redanian,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,0.875
+Gottard,Human,Male,Redanian,No Family,Peasant,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.0129
+Graden,Human,Male,Redanian,No Family,Witch hunter,Crones-Phillip Strenger-Anna Strenger,-0.1184
+Graham,Human,Male,Temerian,No Family,Fisherman,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9978
+Gran,Human,Female,Temerian,No Family,Carer,Crones-Phillip Strenger-Anna Strenger,-0.9159
+Gravedigger (Lindenvale),Human,Male,Temerian,No Family,Gravedigger,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2263
+Gregor,Human,Male,Redanian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.5267
+Gremist,Human,Male,Skelliger,No Family,Druid,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9809
+Gretka,Human,Female,Temerian,No Family,Kitchen helper,Crones-Phillip Strenger-Anna Strenger,0.1756
+Griswold,Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.7269
+Gus Meyer,Dwarf,Male,Mahakaman,No Family,Woodcarver,Dandelion-Prostitute-Priscilla,-0.9909
+Gustav Roene,Human,Male,No Nationality,No Family,Arena fighter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8442
+Haddy,Human,Male,Temerian,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,0.34
+Hal,Human,Male,Metinnese,No Family,Fistfighter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3818
+Halbjorn,Human,Male,Skelliger,Clan Dimun,Warrior,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.34
+Hammond,Human,Male,Skelliger,No Family,Slaver,Vesemir-Lambert-Eredin Bréacc Glas,-0.4404
+Hanna,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7548
+Hans of Cidaris,Human,Male,Cidarian,No Family,Mercenary,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7014
+Happen the Eunuch,Human,Male,No Nationality,No Family,Bookkeeper,Ciri-Triss Merigold-Yennefer of Vengerberg,0.6369
+Harald an Tordarroch,Human,Male,Skelliger,Clan Tordarroch,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9826
+Harald Featherbuns,Human,Male,Redanian,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,0.7184
+Harmon aep Groenekan,Human,Male,Alban,No Family,Commander,Gwent players-The Witcher 3 merchants-Blacksmith,-0.1154
+Havart var Moehoen,Human,Male,Alban,No Family,Soldier,Crones-Phillip Strenger-Anna Strenger,-0.6663
+Helma,Human,Female,Redanian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8859
+Hendrik,Human,Male,Nilfgaardian,No Family,Merchant,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9564
+Henri Rautlec,Halfling,Male,Redanian,No Family,Artist,Dandelion-Prostitute-Priscilla,0.9354
+Henry var Attre,Human,Male,Attrean,Attre ruling houses|var Attre family,No Profession,Dandelion-Prostitute-Priscilla,0.765
+Herbalist (campsite),Human,Male,Temerian,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,-0.4019
+Herbalist (Cunny of the Goose),Human,Male,Redanian,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.0
+Herbalist (Glory Lane),Halfling,Male,No Nationality,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.5859
+Herbalist (Hierarch Square),Human,Male,No Nationality,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.0
+Herbalist (Kaer Trolde),Human,Male,Skelliger,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.0
+Herbalist (Kvalheim Isle),Human,Male,Skelliger,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.128
+Herbalist (Liberated camp),Human,Male,No Nationality,No Family,Lurtch,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3818
+Herbalist (Refugees' Camp),Human,Male,Temerian,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.0772
+Herbalist (Shrine),Human,Male,Temerian,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,-0.4588
+Herbalist (Spitfire Bluff),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.3818
+Hjalmar an Craite,Human,Male,Skelliger,Clan an Craite,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.9848
+Hjort,Human,Male,Skelliger,No Family,Druid,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.9348
+Holger Blackhand,Human,Male,Skelliger,Clan Dimun,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.891
+Holofernes Meiersdorf,Halfling,Male,No Nationality,No Family,Miller,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8658
+Hortensio,Human,Male,Temerian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7506
+Hrodeberth,Human,Male,Nazairi,No Family,Soldier,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9549
+Hubert Rejk,Higher vampire,Male,No Nationality,No Family,Coroner,Dandelion-Prostitute-Priscilla,-0.9961
+Hubrecht,Human,Male,Redanian,No Family,Witch hunter,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.3612
+Hunter (Lindenvale),Human,Male,Temerian,No Family,Hunter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7003
+Hussar,Dog,Male,No Nationality,No Family,No Profession,Bastien Vildenvert-Dune Vildenvert-Rhosyn,-0.5267
+Ida Emean aep Sivney,Elf,Female,No Nationality,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.965
+Igor (Fools' Gold),Human,Male,Temerian,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,0.296
+Igor the Hook,Human,Male,Novigradian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9839
+Ilge,Human,Male,Skelliger,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Imlerith,Elf,Male,No Nationality,No Family,Commander,Vesemir-Lambert-Eredin Bréacc Glas,-0.9988
+Ingrid Vegelbud,Human,Female,No Nationality,Vegelbud family,No Profession,Dandelion-Prostitute-Priscilla,-0.9835
+Innkeep (Cunny of the Goose),Human,Male,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Innkeep (Harviken),Human,Male,Skelliger,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.4019
+Innkeep (Inn at the Crossroads),Human,Male,Temerian,No Family,Innkeeper,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2023
+Innkeep (Larvik),Human,Male,Skelliger,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Innkeep (Lindenvale),Human,Male,Temerian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.6908
+Innkeep (Rosemary and Thyme),Human,Male,No Nationality,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.8658
+Innkeep (Seven Cats Inn),Human,Female,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Innkeep (Svorlag),Human,Male,Skelliger,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.4588
+Innkeep (The Golden Sturgeon),Human,Male,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.1027
+Innkeep (The Kingfisher),Human,Male,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,-0.6705
+Innkeep (The Nowhere Inn),Human,Female,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Innkeep (Urialla Harbor),Human,Male,Skelliger,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Irina Renarde,Human,Female,No Nationality,No Family,Actress,Dandelion-Prostitute-Priscilla,0.9906
+Ivar,Human,Male,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.909
+Jad Karadin,Human,Male,No Nationality,No Family,Witcher,Vesemir-Lambert-Eredin Bréacc Glas,-0.9568
+Joachim von Gratz,Human,Male,Redanian,No Family,Chief Surgeon,Dandelion-Prostitute-Priscilla,-0.9657
+John Geermer,Human,Male,Temerian,No Family,Temeria,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.6899
+John Verdun,Human,Male,Temerian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9906
+Johnny,Godling,Male,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,0.9921
+Jonas the Innkeep,Human,Male,Skelliger,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Jonna,Human,Female,Skelliger,No Family,Herbalist,Herbalist-Abbé Faria-Jonna,-0.9677
+Jorulf the Wolverine,Human,Male,Skelliger,No Family,Warrior,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.7003
+Josta,Human,Female,Skelliger,No Family,Priest,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.2732
+Jouke,Human,Male,Redanian,No Family,Soldier,The Witcher 2 merchants-Bernard Loredo-Craftsman,-0.2732
+Jutta an Dimun,Human,Female,Skelliger,Clan Dimun,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.3675
+Karli,Human,Female,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.5719
+Keira Metz,Human,Female,Temerian,No Family,Mage,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9977
+King of the Wolves (creature),No Race,No Gender,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9888
+Kiyan,Human,Male,No Nationality,No Family,Witcher,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9985
+Kluhg,Human,Male,No Nationality,No Family,Smuggler,Dandelion-Prostitute-Priscilla,-0.9656
+Kobe,Human,Male,No Nationality,No Family,No Profession,Dandelion-Prostitute-Priscilla,-0.9255
+Kori,Human,Male,Skelliger,Clan Drummond,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9143
+Kraki,Human,Male,Skelliger,Clan Drummond,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9143
+Kurt (witch hunter),Human,Male,Novigradian,No Family,Witch hunter,Dandelion-Prostitute-Priscilla,-0.8591
+Kurt Dysart,Human,Male,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9176
+La Valette Guard Captain,Human,Male,Redanian,No Family,Soldier,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7351
+Leif,Human,Male,Skelliger,Clan Drummond,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9231
+Lena,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9277
+Lessy,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.4019
+Liesje,Human,Female,Temerian,No Family,Farmer,Bastien Vildenvert-Dune Vildenvert-Rhosyn,0.0
+Little Red (bandit),Human,Female,No Nationality,No Family,Bandit,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9176
+Loan Shark,Human,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.636
+Lodrin,Human,Male,Temerian,No Family,Guard,Crones-Phillip Strenger-Anna Strenger,-0.8271
+Lothar (Tjalve's father),Human,Male,Skelliger,No Family,No Profession,Herbalist-Abbé Faria-Jonna,-0.7582
+Louis (bandit),Human,Male,No Nationality,No Family,Criminal,Ciri-Triss Merigold-Yennefer of Vengerberg,0.2366
+Luc Vegelbud,Human,Male,No Nationality,Vegelbud family,No Profession,Dandelion-Prostitute-Priscilla,-0.6235
+Lucas,Human,Male,No Nationality,No Family,No Profession,Dandelion-Prostitute-Priscilla,-0.9255
+Lugos Drummond (Blueboy),Human,Male,Skelliger,Clan Drummond,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.1857
+Lugos Drummond (Madman),Human,Male,Skelliger,Clan Drummond,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9898
+Lund,Human,Male,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.0895
+Lyffned,Human,Male,Nilfgaardian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.296
+Madame (Crippled Kate's),Human,Female,No Nationality,No Family,Madame,Dandelion-Prostitute-Priscilla,-0.2263
+Mandy,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8718
+Manfred (merchant),Human,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9832
+Marabella,Human,Female,No Nationality,No Family,Teacher,Crones-Phillip Strenger-Anna Strenger,0.0
+Marcus T.K. Hodgson,Human,Male,Redanian,No Family,Book seller,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9612
+Margarita Laux-Antille,Human,Female,No Nationality,No Family,Aretuza,Ciri-Triss Merigold-Yennefer of Vengerberg,0.7728
+Margrit,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9955
+Marica,Human,Female,Temerian,No Family,Servant,Crones-Phillip Strenger-Anna Strenger,-0.1531
+Marius Florin,Human,Male,Redanian,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,0.7056
+Marquise Serenity,Human,Female,No Nationality,No Family,Madame,Dandelion-Prostitute-Priscilla,0.9074
+Master Claytop,Human,Male,No Nationality,No Family,Bookie,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.9246
+Mathios,Human,Male,Skelliger,No Family,Steward,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.0258
+Maxim Boliere,Human,Male,Redanian,No Family,Actor ,Dandelion-Prostitute-Priscilla,0.4404
+Medic (Oxenfurt Morgue),Human,Male,Redanian,No Family,Medic,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9159
+Merchant (Ard Skellig sawmill),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.3818
+Merchant (Blackbough),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.6374
+Merchant (Blandare),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Merchant (Boatmakers' Hut),Human,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.1027
+Merchant (Calveit Watchtower),Human,Male,Nilfgaardian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.25
+Merchant (campsite),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.8248
+Merchant (Claywich),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.1027
+Merchant (Downwarren),Human,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.7461
+Merchant (Fayrlund),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Merchant (Fish Market),Human,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.2023
+Merchant (fishmonger),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.2023
+Merchant (Fyresdal),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Merchant (Gildorf),Human,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Merchant (halfling),Halfling,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Merchant (Harviken),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.2584
+Merchant (Hierarch Square),Human,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.3612
+Merchant (Holmstein's Port),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Merchant (Isolated Hut),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.25
+Merchant (Kaer Trolde Harbor),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.3612
+Merchant (Larvik),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.4588
+Merchant (Lindenvale),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.6124
+Merchant (Midcopse),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.5419
+Merchant (Nilfgaardian Army Group 'Center' Camp),Human,Male,Nilfgaardian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.4404
+Merchant (Oreton),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.128
+Merchant (Oxenfurt),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.1779
+Merchant (Putrid Grove),Human,Male,Novigradian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.0
+Merchant (Scoia'tael),Elf,Male,No Nationality,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.4588
+Merchant (Silverton docks),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.128
+Merchant (Silverton),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.8625
+Merchant (Svorlag),Human,Male,Skelliger,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.25
+Merchant (The Bits),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.4767
+Merchant (Tretogor Gate),Human,Male,Redanian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.2023
+Merchant (White Orchard sawmill),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.1027
+The Witcher 3 merchants,No Race,No Gender,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,-0.6428
+Mercia,Human,Female,No Nationality,No Family,Prostitute,Ciri-Triss Merigold-Yennefer of Vengerberg,0.8782
+Mererid,Human,Male,Nilfgaardian,No Family,Imperial Chamberlain,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.7939
+Mikah,Human,Male,Temerian,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.7227
+Mikkel (Skelliger),Human,Male,Skelliger,No Family,No Profession,Mikkel (Skelliger)-Timmon-Agda,-0.9136
+Mikula (orphan),Human,Female,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.802
+Millie,Human,Female,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.2066
+Mislav,Human,Male,Temerian,No Family,Hunter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3291
+Molly,Human,Female,No Nationality,No Family,Maid,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.3323
+Moreelse,Human,Male,Novigradian,No Family,No Profession,Dandelion-Prostitute-Priscilla,-0.0772
+Moritz Diefenthel,Human,Male,No Nationality,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.5697
+Morkvarg,Human,Male,Skelliger,No Family,Pirate,Vesemir-Lambert-Eredin Bréacc Glas,-0.9881
+Morvran Voorhis,Human,Male,Alban,Voorhis family,No Profession,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.9368
+Mousesack,Human,Male,Skelliger,No Family,Druid,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9966
+Moving merchant,Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,-0.33
+Napp,Human,Male,Temerian,No Family,No Profession ,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9606
+Narcissa,Human,Female,No Nationality,No Family,Prostitute,Crones-Phillip Strenger-Anna Strenger,0.2584
+Nathaniel Pastodi,Human,Male,Redanian,No Family,Priest,Dandelion-Prostitute-Priscilla,-0.9943
+Niellen,Human,Male,Temerian,No Family,Hunter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9977
+Nilfgaardian Nobleman (Royal Palace at Vizima),Human,Male,Nilfgaardian,No Family,Nobleman,Gwent players-The Witcher 3 merchants-Blacksmith,0.9231
+Nissa,Elf,Female,No Nationality,No Family,Performer,Dandelion-Prostitute-Priscilla,0.34
+Nithral,Elf,Male,No Nationality,No Family,Warrior,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.8945
+Odolan,Human,Male,Temerian,No Family,Farmer,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9337
+"Ogg, Pogg and Rogg",Troll,Male,No Nationality,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,0.1513
+Olaf (bear),No Race,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.0516
+Old Sage,Human,Male,Temerian,No Family,Soothsayer,Gwent players-The Witcher 3 merchants-Blacksmith,0.9704
+Old Woman (White Orchard),Human,Female,Temerian,No Family,No Profession,The Witcher journal character entries-Thaler (spy)-Eskel,-0.9844
+Ole-Kristian,Human,Male,Skelliger,No Family,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9442
+Olivier,Human,Male,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,-0.8973
+Orphans,No Race,No Gender,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9694
+Oswin,Human,Male,Temerian,No Family,Stablemaster,Crones-Phillip Strenger-Anna Strenger,0.7783
+Otrygg an Hindar,Human,Male,Skelliger,Clan an Hindar,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.7964
+Otto Bamber,Halfling,Male,Redanian,No Family,Herbalist,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9144
+Patricia Vegelbud,Human,Female,No Nationality,Vegelbud family,No Profession,Dandelion-Prostitute-Priscilla,-0.872
+Patrick Hazelnutt,Human,Male,Novigradian,No Family,Minor nobleman,Gwent players-The Witcher 3 merchants-Blacksmith,0.2023
+Peter Saar Gwynleve,Human,Male,Alban,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.5719
+Petter,Human,Male,Skelliger,No Family,No Profession,Mikkel (Skelliger)-Timmon-Agda,0.0936
+Phillip Strenger,Human,Male,Temerian,No Family,Soldier,Crones-Phillip Strenger-Anna Strenger,-0.9993
+Polly,Human,Female,No Nationality,No Family,Choreographer,Dandelion-Prostitute-Priscilla,0.0
+Porter (Putrid Grove),Human,Male,Novigradian,No Family,Porter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.25
+Preacher (Temple Isle),Human,Male,No Nationality,No Family,Mage,Gwent players-The Witcher 3 merchants-Blacksmith,0.3903
+Preben,Human,Male,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9913
+Princess (goat),No Race,Female,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,0.6249
+Priscilla,Human,Female,Kovirian,No Family,Bard,Dandelion-Prostitute-Priscilla,0.9968
+Prison Warden,Human,Male,Redanian,No Family,Deireadh prison,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.981
+Quartermaster (Crow's Perch),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.6908
+Quartermaster (Nilfgaardian Garrison),Human,Male,Nilfgaardian,No Family,Quartermaster,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3187
+Radko,Human,Male,Temerian,No Family,Soldier,Crones-Phillip Strenger-Anna Strenger,-0.4404
+Ravik,Human,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.0258
+Remi Villeroy,Human,Male,No Nationality,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.743
+Rhosyn,Human,Male,Nilfgaardian,No Family,Soldier,Bastien Vildenvert-Dune Vildenvert-Rhosyn,-0.9678
+Rico Meiersdorf,Halfling,Male,No Nationality,No Family,Spy,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.886
+Ronvid of the Small Marsh,Human,Male,Kaedwenian,No Family,Knight,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9767
+Rosa var Attre,Human,Female,Attrean,Attre ruling houses|var Attre family,No Profession,Dandelion-Prostitute-Priscilla,-0.3308
+Rostan Muggs,Dwarf,Male,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9493
+Rudolf de Jonkheer,Human,Male,Redanian,No Family,Banker,Vesemir-Lambert-Eredin Bréacc Glas,0.4133
+Rufus,Human,Male,Redanian,No Family,Soldier,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9854
+Rurik,Human,Male,Skelliger,No Family,Boatwright's apprentice,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.5563
+Salma,No Race,No Gender,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.4243
+Sarah,Godling,Female,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.6706
+Sergeant Ardal,Human,Male,Temerian,No Family,Soldier,Crones-Phillip Strenger-Anna Strenger,-0.9328
+Shady merchant,Human,Male,No Nationality,No Family,Counterfeiter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.3612
+Sigismund Dijkstra,Human,Male,Redanian,No Family,Spymaster,Ciri-Triss Merigold-Yennefer of Vengerberg,-0.997
+Sigo Buntz,Human,Male,Kovirian,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.1027
+Sigurd,Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.8402
+Simun Brambling,Human,Male,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9775
+Sjusta,Human,Male,Skelliger,No Family,Barber,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.7184
+Skjall,Human,Male,Skelliger,Clan Heymaey,Warrior,Vesemir-Lambert-Eredin Bréacc Glas,-0.7933
+Smith (Fyresdal),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.0772
+Smith (Kaer Muire),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,0.0772
+Smith (Svorlag),Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,-0.2263
+Sofus the Bull,Human,Male,Metinnese,No Family,Fistfighter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.3818
+Steingrim,Human,Male,Skelliger,Clan an Craite,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.6597
+Stjepan,Human,Male,Redanian,No Family,Innkeeper,Gwent players-The Witcher 3 merchants-Blacksmith,0.6808
+Succubus (Ard Skellig),Succubus,Female,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.0227
+Sukrus,Human,Male,Skelliger,Clan Tuirseach,Mercenary,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.1154
+Survivor (Heatherton),Human,Male,Temerian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.5398
+Suzy,Human,Female,No Nationality,No Family,Prostitute,Ciri-Triss Merigold-Yennefer of Vengerberg,0.7783
+Svanrige Tuirseach,Human,Male,Skelliger,Clan Tuirseach,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9733
+Sweet Nettie,Human,Female,No Nationality,No Family,Prostitute,Dandelion-Prostitute-Priscilla,-0.9169
+Swordsmith (Mulbrydale),Human,Male,Temerian,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.6787
+Sylvester Amello,Human,Male,Redanian,No Family,Merchant,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8316
+Symko,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9136
+Tamara Strenger,Human,Female,Temerian,No Family,Witch hunter,Crones-Phillip Strenger-Anna Strenger,-0.7287
+Tavar Eggebracht,Human,Male,Alban,Eggebracht family,Quartermaster,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9797
+The Ghost in the Tree,No Race,Female,No Nationality,No Family,Druid,Crones-Phillip Strenger-Anna Strenger,-0.9904
+The Mysterious Elf,Elf,Male,No Nationality,No Family,Mage,Vesemir-Lambert-Eredin Bréacc Glas,-0.2382
+The Pellar,Human,Male,Temerian,No Family,Pellar,Crones-Phillip Strenger-Anna Strenger,-0.988
+Thecla,Human,Female,Temerian,No Family,Seer,Crones-Phillip Strenger-Anna Strenger,0.4445
+Theophile Maria Rosco,Human,Male,No Nationality,No Family,Mage,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.7153
+Tim Knott,Human,Male,No Nationality,No Family,No Profession,Gwent players-The Witcher 3 merchants-Blacksmith,-0.3182
+Timmon,Human,Male,Skelliger,Clan Dimun,No Profession,Mikkel (Skelliger)-Timmon-Agda,-0.5574
+Tinboy,Human,Male,No Nationality,No Family,Thug,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.8793
+Titus Gielas,Human,Male,Temerian,No Family,Fisstech,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9859
+Tjalve,Human,Male,Skelliger,No Family,No Profession,Herbalist-Abbé Faria-Jonna,-0.8201
+Tomira,Human,Female,Temerian,No Family,Herbalist,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8625
+Tove,Human,Female,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.5023
+Trader (Crow's Perch),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.0516
+Traveling trader (Velen),Human,Male,Temerian,No Family,Merchant,Gwent players-The Witcher 3 merchants-Blacksmith,0.5423
+Travik,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9077
+Trollololo,Troll,Male,No Nationality,No Family,No Profession ,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9871
+Udalryk an Brokvar,Human,Male,Skelliger,Clan Brokvar,No Profession,Crach an Craite-Bran Tuirseach-Cerys an Craite,-0.9724
+Ulf,Human,Male,Skelliger,No Family,No Profession,Mikkel (Skelliger)-Timmon-Agda,-0.4549
+Ulf (Timmon's brother),Human,Male,Skelliger,No Family,No Profession,Mikkel (Skelliger)-Timmon-Agda,-0.8442
+Uma,Unknown,Male,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,0.947
+Uve Jabberjaw,Human,Male,Skelliger,No Family,Warrior,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.8519
+Vagn,Human,Male,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.2382
+Vairmont Jonne,Human,Male,Redanian,No Family,Assistant professor,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9727
+Valdo,Elf,Male,No Nationality,No Family,Circus performer,Ciri-Triss Merigold-Yennefer of Vengerberg,0.7906
+Valgard,Human,Male,Skelliger,No Family,Fistfighter,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.159
+Var Attre Guard Captain,Human,Male,Alban,No Family,Soldier,Dandelion-Prostitute-Priscilla,-0.2484
+Vernossiel,Elf,Female,No Nationality,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9969
+Vespula,Human,Female,Novigradian,No Family,Laundress,Dandelion-Prostitute-Priscilla,-0.8382
+Victor,Human,Male,No Nationality,No Family,Bard,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,0.4084
+Vienne,Elf,Female,No Nationality,No Family,No Profession,Vesemir-Lambert-Eredin Bréacc Glas,-0.8957
+Vigi the Loon,Human,Male,Skelliger,Clan Tordarroch,Boatwright,Crach an Craite-Bran Tuirseach-Cerys an Craite,0.6908
+Vimme Vivaldi,Dwarf,Male,No Nationality,Vivaldi family,Bank,Gwent players-The Witcher 3 merchants-Blacksmith,0.93
+Viola,Human,Female,No Nationality,No Family,Prostitute,Dandelion-Prostitute-Priscilla,0.0
+Vladimir de Cret,Human,Male,Redanian,No Family,Nobleman,Gwent players-The Witcher 3 merchants-Blacksmith,-0.5367
+Volund,Human,Male,Skelliger,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.9944
+Voytek,Human,Male,Temerian,No Family,Fisherman,Crones-Phillip Strenger-Anna Strenger,-0.6324
+Weavess,Relict,Female,No Nationality,No Family,Witch,Crones-Phillip Strenger-Anna Strenger,-0.7665
+Whispess,Relict,Female,No Nationality,No Family,Witch,Crones-Phillip Strenger-Anna Strenger,-0.8316
+Willis,Dwarf,Male,No Nationality,No Family,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,-0.6966
+Yagna,Human,Female,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.802
+Yamurlak (spy),Human,Male,Redanian,No Family,Spy,Dandelion-Prostitute-Priscilla,-0.0772
+Yanina,Human,Female,Redanian,No Family,No Profession,Geralt of Rivia-Zoltan Chivay-Francis Bedlam,-0.8095
+Yanna (The Witcher 3),Human,Female,No Nationality,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.6124
+Yanne,Human,Male,Skelliger,No Family,Blacksmith,Gwent players-The Witcher 3 merchants-Blacksmith,-0.9169
+Yaren,Human,Male,Temerian,No Family,No Profession,Crones-Phillip Strenger-Anna Strenger,-0.9313
+Yoana,Human,Female,Skelliger,Clan Tordarroch,Armorer,Gwent players-The Witcher 3 merchants-Blacksmith,0.9643
+Yolar,Human,Male,Skelliger,No Family,Druid,Ciri-Triss Merigold-Yennefer of Vengerberg,0.3818
+Yontek,Human,Male,Temerian,No Family,No Profession,Herbalist-Abbé Faria-Jonna,-0.1149

@@ -90,7 +90,7 @@ def generate_word_clouds(texts_dict, col1, col2):
     icons = os.listdir(icons_path)
 
     n_icons = len(icons) - 1
-
+    #random.sample(n_icons,5)
     c = 0
     #Generate Wordclouds
     for i, attr in enumerate(attribute_dict.keys()):

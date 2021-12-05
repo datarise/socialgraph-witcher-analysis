@@ -90,10 +90,6 @@ def pyviz_plot_network(G, layout, smooth=True):
 
     # Initiate PyVis network object
     char_net = Network(height='1000px', width='1500px', bgcolor='#222222', font_color='white')
-    char_net.enable_physics(False)
-    char_net.stabilize(2000)
-
-
 
     # Take Networkx graph and translate it to a PyVis graph format
     char_net.from_nx(G)
@@ -113,9 +109,6 @@ def pyviz_plot_network(G, layout, smooth=True):
 
     if smooth:
         char_net.set_edge_smooth('curvedCW')
-
-    char_net.enable_physics(False)
-    char_net.stabilize(2000)
 
     # Save and read graph as HTML file (on Streamlit Sharing)
     try:
