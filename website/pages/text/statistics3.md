@@ -1,0 +1,3 @@
+Above you can see the log-log plots of the degree distributions. They seems to be quite linear. This seems to indicate that the network is powerlaw distributed. To test this a power low distribution is fitted to the data. This can be seen in the PDF plot and seems to agree that the network is powerlaw distributed as the PDF data almost lie on the fitted line. 
+
+To the right you are able to see the characters in and out-degree. When sorted by the in-degree 

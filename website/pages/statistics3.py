@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 import collections
 import plotly.express as px
 import powerlaw as pw
+from pathlib import Path
+
 
 
 @st.cache(allow_output_mutation=True)
@@ -40,6 +42,8 @@ def attribute_stats(df, attribute):
         'x':0.5,
         'xanchor': 'center',
         'yanchor': 'top'},
+    xaxis={
+            'tickangle': 45},
     template="plotly_dark",
     font=dict(
         family="Sans serif",
@@ -162,14 +166,14 @@ def plot_loglog_degree_histogram(G, b, normalized=True):
     st.plotly_chart(fig, use_container_width=True)
 
 
-def top_n_degree(G, n, sort_by):
+def top_n_degree(G, sort_by):
     df_in = pd.DataFrame.from_dict(dict(G.in_degree()), orient='index')
     df_out = pd.DataFrame.from_dict(dict(G.out_degree()), orient='index')
     df = pd.merge(df_in, df_out, left_on=df_in.index, right_on=df_out.index)
     df.columns = ["Character", "In-Degree", "Out-Degree"]
     df = df.sort_values(by=sort_by, ascending=False)
 
-    st.dataframe(df.head(n))
+    st.dataframe(df)
 
 def get_plt_data(fig):
 
@@ -219,37 +223,40 @@ def plot_powerlaw(G, degree_type):
     )
     st.plotly_chart(fig, use_container_width=True)
     
+def read_markdown_file(markdown_file):
+    return Path(markdown_file).read_text()
 
+def whitespace(i):
+    for i in range(i):
+        st.text("")
 
 def app():
     st.title("Visualization And Statistics")
-
-    st.text("In this section the network will be analysed with statistics and visualized. ")
-
     col1, col2 = st.columns(2)
 
     G = load_graph()
 
+    df = load_df()
+
     with col1:
+        st.markdown(read_markdown_file("website/pages/text/statistics1.md"), unsafe_allow_html=True)
+        attribute = st.selectbox("Select the attribute to chart:", df.columns[1:-2])
+        whitespace(10)
         plot_deg_dist(G, True)
-        st.text("Some explainer text")
-        st.write('Remember to talk about number of nodes and average degree')
-        st.write('')
-        st.write('')
-        st.write('')
+        st.markdown(read_markdown_file("website/pages/text/statistics2.md"), unsafe_allow_html=True)
         plot_loglog_degree_histogram(G, True, normalized=True)
-        n = st.slider("Select top n character to display", 0, 700, 10, 1)
-        sort_by = st.radio("Sort by:", ("In-Degree", "Out-Degree"))
-        st.text("Some explainer text")
-        powerlaw_select = st.radio("Select the degree to analyse", ("In-Degree", "Out-Degree"))
+        st.markdown(read_markdown_file("website/pages/text/statistics2.md"), unsafe_allow_html=True)
 
 
     with col2:
+        attribute_stats(df, attribute)
         plot_deg_dist(G, False)
         graph_stats(G)
+        whitespace(3)
         plot_loglog_degree_histogram(G, False, normalized=True)
-        top_n_degree(G, n, sort_by)
-        plot_powerlaw(G, powerlaw_select)
+        analyse = st.radio("Select the degree to sort and analyse by:", ("In-Degree", "Out-Degree"))
+        top_n_degree(G, analyse)
+        plot_powerlaw(G, analyse)
 
 
   
