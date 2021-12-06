@@ -35,6 +35,10 @@ def make_plot(df_grouped, attribute):
                 'x':0.5,
                 'xanchor': 'center',
                 'yanchor': 'top'},
+            xaxis={
+                'title': f"{attribute}"},
+            yaxis={
+                'title': f"Sentiment"},
             template="plotly_dark",
             font=dict(
                 family="Sans serif",
@@ -59,6 +63,10 @@ def make_plot(df_grouped, attribute):
                 'x':0.5,
                 'xanchor': 'center',
                 'yanchor': 'top'},
+            xaxis={
+                'title': f"{attribute}"},
+            yaxis={
+                'title': f"Sentiment"},
             template="plotly_dark",
             font=dict(
                 family="Sans serif",
@@ -77,6 +85,10 @@ def make_plot(df_grouped, attribute):
             'x':0.5,
             'xanchor': 'center',
             'yanchor': 'top'},
+        xaxis={
+            'title': f"{attribute}"},
+        yaxis={
+            'title': f"Sentiment"},
         template="plotly_dark",
         font=dict(
             family="Sans serif",
@@ -94,7 +106,31 @@ def app():
     # Title of the main page
     st.title("Sentiment Analysis")
 
-    attribute = st.selectbox("Select the attribute to group by: ", df.columns)
+    col1, col2 = st.columns(2)
 
+    with col1:
+        st.text("Some explainer")
+
+    with col2:
+        fig = px.histogram(df, x="Vader_Sentiment", nbins=25)
+        fig.update_layout(
+        title={
+            'text': f"Histogram of Sentiment",
+            'y':0.91,
+            'x':0.5,
+            'xanchor': 'center',
+            'yanchor': 'top'},
+        xaxis={
+            'title': "Bins"},
+        yaxis={
+            'title': "Count"},
+        template="plotly_dark",
+        font=dict(
+            family="Sans serif",
+        )
+        )
+        st.plotly_chart(fig, use_container_width=True)
+
+    attribute = st.selectbox("Select the attribute to group by: ", df.columns[:-1])
     df_happy, df_unhappy, df_grouped = create_sentiment_analysis(df, attribute=attribute)
     make_plot(df_grouped, attribute=attribute)

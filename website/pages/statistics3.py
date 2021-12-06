@@ -20,7 +20,32 @@ def load_graph():
 
     return G 
 
+@st.cache(allow_output_mutation=True)
+def load_df():
 
+    df = pd.read_csv("website/pages/data/characters_sentiment.csv")
+
+    return df
+
+def attribute_stats(df, attribute):
+    df_count = df[attribute].value_counts().reset_index()
+    df_count.columns = [attribute, "Count"]
+
+    fig = px.bar(df_count, x=attribute, y='Count')
+
+    fig.update_layout(
+    title={
+        'text': f"Barchart of {attribute}",
+        'y':0.91,
+        'x':0.5,
+        'xanchor': 'center',
+        'yanchor': 'top'},
+    template="plotly_dark",
+    font=dict(
+        family="Sans serif",
+    )
+    )
+    st.plotly_chart(fig, use_container_width=True)
 
 
 def create_and_select_pos(G):
@@ -197,8 +222,6 @@ def plot_powerlaw(G, degree_type):
 
 
 def app():
-    theme = "plotly_dark"
-
     st.title("Visualization And Statistics")
 
     st.text("In this section the network will be analysed with statistics and visualized. ")

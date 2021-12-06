@@ -1,0 +1,1 @@
+To the left you can select one or more characters to view them and their neighbor. Thus can you inspect the connections that one characters has. Some good characters to try out is Geralt, Foltress or Gwent players. 

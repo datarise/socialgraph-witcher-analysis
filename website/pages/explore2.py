@@ -9,10 +9,11 @@ import pickle
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
-import collections
 import plotly.figure_factory as ff
 import plotly.express as px
 from sklearn.preprocessing import MinMaxScaler
+from pathlib import Path
+
 
 
 
@@ -192,6 +193,10 @@ def select_layout(key):
 
     return layout
 
+def read_markdown_file(markdown_file):
+    return Path(markdown_file).read_text()
+
+
 def app():
     st.title("Explore The Witcher Network")
 
@@ -202,14 +207,14 @@ def app():
     col1, col2 = st.columns(2)
 
     with col1:
-        st.text("Some explainer text")
+        st.markdown(read_markdown_file("website/pages/text/explore1.md"), unsafe_allow_html=True)
 
 
     with col2:
         st.text("Please select how you want to have the network shown")
         G = set_color(G, "sk1")
         layout = select_layout("s1")
-        smooth = st.radio("Smooth Edges?", (True, False), key="rk3")
+        smooth = st.radio("Smooth Edges?", (False, True), key="rk3")
         display = st.radio("Display the network", (False, True), key="rk1")
 
     if display:
@@ -218,7 +223,7 @@ def app():
     col1, col2 = st.columns(2)
 
     with col1:
-        st.text("Some explainer text")
+        st.markdown(read_markdown_file("website/pages/text/explore2.md"), unsafe_allow_html=True)
 
 
     with col2:

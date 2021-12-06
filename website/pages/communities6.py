@@ -6,7 +6,6 @@ import matplotlib
 from pyvis.network import Network
 import networkx as nx
 from collections import Counter
-from fa2 import ForceAtlas2
 import plotly.express as px
 import math
 import pandas as pd
@@ -20,13 +19,9 @@ import copy
 import pickle
 from sklearn.preprocessing import MinMaxScaler
 import gensim.corpora as corpora
-from gensim.models import TfidfModel, LdaMulticore, LdaModel
-from pprint import pprint
-import gensim
+from gensim.models import TfidfModel, LdaModel
 from nltk.corpus import stopwords
 nltk.download('stopwords')
-from os import listdir
-from os.path import isfile, join
 import pyLDAvis
 import pyLDAvis.gensim_models as gensimvis
 
@@ -337,6 +332,15 @@ def lda(chosen_comms, df_com_names, partition):
     #st.text(background + HtmlFile.read())
     components.html(background + HtmlFile.read(), height=1000)
 
+def select_community_graph(G, community):
+
+    selected_nodes = [n for n,v in G.nodes(data=True) if v['CommunityName'] in community]  
+
+    st.text(selected_nodes)     
+
+    H = G.subgraph(selected_nodes)
+    return H
+
 def app():
 
     st.title("Communities and sentiment analysis")
@@ -349,9 +353,20 @@ def app():
 
     G = set_color(G)
 
-    #pyviz_plot_network(G, "Barnes Hut")
+    display = st.radio("Display the network", (False, True), key="rk1")
 
-    chosen_comms = st.multiselect("Choose the communities to view:", df_com_names['CommunityName'].unique())
+    communities = np.unique(list(nx.get_node_attributes(G,'CommunityName').values()))
+
+    if display:
+        pyviz_plot_network(G, "Barnes Hut")
+
+    chosen_comms = st.multiselect("Choose the communities to view:", communities)
+
+    if chosen_comms:
+
+        H = select_community_graph(G, chosen_comms)
+
+        pyviz_plot_network(H, "Barnes Hut")
 
     number_of_words = st.slider("Select the number of words to view", 1, 25, 5, 1)
 
