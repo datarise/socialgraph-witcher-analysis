@@ -1,0 +1,1 @@
+Below you can try to visualize the different communities in a graph. Try picking a single one or a couple of communities to get an overview of who belong to each one. When picking several you will see how they connect to eachother.

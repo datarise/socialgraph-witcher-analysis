@@ -16,6 +16,7 @@ import os
 matplotlib.rcParams["figure.dpi"] = 200
 plt.style.use('dark_background')
 import random
+from pathlib import Path
 
 @st.cache()
 def load_data():
@@ -113,6 +114,7 @@ def generate_word_clouds(texts_dict, col1, col2):
         
 
 def make_cloud(wordcloud_string, attr, icon_path):
+    st.text(icon_path)
 
     wolf_mask = np.array(Image.open(icon_path))
 
@@ -127,15 +129,18 @@ def make_cloud(wordcloud_string, attr, icon_path):
     plt.axis("off")
     st.pyplot(fig)
 
+def read_markdown_file(markdown_file):
+    return Path(markdown_file).read_text()
 
 def app():
     # Read dataset (CSV)
     # Title of the main page
+    st.title("Wordclouds and TF-IDF")
     df = load_data()
     col1, col2 = st.columns(2)
 
     with col1:
-        st.text("Some explainer")
+        st.markdown(read_markdown_file("website/pages/text/wordcloud1.md"), unsafe_allow_html=True)
     with col2:
         attribute = st.selectbox("Select the attribute to visualize", ("Race","Gender","Nationality","Family","Profession"))
         if attribute:

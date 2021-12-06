@@ -96,7 +96,9 @@ def make_plot(df_grouped, attribute):
         )
         st.plotly_chart(fig, use_container_width=True)
 
-
+from pathlib import Path
+def read_markdown_file(markdown_file):
+    return Path(markdown_file).read_text()
 
 
 def app():
@@ -109,7 +111,8 @@ def app():
     col1, col2 = st.columns(2)
 
     with col1:
-        st.text("Some explainer")
+        st.markdown(read_markdown_file("website/pages/text/sentiment1.md"), unsafe_allow_html=True)
+
 
     with col2:
         fig = px.histogram(df, x="Vader_Sentiment", nbins=25)

@@ -64,11 +64,13 @@ def name_communities(G0, partition, community_size):
 
 
 def community_stats(G, partition, df):
+
+    col1, col2 = st.columns(2)
     
+    with col2:
+        st.text(f"Number of communities found: {max(partition.values())+1}")
 
-    st.text(f"Number of communities found: {max(partition.values())+1}")
-
-    st.text(f'The value of modularity is: {round(community_louvain.modularity(partition, G),3)}')
+        st.text(f'The value of modularity is: {round(community_louvain.modularity(partition, G),3)}')
 
     df = df.sort_values("CommunitySize", ascending=False)
 
@@ -341,12 +343,20 @@ def select_community_graph(G, community):
     H = G.subgraph(selected_nodes)
     return H
 
+from pathlib import Path
+def read_markdown_file(markdown_file):
+    return Path(markdown_file).read_text()
+
 def app():
 
     st.title("Communities and sentiment analysis")
 
-    G = load_graph()
+    col1, col2 = st.columns(2)
 
+    with col1:
+        st.markdown(read_markdown_file("website/pages/text/communities1.md"), unsafe_allow_html=True)
+
+    G = load_graph()
     partition, df_com_names, df = get_commutities(G)
 
     G = set_attributes(G, df)

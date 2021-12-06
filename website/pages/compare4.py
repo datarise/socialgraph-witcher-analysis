@@ -9,6 +9,8 @@ import collections
 import plotly.express as px
 import powerlaw as pw
 import pickle
+from pathlib import Path
+
 
 
 def create_and_select_network():
@@ -183,6 +185,15 @@ def plot_powerlaw(G):
     )
     st.plotly_chart(fig, use_container_width=True)
 
+
+def read_markdown_file(markdown_file):
+    return Path(markdown_file).read_text()
+
+def whitespace(i):
+    for i in range(i):
+        st.text("")
+
+
 def app():
     # Title of the main page
     st.title("Comparison with random networks")
@@ -199,13 +210,20 @@ def app():
         fig_com = plot(G_com, pos_com)
         pos_witcher = create_and_select_pos(G_witcher, select_position)
         fig_witcher = plot(G_witcher, pos_witcher)
+
+    with col2:
+        st.markdown(read_markdown_file("website/pages/text/comparison1.md"), unsafe_allow_html=True)
+
+
+    col3, col4 = st.columns(2)
+
+    with col3:
         st.pyplot(fig_com)
         plot_deg_dist(G_com)
         plot_loglog_degree_histogram(G_com)
         plot_powerlaw(G_com)
     
-    with col2:
-        whitespace(25)
+    with col4:
         st.pyplot(fig_witcher)
         plot_deg_dist(G_witcher)
         plot_loglog_degree_histogram(G_witcher)
