@@ -20,7 +20,8 @@
 |Appears_games = {{Tw1}} {{Mo}}<br>{{Tw2}} {{Small|text=flashbacks}}<br>{{Tw3}}<br>{{BaW}} {{Small|text=dependent}}<br>{{TB}} {{Mo}}
 |Appears_other = ''[[The Witcher: Killing Monsters]]''<br>''[[The Witcher: Curse of Crows]]''<br>''[[The Witcher: Of Flesh and Flame]]''<br>{{Witcher TV}}
 |Born = {{Year|canon = yes|year = 1173}}<ref group=N>In 1267, she states she's 94 years old ({{TTotS}})</ref>
-|Children = [[Ciri]] {{Small|text=adopted daughter}}|Name=|Status=|Height=|Culture=|COA=|Badge=|Titles=|Ranks=|Family=|Relative=|Worshiped=|Symbol=|Among=|Center=}}
+|Children = [[Ciri]] {{Small|text=adopted daughter}}
+}}
 {{Quote|text = When I created Yennefer's character I wanted Geralt to fully grow, but then I decided to make things complicated. I created a female character who refuses to be a fantasy stereotype. To please the reader.|citation = [[Andrzej Sapkowski]]}}
 '''Yennefer of Vengerberg''', born on [[Belleteyn]] in {{Year|canon = yes|year = 1173}}, was a [[sorceress]] who lived in [[Vengerberg]], the capital city of [[Aedirn]]. She was [[Geralt of Rivia]]'s true love and a mother figure to [[Ciri]], whom she viewed like a daughter to the point that she did everything she could to rescue the girl and keep her from harm.
 

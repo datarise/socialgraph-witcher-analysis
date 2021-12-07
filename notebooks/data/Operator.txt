@@ -15,13 +15,13 @@ In {{Year|year=1272}}, the Operator was visited by [[Geralt of Rivia]] who solve
 
 {{Condition|Text=If Geralt pretends to be a Chosen One}} Geralt heard the guardian out and did not hesitate for an instant. He announced that he was indeed the Chosen One the guardian had been awaiting and allowed him to use the artifact.
 
-{{Condition|Text=If Geralt admits to not being a Chosen One}} When Geralt revealed that no one proclaimed him a Chosen One, Operator labeled him an intruded and began to attack him with all the spells he knew. Raining [[fireball]]s, [[Teleportation|teleporting]] himself around the chamber, summoning [[gargoyle]]s and attacking face-on, the Operator ultimately lost to the [[witcher]].<ref>{{Tw2}}</ref>
+{{Condition|Text=If Geralt admits to not being a Chosen One}} When Geralt revealed that no one proclaimed him a Chosen One, Operator labeled him an intruder and began to attack him with all the spells he knew. Raining [[fireball]]s, [[Teleportation|teleporting]] himself around the chamber, summoning [[gargoyle]]s and attacking head-on, the Operator ultimately lost to the [[witcher]].<ref>{{Tw2}}</ref>
 
 == Abilities and skills ==
 [[File:Gwent cardart neutral operator.jpg|thumb|250px|Operator wielding the ancient vran artifact in battle, using it to summon obedient gargoyles]]
 Although vrans do not usually possess innate magical abilities, they still have ways to master the [[Chaos]]. The vran called Operator possessed great power which allowed him to manipulate time and space.
 * '''[[Teleportation]]''': When fending off intruders, Operator teleported himself around the chamber by creating small portals, or breaches, and thus could not be targeted or hit shortly before and after each teleportation.
-* '''[[Protection (defensive spell)|Defensive shield]]''': This powerful protection spell not only absorbed many of the blows directed at Operator but was also virtually impenetrable when gargoyles were nearby and it would knock an enemy to the ground if he came too close to it.
+* '''[[Protection (defensive spell)|Defensive shield]]''': This powerful protection spell not only absorbed many of the blows directed at Operator but was also virtually impenetrable when gargoyles were nearby, and it would knock an enemy to the ground if he came too close to it.
 * '''[[Fireball]]''': the Operator's most common means of attack. His fireballs had an area of effect and could inflict heavy damage if an enemy was too susceptible to magic. If the Operator had a clear line of sight he would throw them as frequently as possible, not to mention they were powerful enough to discharge [[Quen]] with one hit.
 * '''Summoning''': Operator also used the staff to summon [[gargoyle]]s.
 * '''Immunity''': Operator was highly resistant to all sorts of poisons and weapon oils.
@@ -48,7 +48,7 @@ It is advisable to complete the other quests in the area and obtain the best wea
 ***Gargoyles are very susceptible to the stun (and damage) effects of Aard. Once they are stunned they can be destroyed in one hit. The finishing move cutscenes do not trigger here.
 ***It is possible to use a steel sword throughout the fight if you are relying on Aard to stun the gargoyles.
 ***The boss can be knocked down with Aard while shielded, in order to prevent him from casting, without any negative effect on Geralt.
-***With some luck, you may be able to use Aard to stun The Operator and have him remain to stand. Promptly dodging behind him and backstabbing resulted in an instant kill (not sure how).
+***With some luck, you may be able to use Aard to stun The Operator and have him remain standing. Promptly dodging behind him and backstabbing results in an instant kill (not sure how).
 **Igni
 ***Builds specializing in Signs with high sign damage bonus can spam Igni at the gargoyles and destroy them in a short amount of time.
 ***For other builds, this sign is not very useful.

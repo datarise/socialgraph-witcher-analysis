@@ -5,10 +5,12 @@
 |Gender = Male
 |Nationality = {{Skelliger}}
 |Appears_games = {{Tw3}}
-|Image = Tw3 ivar.png}}'''Ivar''' was a [[Skellige]]r in {{Year|canon = no|year = 1272}} but, unlike most of the other islanders, he didn't worship [[Freya]], or any [[religion]] for that matter.
+|Image = Tw3 ivar.png
+}}
+'''Ivar''' was a [[Skellige]]r who, unlike most of the other islanders, didn't worship [[Freya]], or any [[religion]] for that matter.
 
 == Biography ==
-However, he was in love with a Freya [[priest]]ess, Irma, and wished to marry her and while she also showed interested in Ivar, her religion forbade them from being together.
+In {{Year|year=1272|canon=no}}, he was in love with a Freya [[priest]]ess, Irma, and wished to marry her and while she also showed interested in Ivar, her religion forbade them from being together.
 
 Ever persistent, he decided he was going to learn and read all he could about different religions as he was bound to find a loophole that'd let them get married. At one point he ended up on [[Snidhall Isle]] and where Irma's irate brother tracked him down, mad that Ivar dared to lead his sister away from being a priestess.
 

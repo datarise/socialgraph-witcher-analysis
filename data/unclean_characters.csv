@@ -1,837 +1,837 @@
-,pageid,title
-0,8046,Innkeeper
-1,5069,The Witcher journal character entries
-2,2478,Abigail
-3,53882,Adalbert (soldier)
-4,2210,Adam (Murky Waters)
-5,2491,Adda the White
-6,2212,Alina
-7,2216,Alvin
-8,5971,Andrew Gablodda
-9,2709,Angus
-10,4774,Antoinette
-11,6920,Armorer
-12,2487,Azar Javed
-13,2488,Berengar
-14,5075,Blacksmith
-15,7593,Blacksmith's son
-16,7595,Blacksmith's wife
-17,2230,Blue-eyed lass
-18,10264,Bogut Kuternoga
-19,9349,Boholt
-20,8545,Bookseller
-21,4333,Bootblack (Vizima)
-22,6786,Brickmakers
-23,2547,Brogg
-24,8037,Buse
-25,5973,Butter Bean
-26,2207,Carmen
-27,3776,Caroline
-28,2597,Celina
-29,3385,Chireadan
-30,5355,City Guard
-31,2602,Clerks
-32,4310,Coccacidium
-33,4476,Coleman
-34,6536,Con artist
-35,4533,Conrad
-36,8039,Corbin
-37,3778,Courtesans
-38,2403,Dandelion
-39,2483,Declan Leuvaarden
-40,8043,Desperate father
-41,8093,Desperate merchant
-42,10776,Distressed nurse
-43,5060,Elder druid
-44,8581,Elven convict
-45,7600,Elven craftsman
-46,3787,Elves of Murky Waters
-47,4763,Erkyn Blunt
-48,2801,Eskel
-49,5974,Fat Fred
-50,6607,Fence
-51,2661,Ferryman
-52,45858,Fisher King (lover of Lady of the Lake)
-53,4781,Fistfighters in The Witcher
-54,1965,Foltest
-55,39945,Franz Kniprode
-56,4647,Friendly vodyan priest
-57,3562,Gambling ghost
-58,3557,Gardener
-59,4780,Gellert Bleinheim
-60,1801,Geralt of Rivia
-61,2493,Golan Vivaldi
-62,4477,Gramps
-63,4652,Grandma
-64,38055,Gravedigger (Vizima)
-65,8465,Greater cockatrice
-66,2401,Half-elf
-67,39948,Halfar
-68,2476,Haren Brogg
-69,41050,Havekar
-70,8040,Headhunter (person)
-71,72910,Herbalist
-72,4093,Hermit
-73,2660,Hierophant
-74,3941,Hildegard Zollstock
-75,8050,Ida Vertz
-76,3859,Ilsa
-77,3495,Jacques de Aldersberg
-78,4534,Jean-Pierre
-79,6499,Jester
-80,2569,Jethro
-81,10031,Juan Pablo Vassermiller
-82,3506,Julian
-83,2486,Kalkstein
-84,2142,King of the Wild Hunt
-85,11132,Kingslayers
-86,36400,Kobus de Vollen
-87,10262,Kristina
-88,2492,Lady of the Lake (nymph)
-89,2802,Lambert
-90,2477,Leo
-91,3518,Lilly
-92,5602,Lowlife
-93,9787,Maggot
-94,5889,Malcolm Stein
-95,8049,Marcus Vertz
-96,4585,Mason Harn
-97,2550,Meis
-98,2149,Midday bride
-99,3321,Mikul
-100,10261,Missing creatures
-101,3521,Moa
-102,2577,Morenn
-103,4095,Munro Bruys
-104,4561,Murky Waters blacksmith
-105,4586,Murky Waters healer
-106,15807,Mysterious assassin
-107,7049,Mysterious man
-108,2878,Nadir
-109,99049,Naiad (Murky Waters lakeside)
-110,5755,Novice nun
-111,2485,Nurses
-112,2480,Odo (merchant)
-113,11235,Old brickmaker
-114,8052,Order quartermaster
-115,5288,Ori Reuven
-116,3860,Ozzrel
-117,7591,Pat
-118,2662,Patrick de Weyze
-119,3777,People of Murky Waters
-120,2817,People of the Outskirts
-121,4480,Philippa Eilhart
-122,3558,Poor townsfolk
-123,4723,Prize-winning cow
-124,3401,Professor (assassin)
-125,3486,Prostitute
-126,2573,Queen of the Night
-127,4789,Radovid V
-128,8038,Ramerot
-129,2570,Ramsmeat
-130,11206,Raven
-131,2490,Rayla
-132,2571,Raymond Maarloeve
-133,2664,Ren Grouver
-134,8874,Resolute girl
-135,2479,Reverend (Outskirts)
-136,5972,The Rock
-137,2572,Roderick de Wett
-138,4779,Roland Bleinheim
-139,2668,Royal huntsman
-140,31635,Saint Gregory
-141,4314,Savolla
-142,8313,Scoia'tael quartermaster
-143,2407,Shani
-144,2481,Siegfried of Denesle
-145,8051,Swordsmith
-146,3516,Teyu
-147,2482,Thaler (spy)
-148,4463,The Witcher merchants
-149,3512,Tobias Hoffman
-150,16957,Torch Guardian
-151,2437,Toruviel
-152,3290,Townsfolk
-153,8028,Trader
-154,2035,Triss Merigold
-155,3517,Ureus
-156,2576,Vaska
-157,2574,Velerad
-158,8048,Vertz
-159,2424,Vesemir
-160,2475,Vesna Hood
-161,3519,Vesper
-162,2158,Vetala
-163,2484,Vincent Meis
-164,3520,Voref
-165,6500,Waitresses
-166,2489,Yaevinn
-167,66782,Yamo Ryeboozer
-168,4504,Yaren Bolt
-169,4502,Zahin Schmartz
-170,5975,Zdenek
-171,4032,Zephyr
-172,2408,Zoltan Chivay
-177,14238,The Witcher 2 merchants
-178,35920,Abelard of Hagge
-179,16759,Adalbert (Nilfgaardian sorcerer)
-180,9584,Adam Pangratt
-181,16120,Adrianna
-182,16811,Aep Dearhenna
-183,35912,Allgood
-184,9775,Anaïs La Valette
-185,12799,Anezka
-186,40362,Anselm of Aedirn
-187,98046,Archpriest (Monastery)
-188,72260,Arnesse
-189,15321,Arnolt Malliger
-190,72247,Arseleta
-191,3669,Arthur Tailles
-192,11789,Aryan La Valette
-193,4833,Assire var Anahid
-194,13262,Auckes
-195,12990,Baltimore
-196,15306,Bartholomew Bargee
-198,11795,Bernard Loredo
-199,14728,Berthold Candeleria
-200,72245,Big Bust Miriam
-201,72242,Birdie
-202,16096,Bolton of Ironford
-203,9774,Boussy La Valette
-204,12993,Bras of Ban Ard
-205,16706,Brigida Papebrock
-206,16331,Burton
-207,9342,Carduin
-208,12550,Cecil Burdon
-209,12420,Cedric (elf)
-210,12445,Chorab
-211,13006,Ciaran aep Easnillen
-212,15255,Clovisse Merse
-213,37172,Count Felart
-214,14903,Count Tybalt (knight)
-215,14233,Craftsman
-216,9025,Crinfrid Reavers
-217,12886,Cynthia
-218,35976,Dagonet
-219,16496,Dalum
-221,7587,Demavend III
-222,12820,Derae
-223,9571,Detmold
-224,13076,Dmitri
-225,16117,Dragan
-226,12913,Earso
-227,13640,Edwin Leistham
-228,12415,Einar Gausel
-229,103230,Ekhart Henessy
-230,13260,Ele'yas
-231,15462,Elthon
-232,15429,Elven prisoner
-233,15239,Enzo Etcheverry
-234,9796,Eredin Bréacc Glas
-236,12818,Falas
-237,16876,Farid
-238,14344,Felicia Cori
-239,41267,Felix Favela
-240,15874,Fenn (commando)
-241,16062,Finch
-242,12408,Fioravanti
-244,44184,Gar
-245,16875,Gaspar
-246,15948,Gavrilo
-248,14497,Gridley
-249,16770,Guard (mage)
-250,37287,Gus of Tretogor
-251,15357,Haggard
-252,16118,Harald Gord
-253,35974,Harmond
-254,5201,Henselt
-255,35747,Hieronymus Lash
-256,35916,Himsbach
-257,15915,Igo
-258,16079,Igor Vivaldi
-259,12816,Ilona
-260,9576,Iorweth
-261,14753,Isidor Kay
-262,8123,Jan Natalis
-263,72262,Julia (prostitute)
-264,15613,Kalten
-265,9350,Kennet
-266,14546,King Ziggy
-269,14607,Lasota
-270,15409,Letande Avet
-271,12220,Letho
-272,72235,Licking Lucy
-273,16795,Linus Maravel
-274,14338,Liva
-275,12797,Louis Merse
-276,15389,Madame Carole
-277,12807,Mael
-278,15413,Magnus
-279,12435,Malena
-280,14783,Malget
-281,13450,Manfred (soldier)
-282,16089,Mantas Birut
-283,12814,Marcus
-284,12343,Margot
-285,9773,Maria Louisa La Valette
-286,12897,Marietta Loredo
-287,16330,Matilda Szabo
-288,13447,Mavrick
-289,13443,Moril
-290,14190,Mottle
-291,12710,Myron
-292,14757,Mysterious merchant
-293,14150,Newboy
-294,104008,Nilfgaardian's wraith
-295,35895,Norman Sador
-296,13082,Odrin
-297,88187,Ogden
-298,13084,Olcan
-299,12668,Operator
-300,15914,Oven
-301,13139,Penitent Monk
-303,13441,Polycarp of Rinde
-304,14331,Proximo
-306,16791,Ravanen Kimbolt
-307,14749,Raymond Gessler
-308,14759,Relic peddler
-309,13439,Renuald aep Matsen
-310,4935,Roach
-311,52779,Roderick of Daevon
-312,14500,Rupert Brandhuber
-313,3868,Sabrina Glevissig
-314,12950,Saesenthessis
-315,14342,Sambor
-316,15417,Seherim
-317,15193,Seltkirk
-318,35914,Semko
-319,12443,Sendler
-320,13267,Serrit
-321,35858,Seuxen
-322,13063,She-troll of Vergen
-323,25019,Sheala de Tancarville
-324,9449,Sheldon Skaggs
-325,15913,Sheridan
-326,9503,Shilard Fitz-Oesterlen
-327,16063,Shorty
-329,15912,Silas
-330,14927,Silgrat
-331,12864,Skalen Burdon
-332,15508,Spark
-333,13143,Stennis
-334,57686,Succubus (Vergen)
-335,40229,Sven (Manfred's son)
-336,35860,Swann
-337,16808,Talking Golem
-338,12812,The Incredible Lockhart
-339,12804,The Mighty Numa
-340,15872,Thirteen
-341,12892,Thorak
-343,12866,Troll of Flotsam
-344,13060,Troll of Vergen
-345,17992,Tybalt of Vengerberg
-346,15667,Vandergrift
-347,13847,Vanhemar
-348,15257,Vencel Pugg
-349,11456,Vernon Roche
-350,12262,Ves
-351,15510,Vilmos Bartok
-352,16119,Vincent Molnar
-353,12985,Vinson Traut
-354,14340,Visionary
-355,37458,Whistling Wendy
-356,88189,Willy Oblate
-357,4604,Yarpen Zigrin
-358,2007,Yennefer of Vengerberg
-360,64810,Zindrab
-362,9748,Zyvik
-364,88190,File:Tw2 Willy Oblate.jpeg
-365,72448,Gwent players
-367,36469,Abbé Faria
-368,73979,Abelard Rizza
-369,73071,Aegar
-370,72208,Agda
-371,42730,Agneta
-372,38102,Aki II
-373,34770,Albert Vegelbud
-374,43323,Albin Hart
-375,72721,Alchemist (Crematory)
-376,32177,Aldert Geert
-377,43558,Alexander
-378,31185,Allgod
-379,70351,Ambros
-380,88252,Amos var Ypsis
-381,72270,Amrynn
-382,31899,Anabelle
-383,41769,Anisse
-384,23959,Anna Strenger
-385,40382,Anselm (merchant)
-386,74522,Archibald O'Neill
-388,38475,Armorer (Hierarch Square)
-389,72118,Armorer (Kaer Muire)
-390,61682,Armorer (Kaer Trolde keep)
-391,67011,Armorer (Larvik)
-392,38345,Armorer (Midcopse)
-393,38477,Armorer (Oxenfurt)
-394,72111,Armorer (Urialla Harbor)
-395,43471,Arnout Vester
-396,46352,Arnvald
-397,38635,Artis
-398,68867,Astrid (Skjall's sister)
-399,54652,Astrid the Vipress
-400,60695,Athak Akydalv
-401,9185,Auberon Muircetach
-402,9305,Avallac'h
-403,51405,Axel an Tordarroch
-404,44000,Aynara
-405,44433,Barber (Claywich)
-406,73638,Barber (Gildorf)
-407,44439,Barber (Oxenfurt)
-408,44435,Barber (Svorlag)
-409,73642,Barber (The Bits)
-410,31498,Bart
-411,65113,Barylka
-412,69632,Bastien Vildenvert
-413,50899,Bea
-414,75874,Beast Tamer
-415,77622,Berem
-416,36165,Bernard Tulle
-417,50701,Bertha
-418,41770,Berthold
-419,51502,Bertram (peasant)
-420,28394,Birna
-421,51579,Bjern
-422,43016,Bjorg
-423,43283,Black Bogdan
-424,72800,Blacksmith (Bald Mountain)
-425,41353,Blacksmith (Blackbough)
-426,41345,Blacksmith (Fayrlund)
-427,72494,Blacksmith (Harviken)
-428,72798,Blacksmith (Larvik)
-429,40024,Blacksmith (Lindenvale)
-430,41333,Blacksmith (Novigrad)
-431,41359,Blacksmith (Oreton)
-432,41340,Blacksmith (Oxenfurt)
-433,71763,Blacksmith (Silverton)
-434,41369,Blacksmith (Urialla Harbor)
-435,72203,Boatwright
-436,42733,Bolko
-437,40208,Boris (bear)
-438,40209,Boris (troll)
-439,29854,Bram
-440,8702,Bran Tuirseach
-441,41527,Bran's unidentified concubine
-442,61300,Brean Hotsch
-443,38655,Brewess
-444,51232,Bruno
-445,42947,Bytomir
-446,40111,Caesar Bilzen
-447,29718,Caleb Menge
-448,43665,Captain Liglad
-449,43663,Captain Wolverstone
-450,22966,Caranthir Ar-Feiniel
-452,38138,Carlo Rycher
-453,23910,Carlo Varese
-454,9475,Carthia van Canten
-455,37408,Caspar
-456,26056,Cerys an Craite
-457,8975,Chappelle
-458,44023,Chet
-459,2754,Ciri
-460,72228,Claer
-461,38901,Cledwyn
-462,25240,Corinne Tilly
-463,37553,Count de Luverten
-464,36186,Count Tybalt (Novigrad)
-465,3573,Crach an Craite
-466,21014,Crones
-467,29404,Cyprian Wiley
-468,9572,Cyrus Engelkind Hemmelfart
-469,43451,Dagmar
-470,37396,Damiaan
-472,37295,Dea
-473,38643,Dieter
-474,43440,Dilvyn
-475,37533,Dirk
-476,18736,Djenge Frett
-477,35119,Dolores Reardon
-478,31462,Donar an Hindar
-479,77732,Dragomir (The Witcher 3)
-480,3578,Draig Bon-Dhu
-481,3577,Drogodar
-482,69526,Dromle
-483,7578,Dudu
-484,38312,Duke (gangster)
-485,69553,Dune Vildenvert
-486,73031,Durden
-487,44034,Ealdorman (Downwarren)
-488,38777,Ealdorman (White Orchard)
-489,38316,Earl (gangster)
-490,36314,Edna var Attre
-491,37392,Egbert
-492,51583,Egill
-493,41176,Éibhear Hattori
-494,42110,Einar (Harviken)
-495,51560,Einar (Larvik)
-496,21061,Elihal
-497,29932,Elsa
-498,3313,Emhyr var Emreis
-500,94069,Ernst van Hoorn
-501,51556,Eryka
-503,51521,Evald
-504,54385,Eyvind
-505,72322,Fabian Meyer
-507,36201,Felix Grubb
-508,35360,Fergus Graem
-509,36167,Finneas
-510,46354,Folan
-511,52313,Folmer
-512,23591,Francis Bedlam
-513,37413,Freek
-514,38753,Freya Priestess
-515,4835,Fringilla Vigo
-516,38650,Fritjof
-517,40297,Fugas
-518,27833,Gaetan
-519,73099,Gascoigne
-520,72324,Gaspard
-521,19053,Gaunter O'Dimm
-522,21065,Ge'els
-523,44002,Genny
-524,74521,Georgius Georg
-526,60212,Gerd (peasant)
-527,43405,Gert Borel
-528,38041,Gilbert Witschke
-529,60211,Ginter de Lavirac
-530,18737,Gjarr
-531,70146,Glenna
-532,85905,Gomo Seeling
-533,51504,Gottard
-534,31456,Graden
-535,46357,Graham
-536,23964,Gran
-537,38053,Gravedigger (Lindenvale)
-538,37225,Gregor
-539,32134,Gremist
-540,29317,Gretka
-541,73033,Grim
-542,43904,Griswold
-543,18738,Grossbart Brothers
-544,74766,Gus Meyer
-545,74124,Gustav Roene
-546,42735,Haddy
-547,73130,Hal
-548,46359,Halbjorn
-549,28487,Hammond
-550,34347,Hanna
-551,37100,Hans of Cidaris
-552,66696,Happen the Eunuch
-553,38145,Harald (Fayrlund)
-554,31981,Harald an Tordarroch
-555,38143,Harald Featherbuns
-556,49176,Harmon aep Groenekan
-557,35599,Havart var Moehoen
-558,30917,Hegel Grossbart
-559,42813,Helma
-560,27540,Hendrik
-561,37555,Henri Rautlec
-562,24655,Henry var Attre
-564,72500,Herbalist (campsite)
-565,77555,Herbalist (Cunny of the Goose)
-566,43145,Herbalist (Glory Lane)
-567,116172,Herbalist (Hierarch Square)
-568,43153,Herbalist (Kaer Trolde)
-569,73470,Herbalist (Kvalheim Isle)
-570,42967,Herbalist (Liberated camp)
-571,71258,Herbalist (Refugees' Camp)
-572,42960,Herbalist (Shrine)
-573,81603,Herbalist (Spitfire Bluff)
-574,28048,Herevard II
-575,10409,Hjalmar an Craite
-576,30577,Hjort
-577,31464,Holger Blackhand
-578,40546,Holofernes Meiersdorf
-579,35896,Hortensio
-580,76039,Hrodeberth
-581,40105,Hubert Rejk
-582,37381,Hubrecht
-583,40015,Hunter (Lindenvale)
-584,65013,Hussar
-585,4836,Ida Emean aep Sivney
-586,77519,Igor (Fools' Gold)
-587,38260,Igor de Sade
-588,40207,Igor the Hook
-589,41532,Ilge
-590,22833,Imlerith
-591,34774,Ingrid Vegelbud
-592,72577,Innkeep (Cunny of the Goose)
-593,40948,Innkeep (Harviken)
-594,67722,Innkeep (Inn at the Crossroads)
-595,73038,Innkeep (Larvik)
-596,39966,Innkeep (Lindenvale)
-597,73977,Innkeep (Rosemary and Thyme)
-598,72585,Innkeep (Seven Cats Inn)
-599,41542,Innkeep (Svorlag)
-600,72594,Innkeep (The Golden Sturgeon)
-601,73975,Innkeep (The Kingfisher)
-602,72579,Innkeep (The Nowhere Inn)
-603,73040,Innkeep (Urialla Harbor)
-604,46361,Irina Renarde
-605,38049,Iron Mortimer
-606,40123,Iron-Arse Hans
-607,92325,Ivar
-608,27825,Jad Karadin
-609,10068,Janne
-610,30918,Jesse Grossbart
-611,24782,"Jesse, Joe and Dodger"
-612,29633,Joachim von Gratz
-613,27329,John Geermer
-614,29147,John Verdun
-615,20844,Johnny
-616,43899,Jonah
-617,38804,Jonas the Innkeep
-618,72148,Jonna
-619,41393,Jorulf the Wolverine
-620,40241,Josta
-621,37404,Jouke
-622,56815,Jutta an Dimun
-623,72950,Karli
-624,4831,Keira Metz
-626,29325,King of the Wolves (creature)
-627,21955,Kiyan
-628,79609,Kluhg
-629,74525,Kobe
-630,73058,Kori
-631,73061,Kraki
-632,40238,Kurisu
-633,37536,Kurt (witch hunter)
-634,24476,Kurt Dysart
-635,51311,La Valette Guard Captain
-637,73067,Leif
-638,74531,Lena
-639,41941,Leslav
-640,43314,Lessy
-642,79909,Liesje
-643,51500,Little Red (bandit)
-644,71637,Loan Shark
-645,75635,Lodrin
-646,72151,Lothar (Tjalve's father)
-647,43469,Louis (bandit)
-648,34772,Luc Vegelbud
-649,74527,Lucas
-650,41391,Lugos Drummond (Blueboy)
-651,31468,Lugos Drummond (Madman)
-652,28490,Lund
-653,43478,Lussi
-654,38572,Lyffned
-655,37451,Madame (Crippled Kate's)
-656,72735,Mandy
-657,41880,Manfred (merchant)
-658,30916,Manfred Grossbart
-659,41137,Marabella
-660,29578,Marcus T.K. Hodgson
-661,4830,Margarita Laux-Antille
-662,34346,Margrit
-664,45984,Marica
-665,85906,Marius Florin
-666,32140,Marquise Serenity
-667,74404,Master Claytop
-668,51768,Mathios
-669,73045,Maxim Boliere
-670,85811,Medic (Novigrad Docks)
-671,85809,Medic (Oxenfurt Morgue)
-672,72105,Merchant (Ard Skellig sawmill)
-673,43902,Merchant (Blackbough)
-674,72847,Merchant (Blandare)
-675,44047,Merchant (Boatmakers' Hut)
-676,71333,Merchant (boatyard)
-677,77879,Merchant (Border Post)
-678,36157,Merchant (Calveit Watchtower)
-679,72498,Merchant (campsite)
-680,51218,Merchant (Claywich)
-681,39247,Merchant (Downwarren)
-682,44041,Merchant (Fayrlund)
-683,43075,Merchant (Fish Market)
-684,72600,Merchant (fishmonger)
-685,72803,Merchant (Fyresdal)
-686,42563,Merchant (Gildorf)
-687,72880,Merchant (halfling)
-688,72450,Merchant (Harviken)
-689,72808,Merchant (Hierarch Square)
-690,72868,Merchant (Holmstein's Port)
-691,41350,Merchant (Isolated Hut)
-692,72875,Merchant (Kaer Trolde Harbor)
-693,72850,Merchant (Larvik)
-694,40018,Merchant (Lindenvale)
-695,42861,Merchant (Midcopse)
-696,76075,Merchant (Nilfgaardian Army Group 'Center' Camp)
-697,72267,Merchant (Oreton)
-698,72719,Merchant (Oxenfurt)
-699,72573,Merchant (Putrid Grove)
-700,41186,Merchant (Scoia'tael)
-701,72877,Merchant (Silverton docks)
-702,72603,Merchant (Silverton)
-703,72852,Merchant (Svorlag)
-704,72597,Merchant (The Bits)
-705,72490,Merchant (Tretogor Gate)
-706,73981,Merchant (White Orchard sawmill)
-707,29905,The Witcher 3 merchants
-708,50698,Mercia
-709,38907,Mererid
-710,38631,Mikah
-711,72212,Mikkel (Skelliger)
-712,42832,Mikkjal
-713,44004,Mikula (orphan)
-714,42949,Milan Noran
-715,43513,Millie
-716,38642,Mislav
-717,51313,Molly
-718,31459,Moreelse
-719,42942,Moritz Diefenthel
-720,40516,Morkvarg
-721,9390,Morvran Voorhis
-722,3575,Mousesack
-723,78496,Moving merchant
-724,57571,Napp
-725,72272,Narcissa
-726,31215,Nathaniel Pastodi
-727,78877,Nidas
-728,34348,Niellen
-729,36273,Nikolas Friedman
-730,38787,Nilfgaardian Nobleman (Royal Palace at Vizima)
-731,73109,Nissa
-732,23372,Nithral
-733,44044,Odhen
-734,42682,Odolan
-736,40202,"Ogg, Pogg and Rogg"
-737,52685,Olaf (bear)
-738,51517,Olaf (guardsman)
-740,41687,Old Sage
-741,76160,Old Woman (White Orchard)
-742,53725,Ole-Kristian
-743,41793,Olivier
-744,43998,Orphans
-745,60665,Oswin
-746,42382,Otrygg an Hindar
-747,67034,Otto Bamber
-748,34775,Patricia Vegelbud
-749,38147,Patrick Hazelnutt
-750,27137,Peter Saar Gwynleve
-751,76346,Petter
-753,20605,Phillip Strenger
-754,52274,Piet
-755,79610,Polly
-756,84322,Porter (Putrid Grove)
-757,40248,Preacher (Temple Isle)
-758,43447,Preben
-759,38176,Princess (goat)
-760,21069,Priscilla
-761,37889,Prison Warden
-762,51453,Quartermaster (Crow's Perch)
-763,39076,Quartermaster (Nilfgaardian Garrison)
-764,43280,Radko
-766,38314,Ravik
-767,44151,Refugee (Benek)
-768,37549,Remi Villeroy
-769,69558,Rhosyn
-770,84319,Rico Meiersdorf
-772,43296,Ronvid of the Small Marsh
-773,36313,Rosa var Attre
-774,43526,Rostan Muggs
-775,52335,Ruar
-776,35456,Rudolf de Jonkheer
-777,30922,Rufus
-778,51335,Rurik
-779,21889,Salma
-780,43172,Sarah
-781,43901,Sergeant Ardal
-782,43330,Shady merchant
-784,7586,Sigismund Dijkstra
-785,31111,Sigo Buntz
-786,41330,Sigurd
-787,44409,Simun Brambling
-788,44431,Sjusta
-789,28435,Skjall
-790,41342,Smith (Fyresdal)
-791,41347,Smith (Kaer Muire)
-792,41366,Smith (Svorlag)
-793,43897,Smithy
-794,73126,Sofus the Bull
-795,42550,Stan Fishgulper
-796,43678,Steingrim
-797,32137,Stjepan
-798,43282,Stuttering Mattko
-799,40628,Succubus (Ard Skellig)
-800,83516,Sukrus
-801,43918,Survivor (Heatherton)
-802,50702,Suzy
-803,70388,Svana
-804,24914,Svanrige Tuirseach
-805,40231,Sven (Fayrlund)
-806,43779,Sverre
-807,37455,Sweet Nettie
-808,38354,Swordsmith (Mulbrydale)
-809,38051,Sylvester Amello
-810,44021,Symko
-811,28090,Tamara Strenger
-812,25569,Tavar Eggebracht
-814,18211,The Ghost in the Tree
-815,47302,The Mysterious Elf
-816,33673,The Pellar
-817,45982,Thecla
-818,30920,Theophile Maria Rosco
-819,43782,Thorleif
-820,76361,Tim Knott
-821,72032,Timmon
-822,83519,Tinboy
-823,28970,Titus Gielas
-824,72153,Tjalve
-825,26176,Tomira
-826,51552,Torgun
-827,43018,Tove
-828,51451,Trader (Crow's Perch)
-829,40082,Traveling trader (Velen)
-830,43996,Travik
-832,58877,Trollololo
-833,51554,Trygvi
-834,30575,Udalryk an Brokvar
-835,70776,Ulf
-836,72210,Ulf (Timmon's brother)
-837,47617,Ulle the Unlucky
-838,22572,Uma
-839,53723,Uve
-840,41395,Uve Jabberjaw
-841,72945,Vagn
-842,38262,Vairmont Jonne
-843,74890,Valdo
-844,40228,Valgard
-845,40224,Valgridovt
-846,51270,Var Attre Guard Captain
-848,29607,Vernossiel
-851,8974,Vespula
-852,73102,Victor
-853,28488,Vienne
-854,46365,Vigi the Loon
-855,40222,Viki
-856,51575,Vilmar (druid)
-857,4017,Vimme Vivaldi
-858,72279,Viola
-859,38230,Vladimir de Cret
-860,76303,Volund
-861,70700,Voytek
-862,43476,Wallter
-863,38660,Weavess
-864,38664,Whispess
-866,30099,Willis
-867,44007,Yagna
-868,77517,Yagoda
-869,29066,Yamurlak (spy)
-870,76258,Yanina
-871,44018,Yanna (The Witcher 3)
-872,45202,Yanne
-873,75637,Yaren
-875,35362,Yoana
-876,51581,Yolar
-877,43932,Yontek
-878,76242,Yorg
-879,76245,Yorg's sister
+pageid,title
+8046,Innkeeper
+5069,The Witcher journal character entries
+2478,Abigail
+53882,Adalbert (soldier)
+2210,Adam (Murky Waters)
+2491,Adda the White
+2212,Alina
+2216,Alvin
+5971,Andrew Gablodda
+2709,Angus
+4774,Antoinette
+6920,Armorer
+2487,Azar Javed
+2488,Berengar
+5075,Blacksmith
+7593,Blacksmith's son
+7595,Blacksmith's wife
+2230,Blue-eyed lass
+10264,Bogut Kuternoga
+9349,Boholt
+8545,Bookseller
+4333,Bootblack (Vizima)
+6786,Brickmakers
+2547,Brogg
+8037,Buse
+5973,Butter Bean
+2207,Carmen
+3776,Caroline
+2597,Celina
+3385,Chireadan
+5355,City Guard
+2602,Clerks
+4310,Coccacidium
+4476,Coleman
+6536,Con artist
+4533,Conrad
+8039,Corbin
+3778,Courtesans
+2403,Dandelion
+2483,Declan Leuvaarden
+8043,Desperate father
+8093,Desperate merchant
+10776,Distressed nurse
+5060,Elder druid
+8581,Elven convict
+7600,Elven craftsman
+3787,Elves of Murky Waters
+4763,Erkyn Blunt
+2801,Eskel
+5974,Fat Fred
+6607,Fence
+2661,Ferryman
+45858,Fisher King (lover of Lady of the Lake)
+4781,Fistfighters in The Witcher
+1965,Foltest
+39945,Franz Kniprode
+4647,Friendly vodyan priest
+3562,Gambling ghost
+3557,Gardener
+4780,Gellert Bleinheim
+1801,Geralt of Rivia
+2493,Golan Vivaldi
+4477,Gramps
+4652,Grandma
+38055,Gravedigger (Vizima)
+8465,Greater cockatrice
+2401,Half-elf
+39948,Halfar
+2476,Haren Brogg
+41050,Havekar
+8040,Headhunter (person)
+72910,Herbalist
+4093,Hermit
+2660,Hierophant
+3941,Hildegard Zollstock
+8050,Ida Vertz
+3859,Ilsa
+3495,Jacques de Aldersberg
+4534,Jean-Pierre
+6499,Jester
+2569,Jethro
+10031,Juan Pablo Vassermiller
+3506,Julian
+2486,Kalkstein
+2142,King of the Wild Hunt
+11132,Kingslayers
+36400,Kobus de Vollen
+10262,Kristina
+2492,Lady of the Lake (nymph)
+2802,Lambert
+2477,Leo
+3518,Lilly
+5602,Lowlife
+9787,Maggot
+5889,Malcolm Stein
+8049,Marcus Vertz
+4585,Mason Harn
+2550,Meis
+2149,Midday bride
+3321,Mikul
+10261,Missing creatures
+3521,Moa
+2577,Morenn
+4095,Munro Bruys
+4561,Murky Waters blacksmith
+4586,Murky Waters healer
+15807,Mysterious assassin
+7049,Mysterious man
+2878,Nadir
+99049,Naiad (Murky Waters lakeside)
+5755,Novice nun
+2485,Nurses
+2480,Odo (merchant)
+11235,Old brickmaker
+8052,Order quartermaster
+5288,Ori Reuven
+3860,Ozzrel
+7591,Pat
+2662,Patrick de Weyze
+3777,People of Murky Waters
+2817,People of the Outskirts
+4480,Philippa Eilhart
+3558,Poor townsfolk
+4723,Prize-winning cow
+3401,Professor (assassin)
+3486,Prostitute
+2573,Queen of the Night
+4789,Radovid V
+8038,Ramerot
+2570,Ramsmeat
+11206,Raven
+2490,Rayla
+2571,Raymond Maarloeve
+2664,Ren Grouver
+8874,Resolute girl
+2479,Reverend (Outskirts)
+5972,The Rock
+2572,Roderick de Wett
+4779,Roland Bleinheim
+2668,Royal huntsman
+31635,Saint Gregory
+4314,Savolla
+8313,Scoia'tael quartermaster
+2407,Shani
+2481,Siegfried of Denesle
+8051,Swordsmith
+3516,Teyu
+2482,Thaler (spy)
+4463,The Witcher merchants
+3512,Tobias Hoffman
+16957,Torch Guardian
+2437,Toruviel
+3290,Townsfolk
+8028,Trader
+2035,Triss Merigold
+3517,Ureus
+2576,Vaska
+2574,Velerad
+8048,Vertz
+2424,Vesemir
+2475,Vesna Hood
+3519,Vesper
+2158,Vetala
+2484,Vincent Meis
+3520,Voref
+6500,Waitresses
+2489,Yaevinn
+66782,Yamo Ryeboozer
+4504,Yaren Bolt
+4502,Zahin Schmartz
+5975,Zdenek
+4032,Zephyr
+2408,Zoltan Chivay
+14238,The Witcher 2 merchants
+35920,Abelard of Hagge
+16759,Adalbert (Nilfgaardian sorcerer)
+9584,Adam Pangratt
+16120,Adrianna
+16811,Aep Dearhenna
+35912,Allgood
+9775,Anaïs La Valette
+12799,Anezka
+40362,Anselm of Aedirn
+98046,Archpriest (Monastery)
+72260,Arnesse
+15321,Arnolt Malliger
+72247,Arseleta
+3669,Arthur Tailles
+11789,Aryan La Valette
+4833,Assire var Anahid
+13262,Auckes
+12990,Baltimore
+15306,Bartholomew Bargee
+11795,Bernard Loredo
+14728,Berthold Candeleria
+72245,Big Bust Miriam
+72242,Birdie
+16096,Bolton of Ironford
+9774,Boussy La Valette
+12993,Bras of Ban Ard
+16706,Brigida Papebrock
+16331,Burton
+9342,Carduin
+12550,Cecil Burdon
+12420,Cedric (elf)
+12445,Chorab
+13006,Ciaran aep Easnillen
+15255,Clovisse Merse
+37172,Count Felart
+14903,Count Tybalt (knight)
+14233,Craftsman
+9025,Crinfrid Reavers
+12886,Cynthia
+35976,Dagonet
+16496,Dalum
+7587,Demavend III
+12820,Derae
+9571,Detmold
+13076,Dmitri
+16117,Dragan
+12913,Earso
+13640,Edwin Leistham
+12415,Einar Gausel
+103230,Ekhart Henessy
+13260,Ele'yas
+15462,Elthon
+15429,Elven prisoner
+15239,Enzo Etcheverry
+9796,Eredin Bréacc Glas
+12818,Falas
+16876,Farid
+14344,Felicia Cori
+41267,Felix Favela
+15874,Fenn (commando)
+16062,Finch
+12408,Fioravanti
+44184,Gar
+16875,Gaspar
+15948,Gavrilo
+14497,Gridley
+16770,Guard (mage)
+37287,Gus of Tretogor
+15357,Haggard
+16118,Harald Gord
+35974,Harmond
+5201,Henselt
+35747,Hieronymus Lash
+35916,Himsbach
+15915,Igo
+16079,Igor Vivaldi
+12816,Ilona
+9576,Iorweth
+14753,Isidor Kay
+8123,Jan Natalis
+72262,Julia (prostitute)
+15613,Kalten
+9350,Kennet
+14546,King Ziggy
+14607,Lasota
+15409,Letande Avet
+12220,Letho
+72235,Licking Lucy
+16795,Linus Maravel
+14338,Liva
+12797,Louis Merse
+15389,Madame Carole
+12807,Mael
+15413,Magnus
+12435,Malena
+14783,Malget
+13450,Manfred (soldier)
+16089,Mantas Birut
+12814,Marcus
+12343,Margot
+9773,Maria Louisa La Valette
+12897,Marietta Loredo
+16330,Matilda Szabo
+13447,Mavrick
+13443,Moril
+14190,Mottle
+12710,Myron
+14757,Mysterious merchant
+14150,Newboy
+104008,Nilfgaardian's wraith
+35895,Norman Sador
+13082,Odrin
+88187,Ogden
+13084,Olcan
+12668,Operator
+15914,Oven
+13139,Penitent Monk
+13441,Polycarp of Rinde
+14331,Proximo
+16791,Ravanen Kimbolt
+14749,Raymond Gessler
+14759,Relic peddler
+13439,Renuald aep Matsen
+4935,Roach
+52779,Roderick of Daevon
+14500,Rupert Brandhuber
+3868,Sabrina Glevissig
+12950,Saesenthessis
+14342,Sambor
+15417,Seherim
+15193,Seltkirk
+35914,Semko
+12443,Sendler
+13267,Serrit
+35858,Seuxen
+13063,She-troll of Vergen
+25019,Sheala de Tancarville
+9449,Sheldon Skaggs
+15913,Sheridan
+9503,Shilard Fitz-Oesterlen
+16063,Shorty
+15912,Silas
+14927,Silgrat
+12864,Skalen Burdon
+15508,Spark
+13143,Stennis
+57686,Succubus (Vergen)
+40229,Sven (Manfred's son)
+35860,Swann
+16808,Talking Golem
+12812,The Incredible Lockhart
+12804,The Mighty Numa
+15872,Thirteen
+12892,Thorak
+12866,Troll of Flotsam
+13060,Troll of Vergen
+17992,Tybalt of Vengerberg
+15667,Vandergrift
+13847,Vanhemar
+15257,Vencel Pugg
+11456,Vernon Roche
+12262,Ves
+15510,Vilmos Bartok
+16119,Vincent Molnar
+12985,Vinson Traut
+14340,Visionary
+37458,Whistling Wendy
+88189,Willy Oblate
+4604,Yarpen Zigrin
+2007,Yennefer of Vengerberg
+64810,Zindrab
+9748,Zyvik
+88190,File:Tw2 Willy Oblate.jpeg
+72448,Gwent players
+36469,Abbé Faria
+73979,Abelard Rizza
+73071,Aegar
+72208,Agda
+42730,Agneta
+38102,Aki II
+34770,Albert Vegelbud
+43323,Albin Hart
+72721,Alchemist (Crematory)
+32177,Aldert Geert
+43558,Alexander
+31185,Allgod
+70351,Ambros
+88252,Amos var Ypsis
+72270,Amrynn
+31899,Anabelle
+41769,Anisse
+23959,Anna Strenger
+40382,Anselm (merchant)
+74522,Archibald O'Neill
+38475,Armorer (Hierarch Square)
+72118,Armorer (Kaer Muire)
+61682,Armorer (Kaer Trolde keep)
+67011,Armorer (Larvik)
+38345,Armorer (Midcopse)
+38477,Armorer (Oxenfurt)
+72111,Armorer (Urialla Harbor)
+43471,Arnout Vester
+46352,Arnvald
+38635,Artis
+68867,Astrid (Skjall's sister)
+54652,Astrid the Vipress
+60695,Athak Akydalv
+9185,Auberon Muircetach
+9305,Avallac'h
+51405,Axel an Tordarroch
+44000,Aynara
+44433,Barber (Claywich)
+73638,Barber (Gildorf)
+44439,Barber (Oxenfurt)
+44435,Barber (Svorlag)
+73642,Barber (The Bits)
+31498,Bart
+65113,Barylka
+69632,Bastien Vildenvert
+50899,Bea
+75874,Beast Tamer
+77622,Berem
+36165,Bernard Tulle
+50701,Bertha
+41770,Berthold
+51502,Bertram (peasant)
+28394,Birna
+51579,Bjern
+43016,Bjorg
+43283,Black Bogdan
+72800,Blacksmith (Bald Mountain)
+41353,Blacksmith (Blackbough)
+41345,Blacksmith (Fayrlund)
+72494,Blacksmith (Harviken)
+72798,Blacksmith (Larvik)
+40024,Blacksmith (Lindenvale)
+41333,Blacksmith (Novigrad)
+41359,Blacksmith (Oreton)
+41340,Blacksmith (Oxenfurt)
+71763,Blacksmith (Silverton)
+41369,Blacksmith (Urialla Harbor)
+72203,Boatwright
+42733,Bolko
+40208,Boris (bear)
+40209,Boris (troll)
+29854,Bram
+8702,Bran Tuirseach
+41527,Bran's unidentified concubine
+61300,Brean Hotsch
+38655,Brewess
+51232,Bruno
+42947,Bytomir
+40111,Caesar Bilzen
+29718,Caleb Menge
+43665,Captain Liglad
+43663,Captain Wolverstone
+22966,Caranthir Ar-Feiniel
+38138,Carlo Rycher
+23910,Carlo Varese
+9475,Carthia van Canten
+37408,Caspar
+26056,Cerys an Craite
+8975,Chappelle
+44023,Chet
+2754,Ciri
+72228,Claer
+38901,Cledwyn
+25240,Corinne Tilly
+37553,Count de Luverten
+36186,Count Tybalt (Novigrad)
+3573,Crach an Craite
+21014,Crones
+29404,Cyprian Wiley
+9572,Cyrus Engelkind Hemmelfart
+43451,Dagmar
+37396,Damiaan
+37295,Dea
+38643,Dieter
+43440,Dilvyn
+37533,Dirk
+18736,Djenge Frett
+35119,Dolores Reardon
+31462,Donar an Hindar
+77732,Dragomir (The Witcher 3)
+3578,Draig Bon-Dhu
+3577,Drogodar
+69526,Dromle
+7578,Dudu
+38312,Duke (gangster)
+69553,Dune Vildenvert
+73031,Durden
+44034,Ealdorman (Downwarren)
+38777,Ealdorman (White Orchard)
+38316,Earl (gangster)
+36314,Edna var Attre
+37392,Egbert
+51583,Egill
+41176,Éibhear Hattori
+42110,Einar (Harviken)
+51560,Einar (Larvik)
+21061,Elihal
+29932,Elsa
+3313,Emhyr var Emreis
+94069,Ernst van Hoorn
+51556,Eryka
+51521,Evald
+54385,Eyvind
+72322,Fabian Meyer
+36201,Felix Grubb
+35360,Fergus Graem
+36167,Finneas
+46354,Folan
+52313,Folmer
+23591,Francis Bedlam
+37413,Freek
+38753,Freya Priestess
+4835,Fringilla Vigo
+38650,Fritjof
+40297,Fugas
+27833,Gaetan
+73099,Gascoigne
+72324,Gaspard
+19053,Gaunter O'Dimm
+21065,Ge'els
+44002,Genny
+74521,Georgius Georg
+60212,Gerd (peasant)
+43405,Gert Borel
+38041,Gilbert Witschke
+60211,Ginter de Lavirac
+18737,Gjarr
+70146,Glenna
+85905,Gomo Seeling
+51504,Gottard
+31456,Graden
+46357,Graham
+23964,Gran
+38053,Gravedigger (Lindenvale)
+37225,Gregor
+32134,Gremist
+29317,Gretka
+73033,Grim
+43904,Griswold
+18738,Grossbart Brothers
+74766,Gus Meyer
+74124,Gustav Roene
+42735,Haddy
+73130,Hal
+46359,Halbjorn
+28487,Hammond
+34347,Hanna
+37100,Hans of Cidaris
+66696,Happen the Eunuch
+38145,Harald (Fayrlund)
+31981,Harald an Tordarroch
+38143,Harald Featherbuns
+49176,Harmon aep Groenekan
+35599,Havart var Moehoen
+30917,Hegel Grossbart
+42813,Helma
+27540,Hendrik
+37555,Henri Rautlec
+24655,Henry var Attre
+72500,Herbalist (campsite)
+77555,Herbalist (Cunny of the Goose)
+43145,Herbalist (Glory Lane)
+116172,Herbalist (Hierarch Square)
+43153,Herbalist (Kaer Trolde)
+73470,Herbalist (Kvalheim Isle)
+42967,Herbalist (Liberated camp)
+71258,Herbalist (Refugees' Camp)
+42960,Herbalist (Shrine)
+81603,Herbalist (Spitfire Bluff)
+28048,Herevard II
+10409,Hjalmar an Craite
+30577,Hjort
+31464,Holger Blackhand
+40546,Holofernes Meiersdorf
+35896,Hortensio
+76039,Hrodeberth
+40105,Hubert Rejk
+37381,Hubrecht
+40015,Hunter (Lindenvale)
+65013,Hussar
+4836,Ida Emean aep Sivney
+77519,Igor (Fools' Gold)
+38260,Igor de Sade
+40207,Igor the Hook
+41532,Ilge
+22833,Imlerith
+34774,Ingrid Vegelbud
+72577,Innkeep (Cunny of the Goose)
+40948,Innkeep (Harviken)
+67722,Innkeep (Inn at the Crossroads)
+73038,Innkeep (Larvik)
+39966,Innkeep (Lindenvale)
+73977,Innkeep (Rosemary and Thyme)
+72585,Innkeep (Seven Cats Inn)
+41542,Innkeep (Svorlag)
+72594,Innkeep (The Golden Sturgeon)
+73975,Innkeep (The Kingfisher)
+72579,Innkeep (The Nowhere Inn)
+73040,Innkeep (Urialla Harbor)
+46361,Irina Renarde
+38049,Iron Mortimer
+40123,Iron-Arse Hans
+92325,Ivar
+27825,Jad Karadin
+10068,Janne
+30918,Jesse Grossbart
+24782,"Jesse, Joe and Dodger"
+29633,Joachim von Gratz
+27329,John Geermer
+29147,John Verdun
+20844,Johnny
+43899,Jonah
+38804,Jonas the Innkeep
+72148,Jonna
+41393,Jorulf the Wolverine
+40241,Josta
+37404,Jouke
+56815,Jutta an Dimun
+72950,Karli
+4831,Keira Metz
+29325,King of the Wolves (creature)
+21955,Kiyan
+79609,Kluhg
+74525,Kobe
+73058,Kori
+73061,Kraki
+40238,Kurisu
+37536,Kurt (witch hunter)
+24476,Kurt Dysart
+51311,La Valette Guard Captain
+73067,Leif
+74531,Lena
+41941,Leslav
+43314,Lessy
+79909,Liesje
+51500,Little Red (bandit)
+71637,Loan Shark
+75635,Lodrin
+72151,Lothar (Tjalve's father)
+43469,Louis (bandit)
+34772,Luc Vegelbud
+74527,Lucas
+41391,Lugos Drummond (Blueboy)
+31468,Lugos Drummond (Madman)
+28490,Lund
+43478,Lussi
+38572,Lyffned
+37451,Madame (Crippled Kate's)
+72735,Mandy
+41880,Manfred (merchant)
+30916,Manfred Grossbart
+41137,Marabella
+29578,Marcus T.K. Hodgson
+4830,Margarita Laux-Antille
+34346,Margrit
+45984,Marica
+85906,Marius Florin
+32140,Marquise Serenity
+74404,Master Claytop
+51768,Mathios
+73045,Maxim Boliere
+85811,Medic (Novigrad Docks)
+85809,Medic (Oxenfurt Morgue)
+72105,Merchant (Ard Skellig sawmill)
+43902,Merchant (Blackbough)
+72847,Merchant (Blandare)
+44047,Merchant (Boatmakers' Hut)
+71333,Merchant (boatyard)
+77879,Merchant (Border Post)
+36157,Merchant (Calveit Watchtower)
+72498,Merchant (campsite)
+51218,Merchant (Claywich)
+39247,Merchant (Downwarren)
+44041,Merchant (Fayrlund)
+43075,Merchant (Fish Market)
+72600,Merchant (fishmonger)
+72803,Merchant (Fyresdal)
+42563,Merchant (Gildorf)
+72880,Merchant (halfling)
+72450,Merchant (Harviken)
+72808,Merchant (Hierarch Square)
+72868,Merchant (Holmstein's Port)
+41350,Merchant (Isolated Hut)
+72875,Merchant (Kaer Trolde Harbor)
+72850,Merchant (Larvik)
+40018,Merchant (Lindenvale)
+42861,Merchant (Midcopse)
+76075,Merchant (Nilfgaardian Army Group 'Center' Camp)
+72267,Merchant (Oreton)
+72719,Merchant (Oxenfurt)
+72573,Merchant (Putrid Grove)
+41186,Merchant (Scoia'tael)
+72877,Merchant (Silverton docks)
+72603,Merchant (Silverton)
+72852,Merchant (Svorlag)
+72597,Merchant (The Bits)
+72490,Merchant (Tretogor Gate)
+73981,Merchant (White Orchard sawmill)
+29905,The Witcher 3 merchants
+50698,Mercia
+38907,Mererid
+38631,Mikah
+72212,Mikkel (Skelliger)
+42832,Mikkjal
+44004,Mikula (orphan)
+42949,Milan Noran
+43513,Millie
+38642,Mislav
+51313,Molly
+31459,Moreelse
+42942,Moritz Diefenthel
+40516,Morkvarg
+9390,Morvran Voorhis
+3575,Mousesack
+78496,Moving merchant
+57571,Napp
+72272,Narcissa
+31215,Nathaniel Pastodi
+78877,Nidas
+34348,Niellen
+36273,Nikolas Friedman
+38787,Nilfgaardian Nobleman (Royal Palace at Vizima)
+73109,Nissa
+23372,Nithral
+44044,Odhen
+42682,Odolan
+40202,"Ogg, Pogg and Rogg"
+52685,Olaf (bear)
+51517,Olaf (guardsman)
+41687,Old Sage
+76160,Old Woman (White Orchard)
+53725,Ole-Kristian
+41793,Olivier
+43998,Orphans
+60665,Oswin
+42382,Otrygg an Hindar
+67034,Otto Bamber
+34775,Patricia Vegelbud
+38147,Patrick Hazelnutt
+27137,Peter Saar Gwynleve
+76346,Petter
+20605,Phillip Strenger
+52274,Piet
+79610,Polly
+84322,Porter (Putrid Grove)
+40248,Preacher (Temple Isle)
+43447,Preben
+38176,Princess (goat)
+21069,Priscilla
+37889,Prison Warden
+51453,Quartermaster (Crow's Perch)
+39076,Quartermaster (Nilfgaardian Garrison)
+43280,Radko
+38314,Ravik
+44151,Refugee (Benek)
+37549,Remi Villeroy
+69558,Rhosyn
+84319,Rico Meiersdorf
+43296,Ronvid of the Small Marsh
+36313,Rosa var Attre
+43526,Rostan Muggs
+52335,Ruar
+35456,Rudolf de Jonkheer
+30922,Rufus
+51335,Rurik
+21889,Salma
+43172,Sarah
+43901,Sergeant Ardal
+43330,Shady merchant
+7586,Sigismund Dijkstra
+31111,Sigo Buntz
+41330,Sigurd
+44409,Simun Brambling
+44431,Sjusta
+28435,Skjall
+41342,Smith (Fyresdal)
+41347,Smith (Kaer Muire)
+41366,Smith (Svorlag)
+43897,Smithy
+73126,Sofus the Bull
+42550,Stan Fishgulper
+43678,Steingrim
+32137,Stjepan
+43282,Stuttering Mattko
+40628,Succubus (Ard Skellig)
+83516,Sukrus
+43918,Survivor (Heatherton)
+50702,Suzy
+70388,Svana
+24914,Svanrige Tuirseach
+40231,Sven (Fayrlund)
+43779,Sverre
+37455,Sweet Nettie
+38354,Swordsmith (Mulbrydale)
+38051,Sylvester Amello
+44021,Symko
+28090,Tamara Strenger
+25569,Tavar Eggebracht
+18211,The Ghost in the Tree
+47302,The Mysterious Elf
+33673,The Pellar
+45982,Thecla
+30920,Theophile Maria Rosco
+43782,Thorleif
+76361,Tim Knott
+72032,Timmon
+83519,Tinboy
+28970,Titus Gielas
+72153,Tjalve
+26176,Tomira
+51552,Torgun
+43018,Tove
+51451,Trader (Crow's Perch)
+40082,Traveling trader (Velen)
+43996,Travik
+58877,Trollololo
+51554,Trygvi
+30575,Udalryk an Brokvar
+70776,Ulf
+72210,Ulf (Timmon's brother)
+47617,Ulle the Unlucky
+22572,Uma
+53723,Uve
+41395,Uve Jabberjaw
+72945,Vagn
+38262,Vairmont Jonne
+74890,Valdo
+40228,Valgard
+40224,Valgridovt
+51270,Var Attre Guard Captain
+29607,Vernossiel
+8974,Vespula
+73102,Victor
+28488,Vienne
+46365,Vigi the Loon
+40222,Viki
+51575,Vilmar (druid)
+4017,Vimme Vivaldi
+72279,Viola
+38230,Vladimir de Cret
+76303,Volund
+70700,Voytek
+43476,Wallter
+38660,Weavess
+38664,Whispess
+30099,Willis
+44007,Yagna
+77517,Yagoda
+29066,Yamurlak (spy)
+76258,Yanina
+44018,Yanna (The Witcher 3)
+45202,Yanne
+75637,Yaren
+35362,Yoana
+51581,Yolar
+43932,Yontek
+76242,Yorg
+76245,Yorg's sister
