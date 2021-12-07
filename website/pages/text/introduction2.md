@@ -11,3 +11,6 @@ The data for this analysis is collected from [The Witcher Fandom Wiki](https://w
 ## How to use this website
 
 This website is made with Streamlit and is therefore very interactive. This means that you the user can try to analyse the Witcher network yourself. There will be many different options to explore with can be overwhelming. Therefore the default output of everything out see will be the output of our analysis and how we intent to show it. Sometimes we will instruct you to play around with the interface to see different outcomes. 
+
+The code for this project and website can be found at [Github](https://github.com/datarise/socialgraph-witcher-analysis/tree/main) in the main and website branch.
+
