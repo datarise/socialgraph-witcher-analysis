@@ -1,0 +1,27 @@
+{{Infobox Character
+|Name = Adrianna
+|Image = Adrianna.jpg
+|Race = [[Human]]
+|Gender = Female
+|Affiliations = [[The Witcher 2 Arena|Arena]]
+|Profession = [[Mage]]
+|Appears_games = {{Tw2}}
+|Hair_color = Black
+|Eye_color = Brown
+|Abilities = [[Magic]]}}Lady '''Adrianna''' was a [[sorceress]] at the [[The Witcher 2 Arena|arena]] whom [[Geralt of Rivia|Geralt]] could hire to assist in a fight for 1000 {{oren2}}.
+
+She tells Geralt that she is at the arena to test several new spells she's developed for combat situations. She believes the [[witcher]] benefits far more from fighting with her at his side than vice versa, and so charges for her services.
+== Gallery ==
+<gallery>
+Tw2 screenshot Adrianna 02.png
+</gallery>
+
+[[de:Adrianna]]
+[[fr:Adrianna]]
+[[it:Adrianna]]
+[[pl:Adrianna]]
+[[cs:Adrianna]]
+[[ru:Адрианна]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:Mages]]

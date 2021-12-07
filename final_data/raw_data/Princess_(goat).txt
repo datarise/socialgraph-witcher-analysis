@@ -1,0 +1,26 @@
+{{Infobox Animal
+|Image =Princess 2.png
+|Species =[[Goat]]
+|Gender =Female
+|Affiliations =[[The Pellar]]
+|Appears_games ={{Tw3}}
+|Name = Princess
+|Hair_color = White and brown}}'''Princess''' was a [[goat]] that belonged to [[the Pellar]].
+
+==Biography==
+It is unknown how long Princess has lived with the Pellar, though the two clearly shared a bond, given the affection with which he treated this animal. This perpetuated rumors among the locals that the Pellar engaged in sexual relations with his goat.
+
+On one occasion, [[Geralt of Rivia|Geralt]] had tracked Princess and returned her to the Pellar in return for information about [[Anna Strenger|Anna]] and [[Tamara Strenger]], after the goat was scared off by [[Phillip Strenger|the Baron]]'s men. Given Princess's affinity for wild strawberries and raspberries, this proved a lengthy task that required the use of a [[Pellar's bell|bell]], which, when rung, caused Princess to follow the ringer. Upon her return, the Pellar milked the goat for a ritual in which he augured for information about Anna and Tamara.
+
+While Princess didn't normally approach other people, she did approach those who were suffering. When Anna Stranger visited the Pellar for help, he noted that Princess approached Anna and touched her hand, leading the Pellar to accurately guess the woman was burdened by a lot of pain, even if she didn't say anything to him.
+
+== Associated Quests ==
+*[[A Princess in Distress]]
+*[[Family Matters]] (dependent)
+
+[[ru:Княжна]]
+[[cs:Princezna (koza)]]
+[[pl:Księżniczka (koza)]]
+[[Category:The Witcher 3 characters]]
+[[Category:Creatures]]
+[[Category:The Witcher 3 bestiary]]

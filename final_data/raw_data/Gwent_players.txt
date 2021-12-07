@@ -1,0 +1,797 @@
+Throughout {{Tw3}}, there are a number of [[gwent]] players. This is a complete list of every player, separated by game and regions.
+
+'''†''' This denotes players that can die or disappear from the game. With {{Patch|Game = 3|Patch = 1.08}}, these cards can be found at locations, typically near where the character resided.
+
+== {{Tw3}} players ==
+=== [[White Orchard]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|[[White Orchard inn|White Orchard Inn]]
+|[[Aldert Geert]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|}
+
+=== [[Vizima]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|[[Royal Palace (Vizima)|Royal garden]]
+|[[Nilfgaardian Nobleman (Royal Palace at Vizima)|Nobleman]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|}
+
+=== [[Velen]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|[[Blackbough]]
+|[[Merchant (Blackbough)|Merchant]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Blackbough]]
+|[[Blacksmith (Blackbough)|Blacksmith]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Claywich]]
+|[[Merchant (Claywich)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Crow's Perch]]
+|[[Trader (Crow's Perch)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Crow's Perch]]
+|[[Yoana]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Crow's Perch]]
+|[[Fergus Graem]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Crow's Perch]]
+|[[Quartermaster (Crow's Perch)|Quartermaster]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Crow's Perch]]
+|[[Phillip Strenger|Bloody Baron]] †
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Downwarren]]
+|[[Merchant (Downwarren)|Merchant]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Lindenvale]]
+|[[Blacksmith (Lindenvale)|Blacksmith]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Lindenvale]]
+|[[Merchant (Lindenvale)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Midcopse]]
+|[[Armorer (Midcopse)|Armorer]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Midcopse]]
+|[[Merchant (Midcopse)|Merchant]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Midcopse]]
+|[[Haddy]]
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Mulbrydale]]
+|[[Swordsmith (Mulbrydale)|Armorer/Swordsmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Nilfgaardian Army Group 'Center' Camp]]
+|[[Tavar Eggebracht|Quartermaster Eggebracht]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Oreton]]
+|[[Merchant (Oreton)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Oreton]]
+|[[Boatwright]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Benek]]
+|[[Old Sage]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Inn at the Crossroads]]
+|[[Innkeep (Inn at the Crossroads)|Innkeep]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Cunny of the Goose]]
+|[[Innkeep (Cunny of the Goose)|Innkeep]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|Between [[Loggers' Hut]] and [[Lucian's Windmill]]
+|[[Merchant (Scoia'tael)|Merchant]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|}
+
+=== [[Novigrad]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|[[Seven Cats Inn]]
+|[[Innkeep (Seven Cats Inn)|Innkeep]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Seven Cats Inn]]
+|[[Thaler (spy)|Thaler]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|-
+|Outside [[Seven Cats Inn]] (during [[The Dwarven Document Dilemma]])
+|[[Gerd (peasant)|Gerd]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | n/a
+|-
+|East of [[Seven Cats Inn]] (during [[A Poet Under Pressure]])
+|[[Priscilla]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | n/a
+|-
+|[[Crematory]] northeast of the [[Oxenfurt Gate]]
+|[[Alchemist (Crematory)|Alchemist]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|South of [[Tretogor Gate]]
+|[[Elihal]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Rosemary and Thyme]]
+|[[Zoltan Chivay]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|-
+| Northwest of [[Tretogor Gate]]
+|[[Merchant (Tretogor Gate)|Merchant]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+| North of [[Putrid Grove]]
+|[[Herbalist (Glory Lane)|Herbalist]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Putrid Grove]]
+|[[Merchant (Putrid Grove)|Merchant]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Crippled Kate's]]
+|[[Madame (Crippled Kate's)|Madame]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Fish Market]]
+|[[Blacksmith (Novigrad)|Blacksmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Fish Market]]
+|[[Merchant (Fish Market)|Merchant]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[The Golden Sturgeon]]
+|[[Innkeep (The Golden Sturgeon)|Innkeep]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[The Golden Sturgeon]] (during [[A Dangerous Game]])
+|[[Earl (gangster)]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | n/a
+|-
+|[[Silverton]] district
+|[[Blacksmith (Silverton)|Blacksmith]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Silverton]] district (northwest of the blacksmith)
+|[[Merchant (Silverton)|Merchant]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Silverton]] district (southwest of the blacksmith)
+|[[Merchant (fishmonger)|Merchant]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Hierarch Square]]
+|[[Vimme Vivaldi]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|-
+|[[Hierarch Square]]
+|[[Marcus T.K. Hodgson]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[The Kingfisher Inn]]
+|[[Olivier]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[The Kingfisher Inn]]
+|[[Innkeep (The Kingfisher)|Innkeep]] (Olivier's replacement)
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Rosemary and Thyme]]
+|[[Innkeep (Rosemary and Thyme)|Innkeep]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[The Bits]]
+|[[Loan Shark]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[The Bits]] (across from the loan shark)
+|[[Merchant (The Bits)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[The Nowhere Inn]]
+|[[Innkeep (The Nowhere Inn)|Innkeep]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Sigismund's Bathhouse]]
+|[[Sigismund Dijkstra]] †
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Gildorf]]
+|[[Merchant (Gildorf)|Merchant]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Passiflora]]
+|[[Marquise Serenity]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Passiflora]] (during [[High Stakes]])
+|[[Bernard Tulle]] †
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Passiflora]] (during [[High Stakes]])
+|[[Carthia van Canten|Sasha]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Passiflora]] (during [[High Stakes]])
+|[[Finneas]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|-
+|[[Passiflora]] (during [[High Stakes]])
+|[[Count Tybalt (Novigrad)|Count Tybalt]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Electors' Square]]
+|[[Preacher (Temple Isle)|Preacher]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Vegelbud Residence]] (during [[A Matter of Life and Death (The Witcher 3)|A Matter of Life and Death]])
+|[[Vladimir de Cret|Margrave Vladimir de Cret]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|Vegelbud Residence (during [[A Matter of Life and Death (The Witcher 3)|A Matter of Life and Death]])
+|[[Gomo Seeling]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|-
+|Vegelbud Residence (during [[A Matter of Life and Death (The Witcher 3)|A Matter of Life and Death]])
+|[[Marius Florin]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|}
+
+=== [[Oxenfurt]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+| Northern part of the city
+|[[Armorer (Oxenfurt)|Armorer]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|Southeastern part of the city
+|[[Blacksmith (Oxenfurt)|Blacksmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+| Northern part of the city
+|[[Merchant (Oxenfurt)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[The Alchemy]]
+|[[Stjepan]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|}
+
+=== [[Gustfields]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|[[Herbalist's Hut]]
+|[[Otto Bamber]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Temerian Partisan Hideout]]
+|[[Vernon Roche]] †
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|}
+
+=== [[Skellige]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|[[Arinbjorn]]
+|[[Blacksmith (Arinbjorn)|Blacksmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Arinbjorn]]
+|[[Innkeep (Arinbjorn)|Innkeep]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Blandare]]
+|[[Merchant (Blandare)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Fayrlund]]
+|[[Blacksmith (Fayrlund)|Blacksmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Fayrlund]]
+|[[Merchant (Fayrlund)|Merchant]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Fyresdal]]
+|[[Smith (Fyresdal)|Smith]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Fyresdal]]
+|[[Merchant (Fyresdal)|Merchant]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Gedyneith]]
+|[[Ermion]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Gedyneith]]
+|[[Gremist]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Harviken]]
+|[[Blacksmith (Harviken)|Blacksmith]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Harviken]]
+|[[Innkeep (Harviken)|Innkeep]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Holmstein's Port]]
+|[[Merchant (Holmstein's Port)|Merchant]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Larvik]]
+|[[Armorer (Larvik)|Armorer]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Larvik]]
+|[[Blacksmith (Larvik)|Blacksmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Larvik]]
+|[[Innkeep (Larvik)|Innkeep]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Larvik]]
+|[[Merchant (Larvik)|Merchant]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Kaer Muire]]
+|[[Armorer (Kaer Muire)|Armorer]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Kaer Muire]]
+|[[Smith (Kaer Muire)|Blacksmith]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Kaer Muire]]
+|[[Madman Lugos]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Kaer Trolde]]
+|[[Herbalist (Kaer Trolde)|Herbalist]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Kaer Trolde]]
+|[[Sjusta]]
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Kaer Trolde]], [[The New Port|The New Port Inn]]
+|[[Jonas the Innkeep]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Kaer Trolde citadel]]
+|[[Armorer (Kaer Trolde keep)|Armorer]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Kaer Trolde citadel]]
+|[[Yanne]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Kaer Trolde citadel]]
+|[[Crach an Craite]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Kvalheim Isle]]
+|[[Herbalist (Kvalheim Isle)|Herbalist]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Svorlag]]
+|[[Smith (Svorlag)|Smith]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Svorlag]]
+|[[Innkeep (Svorlag)|Innkeep]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Svorlag]]
+|[[Merchant (Svorlag)|Merchant]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Urialla Harbor]]
+|[[Armorer (Urialla Harbor)|Armorer]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Urialla Harbor]]
+|[[Blacksmith (Urialla Harbor)|Blacksmith]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Urialla Harbor]]
+|[[Innkeep (Urialla Harbor)|Innkeep]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|}
+
+=== [[Kaer Morhen]] ===
+{| class="wikitable sortable" width="100%"
+! width="30%" | Location
+! width="30%" | Player
+! width="20%" | Deck
+! width="20%" | Unique Card?
+|-
+|Can also be played at [[The Nowhere Inn]]
+|[[Lambert]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|}
+== {{HoS}} players ==
+{| class="wikitable sortable" width="100%"
+! width="15%" | Region
+! width="27%" | Location
+! width="25%" | Player
+! width="15%" | Deck
+! width="18%" | Unique Card?
+|-
+|[[Oxenfurt]]
+|[[Borsodi Brothers' Auction House]]
+|[[Hilbert]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Oxenfurt]]
+|[[Shani's Clinic]]
+|[[Shani]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|-
+|[[Oxenfurt]]
+|[[The Alchemy]]
+|[[Olgierd von Everec]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Gustfields]]
+|[[Brunwich]]
+|Halfling †
+| align="center" | {{Gwent Monsters}}
+| align="center" | No
+|-
+|[[Gustfields]]
+|Circus troupe northwest of [[Carsten]]
+|[[Merchant (circus troupe)|Merchant]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | Yes
+|}
+== {{BaW}} players ==
+''Note that most players will give a specific [[Skellige Gwent deck|Skellige card]] as a reward for beating them (those who don't are marked as n/a). As such, only those carrying a non-duplicate card are marked as unique (e.g.: those who reward [[Mardroeme (gwent card)|mardroeme]] aren't marked unique as there are 3 available cards).''
+{| class="wikitable sortable" width="100%"
+! width="15%" | Region
+! width="27%" | Location
+! width="25%" | Player
+! width="15%" | Deck
+! width="18%" | Unique Card?
+|-
+|[[Beauclair]]
+|[[Beauclair Port]], Butcher's Shop
+|[[Butcher]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | No
+|-
+|[[Beauclair]]
+|[[Beauclair Port]], [[The Belles of Beauclair]]
+|[[Madame Isabelle]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Beauclair]]
+|[[The Adder and Jewels Winery]]
+|[[Sommelier]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | Yes
+|-
+|[[Beauclair]]
+|[[Cianfanelli Bank]]
+|Bank customer †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | n/a
+|-
+|[[Beauclair]]
+|[[The Ducal Camerlengo]]
+|[[Rafael de Surmann]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Beauclair]]
+|[[Dupont & Sons Emporium of Diverse Merchandise|Dupont &amp; Sons]] (next to the [[Lazare Lafargue|Grandmaster smith]])
+|[[Merchant (Dupont & Sons)|Merchant]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Beauclair]]
+|[[Hauteville]] (west of the Grandmaster smith)
+|[[Armorer (Hauteville)|Armorer]]
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Beauclair]]
+|[[Hauteville]] (near the armorer) can only be played during [[Till Death Do You Part]]
+|[[Trentin]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | n/a
+|-
+|[[Beauclair]]
+|[[Herb Store]] (east of the Grandmaster smith)
+|[[Herbalist (Beauclair)|Herbalist]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | No
+|-
+|[[Beauclair]]
+|[[Perfumery]]
+|[[Merchant (Perfumery)|Merchant]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | No
+|-
+|[[Beauclair]]
+|[[The Pheasantry]]
+|[[Innkeep (The Pheasantry)|Innkeep]]
+| align="center" | {{Gwent Monsters}}
+| align="center" | Yes
+|-
+|[[Beauclair]]
+|[[The Pheasantry]]
+|[[Martin Monnier]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | Yes
+|-
+|[[Beauclair]]
+|[[The Pheasantry]] (during tournament)
+|[[Hamal ogn Dangbahli]] †
+| align="center" | {{Gwent Monsters}}
+| align="center" | n/a
+|-
+|[[Beauclair]]
+|[[The Pheasantry]] (during tournament)
+|[[Ambassador von Hinn]] †
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | n/a
+|-
+|[[Beauclair]]
+|[[The Pheasantry]] (during tournament)
+|[[Yaki Rafiberg]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | n/a
+|-
+|[[Beauclair]]
+|[[Tailor's Workshop]]
+|[[Pierre]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Beauclair]]
+|[[Land of a Thousand Fables]]
+|[[Little Flint Girl]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | n/a
+|-
+|[[Flovive]]
+|[[The Barrel and Bung Inn]]
+|[[Innkeep (Flovive)|Innkeep]]
+| align="center" | {{Gwent Northern}}
+| align="center" | Yes
+|-
+|[[Francollarts]]
+|[[The Scarlet Cardinal Inn]]
+|[[Innkeep (Francollarts)|Innkeep]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | Yes
+|-
+|[[Francollarts]]
+|East of sign post, at his workshop
+|[[Armorer (Francollarts)|Armorer]]
+| align="center" | {{Gwent Northern}}
+| align="center" | No
+|-
+|[[Sansretour Marsh]]
+|[[The Cockatrice Inn]]
+|[[Innkeep (The Cockatrice Inn)|Innkeep]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | No
+|-
+|[[Sansretour Valley]]
+|[[Castel Ravello|Castel Ravello Vineyard]]
+|[[Herbalist (Castel Ravello)|Herbalist]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Sansretour Valley]]
+|[[Corvo Bianco]]
+|[[Majordomo]]
+| align="center" | {{Gwent Nilfgaard}}{{Gwent Northern}}{{Gwent Scoiatael}}{{Gwent Monsters}}{{Gwent Skellige}}
+| align="center" | n/a
+|-
+|[[Sansretour Valley]]
+|[[Tourney Grounds]]
+|[[Armorer (Tourney Grounds)|Armorer]]
+| align="center" | {{Gwent Nilfgaard}}
+| align="center" | No
+|-
+|[[Sansretour Valley]]
+|[[Tourney Grounds]]
+|[[Barber (Tourney Grounds)|Barber]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | No
+|-
+|[[Sansretour Valley]]
+|[[Tourney Grounds]]
+|[[Blacksmith (Tourney Grounds)|Blacksmith]]
+| align="center" | {{Gwent Skellige}}
+| align="center" | No
+|-
+|[[Sansretour Valley]]
+|[[Tourney Grounds]]
+|[[Innkeep (Tourney Grounds)|Innkeep]]
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | No
+|-
+|[[Sansretour Valley]]
+|[[Tourney Grounds]]
+|[[Palmerin de Launfal]] †
+| align="center" | {{Gwent Scoiatael}}
+| align="center" | n/a
+|-
+|[[Toussaint]]
+|[[Toussaint Prison]]
+|Prisoner †
+| align="center" | {{Gwent Skellige}}
+| align="center" | n/a
+|}
+'''†''' This denotes players that can die or disappear from the game. With {{Patch|Game = 3|Patch = 1.08}}, these cards can be found at locations, typically near where the character resided.
+
+[[ar:قائمة لاعبي غوينت]]
+[[Category:The Witcher 3 gwent| ]]
+[[Category:The Witcher 3 characters| ]]
+[[Category:Blood and Wine characters| ]]
+[[Category:Hearts of Stone characters| ]]
+[[Category:Pages with tables]]

@@ -1,0 +1,22 @@
+{{Infobox Character
+|Image = People_Ferryman_full.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[Blacksmith]]<br>[[Merchant]]
+|Parents = Unnamed [[Murky Waters blacksmith|father]]<br>Unnamed [[Blacksmith's wife|mother]]
+|Appears_games = {{Tw1}}
+}}
+The [[Murky Waters blacksmith|blacksmith]] in [[Murky Waters]] does not live alone, nor is he the only [[The Witcher merchants|merchant]]. He and his [[Blacksmith's wife|wife]] have a '''son''' who also trades in [[The Witcher weapons|weapons]], [[The Witcher armor|armor]] and [[blade enhancement|related products]] as part of the family business. The boy does not seem really into doing it, but he has to obey his father's wishes, apparently ''"or else!"''. The lad can be found next to the his [[Blacksmith's house|father's shop]], looking forlorn. Like most teenagers, he seems to get up relatively late as well.
+
+His attitude toward being a merchant is quite ironic as his inventory is easily the most lucrative in the entire game. Not only is he the first merchant who sells the mighty [[Perun runestone]], which is the most powerful temporary weapon augmentation in the game, but he is also the only one who sells [[Gwalhir]], which is the 2nd best steel sword in the game.
+
+[[cs:Kovářův syn]]
+[[de:Sohn des Schmieds (Trübwasser)]]
+[[fr:Fils du forgeron]]
+[[it:Figlio del fabbro]]
+[[pl:Kowalskie syna]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]

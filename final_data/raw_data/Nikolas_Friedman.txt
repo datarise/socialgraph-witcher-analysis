@@ -1,0 +1,22 @@
+{{Infobox Character
+|Image =Tw3 nikolas friedman.png
+|Ranks =Commander
+|Race =[[Human]]
+|Gender =Male
+|Nationality ={{Redanian}}
+|Eye_color =Brown
+|Hair_color =Brown {{Small|text=graying brown beard}}
+|Profession =[[Commander]] of the Oxenfurt City Regiment
+|Appears_games ={{Tw3}}
+}}
+'''Nikolas Friedman''' was a [[Redania]]n officer serving as [[Commander]] of the [[Oxenfurt]] City Regiment in {{Year|canon = no|year = 1272}}.
+
+At one point he signed off on a contract as a [[Gael|mysterious monster]] was attacking and killing people in Oxenfurt as he didn't have the manpower to deal with it with the war going on.
+
+== Associated Quest ==
+* [[Contract: The Oxenfurt Drunk]]
+
+[[ru:Николас Фридман]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

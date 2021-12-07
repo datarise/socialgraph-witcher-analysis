@@ -1,0 +1,27 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} {{Gwent Player}} Innkeep
+|Image = Tw3 innkeep inn at crossroads.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = [[Innkeeper]]
+|Affiliations = 
+|Appears_games = {{Tw3}}
+}}
+This '''innkeep''' runs the [[Inn at the Crossroads]] and plays [[Gwent]]. He uses the [[Nilfgaardian Empire Gwent deck|Nilfgaardian Empire deck]] and will give the [[Menno Coehoorn (gwent card)|Menno Coehoorn card]] once beaten.
+
+{{Condition|Text = If Geralt talks to him to find Hendrik}} In {{Year|canon=no|year=1272}} he pointed [[Geralt of Rivia|Geralt]] towards [[Heatherton]], where [[Hendrik]] was living.
+
+== Associated Quests ==
+* [[The Nilfgaardian Connection]]
+* [[Gwent: Playing Innkeeps]]
+
+[[Category:Humans]]
+[[Category:Innkeepers]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Karczmarz (Karczma na Rozstajach)]]
+[[ru:Корчмарь («На распутье»)]]

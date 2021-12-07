@@ -1,0 +1,18 @@
+{{Infobox Character
+|Image = tw2-screenshot-littleshop-02.png
+|Race = [[Human]]
+|Gender = Female
+|Appears_games = {{Tw2}}
+|Hair_color = Brown
+|Nationality = {{Temerian}}}}
+'''{{PAGENAME}}''' was a woman from [[Flotsam]] who was very concerned with the goings on at the local incense shop. She was convinced that [[Vilmos Bartok]] was selling some sort of drug and passing it off as incense, so she asked the [[Geralt of Rivia|Witcher]] to investigate.
+
+== Associated Quest ==
+* [[Little Shop of Dreams]]
+[[de:Mathilde Schreiner]]
+[[fr:Mathilde Shabo]]
+[[it:Mathilda Shabo]]
+[[ru:Матильда Шабо]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:Humans]]

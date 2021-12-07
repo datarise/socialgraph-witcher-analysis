@@ -1,0 +1,23 @@
+{{Infobox Character
+|Image =Tw2_journal_Magnus.png
+|Aka =
+|Race =[[Human]]
+|Gender =Male
+|Affiliations =
+|Profession =[[Blacksmith]]
+|Abilities =[[Arm wrestling]]
+|Appears_games ={{tw2}}
+}}'''Magnus''' was the blacksmith at the [[Kaedweni camp]] and an avid [[Arm wrestling|arm wrestler]]. He could be found in the Lower Kaedweni camp, near the tent of the merchant [[Lasota]].
+
+== Journal Entry ==
+: ''Every military camp has uses for a blacksmith – from shoeing [[horse]]s, to making and repairing weapons, to freeing the wounded from warped armor after a battle. Magnus was a reliable artisan, a huge man with the strength of a bull. Rumor had it that his grip was not unlike that of iron pincers.''
+
+== Associated Quest ==
+* [[Bring it on: Kaedweni Camp]]
+[[de:Magnus]]
+[[fr:Magnus]]
+[[it:Magnus]]
+[[ru:Магнус]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Humans]]

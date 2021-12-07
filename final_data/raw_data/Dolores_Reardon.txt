@@ -1,0 +1,32 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 dolores reardon.png
+|Gender = Female
+|Partner = [[Roderick (Gors Velen)|Roderick]] {{Small|text=husband, deceased}}
+|Relative = [[Humbert Reardon]] {{Small|text=brother}}
+|Race = [[Human]]
+|Eye_color = Brown
+|Hair_color = Grey
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+
+'''Dolores Reardon''' was a member of the the once prominent and wealthy [[Temeria]]n family, the Reardons, and grew up in [[Reardon Manor]], which she happily managed with her twin brother, [[Humbert Reardon|Humbert]].
+
+== Biography ==
+One day, a man came through the area named [[Roderick (Gors Velen)|Roderick]] and she was swept off her feet by him. The two soon married and she left with him to go back to his home in [[Gors Velen]] where the two lived for many years until Roderick died well into their elder years. Having no other ties to the area, Dolores then decided to return home.
+
+However, her estate was now overrun by beasts and so she temporarily stayed in various huts in [[Lindenvale]], hoping someone would help get rid of the monsters.
+
+{{Condition|Text = If Geralt helps her}} Geralt helped Dolores by clearing out the monsters (or with the help from [[Letho|another]]), allowing her to return home. She did so, and while the estate was falling apart, she took pleasure in working to restore it.
+
+:{{Condition|Text = If Geralt found the [[Loose scraps of paper|note]] and told her about her brother}} She was saddened to learn her beloved husband killed her brother, but took small comfort in finally knowing the fate of her brother.
+
+== Associated Quest ==
+* [[The Fall of the House of Reardon]]
+
+== Trivia ==
+* Her name is most likely a reference to [https://en.wikipedia.org/wiki/Dolores_O%27Riordan Dolores O'Riordan], singer of the Irish rock band ''The Cranberries''.
+
+[[ru:Долорес]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

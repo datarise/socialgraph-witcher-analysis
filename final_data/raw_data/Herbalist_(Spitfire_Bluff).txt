@@ -1,0 +1,13 @@
+{{ImageNeeded}}
+{{Infobox_Character
+|Name = {{herbalist}} Herbalist
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}}}This '''Herbalist '''would set up shop at the [[Abandoned site (Spitfire Bluff)|abandoned site]] west of the [[Hangman's Alley]], if [[Geralt of Rivia|Geralt]] cleared the area first.
+
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]
+
+[[pl:Zielarz (Aleja wisielców)]]

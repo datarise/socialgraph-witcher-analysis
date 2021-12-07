@@ -1,0 +1,24 @@
+{{Infobox Character
+|Image = Tw2 screenshot Vincent Molnar.jpg
+|Appears_games = {{Tw2}}
+|Affiliations = [[The Witcher 2 Arena|Arena]]
+|Profession = [[Knight]]
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Abilities = Swordsmanship
+|Partner = Unnamed lover}}
+'''Vincent Molnar''' was a [[knight]] at the [[The Witcher 2 Arena|arena]] in [[Temeria]], who [[Geralt of Rivia|Geralt]] could hire, to assist him in a fight for 500. When talking to him he mentioned a woman he was courting who would only have him if he slayed a [[manticore]] and was at the arena to meet this condition.
+
+== Gallery ==
+<gallery>
+Tw2 screenshot Vincent Molnar 02.png
+Tw2 screenshot Vincent Molnar 03.png
+</gallery>
+[[de:Vincent Molnar]]
+[[fr:Vincent Molnar]]
+[[it:Vincent Molnar]]
+[[pl:Vincent Molar]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:Knights]]

@@ -1,0 +1,50 @@
+{{Infobox Character
+|Image = People Tobias full.png
+|Hair_color = Blonde
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Bookseller<br>[[Merchant]]
+|Appears_games = {{Tw1}}
+}}
+"A good book perhaps?" This is the inventory of the '''bookseller''' who has his stall on [[Marketplace|Tanners Square]] in the [[Trade Quarter]] marketplace:
+* [[Against Nonhumans]]
+* [[Animating the Inanimate]]
+* [[Basics of Alchemy]]
+* [[The Conjunction of the Spheres]]
+* [[Cults and Religions of the Nordlings]]
+* [[Curses and the Cursed]]
+* [[A Description of the Vodyanoi or the Fishpeople]]
+* [[Dragon's dream (scroll)|Dragon's Dream]]
+* [[The Druid's Herbarium]]
+* [[Field Plants]]
+* [[The Flower and the Flame]]
+* [[Foreign Lands]]
+* [[The Great Book of Minerals]]
+* [[An Invitation to Magic]]
+* [[Ithlinne's Prophecy (book)|Ithlinne's Prophecy]]
+* [[Lara's Gift]]
+* [[The Last Wish (in game)|The Last Wish]]
+* [[Ornithosaurs]]
+* [[Plants of Barren Lands]]
+* [[Ritual Plants]]
+* [[The Road of No Return]]
+* [[Secrets of the Southern Masters]]
+* [[A Small Book of Minerals]]
+* [[Sorceresses and Sorcerers]]
+* [[Specters, Wraiths, and the Damned]]
+* [[The Story of Lara Dorren and Cragen of Lod]]
+* [[Subterranean Plants]]
+* [[Swamp Plants]]
+* [[The Tome of Fear and Loathing, volume II]]
+* [[Transmutations and Metamorphoses]]
+* [[Vampires: Facts and Myths]]
+* [[The Wonderful World of Insectoids]]
+* [[Zerrikanian Alchemy]]
+
+[[de:Händler in Kapitel 3#Buchhändler]]
+[[fr:Libraire]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter III]]

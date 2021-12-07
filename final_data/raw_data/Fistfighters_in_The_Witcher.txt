@@ -1,0 +1,137 @@
+{{SpoilerBanner}}[[File:Game_Interaction_icon_fistfight.png|thumb]]In {{Tw1}}, there are several quests that span the entire game. One of the most noteworthy is the [[Fistfight (quest)|Fistfight quest]]. At inns, taverns, and a cave in Chapter V, [[Geralt of Rivia|Geralt]] has an opportunity to challenge local pugilists, including the reigning champion, for gold or a chance at the "Title". You can fight most champions once only but everyone else is game for rematches. When betting against a fistfighter you can double or double-and-a-half the bet for maximum profit, but they will refuse to fight if you try to wager more than that.
+
+<div class="divTable" style="margin:auto; width:50%;">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell" style="width:17%;">
+[[File:Icon_Prologue.png|centre|link=#Prologue (Kaer Morhen)]]</div>
+<div class="divTableCell" style="width:16%;">
+[[File:Icon_Act_I.png|centre|link=#Chapter I (Outskirts of Vizima)]]</div>
+<div class="divTableCell" style="width:17%;">
+[[File:Icon_Act_II.png|centre|link=#Chapter II (Temple Quarter of Vizima)]]</div>
+<div class="divTableCell" style="width:17%;">
+[[File:Icon_Act_III.png|centre|link=#Chapter III (Trade Quarter of Vizima)]]</div>
+<div class="divTableCell" style="width:16%;">
+[[File:Icon_Act_IV.png|centre|link=#Chapter IV (Lakeside)]]</div>
+<div class="divTableCell" style="width:17%;">
+[[File:Icon_Act_V.png|centre|link=#Chapter V (Old Vizima)]]</div>
+</div>
+</div>
+</div>
+Since winning is easy (see [[The Witcher gameplay strategy|Fistfighting made easy]]), without further ado, the fighters are (in plot order):
+
+== {{h_prologue}} ==
+[[File:People_Eskel_full.png|thumb|70px]]
+
+'''Eskel'''
+* This is a fistfighting tutorial which also starts the quest; there is no Title to be won.
+* [[Eskel]] can be found in or near the [[Armory]] on [[Kaer Morhen]]'s second floor after you have skinned the [[Frightener]], but he will not have anything to say until you have given [[Triss]] her [[Potion for Triss|potion]].
+* You might miss talking to Eskel if, after giving Triss her potion, you tell her there is no time to waste (goes directly to funeral), or you talk to her or [[Vesemir]] about starting [[Leo]]'s funeral.
+* The quest can also be started in Chapter I.
+{{clear}}
+
+== {{h_ch1}} ==
+<div style="float:right;">
+[[File:People_Innkeeper_male.png|79px]] [[File:People Thug full.png|73px]] [[File:People Gramps full.png|73px]]
+</div>
+
+'''Fat Fred'''
+* Fat Fred hangs out at the [[Outskirts Inn|Inn]] in the [[Outskirts]].
+* He will start the [[Fistfight (quest)|Fistfight quest]] if you did not get it during the prologue.
+* He would be happy to rearrange your face for a 25 {{oren}} wager.
+* After winning, Geralt retains his wager and may choose one of the following prizes:
+** Two bottles of [[Potion bases|Zerrikanian spirit]], one [[The Witcher food and drink|Mutton leg]], one [[The Witcher food and drink|Bread]], one [[The Witcher food and drink|Cheese]] ''(Resale value: 19 {{oren}})''
+** A [[gold diamond ring|Gold diamond ring]] ''(Resale value: 120 {{oren}})''
+** 100 {{oren}}
+
+'''Other Fighters'''
+
+Fat Fred is accompanied by several fistfighters, many willing to ''"kick your arse and make money doing it!."''
+{{clear}}
+
+== {{h_ch2}} ==
+[[File:People_Butter_Bean.png|72px|thumb]]
+
+'''Butter Bean'''
+* Butter Bean hangs out at [[The Hairy Bear]] in the [[Temple Quarter]].
+* He is touchy about his weight.
+* After winning, Geralt retains his 75 {{oren}} wager and may choose one of the following prizes:
+** Two bottles of [[Potion bases|Mandrake cordial]] ''(Resale value: 20 {{oren}})''
+** A [[gold necklace|Gold necklace]] ''(Resale value: 200 with the Peddler by Shani's house {{oren}})''
+** 150 {{oren}}
+
+'''Other Fighters'''
+
+Butter Bean is accompanied by several fistfighters. Geralt also has a fistfight in the prison dungeon to secure his freedom (regardless of the outcome); the prisoner looks remarkably like [[#Chapter I (Outskirts of Vizima)|Fat Fred]].
+
+{{clear}}
+
+== {{h_ch3}} ==
+<div style="float:right;">
+[[File:People_Coleman_full.png|68px]] [[File:People_Nobleman_3.png|72px]] [[File:People_Innkeeper_male.png|79px]]
+</div>
+
+'''Andrew Gablodda'''
+* Andrew Gablodda makes his living at the [[The New Narakort]] in the [[Trade Quarter]].
+* He was a celebrity until an unfortunate knock-out. Now he wears a hood in public.
+** He is clearly inspired by Polish boxer, [https://en.wikipedia.org/wiki/Andrew_Golota Andrew Golota.]
+* After winning, Geralt retains his 200 {{oren}} wager and may choose one of the following prizes:
+** A [[Red meteorite ore]] and a [[Svarog]] rune.
+** An [[Earth rune]] and a [[Svarog]] rune.
+** 300 {{oren}}
+
+'''Other Fighters'''
+
+Andrew Gablodda is accompanied by several willing fistfighters. The bouncer at the [[House of the Queen of the Night]] will allow passage upstairs if beaten in a fistfight. [[Rozalind Pankiera]]'s father, Hobbs, will allow access to his daughter's room (for Dandelion's lute) if defeated in a fistfight. Fistfighting is one way past the guards of the Fisstech lab in the sewers.
+{{clear}}
+
+== {{h_ch4}} ==
+[[File:People_Nobleman.png|72px|thumb]]
+
+'''The Rock'''
+* You will find the Rock at the [[Country Inn]] in [[Murky Waters]].
+* He tells Geralt about the final [[Zdenek|Champion]].
+* After winning, Geralt retains his 500 {{oren}} wager and may choose one of the following prizes:
+** a [[Yellow meteorite ore]]
+** a [[Moon rune]]
+** 500 {{oren}}
+
+'''Other Fighters'''
+
+It is truly amazing that [[Julian]] and [[Dandelion]] can sleep at all given that boxing matches go on 24 hours a day, right next to their beds at the [[Country Inn]] in [[Murky Waters]]. Quite a few professional fistfighters use the back room to work out apparently.
+{{clear}}
+
+== {{h_ch5}} ==
+[[File:People Zdenek full.png|90px|thumb]]
+
+'''[[Zdenek]]''', the Champion
+* Zdenek is the reigning world champion. He is undefeated — well no one has beaten him twice ''in a row''.
+* He can be found inside the [[Refugees' caves|southernmost refugee cave]] in the [[swamp cemetery]].
+* At least he has the decency to keep his fistfights to the privacy of his own chamber in the cave.
+* Geralt must beat Zdenek twice in a row. To do so, he must meditate or exit/re-enter the cave.
+* If Geralt defeats Zdenek, he gets his [[Famous fist fighter's tooth|tooth]] and becomes the new reigning world fistfighting champion. The quest is then completed.
+* After Zdenek is defeated, Geralt may come back later at any time for a friendly rematch. This is for fun only - there is no additional reward for defeating him more than twice.
+
+== Notes ==
+* Interestingly in the Polish (original) version of the game all fighters apart from Zdenek have entirely different names.
+** Fat Fred is "Gruby Anzelm" (Fat Anzelm)
+** Butter Bean is "Dhunda"
+** Andrew Gablodda is "Hugon Berronta"
+** The Rock is "Zelest Mecht"
+
+* Butter Bean is a reference to [https://en.wikipedia.org/wiki/Eric_Esch Eric Scott Esch], an American retired heavyweight boxer and martial artist with the nickname "Butterbean"
+*Andrew Gablodda is a reference to [https://en.wikipedia.org/wiki/Andrew_Golota Andrzej Gołota], a former Polish professional boxer
+*The Rock is a reference to [https://en.wikipedia.org/wiki/Dwayne_Johnson Dwayne "The Rock" Johnson] , an American retired professional wreslter.
+
+[[cs:Pěstní souboj]]
+[[de:Faustkämpfer Champions]]
+[[fr:Pugilistes dans The Witcher]]
+[[it:Lottatori in The Witcher]]
+[[pl:Walka na pięści#Bokserki]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Chapter IV]]
+[[Category:The Witcher Chapter V]]
+[[Category:The Witcher Prologue]]

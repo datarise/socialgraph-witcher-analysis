@@ -1,0 +1,15 @@
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant
+|Image = Tw3 merchant border post.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Hair_color = Brown
+|Eye_color = Green
+|Profession = [[Merchant]]
+|Appears_games = {{Tw3}}}}This '''merchant''' is on the [[Velen]] side of the [[Border Post]] and right across the road from the [[shady merchant]]. Unlike the shady merchant though, this merchant sells some basic [[The Witcher 3 alchemy ingredients|alchemy ingredients]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Posterunek graniczny)]]

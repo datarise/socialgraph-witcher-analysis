@@ -1,0 +1,89 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 journal morvran voorhis.png
+|Hair_color = Brown
+|Eye_color = Blue
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Alban}}
+|Titles = [[Imperator]] of Nilfgaard
+|Ranks = [[General]]<br>[[Commander]] ([[Alba Division]])
+|Affiliations = [[Alba Division]]<br>[[Guild of Merchants]]<br>Nilfgaardian opposition
+|Family = [[Voorhis family]]
+|Parents = [[Prince Voorhis]] {{Small|text=father}}
+|Relative = [[Emhyr var Emreis]] {{Small|text=unknown relation}}
+|Voice = [http://www.imdb.com/name/nm1376985/?ref_=nv_sr_1 Geoffrey Breton]
+|Appears_books = {{ToC}}<br>{{TLotL}}
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = The summer sun reflected in the quiet waters of the Alba – that's Nilfgaard to me.|citation = Morvran Voorhis in {{Tw3}}}}
+
+'''Morvran Voorhis''' was an [[Imperator]] of the [[Nilfgaardian Empire]] from the Voorhis family who ascended the throne sometime around the end of the 13th century. As a relative of [[Emhyr var Emreis]] through both paternal and maternal lines, his position was always secured. After his death, [[Jan Calveit]] succeeded him.
+
+Prior to ascending the throne, Morvran was a member of the [[Guild of Merchants]], commander of the [[Alba Division]] and, thanks to his [[Prince Voorhis|father]], a prominent member of the Nilfgaardian nobility and favorite of opposition.
+
+== Biography ==
+
+=== Conspiracy against Emhyr ===
+In {{Year|canon=yes|year=1268}}, during a time when he was still a child according to imperial law, the original conspirators - [[Joachim de Wett]], [[Ardal aep Dahy]], Count [[d'Arvy]], [[Berengar Leuvaarden]], [[Count]] [[Broinne]], and [[Stefan Skellen]] - planned to overthrow Emhyr and place someone who would become their puppet. Originally, Morvran's father was proposed but later they decided to put young Morvran on the Imperial throne. Before they could take any real steps, however, Leuvaarden betrayed them and they were subsequently sentenced to death.<ref name="tlotl">{{TLotL}}</ref>
+
+{{Canon Marker}}
+=== Commander of the Alba Division ===
+Sometime after the death of [[Tibor Eggebracht]], Morvran was appointed as the commander of an armored [[Alba Division]] and also joined Berengar Leuvaarden's [[Guild of Merchants]]. With this high ranking position and his pure-blood nationality, his status in society went up. He was also the most important general during the [[Third Northern War]].<ref name="tw3" />
+
+In May {{Year|canon=no|year=1272}}, Morvran's men were killed by the [[Wild Hunt]] while escorting [[Geralt of Rivia|Geralt]] and [[Yennefer of Vengerberg|Yennefer]] to [[Vizima]]. During Geralt's stay in the occupied capital of Vizima, Morvran interviewed the [[witcher]] on his past while he was being shaved for his audience with Emhyr. When he had time to spare, he would either enjoy the company of [[Baroness]] [[Maria Louisa La Valette]] in her [[Baroness la Valette's Villa|villa]] or go to see races near [[Vegelbud Residence]], as he believed horses to be "far more honest than men."<ref name="tw3">{{Tw3}}</ref>
+
+{{Canon Marker End}}
+
+=== Governing the Empire ===
+As Emperor, he ordered the conviction of coadjutor of the Empire [[Peter Evertsen]], a former imperial treasurer of the crown and chief chamberlain of the army, who died in [[Winneburg Castle]] in {{Year|canon=yes|year=1301}}. He was only rehabilitated in {{Year|canon=yes|year=1328}} by ruling Imperator Jan Calveit.<ref name="toc">{{ToC}}</ref>
+
+Morvran Voorhis was fond of saying he could win a war without a single sword. There was much truth in that: Morvran's strategy revolved around the shrewd use of spies and saboteurs. This might not have earned him much honor, but it did earn him a great many victories. He was also known to recognize no rules in warfare. To vanquish the enemy, he was willing to make alliances with anyone, whether they be renegade witchers, war criminals, or rebellious mages. Only one thing mattered: victory.<ref name="gwent" />
+
+He liked to keep close tabs on his enemy's activities. To this end, he would write them numerous lengthy letters; the contents were pure drivel, flowery formulations saying nothing at all, but the emissaries he sent to deliver these letters kept their eyes wide open, serving him as an extension of [[Nilfgaardian Secret Service|Secret Service]]. He also cultivated both a wide range of skilled spies working on the Empire's behalf, as well as special [[Nauzicaa|Nauzicaa Brigade]] officers devoted to dealing with agents foolish enough to betray the Empire.<ref name="gwent">{{Gwent standalone}}</ref>
+
+== Journal Entry ==
+:''Morvran Voorhis - commander of the Alba Division, an officer of the highest rank and a pure-blooded aristocrat, one who with pride could call himself a Nilfgaardian, a designation reserved only for native-born inhabitants of the empire's capital and its immediate surroundings.''
+: ''At the time of their first meeting Geralt had no idea what an important person had been assigned the task of "asking him a few routine questions." Knowing the witcher, however, knowledge of Morvran's rank and status would not have made much of a difference.''
+: ''The witcher encountered Voorhis again some time later in Novigrad. There the Nilfgaardian general was taking advantage of the city's neutral status to enjoy the company of Baroness Louisa la Valette.''
+
+== Developer Comments ==
+{{Quote|text = Morvran Voorhis is a true Nilfgaardian, a title rightfully applied only to those born in the core lands of the Empire. This young, promising officer is the scion of an ancient imperial family, and many see in him a possible candidate for the imperial throne.<br>Voorhis dresses after the Nilfgaardian style, meaning he limits his clothing to a color palette consisting of black and gold. This drawing shows an early design for the character, one whose task was to convey Morvran's overall nature: proud, aware of his high rank and what it entails, and equally comfortable on the battlefield or in courtly salons.|citation = ''[[The Witcher 3: Wild Hunt Artbook]]''}}
+
+== Trivia ==
+* The word Morvran is made up of the Middle Welsh words ''mawr'', meaning "big", and ''brân'', meaning "crow".
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 3 Extra - Morvran Voorhis Interrogation (Geralt's background)
+</gallery>
+
+== Gallery ==
+<gallery>
+Tw3 morvran voorhis concept art.png|Morvran Voorhis concept art
+Tw3 cardart nilfgaard morvran voorhis.png|Gwent card art
+Gwent cardart nilfgaard morvran voorhis.jpg|Gwent standalone card art
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|Morvran Voorhis}}
+
+{{Nilfgaard}}
+
+[[ar:مورفران فورهيس]]
+[[cs:Morvran Voorhis]]
+[[de:Morvran Voorhis]]
+[[fr:Morvran Voorhis]]
+[[it:Morvran Voorhis]]
+[[pl:Morvran Voorhis]]
+[[pt-br:Morvran Voorhis]]
+[[ru:Морвран Воорхис]]
+[[uk:Морвран Ворхіс]]
+[[Category:Humans]]
+[[Category:Monarchs]]
+[[Category:Time of Contempt characters]]
+[[Category:The Lady of the Lake characters]]
+[[Category:The Witcher 3 characters]]

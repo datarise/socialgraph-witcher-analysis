@@ -1,0 +1,35 @@
+{{Infobox_Character
+|Name = Resolute girl
+|Image = People_Resolute_girl_full.png
+|Hair_color = Blonde
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw1}}}}
+'''Resolute girl''' was the first person that [[Geralt of Rivia|Geralt]] met after "arriving" at the [[lakeside]] near [[Murky Waters]]. She was a fountain of information for the [[witcher]] and filled him in on all the goings-on in the village. She also told him about the [[Friendly vodyan priest|funny fishman]] and how he guarded the [[Lady of the Lake's altar|altar to the Lady of the Lake]]. She mentioned that he was usually jolly, but was sometimes driven away from his post by [[Dagon worshipper|evil fishmen]].
+
+In [[The Witcher storyline|Chapter IV]], she can be found almost any time, usually skipping merrily, between the [[Landing at the lakeside|landing]] and the Lady of the Lake's altar. When those evil fishmen come, she hides under the [[Fisher King (lover of Lady of the Lake)|Fisher King]]'s hut.
+
+In the Epilogue, she is found in the [[safe house]], where she is apparently talking the ears off poor [[Vetala]].
+
+== Videos ==
+<gallery position="center">
+File:Chapter 4 Start
+</gallery>
+
+== Gallery ==
+<gallery>
+People_Resolute_girl.png|Resolute girl
+</gallery>
+
+[[cs:Odhodlaná dívka]]
+[[de:Resolutes Mädchen]]
+[[es:Chica decidida]]
+[[fr:Fille déterminée]]
+[[it:Ragazza risoluta]]
+[[pl:Rezolutna Dziewczynka]]
+[[ru:Смелая девочка]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]
+[[Category:The Witcher Epilogue]]

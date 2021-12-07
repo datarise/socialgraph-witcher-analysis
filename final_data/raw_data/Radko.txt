@@ -1,0 +1,19 @@
+{{Infobox Character
+|Name = Radko
+|Image = Tw3 Radko.png
+|Profession = [[Soldier]]<br>Race coordinator
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Bald {{Small|text=black beard}}
+|Nationality = {{Temerian}}
+|Affiliations = [[Phillip Strenger]]
+|Appears_games = {{Tw3}}}}
+
+'''Radko''' was the horse race coordinator outside [[Crow's Perch]] and a soldier in the [[Phillip Strenger|Bloody Baron]]'s company.
+== Associated Quest ==
+* [[Races: Crow's Perch]]
+
+[[de:Radko]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

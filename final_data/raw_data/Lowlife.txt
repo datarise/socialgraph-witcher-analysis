@@ -1,0 +1,32 @@
+{{Stub}}
+
+Yes, it is true, [[Vizima]] has its lowlife and it comes in a few different shapes and sizes.
+* Bandits
+* Bandit leaders
+* Brawlers
+* Thugs
+
+== Rogues gallery ==
+=== Big guys ===
+* Use [[strong style]] against these guys:
+<div align="center">
+[[File:People_Innkeeper_male.png|79px|typical bandit leader]] [[File:People_Bandit_leader.png|73px|another bandit leader]] [[File:People_Thug_full.png|73px|typical thug<br>(sorry Jester!)]] [[File:People_Thug_full_2.png|73px|another thug]] [[File:People_Thug_full_3.png|73px|yet another thug]]
+</div>
+
+=== Little guys ===
+* Use [[fast style]] against these guys, or [[group style]] if there are several:
+<div align="center">
+[[File:People_Ferryman_full.png|75px|typical brawler]] [[File:People_Coleman_full.png|68px|another typical brawler or thug]]
+</div>
+
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Chapter IV]]
+[[Category:The Witcher Chapter V]]
+[[Category:The Witcher Epilogue]]
+[[Category:The Witcher Prologue]]
+[[de:Banditen]]
+[[fr:Délinquants]]

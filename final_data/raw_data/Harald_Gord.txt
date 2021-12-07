@@ -1,0 +1,32 @@
+{{Infobox Character
+|Image =Tw2_screenshot_Harald_Gord.jpg
+|Race =[[Dwarf]]
+|Gender =Male
+|Nationality ={{Mahakaman}}
+|Affiliations = [[Crownsplitters]]
+|Profession = [[Mercenary]]<br>Arena fighter
+|Appears_games ={{Tw2}}<br>{{Gwent standalone}}
+}}
+{{Quote|text = The last occasion Harald's grim countenance betrayed a smile was in 1211 when Brouver Hoog drunkenly ate 5 bowls of goat and cabbage stew then promptly shat his trousers.|citation = {{Gwent standalone}}}}
+'''Harald Gord''' was a skilled [[Dwarf|dwarven]] mercenary at the [[The Witcher 2 Arena|arena]]. [[Geralt of Rivia|Geralt]] could hire him to assist in a fight for 250 {{oren2}}.
+
+At some point during his life he was even hired by [[Carlo Varese]], the leader of a [[Novigrad]]ian gang known as the [[Crownsplitters]].
+
+== Gallery ==
+<gallery>
+Tw2 screenshot Harald Gord 02.png
+Gwent_cardart_syndicate_Harald_Gord.png|Gwent card art
+</gallery>
+
+== External Links ==
+*{{Gwent|Harald Gord}}
+
+[[de:Harald Gord]]
+[[fr:Harald Gord]]
+[[it:Harald Gord]]
+[[pl:Harald Gord]]
+[[ru:Харальд Горд]]
+[[Category:The Witcher 2 characters]]
+[[Category:Dwarves]]
+[[Category:Mercenaries]]
+[[Category:Criminals]]

@@ -1,0 +1,23 @@
+{{DisambigMsg|This article is about = the [[gwent]] player|For = other persons with the same name|see = Harald}}
+{{Infobox Character
+|Name = Harald Featherbuns
+|Image = Contestants Harald.png
+|Nationality = {{Redanian}}
+|Gender = Male
+|Race = [[Human]]
+|Eye_color = Brown
+|Hair_color = Blond
+|Appears_games = {{Tw3}}
+}}
+'''Harald Featherbuns''' was a resident of [[Novigrad]] in {{Year|canon=no|year=1272}}, and an avid [[gwent]] player.
+
+==Biography==
+In 1272, Featherbuns participated in a [[High Stakes|gwent tournament]] at the [[Passiflora]] organized by Count [[Count Tybalt (Novigrad)|Tybalt]]. In the first round, he was pitted against [[Patrick Hazelnutt]] and won, however he lost in the second round when he played against [[Finneas]].
+
+== Associated Quest ==
+* [[High Stakes]]
+
+[[pl:Harald Featherbuns]]
+[[ru:Харальд Перопых]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,13 @@
+{{Infobox Character
+|Nationality = {{Skelliger}}
+|Image =Tw3 Ole-Kristian.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Grey
+|Appears_games ={{Tw3}}
+|Affiliations = [[Clan Drummond]]<br>[[Madman Lugos]]}}
+'''Ole-Kristian''' was a [[Skelliger]] man who served at [[Kaer Muire]] with loyalty to [[Clan Drummond]] and Jarl [[Madman Lugos]]. He could have been seen discussing a situation on the isles with another islander by the fire near castle's prison. He feared that, after the death of [[King of the Skellige Isles|King]] [[Bran Tuirseach]], chaos would come and that [[Clan an Craite|an Craites]] would try to attack Kaer Muire.
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

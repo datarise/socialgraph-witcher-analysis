@@ -1,0 +1,30 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox_Character
+|Name = Mottle
+|Image = Tw2 screenshot mottle.jpg
+|Hair_color = Blonde
+|Race = [[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender = Female
+|Profession = [[Merchant]]
+|Appears_games = {{Tw2}}}}
+'''Mottle''' is one of the elven women that can be saved in [[Flotsam]] during Chapter I if Geralt chooses to follow Iorveth to Vergen. If Geralt saves her, she will want to reward him in Chapter II. She also gives Geralt the [[Key to the Tunnel of the Founders]] after receiving his "reward".
+
+She can be found just outside the town of [[Vergen]] where she sells herbs and crafting components. Of course, if Geralt does not save the women from the tower or sides with [[Vernon Roche]], she is nowhere to be found.
+
+== Associated Quest ==
+* [[The Floating Prison]]
+
+==Notes==
+*In some versions of the game (AU, possibly others) the reward is unavailable as Geralt declines automatically.
+
+[[de:Riannon (The Witcher 2)]]
+[[es:Riannon (elfa)]]
+[[fr:Scoia'tael (PNJ)]]
+[[it:Riannon (PNG)]]
+[[ru:Рианнон (Ведьмак 2)]]
+[[pl:Słota]]
+[[Category:Elves]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:The Witcher 2 Chapter II]]

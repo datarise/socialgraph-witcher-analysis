@@ -1,0 +1,48 @@
+{{Character Tabs|first = main|second = netflix}}
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3 Draig Bon-Dhu cameo.jpg
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Grey
+|Appears_books = {{TLW}}
+|Appears_games = {{Tw3}}
+|Nationality = {{Skelliger}}
+|Profession = [[Skald]]}}
+{{Quote|text = Glory to ye.|citation = Draig Bon-Dhu's motto, {{Tw3}}|audio = Draig Bon-Dhu voice line.ogg}}
+
+'''Draig Bon-Dhu''' was a young [[skald]] from [[Skellige]] who accompanied [[Eist Tuirseach]], [[Crach an Craite]], and [[Mousesack]] to the feast held by [[Queen]] [[Calanthe]] in honour of her daughter, the Princess [[Pavetta]]'s [[A Question of Price|coming of age]].
+
+He was described as "a strapping fellow with bagpipes".
+
+== {{Tw3}} ==
+He appeared only briefly at [[Kaer Trolde]], where he performed a ballad about [[Hjalmar]] slaying the [[Ice Giant|giant]] on [[Undvik]]. Later on he was among the victims of the [[Berserker (creature)|Berserker]] attack.
+
+=== Associated Quest ===
+* [[King's Gambit]]
+
+== Notes ==
+* In [[A Question of Price]] he played the bagpipes while in {{Tw3}} he plays a lute.
+* He does not have a unique model, therefore it is possible to see "him" playing at the [[Coronation]] among other skalds.
+
+== Gallery ==
+<gallery>
+Tw3 Draig Bon-Dhu scared.jpg|Trying to run from berserker.
+Draig Bon-Dhu.jpg|Moment of death.
+Tw3 cardart skellige draig.png|Gwent card art.
+</gallery>
+
+== External Links ==
+*{{Gwent|Draig Bon-Dhu}}
+
+[[de:Draig Bon-Dhu]]
+[[fr:Draig Bon-Dhu]]
+[[it:Draig Bon Dhu]]
+[[pl:Draig Bon-Dhu]]
+[[ru:Драйг Бон–Дху]]
+[[uk:Драйг Бон-Ду]]
+[[Category:Humans]]
+[[Category:Bards]]
+[[Category:The Witcher 3 characters]]
+[[Category:The Last Wish characters]]

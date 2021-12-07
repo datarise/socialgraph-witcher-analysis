@@ -1,0 +1,23 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Dea Strenger
+|Image = Lubberkin.png
+|Nationality = {{Temerian}}
+|Gender = Female
+|Parents = [[Anna Strenger]] {{Small|text=mother}}
+[[Phillip Strenger]] {{Small|text=father}}
+|Relative = [[Tamara Strenger]] {{Small|text=sister}}
+|Appears_games = {{Tw3}}}}
+{{Quote|text = By the powers of earth and sky. By the world that was to be your home. Forgive me, you who came but who I did not embrace. I name thee Dea and embrace thee as my daughter.|citation = Bloody Baron performing the ritual of naming, {{Tw3}}}}
+'''Dea Strenger''' was the [[Phillip Strenger|Bloody Baron]]'s unborn daughter. After his wife [[Anna Strenger|Anna]] miscarried, she turned into a [[botchling]].
+
+When [[Geralt of Rivia]] went to visit the Baron he came to the botchling's grave, unfilled and empty. He saw the botchling and had to make a choice.
+
+{{Condition|Text = If Geralt spared the botchling}} Geralt guided Phillip through an ancient naming ritual and Phillip named the stillborn Dea before burying her under the home's doorway. Later she turned into a [[lubberkin]] and helped him find the trails of Anna and their daughter [[Tamara Strenger|Tamara]].
+
+{{Condition|Text = If Geralt killed the botchling}} Phillip became upset at the witcher for killing his child once more, though nothing else could be done then.
+
+== Associated Quest ==
+* [[Family Matters]]
+[[ru:Дея Стенгер]]
+[[Category:The Witcher 3 characters]]

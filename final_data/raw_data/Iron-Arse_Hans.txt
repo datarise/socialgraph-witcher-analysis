@@ -1,0 +1,23 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 iron arse hans.png
+|Aka = 
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Light brown
+|Hair_color = Brown
+|Profession = Horse racer
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+{{Quote|text = Spent half my life on horseback. Other half on the backs of ponies. You can't beat me.}}
+'''Iron-Arse Hans''' was a [[horse]] racer outside [[Crow's Perch]] and, by his appearance, a mercenary. His horse was called Beecher.
+
+No matter what order he's raced against, he will give [[saddlebags]] and 30 {{Crown}} when beaten. Sometimes when racing him an obstacle (loose barrels or a log) may appear.
+
+== Associated Quest ==
+* [[Races: Crow's Perch]]
+
+[[de:Hans Eisenarsch]]
+[[ru:Ганс Железное Гузно]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

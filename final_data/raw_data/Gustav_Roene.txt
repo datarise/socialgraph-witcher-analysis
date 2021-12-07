@@ -1,0 +1,18 @@
+{{Infobox Character
+|Race =[[Human]]
+|Gender =Male
+|Profession =Arena fighter
+|Appears_games ={{Tw3}}
+|Image =W3 gustav roene.jpeg 
+|Hair_color = Grey
+|Eye_color = Brown}}'''Gustav Roene''' was an opponent at [[Whoreson Junior's arena]] in {{Year|canon=no|year=1272}}.
+
+He can be the first opponent one faces if they choose to fight in the arena and would yield once defeated, giving the option to finish him off or spare him. If spared, he will fight alongside [[Geralt of Rivia|Geralt]] against a pack of [[dog]]s, the Hairy Brothers, a [[wyvern]], [[endrega drone]]s, and finally [[Boris (bear)|Boris]].
+
+== Associated Quests ==
+*[[Get Junior]]
+*[[The Gangs of Novigrad]]
+
+[[ru:Густав Рене]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

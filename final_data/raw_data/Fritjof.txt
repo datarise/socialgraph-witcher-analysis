@@ -1,0 +1,24 @@
+{{Infobox Character
+|Image = Tw3_vaedermakar_Fritjof.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Profession = [[Vaedermakar]]
+|Affiliations = Skellige [[Druid]] Inner Circle
+|Abilities = [[Aeromancy]]
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+|Eye_color = Brown}}
+
+'''Fritjof''' was a [[vaedermakar]] (a [[druid]] with the ability to manipulate weather) of the [[Skellige]] Circle, and an old friend of [[Gremist]].
+
+== Associated Quest ==
+* [[Practicum in Advanced Alchemy]]
+
+== Trivia ==
+* The chants uttered by Fritjof in his ritual is in "Gammelsvenska", also known as Old Swedish.
+
+[[uk:Фрітьйоф]]
+[[Category:Humans]]
+[[Category:Druids]]
+[[Category:The Witcher 3 characters]]

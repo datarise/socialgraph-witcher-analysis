@@ -1,0 +1,31 @@
+{{Infobox Character
+|Image = Tw2_journal_Proximus.png
+|Race =[[Human]]
+|Gender =Male
+|Profession =Arena master
+|Appears_games ={{Tw2}}
+|Hair_color = Brown
+|Eye_color = Brown}}
+'''Proximo Woodblade''' was the arena master of the arena in the [[Kaedweni camp]] in {{Year|canon = no|year = 1271}}.
+
+== Biography ==
+Proximo was responsible for the fighting in the arena, which was a form of entertainment which very much pleased [[King]] [[Henselt]]. He was also responsible for the reward offered in an announcement he posted on the [[notice board]] for getting rid of the [[rotfiend]]s which plagued the areas around the camp.
+
+== Journal Entry ==
+:''Proximo, the arena master, had a talent for oration and the fights he organized were famous in all of [[Kaedwen]] and beyond. Blows rained down, armor fragments and teeth flew left and right – in other words, the audience found his arena to be equal to the merry dancing of a fair day.''
+
+== Associated Quests ==
+* [[Ave Henselt!]]
+* [[The Rotfiend Contract]]{{Clear}}
+== Gallery ==
+<gallery>
+Proximo screen.jpg
+</gallery>
+
+[[de:Proximo]]
+[[fr:Proximo]]
+[[it:Proximo]]
+[[ru:Проксим]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Humans]]

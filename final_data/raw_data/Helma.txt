@@ -1,0 +1,21 @@
+{{Infobox Character
+|Name = Helma
+|Image = Tw3 helma.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Brown
+|Hair_color = Brown
+|Nationality = {{Redanian}}
+|Appears_games = {{Tw3}}
+|Partner = Ignatius {{Small|text=husband, deceased}}}}
+'''Helma''' lived in the [[Farcorners]] district of [[Novigrad]] in {{Year|canon = no|year = 1272}}, in a hut just on the edges of the fields around the area. She had been previously married to a man named Ignatius, but after he died she lived by herself, not wishing to remarry despite others pestering her about it.
+
+At one point Luzi, a young woman in the area, was arranged to be married off by her parents to a far older man. Not wishing to go through with it, Luzi committed suicide on her wedding day with a [[silver dagger]] and her parents, refusing to sell it off or bury it, entrusted it to Helma instead.
+
+{{Condition|Text = If Geralt helps her}} After learning [[The White Lady]] was a [[noonwraith]], Helma deduced it was Luzi, and revealed what happened to the young woman to the [[witcher]]. She then gave [[Geralt of Rivia|Geralt]] the dagger to use to draw out the noonwraith and finally lay Luzi's spirit to rest.
+
+== Associated Quest ==
+* [[Contract: The White Lady]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[ru:Хельма]]

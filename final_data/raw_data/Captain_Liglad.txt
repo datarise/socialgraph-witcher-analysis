@@ -1,0 +1,20 @@
+{{Infobox Character
+|Name = Liglad
+|Image = Tw3 liglad.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Graying brown
+|Profession = Ship captain
+|Appears_games = {{Tw3}}
+}}'''Liglad''' was the captain of one of the ships docked in [[Novigrad]]'s port.
+
+{{Condition|Text = If approached to sail to [[Skellige]]}} he refused to sail [[Geralt of Rivia|Geralt]] to the islands, being wary of being attacked by Skelligers and [[Nilfgaardian Empire|Nilfgaardians]] alike, and thus advised the [[witcher]] to go find [[Captain Wolverstone]] at [[the Golden Sturgeon]] instead.
+
+== Associated Quest ==
+* [[Destination: Skellige]]
+
+== Trivia ==
+* In Danish, "Ligeglad" means "indifferent".
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

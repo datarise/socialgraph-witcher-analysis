@@ -1,0 +1,26 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw2_journal_Mael.png
+|Hair_color = Blonde
+|Eye_color = Brown
+|Race = [[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender = Male
+|Profession = [[Craftsman]]<br>[[Merchant]]
+|Appears_games = {{Tw2}}
+}}
+'''Mael''' is a secondary character in {{Tw2}}. He can be found in [[Vergen]] during chapter II.
+
+This quiet elf is a [[The Witcher 2 merchants|merchant]] and a [[Craftsman]]. His shop is situated on the left side of [[Rhundurin Square]]. Mael is also a [[The Witcher 2 dice poker|dice player]] but he is not involved in any quests. You can ask him if you need to craft any kind of [[The Witcher 2 traps|traps]], [[The Witcher 2 weapons|swords]] or [[The Witcher 2 armor|armor]].
+
+== Journal Entry ==
+:''If "speech is silver, but silence is golden" then Mael must have been sufficiently rich to do something more interesting than run a shop. Nevertheless, the silent elf had some really interesting goods to offer.''
+
+[[de:Mael]]
+[[fr:Mael]]
+[[it:Mael]]
+[[pl:Mael]]
+[[ru:Маэль]]
+[[Category:Elves]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]

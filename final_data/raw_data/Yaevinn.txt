@@ -1,0 +1,109 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = <gallery>
+People Yaevinn full.png|Light armor
+People Yaevinn armor full.png|Heavy armor
+</gallery>
+|Race = [[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender = Male
+|Affiliations = [[Scoia'tael]]<br>[[Vrihedd Brigade]]
+|Abilities = Archery
+|Appears_books = {{ToC}}<br>{{TLotL}}
+|Appears_games = {{Tw1}}<br>{{Tw2}} {{Mo}}
+|Hair_color = Black
+|Eye_color = Brown
+|Voice = [http://www.imdb.com/name/nm0800190/ Jay Simon]
+}}
+{{Quote|text = We were not the ones to start this war.|citation = Yaevinn, {{Gwent standalone}}|audio = Yaevinn voice line.ogg}}
+'''Yaevinn''' was an [[elf]] and a member of [[Toruviel]]'s [[Scoia'tael]] commando,<ref name="toc">{{ToC}}</ref> later leading his own regiment in the vicinity of [[Vizima]]. He had a greater penchant for flowery words and metaphors than most elves, perhaps rivaling [[Dandelion]] alone in his prose.
+
+==Biography==
+===Hunting Dh'oine===
+In June {{Year|year=1267|canon=yes}}, while on reconnaissance in the [[Pontar Valley]] with Yaevinn and Toruviel, [[Cairbre aep Diared]] noticed a [[Aplegatt|lone rider]] on route from [[Tretogor]] to [[Vengerberg]]. Toruviel kicked Yaevinn awake and two had a discussion about the morals of killing the lone [[human]], though as the messenger reached 150 paces away, Yaevinn loosened an arrow, which struck him through the chest, falling off his [[horse]] onto hot sands. The elf wasn't aware sparing his life would have prevented the provocation at [[Glevitzingen]] and the subsequent [[Northern War II|war]].<ref name="toc" />
+
+===Second Northern War===
+Yaevinn participated in the [[Second Northern War]] with [[Nilfgaardian Empire|Nilfgaard]]. During the [[Battle of Brenna]], where he was part of the [[Vrihedd Brigade]], he and his commando entered in the medic tent of [[Milo Vanderbeck|Rusty]] and started to kill all the patients but they immediately stopped when they saw that the medic and his assistants were healing wounded people from both the factions, making no difference between Nilfgaardians and [[Northern Kingdoms|Nordlings]].
+
+He was later seriously injured in that battle but in the end he survived his wounds.
+
+== {{tw1}} ==
+Yaevinn appears in Chapter II of the game. He treats [[Geralt of Rivia|Geralt]] with hesitant respect and appeals to him to aid his faction; he reminds him that as a mutant, he would never be accepted in [[human]] society, only tolerated and could better relate to the cause of the Scoia'tael. He is eloquent and often speaks in verse, employing metaphors and literary allusions to convey his meaning.
+
+If the witcher chooses to ally himself with the Scoia'tael, Yaevinn plays an even more central role in the story. It is also Toruviel who is a member of Yaevinn's group rather than the other way around, although he does not seem to outrank her by much.
+
+=== Journal Entry ===
+:''Yaevinn the elf is as conceited as he is eloquent. He seems cunning and wise; moreover, he despises humans, considering them aggressive barbarians, and has respect only for the Elder Races. Still, this disillusioned elf treats me with respect in his own, peculiar way. Everything suggests that Yaevinn is preparing for battle — in the swamp he has created a training camp for the Scoia'tael under his command.''
+
+:{{path-elves}} '''Scoia'tael Path:'''
+::''The Scoia'tael led by Yaevinn defeated the Order of the Flaming Rose during the clash in the Golem Burial Ground.''
+::''Yaevinn is interested in artifacts of historical value for the nonhumans — he's looking for something which could serve as a banner for his Scoia'tael. Yaevinn remains a cynic and a pragmatist even when thinking about the heritage of the Elder Blood.''
+::''During the bank robbery in the Trade Quarter I decided to support the Scoia'tael. Yaevinn believes that the stolen money will finance an uprising.''
+::''I asked Yaevinn for military support during the assault on Salamandra's headquarters in Vizima. The elf, who was among those invited to Leuvaarden's reception, agreed to help me dismantle the organization.''
+::''On the hill under the Old Manor my friend aided me again. We stood shoulder to shoulder against Salamandra.''
+
+:{{path-order}} '''Order's path:'''
+::''Yaevinn accused me of causing Toruviel's death. A fight broke out and he died by my hand.''
+
+:{{path-neutral}} '''Neutral path:'''
+::''Yaevinn accused me of causing Toruviel's death. I didn't let him provoke me and he went his own way.''
+
+=== Associated Quests ===
+
+<div class="divTable" style="width:100%;">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell" style="width:33%;">
+* [[Echoes of Yesterday]]
+* [[Force Recon]]
+* [[Frozen Reflections]]
+</div>
+<div class="divTableCell" style="width:34%;">
+* [[Gold Rush]]
+* [[The Unforgiven]]
+* [[Hope Burns Bright]]
+</div>
+<div class="divTableCell" style="width:33%;">
+* [[Sweet Revenge]]
+* [[The Ashes of Vizima]]
+* [[Worth its Weight in Gold]]
+</div></div></div>
+</div>
+
+== {{Tw2}} ==
+On [[Iorveth's dream|Iorveth]]'s path during Chapter II, the Scoia'tael leader will discuss Yaevinn's legacy with Geralt in [[Vergen]] if the latter sided with the Scoia'tael or remained neutral in ''The Witcher''.
+
+== {{Tw3}} ==
+Yaevinn, same as Iorveth, does not appear in game and apart from the second one, he is not even mentioned by other characters, but he has [[Yaevinn (gwent card)|his own gwent card]] as part of [[Scoia'tael Gwent deck]].
+==Notes==
+*In the first Witcher game, its possible to hear rumors about his beloved's slaughter by the order.
+*During the development stage of the game, Geralt was supposed to meet the leaders of three different Scoia'tael commandos, which were gradually merged into one character that would become Yaevinn.
+
+== Gallery ==
+<gallery>
+People_Yaevinn.png|Yaevinn's journal image
+Tw3 cardart scoiatael yaevinn.png|Yaevinn's gwent card art
+Gwent cardart scoiatael yaevinn.jpg|Gwent standalone card art
+</gallery>
+
+== External Links ==
+
+*{{Gwent|Yaevinn}}
+
+[[cs:Yaevinn]]
+[[de:Yaevinn]]
+[[es:Yaevinn]]
+[[fr:Yaevinn]]
+[[hu:Yaevinn]]
+[[it:Yaevinn]]
+[[lt:Yaevinn]]
+[[pl:Yaevinn]]
+[[pt-br:Yaevinn]]
+[[ru:Яевинн]]
+[[Category:Elves]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Chapter V]]
+[[Category:The Witcher Epilogue]]
+[[Category:Time of Contempt characters]]
+[[Category:The Lady of the Lake characters]]

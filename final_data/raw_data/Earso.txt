@@ -1,0 +1,29 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image =Tw2_journal_Earso.png
+|Race =[[Human]]
+|Gender =Male
+|Affiliations =[[Vergen]]
+|Profession =[[Merchant]]<br>[[Craftsman]]
+|Appears_games ={{Tw2}}
+}}
+'''Earso''' is a secondary character in {{Tw2}}. He is a [[The Witcher 2 merchants|merchant]], [[craftsman]], and [[The Witcher 2 dice poker|dice poker player]] who can be found in the southernmost part of [[Vergen]] during Chapter II ([[Iorveth]]'s path), and southwest of the [[notice board]] in [[Loc Muinne]] during Chapter III.
+
+In Chapter III, Geralt asks him what he's been up to and Earso tells him that since there's no future in rat catching, he's decided to pursue a career in entertainment. He is now manager and master of ceremonies for a circus troupe and plans to make them the most famous entertainers north of the [[Yaruga]]. Some of the performers in that circus include: [[Falas]], [[Ilona]] and the [[Mighty Numa]].
+
+== Journal Entry ==
+:''Shit, stench and rats are inherent elements of every larger population centre. Unable to dispose of the first two, the authorities of Vergen were trying to deal with the latter. Earso was a rat catcher they had hired, but it was worth noting that some of the traps he was selling were large enough to catch a wolf...''
+:''A highly talented individual, the man known as Earso had dabbled in many professions. From his times as a rat catcher in Vergen he still had a wide selection of traps among his wares. They were, in his words, "for rodents, among others".''
+:''Changing his profession also called for a change of surroundings, so Earso joined a circus and left Vergen. One could still buy some useful things from him, however.''
+
+== Associated Quest ==
+* [[The Harpy Contract]]
+
+[[de:Ohrtan]]
+[[fr:Tutui]]
+[[it:Earso]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 Chapter III]]

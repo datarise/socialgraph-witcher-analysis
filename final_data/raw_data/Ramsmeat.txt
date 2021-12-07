@@ -1,0 +1,56 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Jeremiah Trick
+|Image = People Ramsmeat full.png
+|Aka = Ramsmeat
+|Status = Determinant
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Leader of Vizima's underground
+|Voice = [http://www.imdb.com/name/nm0909633/ Everal Walsh]
+|Appears_games = {{Tw1}}
+}}
+'''Jeremiah Trick, '''more commonly known as''' Ramsmeat''' is the leader, or king as he likes to call himself, of [[Vizima]]'s underworld, running the less than law-abiding operations in the [[Temple Quarter]]. He likes to intimidate people and it is fairly clear from the moment that [[Geralt of Rivia|Geralt]] meets him that he is no one to be trifled with.
+
+He can be found in one of two places of the slums. His preferred base of operations is in the back room of [[The Hairy Bear]]. He also seems to have some sort of arrangement in place with the innkeeper, but the nature of the agreement is murky at best.
+
+The second place is his [[Ramsmeat's place|home]] where he is usually accompanied by [[Coleman]], who is part of his little criminal organization. However he is rarely home, leaving it to be guarded by two of his henchmen.
+
+He seems to have an inexhaustible supply of minions, and he is apparently not too bothered by their frequent turnover due to shortened lifespans. Depending on the timing, if Geralt kills the two bouncers guarding Ramsmeat's house, they are simply replaced by two more the very next day. Moreover, killing the bouncers provides a [[The Witcher keys|key]] to his place saving Geralt 20 {{oren}} he would otherwise have had to pay in order to get inside each time.
+
+In the {{SE}}, he still introduces himself with his real name, Jeremiah Trick. He reveals that he is working for [[Vizima]]'s underground leader, [[Mr. Glover]], but intends to take over his position and make his name known in the entire city. Geralt recommends him to use a more memorable nickname in place of his real name, apparently resulting in him adopting the alias Ramsmeat, though he tells our witcher to shove off and doesn't seem to recognize him in the main game.
+== Associated Quests ==
+* [[Suspect: Ramsmeat]]
+* [[The Crown Witness]]
+* [[The Rat]], indirectly
+* [[Vizima Confidential]]
+
+== [[The Witcher journal|Journal]] Entry ==
+: ''"I met Ramsmeat, the leader of a gang from the Temple Quarter. He didn't make a good impression. I think the feeling was mutual.''
+: ''His boys react nervously to the symbol of Salamandra. It is evident that they have some links to the organization.''
+: ''The thug probably had something to do with [[Berengar]]'s disappearance.''
+: ''Ramsmeat sent his people to [[St. Lebioda's Hospital|Saint Lebioda's Hospital]]. His bandits attacked me when I tried to interrogate the prisoner being kept there.''
+: '''only if Geralt clears Ramsmeat''':
+:: ''My suspicions turned out to be false. I found proof that Ramsmeat is not the leader of [[Salamandra]]."''
+: '''only if Geralt kills Ramsmeat''':
+:: ''The gang leader died by my hand.''
+
+== Gallery ==
+<gallery>
+People Ramsmeat.png|Ramsmeat's journal image.
+</gallery>
+
+[[cs:Beranina]]
+[[de:Bocksfleisch]]
+[[es:Carnero]]
+[[fr:Boucanier]]
+[[it:Ramsmeat]]
+[[hu:Kosvelő]]
+[[pl:Baranina]]
+[[ru:Могила]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:Criminals]]
+[[Category:Side Effects characters]]

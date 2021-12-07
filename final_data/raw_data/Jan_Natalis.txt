@@ -1,0 +1,68 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name =Jan Natalis
+|Image = Tw2_journal_Johnnatalis.png
+|Aka =John Natalis {{Small|text=games}} 
+|Profession =[[Soldier]]
+|Titles =[[Interrex]]
+|Ranks =[[Constable]]
+|Nationality ={{Temerian}}
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Bald
+|Appears_books = {{TLotL}}
+|Appears_games = {{tw1}} {{Mo}}<br>{{tw2}}<br>{{tw3}} {{Mo}}|Affiliations=[[Foltest]]<br>[[Temerian Army]]}}
+{{Quote|text = Temeria has yet to speak its last.|citation = Jan Natalis during the Summit at Loc Muinne|audio = Jan Natalis voice line.ogg}}
+'''Jan Natalis''' (also translated as "John Natalis" in the games) was a [[Temeria]]n [[constable]] and later on the commander-in-charge of the [[Northern Kingdoms|Northerners]] at the [[Battle of Brenna]], one of the key battles of the [[Second Nilfgaard War]] against the [[Nilfgaardian Empire]].<ref>{{TLotL}}</ref>
+
+=={{tw2}}==
+John Natalis leads the Temerian delegation at the talks in [[Loc Muinne]] as [[Interrex]].
+
+=== Associated Quests ===
+* [[Of His Blood and Bone]]
+* [[A Summit of Mages]]
+* [[Lilies and Vipers]]
+
+=== Journal Entry ===
+:''It seems that every other person you meet took part in the last war against Nilfgaard. Such are the times in which we live. Yet we best remember those who made their mark in the annals of that conflict. John Natalis, Constable of Temeria, is one such person. Supreme commander of the cumulative forces of the North at the Battle of Brenna, Natalis fought valiantly, commanded wisely, and contributed vastly to the victory, despite being outnumbered by the enemy two-to-one. And he did not rest on his laurels after the battle. Instead, he pursued the foe, routing him nec nuntius cladis or nearly so, leaving but a few stragglers to flee beyond the Yaruga. John Natalis was honored richly for his deeds, and a square in Vizima now bears his name.''
+:''After [[Foltest]]'s death, Natalis temporarily served as a regent of Temeria.''
+:'''If Geralt chooses to rescue [[Triss Merigold|Triss]]:'''
+::''As a patriot and a soldier, he was the ideal, apolitical candidate for the position of interrex. These same traits, however, meant that he lacked the support of powerful nobles and thus could not speak with a united voice for Temeria as a whole.''
+:'''If Geralt chooses to rescue [[Anaïs La Valette|Anaïs]] and not give her to [[Radovid V]]:'''
+::''Natalis had fought many battles, but the one he fought for Temeria's independence at the summit in Loc Muinne was surely his most challenging. With King Foltest's daughter as his ward, he gained the chance to preserve the sovereignty of the state he temporarily governed.''
+
+== {{Tw3}} ==
+[[Vernon Roche]] said that Natalis brought Temerian soldiers to defend the [[Dol Blathanna]] - [[Mount Carbon]] line, where they held the line for three days, but were soundly defeated on the fourth day, with most of the remnants of the army going underground, fighting a guerilla war against the Nilfgaardian forces, like Temeria's Sons in White Orchard.
+
+In ''The Witcher 3: Wild Hunt'', there is a [[John Natalis (gwent card)|gwent card]] with his image.
+
+== Trivia ==
+* In {{Tw1}}, Jan Natalis never physically appears but there is a plaza in [[Trade Quarter]] of [[Vizima]], called [[John Natalis Square]], that can be visited by [[Geralt of Rivia|Geralt]] throughout [[Chapters|Chapter III]].
+
+== Gallery ==
+<gallery>
+John Natalis screen1.jpg|Constable John Natalis
+Anais Natalis screen.jpg|Natalis and Anaïs La Valette
+Tw3 cardart northernrealms john natalis.png|Gwent card art
+Gwent cardart northern john natalis.jpg|Gwent stand alone card art
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|John Natalis}}
+
+[[es:Juan Natalis]]
+[[de:John Natalis]]
+[[fr:Jan Natalis]]
+[[it:John Natalis]]
+[[pl:Jan Natalis]]
+[[vi:John Natalis]]
+[[ru:Ян Наталис]]
+[[pt-br:Jan Natalis]]
+[[Category:Humans]]
+[[Category:The Lady of the Lake characters]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter III]]

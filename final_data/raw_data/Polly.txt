@@ -1,0 +1,23 @@
+{{Infobox Character
+|Name = Polly
+|Image =Polly Tw3.jpeg 
+|Hair_color = 
+|Eye_color = 
+|Race = [[Human]]
+|Gender = Female
+|Profession = Choreographer
+|Affiliations = [[Chameleon]]
+|Partner = [[Hubio]] {{Small|text=fiancé}}
+|Appears_games = {{Tw3}}
+}}'''Polly''' was a choreographer in [[Novigrad]] in {{Year|canon=no|year=1272}}.
+
+== Biography ==
+In 1272, [[Dandelion]] contacted Polly to recruit her for his planned cabaret at the premises of the former [[Rosemary and Thyme]]. However, Polly's betrothed Hubio was against the idea of her working there, believing the Rosemary and Thyme to still be a brothel per the old publicity placards which he came across. If [[Geralt of Rivia|Geralt]] chose to help Dandelion in setting up the cabaret, they went to Polly's house and settled a domestic dispute between Polly and Hubio, after which she started choreographing shows at the Chameleon.
+
+== Associated Quest ==
+* [[Cabaret]]
+
+[[pl:Polly]]
+[[ru:Полли]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

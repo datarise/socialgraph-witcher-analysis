@@ -1,0 +1,30 @@
+{{Infobox Character
+|Image = Tw3 hammond close-up.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = [[Slavery|Slaver]]<br>Pirate
+|Appears_games = {{Tw3}}<br>{{Gwent standalone}}
+|Affiliations = [[Jad Karadin]] {{Small|text=formerly}}
+}}
+'''Hammond''' was a [[Slavery|slaver]] and former member of [[Jad Karadin]]'s gang, along with [[Selyse]], [[Lund]] and [[Vienne]]. He was considered to be Karadin's right-hand man.
+==Biography==
+As a member of Jad Karadin's gang he was one of the people responsible for the death of the witcher [[Aiden]] of the [[Cat School]]. After the gang disbanded, Hammond travelled to [[Skellige]] and started a slave trade business in [[Trottheim]]. He built his reputation as the chief pirate of [[Faroe]], commanding a mighty fleet, gaining bounties in every island of Skellige and the respect of the jarls. He was in constant conflict with [[Holger Blackhand]].
+
+{{Condition|Text=If Geralt goes after him}} In {{Year|year=1272|canon=no}}, he was meditating at an altar near the slave market when [[Geralt of Rivia]] approached him, chasing information about Jad Karadin. Unwilling to betray Karadin's trust, Hammond attacked the [[witcher]] and met his end. Geralt later tells Lambert that Hammond was in business with Karadin, the two having remained in contact despite appearances.
+
+== Associated Quest ==
+* [[Following the Thread (The Witcher 3)|Following the Thread]]
+
+==Gallery==
+<gallery>
+Gwent cardart syndicate hammond.png|Gwent card art
+</gallery>
+
+[[pl:Hammond]]
+[[ru:Хаммонд]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[Category:Criminals]]

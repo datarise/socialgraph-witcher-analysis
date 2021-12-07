@@ -1,0 +1,22 @@
+{{Infobox_Bestiary2
+|Name = King of the Wolves
+|Class = [[Cursed one]]
+|Variations = Wolf King
+|Occurrence = [[Velen]]
+|Image = Wolf king.png}}
+'''King of the Wolves''' was a [[werewolf]] that [[Ciri]] fought in {{Year|canon=no|year=1272}} while escaping from [[Crookback Bog]].
+
+== History ==
+While fleeing the [[Crones|Crones of Crookback Bog]], Ciri encountered and rescued a girl named [[Gretka]], who warned Ciri about the "Wolf King and his pack" that was preventing her from returning home. As the two made their way to get out of the ravine they were in, they came across a freshly dead body torn apart by a werewolf. A short time later they reached a cave, the only way out of the ravine. As they headed inside a scream was heard and they saw the King of the Wolves just as he was cornering another person. While still injured from earlier, Ciri killed the werewolf and saved the man.
+
+== Combat Tactics ==
+Preparing the proper sword oil is essential to making this boss fight easier. If [[Yaren]]'s corpse is not fully examined, Ciri may incorrectly identify the monster as a [[fiend]] and prepare the wrong oil, making the fight more difficult. In order for the correct oil to be prepared, the chest, legs, and belly of the victim must all be examined.
+
+Basic dodge skills and attack moves are the only moves available to Ciri during this fight. This enemy has only melee attacks and will use a dash every so often to close a gap. The best strategy is to dodge in, fast attack, and dodge out before Ciri can be hit.
+
+== Associated Quest ==
+*[[Ciri's Story: The King of the Wolves]]
+
+[[Category:The Witcher 3 characters]]
+[[Category:The Witcher 3 bestiary]]
+[[Category:Humans]]

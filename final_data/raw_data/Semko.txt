@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image = Tw2 semko.png
+|Status = Deceased {{Small|text=killed by [[Letho]]}}
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Aedirnian}}
+|Profession = Fist fighter
+|Relative = [[Allgood]] {{Small|text=brother}}
+|Appears_games = {{Tw2}}}}
+'''Semko '''and his brother [[Allgood]] were fist fighters brought on board to entertain King [[Demavend III]] in {{Year|canon=no|year=1271}} while he sailed on the [[Pontar (river)|Pontar]]. While the two brothers spared, [[Letho]] snuck on board and released a magic capsule that encased everything in its radius in ice, including Semko and Allgood. He ended up shattering when the ship began to fall apart.
+
+== ''[[The Witcher 2: Assassins of Kings Artbook|The Witcher 2 Digital Artbook]]'' description ==
+:''The fist fighters were designed to evoke the concept of primitive, almost plebeian contests. Both strongmen have simple, bloated faces and frames that bear little resemblance to what we consider the athletic ideal today. Layers of blubber and a profusion of body hair emphasize the effect. Their boxing technique is also less than spectacular. It's a simple test of strength, with victory going to the last man standing.''
+{{Clear}}
+== Enhanced Edition CGI Intro ==
+[[File:The Witcher 2 Assassins of Kings - Intro|thumb|400x400px|center]]
+
+==Notes==
+* He differs from his brother in that he doesn't bear a chest tattoo.
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]

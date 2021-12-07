@@ -1,0 +1,14 @@
+{{Infobox Character
+|Image = Lodrin.jpeg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Light blue
+|Profession = Guard
+|Appears_games = {{Tw3}}}}
+'''Lodrin''' was a guard that [[Geralt of Rivia|Geralt]] encountered in {{Year|canon=no|year=1272}} at [[Crow's Perch]], when he was looking for the [[Phillip Strenger|Bloody Baron]]. He lets Geralt through the gate to go see the Bloody Baron.
+
+== Associated Quest ==
+* [[Bloody Baron (quest)|Bloody Baron]]
+
+[[Category:The Witcher 3 characters]]

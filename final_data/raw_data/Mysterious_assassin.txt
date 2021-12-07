@@ -1,0 +1,56 @@
+{{Infobox Character
+|Name = Mysterious assassin
+|Image = Uknown witcher of vipers.png
+|Status = Deceased {{Small|text=killed by [[Geralt of Rivia|Geralt]]}}
+|Hair_color = Bald
+|Eye_color = Amber
+|Race = [[Human]] {{Small|text=[[Witcher]]}}
+|Gender = Male
+|Profession = Witcher
+|Affiliations = [[School of the Viper]]<br>[[Kingslayers]]
+|Abilities = Swordmanship<br>Superhuman abilities<br>[[Alchemy]]<br>[[Signs]]
+|Appears_games = {{tw1}}<br>{{tw2}} {{Mo}}}}The "'''mysterious assassin'''" (d. September {{Year|canon=no|year=1270}}) was a [[witcher]] of the [[School of the Viper]] and the first member of the [[Kingslayers]] to attempt to kill King [[Foltest]], albeit he was unsuccessful. [[Geralt of Rivia|Geralt]], who was in the process of receiving his reward for destroying [[Salamandra]] and removing [[Jacques de Aldersberg]], was in the castle when the assassin made his move. An intense sword fight played out between the two which narrowly resulted in the death of the would-be assassin.
+
+== Biography ==
+
+=== Early life ===
+Since the Viper School is located in the southern part of the [[Continent]], it is possible that he was born somewhere in the [[Nilfgaardian Empire]]. At some point in his childhood, he was taken in by the Viper witchers and subjected to the [[Trials]], which mutated him into a being with nearly superhuman speed, strength and various other abilities.<ref name="tw2">{{Tw2}}</ref> While training, he became friends with other trainees, including [[Auckes]], [[Serrit]], and [[Letho]].<ref name="twitter">[https://twitter.com/FlyingScots_man/status/834513322762440704 Mateusz Tomaszkiewicz: "He was their friend and present at Hanged Man's Tree"]</ref>
+
+During winter 1269, the foursome helped Geralt of Rivia track down [[King of the Wild Hunt]] since the former saved Letho from a [[slyzard]] while on [[the Path]]. Alongside Geralt, the four Viper witchers fought against the [[Wild Hunt]], until Geralt exchanged himself for [[Yennefer of Vengerberg|Yennefer]]. Out of respect for their departed comrade, the Vipers took care of Yennefer, who, suffering from amnesia, began to cause trouble for the group. Eventually, all of them were captured by the Nilfgaardian secret service. In custody, they were approached by [[Imperator]] [[Emhyr var Emreis]], who offered to rebuild their school if they sowed chaos in for him in the [[Northern Kingdoms]] by killing its kings.<ref name="twitter" />
+
+=== Attempt to kill Foltest ===
+[[File:Mysterious assassin against.jpg|left|thumb|250px|Critical moment]]
+In September 1270, he managed to enter the [[Temeria]]n [[Royal Palace (Vizima)|Royal Palace]] in [[Vizima]] just when Geralt, who lost his memory shortly after their last meeting, was in the process of receiving his reward for destroying Salamandra and killing the [[Grandmaster]] of the [[Order of the Flaming Rose]], Jacques de Aldersberg.
+
+The renegade witcher snuck past all the guards, killing two of them in the process and almost killed King Foltest. Before anything else could happen, Geralt rushed to the king's aid; a hard-fought battle broke out in which the dual-wielding assassin got the upper hand, so Geralt threw his recently-acquired coin pouch at his former comrade to stun him, before cutting off his arm and killing him with a slash across the back. The dead assassin was not recognised by Geralt due to the latter's amnesia, however, and his corpse underwent an autopsy to find out who he was.<ref>{{Tw1}}</ref>
+
+=== Legacy ===
+[[File:Mysterious assassin dead.png|thumb|250px|The witcher lying dead in front of Geralt and Foltest]]
+
+{{Quote|text = His pupils suggested he could probably see in the dark as well as you. I couldn't put an age on him.|citation = [[Triss Merigold]], {{Tw2}}}}
+Immediately after his death, he was searched over by royal [[medic]]s in the palace until they passed his body to [[Triss Merigold]]. She did the autopsy and couldn't identify his age, but did learn that he could see in the dark, indicating to her that he might have been a witcher. The assassin also wore no [[Witcher medallion|medallion]].
+
+== Associated Quest ==
+*[[Returning Memories]]
+
+== Videos ==
+<gallery position="center">
+File:The Witcher - Outro HD (English)
+File:The Witcher 2 - Fighting the Wild Hunt (Memory 5 5)
+</gallery>
+
+== Gallery ==
+<gallery>
+Gwent cardart nilfgaard kingslayer.jpg|Gwent card art
+Mysterious assassin concept.png|First concept art of him fighting Geralt.
+Mysterious assassin concept second.png|Second concept art.
+Mysterious assassin concept third.png|Third concept art.
+</gallery>
+
+== References ==
+<references />[[cs:??? "královrah"]]
+[[ru:Безымянный ведьмак]]
+[[pl:Tajemniczy Wiedźmin Cechu Żmii]]
+[[Category:Witchers]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher 2 mentioned-only characters]]

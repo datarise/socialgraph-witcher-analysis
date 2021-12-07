@@ -1,0 +1,20 @@
+{{Infobox Character
+|Image = Tw3 Josta.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Hazel
+|Hair_color = Brown
+|Profession = [[Priest]]ess
+|Titles = Sister
+|Nationality = {{Skelliger}}
+|Affiliations = [[Freya]]'s clergy
+|Appears_games = {{Tw3}}
+}}
+[[Geralt of Rivia|Geralt]] and [[Yennefer of Vengerberg|Yennefer]] first came across Sister '''Josta''' in the village of [[Lofoten]], when she was conducting a ritual to honor their dead. Later, she could be found on in [[Freya's temple]] near [[Freya's Garden]].
+
+== Associated Quest ==
+* [[In Wolf's Clothing]]
+
+[[ru:Йоста]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,30 @@
+{{DisambigMsg|This article is about = the bear from [[An Skellig]]|For = other uses|see = Olaf}}
+{{Infobox Animal
+|Name = Olaf
+|Image = Tw3 olaf bear.png
+|Species = [[Bear]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+}}
+'''Olaf''' is a [[bear]] holding the position of reigning champion "fistfighter" in [[Skellige]] in {{Year|canon = no|year = 1272}}.
+
+== Associated Quest ==
+* [[Fists of Fury: Skellige]]
+
+== Notes ==
+* There is also another bear-fistfighter in [[Novigrad]] named [[Boris (bear)|Boris]].
+
+{{Clear}}
+
+== Gallery ==
+<gallery>
+Tw3 cardart skellige olaf.png|Gwent card art
+Gwent cardart skellige olaf.jpg|Gwent standalone card art
+</gallery>
+
+[[pl:Olaf (W3:DG)]]
+[[ru:Олаф]]
+[[Category:The Witcher 3 characters]]
+[[Category:The Witcher 3 bestiary]]

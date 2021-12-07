@@ -1,0 +1,32 @@
+{{Infobox_Character
+|Image = Tw2 Ekhart Henessy.jpeg
+|Status = [[Wraith]], Deceased
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Kaedwenian}}
+|Profession = Soldier
+|Ranks = [[Standard Bearer]]
+|Affiliations = [[Dun Banner]]<br>[[Vandergrift]]
+|Appears_games = {{Tw2}}}}'''Ekhart Henessy''' was the ensign and color bearer of the [[Kaedwen]]i [[Dun Banner]] division. He was a veteran of the [[Battle of Brenna]] and of the Battle of [[Vergen]] during the [[Lormark War]], where he perished. He was later buried in the [[dwarven catacombs]] beneath the city.
+
+== {{Tw2}} ==
+[[Geralt of Rivia]] met Ekhart Henessy in his [[wraith]] form after his death, when he accepted to lift [[Sabrina Glevissig]]'s curse on the [[battlefield]] near Vergen; to do so, he needed however the [[Standard]] of the Dun Banner division, which was being guarded by Ekhart's ghost in the catacombs.
+
+==Notes==
+* Geralt can either fight against Ekhart or approach him peacefully. If he chooses the peacefully way, he will have to answer the wraith's questions correctly in order to persuade him. The correct answers are the following:
+# ''"I served in the Banner."''
+# ''"You got it wrong."''
+# ''"Menno Coehoorn."''
+# ''"Coehoorn is dead."''
+# ''"Vandergrift and Seltkirk."''
+#
+#* '''Iorveth's path''': ''"Biggerhorn took me prisoner." '' or 
+#* '''Roche's path''': ''"I was led out by a priest" ''
+
+== Associated Quest ==
+* [[Death Symbolized]]
+
+[[de:Ekhart Henessy]]
+[[ru:Экхарт Хенесси]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]

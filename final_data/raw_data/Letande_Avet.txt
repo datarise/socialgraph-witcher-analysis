@@ -1,0 +1,28 @@
+{{Infobox Character
+|Image = Tw2_journal_Letandeavet.png
+|Aka = Butcher of Cidaris 
+|Appears_games = {{Tw2}}
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Cidarian}}}}
+'''Letande Avet''' or '''Butcher of Cidaris''' is a secondary character in Chapter II of {{Tw2}}. [[Sven (Manfred's son)|Sven]] challenges the man to a duel, which will most likely result in his own death, until [[Geralt of Rivia|Geralt]] intervenes to even the playing field.
+
+== Journal Entry ==
+: ''Letande Avet did not enter tournaments to prove himself, but to maim and kill. Above all, he cherished those moments when he had crushed an enemy and could mercilessly pound him into the bloody mud. Called the Butcher of Cidaris, he owed this moniker to his infamous role in a tournament a few years earlier that was interrupted before time but still ended with a trifling five deaths. After those events, Avet chose to accept the hospitality of King [[Henselt]], known for his less strict approach to the concept of chivalrous rivalry.''
+: ''In the arena the Butcher of Cidaris faced Geralt, who proved that he had not been dubbed the Butcher of Blaviken without reason. The first Butcher was butchered by the second. Thus ended Letande Avet's bloody career.''
+
+== Associated Quest ==
+* [[The Butcher of Cidaris]]
+
+== Videos ==
+<gallery position="center">
+File:The_Butcher_of_Cidaris_(The_Witcher_2)_Full_HD
+</gallery>
+
+[[fr:Letande Avet]]
+[[it:Letande Avet]]
+[[pl:Letande Avet]]
+[[ru:Летанде Авет]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Humans]]

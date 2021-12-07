@@ -1,0 +1,52 @@
+{{SpoilerBanner}}
+{{Stub}}
+{{Infobox_Character
+|Name = Queen of the Night
+|Image = <gallery>
+Gwent cardart monsters queen of the night.png|Gwent art
+People Vampiress.png|Journal portrait
+</gallery>
+|Aka = Queen of the Night
+|Hair_color = Red
+|Race = [[Bruxa]]
+|Gender = Female
+|Culture = [[Gharasham]]
+|Profession = [[Prostitute|Madame]]
+|Affiliations = [[House of the Queen of the Night]]
+|Partner = [[Regis]] {{Small|text=lover, formerly}}
+|Appears_books = {{BoF}} {{Mo}}
+|Appears_games = {{Tw1}}<br>{{Gwent standalone}}
+}}
+The '''Queen of the Night''' is a higher [[vampire]] who owns a brothel (The [[House of the Queen of the Night]]) in the [[Trade Quarter]] in [[Vizima]]. Most of the women working there are, like the Queen of the Night, vampires that take blood in addition to money as payment for their sexual services.
+
+Elder ones do not need blood to sustain their life, it is more like alcohol or the drug that they enjoy the most. The player has the choice to kill her or keep silent in exchange for a "ménage-à-quatre" with three of her [[bruxa]] "sisters".
+
+== Associated Quest ==
+* [[Blue Eyes]]
+
+== Notes ==
+* The Queen reveals that [[Emiel Regis Rohellec Terzieff-Godefroy|Regis]] was once her lover.
+* After the [[Blue Eyes]] quest, if Geralt returns to see the Queen of the Night, she and her entourage will be in their vampire form and remain that way for the rest of the act. Thereafter, they are inaccessible anyway.
+
+== Videos ==
+<gallery position="center">
+File:Blue Eyes and Vampire Brothel
+</gallery>
+
+== Gallery ==
+<gallery>
+Romance Vampiress.png|Romance card art in ''The Witcher''
+People_Queen_of_the_night.png|Game model in ''The Witcher''
+</gallery>
+
+[[cs:Paní noci]]
+[[de:Königin der Nacht]]
+[[es:Dama nocturna]]
+[[fr:Dame de la nuit]]
+[[it:Regina della Notte]]
+[[pl:Królowa Nocy]]
+[[ru:Королева_Ночи]]
+[[Category:Vampires]]
+[[Category:Romance cards]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter III]]

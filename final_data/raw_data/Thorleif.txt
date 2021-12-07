@@ -1,0 +1,19 @@
+{{Infobox Character
+|Name = Thorleif
+|Image = Tw3 thorleif.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Graying brown
+|Profession = Village elder
+|Nationality = {{Skelliger}}
+|Parents = Bear Haugs {{Small|text=father}}
+|Appears_games = {{Tw3}}}}
+'''Thorleif''' was the village elder of [[Larvik]] in {{Year|canon = no|year = 1272}}, when an [[Hagubman|unknown beast]] started to ambush people on the main road, just outside the village. Immediately realizing this was no normal creature, he posted a notice, hoping someone skilled with a blade could handle it.
+
+== Associated Quest ==
+* [[Contract: Strange Beast]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]
+[[ru:Торлейф]]

@@ -1,0 +1,30 @@
+{{Infobox Character
+|Image = People_Blacksmiths_Wife.png
+|Hair_color = Dark brown
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Partner = Unnamed [[Murky Waters blacksmith|husband]]
+|Children = Unnamed [[Blacksmith's son|son]]
+|Appears_games = {{Tw1}}
+}}
+The '''blacksmith's wife''' is the only member of the [[Murky Waters]] family who is not a merchant. Running the household and dealing with a [[Blacksmith's son|moody teenager]] is plenty to keep her busy, or so it would seem. She does, however, have the time to muse about her [[Murky Waters blacksmith|husband]]'s activities when he is not at home or working.
+
+She is very friendly and apparently a very good cook. She gives [[Geralt of Rivia|Geralt]] the [[Temptation]] quest. Her husband is carrying on with a succubus and she would like an end to it. She offers a [[Plants of Barren Lands|book of herbal lore]] as the reward, but as Geralt leaves her hut, he is immediately intercepted by her husband, who knows what she is up to. He makes Geralt a counter-offer. Decisions, decisions...
+
+== Associated Quest ==
+* [[Temptation]]
+
+== Videos ==
+<gallery position="center">
+File:Blacksmith Temptation
+</gallery>
+
+[[cs:Kovářova žena]]
+[[de:Frau des Schmieds (Trübwasser)]]
+[[fr:Femme du forgeron]]
+[[pl:Kowalskie żony]]
+[[it:Moglie del fabbro]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]

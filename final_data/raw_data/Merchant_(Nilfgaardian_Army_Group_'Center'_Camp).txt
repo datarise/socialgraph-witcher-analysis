@@ -1,0 +1,46 @@
+{{Character Tabs|first = main|second = store}}
+There are actually three merchants at the [[Nilfgaardian Army Group 'Center' Camp]], not counting Quartermaster [[Tavar Eggebracht]].
+
+== Merchant (burgundy chaperon) ==
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant (burgundy chaperon)
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Nilfgaardian}}
+|Hair_color = Brown
+|Eye_color = Light Brown
+|Profession = Merchant
+|Appears_games = {{Tw3}}
+|Image = Tw3 merchant nilfgaardian army camp burgundy chaperon.png}}This merchant is the one furthest north of the three and wears a burgundy chaperon hat. He sells a mix of goods including diagrams.
+{{clear}}
+
+== Merchant (red cap) ==
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant (red cap)
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Nilfgaardian}}
+|Hair_color = Black
+|Eye_color = Light Brown
+|Profession = Merchant
+|Appears_games = {{Tw3}}
+|Image = Tw3 merchant nilfgaardian army camp red cap.png}}This merchant is just south of the one with the burgundy chaperon and sells the usual mix of random armor, weapons, and [[The Witcher 3 crafting components|crafting components]].
+{{clear}}
+
+== Merchant (light brown chaperon) ==
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant (light brown chaperon)
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Nilfgaardian}}
+|Hair_color = Brown
+|Eye_color = Green
+|Profession = Merchant
+|Appears_games = {{Tw3}}
+|Image = Tw3 merchant nilfgaardian army camp brown chaperon.png}}
+This merchant is to the west of the other two and near the unnamed noblewoman that gives the secondary quest, [[Blood Ties]]. He sells [[The Witcher 3 alchemy ingredients|alchemy ingredients]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec z obozu nilfgaardzkiej armii „Środek" (sprzedawca ziół)]]

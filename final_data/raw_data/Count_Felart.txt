@@ -1,0 +1,23 @@
+{{Stub}}
+{{Infobox Character
+|Image = Felart.png
+|Titles = [[Count]] of [[Vergen]]
+|Nationality = {{Aedirnian}}
+|Race = [[Human]]
+|Gender = Male
+|Profession = Nobleman
+|Abilities = Swordsmanship
+|Appears_games = {{Tw2}}
+}}
+'''Count Felart''', a noble-born magnate of [[Upper Aedirn]].
+
+== {{Tw2}} ==
+It was him to first betray [[Aedirnian Dynasty|Crown of Aedirn]] that time represented by [[Prince]] [[Stennis]] and he would join a cooperation with other such counts to sold this territory for 100,000 Novigradian crowns (and titles of [[Marquise|marquises]] to each of them).
+
+[[Henselt]] of [[Ard Carraigh]] accepted either half of it or nothing. Felart dies no matter the side ([[Iorveth]] / [[Vernon Roche|Roche]]) you chose.
+
+[[de:Fellart]]
+[[ru:Феларт]]
+[[Category:Humans]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 characters]]

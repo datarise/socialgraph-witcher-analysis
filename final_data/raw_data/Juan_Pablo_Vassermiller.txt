@@ -1,0 +1,26 @@
+{{Infobox Character
+|Image = People Nobleman 2.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Ebbinger}}
+|Titles = [[Prince]]
+|Relative = [[Putzi]] {{Small|text=sibling}}<br>[[Gritzi]] {{Small|text=sibling}}<br>[[Mitzi]] {{Small|text=sibling}}
+|Appears_books = {{SoD}}
+|Appears_games = {{Tw1}}}}
+'''Juan Pablo Vassermiller''' was one of the royal [[Ebbing quadruplets]] along with his siblings [[Putzi]], [[Gritzi]], and [[Mitzi]]. When they were just small children [[Dandelion]] described them collectively as "horrible, trouble-making brats".<ref>{{SoD}}</ref>
+
+In {{Year|canon=no|year=1271}}, he was visiting [[Vizima]], capital of [[Temeria]], and attended a banquet held in Princess [[Adda the White|Adda]]'s name at the [[The New Narakort]].<ref>{{Tw1}}</ref>
+
+== Associated Quest ==
+* [[A Posh Reception]]
+
+== References ==
+<references />
+
+[[de:Juan Pablo Vassermiller]]
+[[fr:Juan Pablo Vassermiller]]
+[[pl:Juan Pablo Vassermiller]]
+[[Category:Humans]]
+[[Category:Royal family members]]
+[[Category:Sword of Destiny characters]]
+[[Category:The Witcher characters]]

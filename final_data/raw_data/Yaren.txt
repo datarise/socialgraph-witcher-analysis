@@ -1,0 +1,15 @@
+{{Infobox Character
+|Image = Yaren.jpeg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+|Status = Deceased}}'''Yaren''' was a [[Temeria]]n man who was killed by the [[King of the Wolves (creature)|King of the Wolves]] in {{Year|canon=no|year=1272}}. [[Ciri]] and [[Gretka]] encountered his corpse while searching for the beast. He had been torn about and thrown against a tree. Ciri was only able to tell that the beast was a [[werewolf]] after inspecting Yaren's corpse.
+
+== Associated Quest ==
+* [[Ciri's Story: The King of the Wolves]]
+
+[[ru:Ярен]]
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]

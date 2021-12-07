@@ -1,0 +1,52 @@
+{{Infobox Character
+|Image = <gallery>
+People Jethro full.png|EE version
+People Mikul full.png|Non-EE version
+</gallery>
+|Hair_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Jailer<br>[[Vizima]] city guardsman
+|Affiliations = [[Vincent Meis]]<br>Vizima [[City Guard]]
+|Appears_games = {{Tw1}}
+}}
+'''Jethro''' was a member of the [[City Guard]] in the [[Temple Quarter]] and the jailer at the [[Vizima dungeon|dungeon]]. He worked for [[Vincent Meis]] officially, but seemed to have quite the little enterprise on the side as well. He had a strong addiction to [[fisstech]] which cause him to act delirious at times.
+
+== [[The Witcher journal|Journal]] Entry ==
+:''Jethro is a guard in the city dungeon. He would merely be a standard smartass, except that he's addicted to fisstech.''
+
+== Associated Quests ==
+* [[Following the Thread (The Witcher)|Following the Thread]]
+* [[Hot Potato]]
+* [[Memory of a Blade]]
+* [[Prison Break]]
+* [[The Archespore Contract]]
+* [[The Viziman Connection]]
+
+== Notes ==
+* Jethro can be bribed with fisstech to get extra information.
+
+== Videos ==
+<gallery position="center">
+File:Fisstech - Following the Thread
+</gallery>
+
+== Gallery ==
+<gallery>
+People Jethro ee.png|Jethro's EE journal image
+People Jethro.png|Jethro's original journal image
+</gallery>
+
+[[cs:Šémko]]
+[[de:Jethro]]
+[[es:Jethro]]
+[[fr:Joseph]]
+[[hu:Jethro]]
+[[pl:Siemko]]
+[[ru:Юз]]
+[[it:Jethro]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]

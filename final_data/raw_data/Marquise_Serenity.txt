@@ -1,0 +1,31 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Gwent Player}} {{PAGENAME}}
+|Image = Tw3 serenity.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Blue
+|Hair_color = Grey
+|Profession = Madame
+|Appears_games = {{Tw3}}
+}}
+
+'''Marquise Serenity''' was the madame at the [[Passiflora]] in [[Novigrad]]. She was also a [[gwent]] player, with [[Nilfgaardian Empire Gwent deck|Nilfgaard]] being her choice of deck, and will reward the [[Morvran Voorhis (gwent card)|Morvran Voorhis]] card if beaten.
+
+==Biography==
+Marquise Serenity worked at the Passiflora for many years, persevering with her job even after most of her friends had left to pursue other ventures. She recounted once meeting [[Geralt of Rivia]] and [[Dandelion]] when they arrived at the brothel with two [[halfling]]s.
+
+In {{Year|canon=no|year=1272}}, she had provided room and board at the Passiflora to [[Sigismund Dijkstra]] and his associates as they were plotting to assassinate King [[Radovid V]]. The madame settled Dijkstra on the top floor in one of the brothel's best suites, which was up a staircase hidden behind a secret door.
+
+==Notes==
+* Certain dialogue options reveal that she is one of the few women in the Witcher's World to have served in an official capacity in a nation's military, with another example being [[Ves]].
+
+== Associated Quests ==
+* [[A Deadly Plot]]
+* [[Gwent: Big City Players]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Markiza Serenity]]
+[[ru:Маркиза Серенити]]

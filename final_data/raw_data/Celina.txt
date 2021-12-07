@@ -1,0 +1,69 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Celina
+|Image = People_Celina_full.png
+|Status = Deceased {{Small|text=killed by [[Adam (Murky Waters)|Adam]]}}
+|Hair_color = Brown
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Parents = [[Tobias Hoffman]] {{Small|text=father}}
+|Relative = [[Alina]] {{Small|text=sister}}
+|Appears_games = {{Tw1}}
+}}
+'''Celina''' was [[Tobias Hoffman]]'s elder daughter. She was jealous of her little sister [[Alina]], who was getting married to [[Julian]], a wealthy merchant from [[Kovir]].
+
+Before the wedding, Celina tried to get revenge on her sister by "having" the [[witcher]], whom she felt her sister would naturally snatch from her. She told [[Geralt of Rivia|Geralt]] that she would have him on the nearest rock and demanded a ring, ''"as nice as Alina's"'' for this tryst.
+
+Celina ultimately met a tragic end at the hands of [[Adam (Murky Waters)|Adam]], her sister's lover (not her sister's fiancé!), ending up cursed to be a [[nightwraith]]. She argued about Julian with Alina and the argument spiraled into manslaughter as Celina pushed her sister who hit her head on a rock as she fell and was killed. Adam was overcome with grief and anger when he learnt of this and killed Celina to avenge his beloved.
+
+Poor Alina also returned, as a [[noonwraith]], due to the circumstances of her death at the hands her sister. If only their love for each other was as great as their love of themselves, one wonders if this tale may have had a different ending...
+
+As a nightwraith, she roamed the [[Fields]] at night until her spirit could be put to rest. Geralt can encounter her in that form several times, if he also wanders the fields at night. Each time, she laments her fate:
+
+:''It was an accident! I had no wish to kill but my anger bested me.''<br>''I fear the night, I always have... woe is me!''<br>''All I wanted was love... She had only disdain for him, scorning his feelings. I never would have done so...''
+
+Then she attacks and must be killed. This continues to happen until her spirit is allowed to move on, which can not happen without the [[Wreath of Immortelles]], which Geralt can get in return for completing a quest for the [[Hermit]].
+
+Having been set free, she disappears. She does return, however, depending on choices made by Geralt regarding his path. If he chooses the [[The Witcher storyline|Witcher / neutral path]], she appears, still as a nightwraith, to help him (or possibly fight him) in the [[Ice Plains]].
+
+== Associated Quests ==
+* [[The Heat of the Day]]
+* [[Hunting the Wild Hunt]]
+* [[Frozen Reflections]]
+
+== [[The Witcher journal|Journal]] Entry ==
+:''Seems like Tobias Hoffman's elder daughter is jealous of her little sister Alina, who is getting married...''
+
+== Notes ==
+* Although Celina suggests that the ring she wants must be expensive — she described Alina's as having a diamond as large as a pigeon's egg — she will accept any old ring, even the lowly [[silver ring]].
+** In the Polish (Original) version there is additional dialog for her reaction when you give her a ring. She will complain calling it ''"rubbish" ''and ask where you got it in a demeaning way, even if it's a [[Gold diamond ring]], or even the most valuable [[Gold ruby signet ring]]. So there is literally no sense in giving her anything else than a silver ring, she will respond to all [[Jewelry|15 rings/signets]] the same way, she clearly doesn't deserve better.
+* Despite giving her the [[Wreath of Immortelles]] and having her say that it does set her free, any further conversation about her suggests that nothing could be done.
+* The game is contradictory in her being the younger or elder sister. The journal clearly states she's the "elder daughter", but in her conversation she herself states that Alina "has no concern for her younger sister" (see Romance video below).
+*The ip_polnc.utc file, with Celina's appearance as a nightwraith in the Ice Plains, contains a semi-joking comment from the creators: ''on ice plains. Uwaga: tu powinien być appearance ip_polud02, ale niestety nie ma jakiejś kości i zawiesza grę, więc jak to mówią rodowici Ślązacy, chuj.'' (lit. "on ice plains. Note: appearance ip_polud02 should be here, but unfortunately some [https://en.wikipedia.org/wiki/Skeletal_animation bone] is missing and it crashes the game, so as the native Silesians say, fuck").
+
+== Videos ==
+<gallery position="center">
+File:Celina's Card
+File:Heat of the Day
+</gallery>
+
+== Gallery ==
+<gallery>
+People_Celina.png|Celina's journal image
+Romance_Celina.png|Celina's romance card
+Romance_Celina_censored.png|censored romance card
+Bestiary_Nightwraith_full.png|Celina as a nightwraith
+</gallery>
+[[cs:Celina]]
+[[de:Celina]]
+[[es:Celina]]
+[[fr:Célina]]
+[[hu:Celina]]
+[[pl:Celina]]
+[[ru:Селина]]
+[[it:Celina]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]
+[[Category:Romance cards]]

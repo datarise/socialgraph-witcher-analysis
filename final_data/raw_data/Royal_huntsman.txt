@@ -1,0 +1,40 @@
+{{Infobox_Character
+|Image = People Huntsman full.png
+|Hair_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Huntsman
+|Appears_games = {{Tw1}}
+}}The '''Royal Huntsman''' can be found throughout {{Tw1}}. In particular, [[Geralt of Rivia|Geralt]] first meets him in the [[Outskirts]], again in the [[Trade Quarter]], and finally in a cave in the [[swamp cemetery]]. He's the primary source of information on hunts for [[The Witcher trophy quests|exceptional]] monsters, paying a bounty for each trophy brought to him as proof of success.
+
+After the player turns in all 10 trophies they can talk to the Royal Huntsman again; he offers a choice between a [[steel sword]] and a [[silver sword]]. The steel sword is the [[Mahakaman Rune Sihil]], and the silver sword is [[Moonblade]].
+
+== Associated Quests ==
+* [[The Monster of the Lake]]
+* [[King of the Crypt]]
+* [[White Fang]]
+* [[The Predatory Wyvern]]
+* [[Bloodwing]]
+* [[The Vampiress of the Swamp]]
+
+== Where to find him ==
+* During '''Chapter I''' he is located at his [[Royal huntsman's camp|campsite]], between the [[farming village]] and the crossroads near the [[Outskirts Inn]].
+* During '''Chapter II''', [[Vincent Meis]] (captain of the [[City Guard]]) fulfills this function.
+* During '''Chapter III''', the Huntsman sits at a table in the Trade Quarter next to the [[Vizima cemetery]] gate (East of the [[Guardhouse]]), above [[The New Narakort]].
+* During '''Chapter IV''', [[Tobias Hoffman]] (the chief of [[Murky Waters]]) fulfills this function.
+* During '''Chapter V''', the Huntsman is inside the [[Druids' cave]] in the swamp cemetery.
+
+[[cs:Královský lovčí]]
+[[de:Königlicher Jägersmann]]
+[[es:Cazador Real]]
+[[fr:Chasseur du roi]]
+[[it:Cacciatore reale]]
+[[hu:A Vadászat Királyi Nagymestere]]
+[[pl:Wielki Łowczy Królewski]]
+[[ru:Главный Королевский Ловчий]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Chapter V]]

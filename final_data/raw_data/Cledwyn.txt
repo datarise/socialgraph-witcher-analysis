@@ -1,0 +1,34 @@
+{{Infobox Character
+|Image = Tw3 Cledwyd.png
+|Nationality = {{Nilfgaardian}}
+|Gender = Male
+|Profession = Imperial [[barber]]
+|Affiliations = 
+|Abilities = 
+|Race = [[Human]]
+|Eye_color = Blue
+|Hair_color = Black
+|Appears_games = {{Tw3}}
+|Name = {{Barber}} {{PAGENAME}}}}
+{{Quote|text = The gentleman must sit still. I am almost done|citation = Cledwyn to Geralt of Rivia}}
+
+'''Cledwyn''' was the imperial [[barber]] of [[Emperor]] [[Emhyr var Emreis]] and subordinate of [[Mererid]], the emperor's chamberlain. He was the who shaved off [[Geralt of Rivia|Geralt]]'s beard, when the [[witcher]] visited the emperor in {{Year|canon=no|year=1272}}, while [[Morvran Voorhis|General Voorhis]] asked some questions about recent events.
+
+== Associated Quest ==
+* [[Imperial Audience]]
+
+== Trivia ==
+* Morvran Voorhis interviews Geralt while being shaved, explaining that "men turn honest when they feel a blade at their throat."
+* In-game, the floating text only names him "barber".
+
+== Gallery ==
+<gallery>
+Tw3 beard and hairstyles dlc.jpg
+</gallery>
+
+[[ru:Кледвин]]
+[[uk:Кледвін]]
+[[it:Cledwyn]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

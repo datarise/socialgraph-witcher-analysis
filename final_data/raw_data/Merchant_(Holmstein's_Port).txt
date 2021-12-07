@@ -1,0 +1,19 @@
+{{Character Tabs|first = main|second = store}}
+{{Stub}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant 
+|Image =Merchant-holmsteins-port.jpg
+|Race =[[Human]]
+|Nationality = {{Skelliger}}
+|Gender =Male
+|Eye_color =Grey-blue
+|Hair_color =Dark grey
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}
+The '''merchant''' in [[Holmstein's Port]] plays [[gwent]]. He uses the [[Scoia'tael Gwent deck|Scoia'tael]] deck.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Port w Holmstein)]]

@@ -1,0 +1,70 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Aka = Callonetta
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Kovirian}}
+|Eye_color = Green
+|Hair_color = Blonde
+|Profession = [[Bard|Trobairitz]]
+|Image = Tw3_journal_priscilla.png
+|Partner = [[Dandelion]]
+|Voice = [http://www.imdb.com/name/nm2820461/ Emma Hiddleston]
+|Appears_games = {{Tw3}}
+|Affiliations = Renarde and the Foxen
+|Appears_other = ''[[The Witcher: Of Flesh and Flame]]'' {{Mo}}}}
+{{Quote|text = Let's show 'em what real art is.|citation = Priscilla in {{Tw3}}|audio = Priscilla voice line .ogg}}
+'''Priscilla''' was a romantic poet, who went by the stage name "'''Callonetta'''". She was a very close friend of [[Dandelion]] and her triumphal tour of concerts had taken her from [[Pont Vanis]] and [[Lan Exeter]] in [[Kovir and Poviss]], through [[Tretogor]] (capital of [[Redania]]), and [[Caelf]] to [[Novigrad]], the biggest city in the [[Northern Kingdoms]]. She also played [[gwent]] with a [[Scoia'tael Gwent deck|Scoia'tael deck]] in her free time, but only for fun, not [[Crown|crowns]].
+
+=={{tw3}}==
+Through the main quest missions, it becomes quite clear that Priscilla and Dandelion share considerable affection for each other; so much so that Dandelion, the notorious ladies man, hopes to settle down with her in Novigrad.
+
+If Geralt assists Dandelion in establishing and renovating his business (completing the [[Cabaret]] quest after the Novigrad "lockdown"), Priscilla is attacked, has formaldehyde forced in her throat, and an incision made into her voice box, starting the [[Carnal Sins]] quest. She fortunately escapes the fate of the killer's other victims, and remains alive in the care of [[Joachim von Gratz]] at the Novigrad hospital.
+
+Eventually Priscilla recovers and regains her voice and ability to sing. If Dandelion is spoken to after defeating the [[Wild Hunt]] on certain endings, he describes her as now having a lower pitched voice that sounds better than before.
+=== Journal Entry ===
+: ''As a poet and a romantic, I have immortalized in flowery verse the charms both corporeal and spiritual of many women. Yet when I open my mouth to sing the praises of Priscilla, I find - hard as this might be to conceive - that my throat constricts, words turn to meal in my mouth, and all elaborate turns of speech seem artificial and empty when compared to the natural beauty, talent, sensitivity and intellect nature has bestowed her.''
+: ''Priscilla (or Callonetta, the stage name under which she gained artistic renown) was, around the time of our story's beginning, enjoying the last stop on a triumphal tour of concerts that had taken her from the sumptuous courts of Lan Exeter and Pont Vanis, through Tretogor and Caelf, finally bringing her to the glorious city of Novigrad.''
+
+=== Associated Quests ===
+* [[Broken Flowers]]
+* [[A Favor for Radovid]]
+* [[Count Reuven's Treasure]]
+* [[Get Junior]]
+* [[Cabaret]]
+* [[Carnal Sins]]
+* [[The Play's the Thing]]
+* [[A Poet Under Pressure]]
+
+==Trivia==
+*The Wolven Storm (Priscilla's Song) has 7 different voice over translations and 14 different in-game text subtitles resulting from language localization. The voice over translations of the song include Brazilian Portuguese, English, French, German, Japanese, Polish, and Russian versions of the song. Languages without voice over translations are presented with text subtitles of the song. Text subtitles are available in Arabic, Brazilian Portuguese, Czech, English, French, German, Turkish, Hungarian, Italian, Korean, Latin American Spanish, Polish, Russian, Spanish, and Traditional Chinese.
+*The lyrics to The Wolven Storm is actually presented in a book item in the game called [[Ballads and Hymns]].
+
+== Notes ==
+* Her character design is likely based on the book character, [[Essi Daven]].
+* Even after the main game's ending where Dandelion can tell you Priscilla is better and back to singing, she'll still be at [[Vilmerius Hospital]] lying in bed.
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 3 Soundtrack OST - Priscilla's Song
+File:The Witcher 3 Wild Hunt - The Wolven Storm Priscilla's Song multi-language
+</gallery>
+
+== Gallery ==
+<gallery>
+Gwent cardart northern priscilla.jpg|Gwent cardart.
+</gallery>
+
+== External Links ==
+*{{Gwent|Priscilla}}
+
+[[ar:بريسيلا]]
+[[cs:Priscilla]]
+[[es:Priscilla]]
+[[pl:Priscilla]]
+[[pt-br:Priscilla]]
+[[ru:Присцилла]]
+[[it:Priscilla]]
+[[Category:Humans]]
+[[Category:Bards]]
+[[Category:The Witcher 3 characters]]

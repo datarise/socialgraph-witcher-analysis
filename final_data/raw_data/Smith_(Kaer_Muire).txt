@@ -1,0 +1,18 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Nationality = {{Skelliger}}
+|Image = Tw3 blacksmith kaer muire.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Bald
+|Profession = [[Blacksmith]] {{Small|text=journeyman}}
+|Name = {{Blacksmith}} {{Gwent Player}} Smith
+|Appears_games = {{Tw3}}}}
+
+The '''Smith''' located in seat of [[Madman Lugos]] called [[Kaer Muire]] sells the regular and lesser [[Runestone|runestones]], a number of [[The Witcher 3 crafting components|crafting components]] and a variety of [[:Category:The Witcher 3 crafting diagrams|crafting diagrams]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Kaer Muire)]]

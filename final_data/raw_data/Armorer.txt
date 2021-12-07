@@ -1,0 +1,52 @@
+== {{tw1}} ==
+There are a few '''armorers''' in {{Tw1}}:
+* The [[Armorer of the Order|Order armorer]] in the [[Temple Quarter]]
+* [[Malcolm Stein]] in the [[nonhuman district|non-human district]] of the [[Temple Quarter]] and later in [[Old Vizima]] (Scoia'tael [[The Witcher storyline|path]] only)
+* The [[Marketplace|Armorer]] near [[The New Narakort]] in the [[Trade Quarter]]
+* The [[Makeshift forge|Order armorer]] in [[Old Vizima]] (Order path)
+* [[Kalkstein]], in Chapter V (Witcher / neutral path only)
+
+== {{tw2}} ==
+* See [[Craftsman]]
+
+== {{tw3}} ==
+{{Armorer}}
+
+Only an armorer can craft armor in {{Tw3}}. [[Geralt of Rivia]] will have to bring the required materials to an armorer to have new professionally crafted armor. Similarly, weapons can only be forged by [[Blacksmith]]s. Armor and upgrades can be sold to armorers for +20% profit.
+
+=== [[White Orchard]] ===
+* [[Willis]] (Amateur)
+
+=== [[Velen]] ===
+* [[Armorer (Midcopse)|Armorer]] in [[Midcopse]] (Amateur)
+* [[Swordsmith (Mulbrydale)|Swordsmith]] in [[Mulbrydale]] (Amateur)
+* [[Fergus Graem]] in [[Crow's Perch]] (Journeyman)
+* [[Yoana]] in [[Crow's Perch]] (Master)
+
+=== [[Novigrad]] and [[Oxenfurt]] ===
+* [[Armorer (Hierarch Square)|Armorer]] in [[Hierarch Square]] (Journeyman)
+* [[Armorer (Oxenfurt)|Armorer]] in [[Oxenfurt]] (Journeyman)
+
+=== [[Skellige|Skellige Islands]] ===
+* [[Armorer (Kaer Muire)|Armorer]] in [[Kaer Muire]] (Journeyman)
+* [[Armorer (Kaer Trolde keep)|Armorer]] in [[Kaer Trolde citadel]] (Journeyman)
+* [[Armorer (Larvik)|Armorer]] in [[Larvik]] (Amateur)
+* [[Armorer (Urialla Harbor)|Armorer]] in [[Urialla Harbor]] (Amateur)
+
+=== [[Toussaint]] ===
+* [[Armorer (Vermentino)|Armorer]] at the [[Vermentino]] (Journeyman)
+* [[Armorer (Freinte Docks)|Armorer]] at the [[Freinte Docks]]
+* [[Armorer (Mont Crane Castle)|Armorer]] at [[Mont Crane Castle]]
+* [[Armorer (Tulasens Caves)|Armorer]] in the [[Tulasens Caves]]
+* [[Armorer (Francollarts)|Armorer]] at [[Francollarts]] (Journeyman)
+* [[Armorer (Tourney Grounds)|Armorer]] at the [[Tourney Grounds]] (Journeyman)
+* [[Armorer (Hauteville)|Armorer]] in [[Hauteville]] (Master)
+* [[Lazare Lafargue]] (Grandmaster, after completing [[Master Master Master Master!]])
+
+[[Category:The Witcher characters]]
+[[Category:The Witcher 3 characters]]
+
+[[de:Rüstungsschmied]]
+[[fr:Armurier]]
+[[it:Armaiolo]]
+[[pl:Płatnerze w Wiedźminie 3]]

@@ -1,0 +1,21 @@
+{{Infobox Character
+|Name = Gus of Tretogor
+|Image = Witcher 2 - Gus Tretogorian.png
+|Hair_color = Brown
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Profession = [[Mage]]
+|Abilities = [[Magic]]
+|Appears_games = {{Tw2}}
+}}
+'''Gus of Tretogor''' was a mage and close colleague of [[Carduin]] with whom he was trying to reactivate [[Council of Wizards|Council]] and [[Chapter of the Gift and the Art|Conclave]] to its former glory on the summit at [[Loc Muinne]] in {{Tw2}}.
+
+He thought that [[John Natalis]] would be a challenge to convince as he was too honest. But the only thing he feared was that those mages that did not come to debates, like [[Francesca Findabair|Francesca]], [[Ida Emean aep Sivney|Ida]] and [[Yennefer of Vengerberg|Yennefer]], would be the first to criticise.
+==Trivia==
+*Gus is English form of Latin name Augustus meaning ''majestic''.
+[[Category:Humans]]
+[[Category:Mages]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:The Witcher 2 characters]]

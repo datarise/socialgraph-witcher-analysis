@@ -1,0 +1,41 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Gaetan.jpg
+|Aka = 
+|Affiliations = [[Cat School]] 
+|Profession = [[Witcher]]
+|Abilities = Superhuman abilities<br>Swordsmanship<br>[[Alchemy]]<br>[[Signs]]
+|Race = [[Human]] {{Small|text=[[Witcher]]}}
+|Gender = Male
+|Eye_color = Amber
+|Hair_color = Bald
+|Appears_games = {{Tw3}}
+|Relative = Unnamed sister {{Small|text=deceased}}}}
+
+'''Gaetan''' was a [[witcher]] from the [[Cat School]] who, around {{Year|canon = no|year = 1272
+|Type = game}}, ended up in [[Velen]].
+
+== Biography ==
+He took a contract on a [[leshen]] that terrorized [[Honorton]] village but after he killed it the ealdorman refused to pay the agreed upon sum, instead offering Gaetan only 12 {{Crown}}, a very paltry sum for taking care of the leshen. The witcher voiced his objection at this and so the ealdorman and a couple other villagers claimed they had hid the rest of the gold in the barn and led him out there to get the rest of the payment.
+
+However, it proved to be a trap where the group tried to murder the witcher and only at the last minute when Gaetan realized something was awry did he narrowly avoid being fatally pierced by a pitchfork. Still injured and now incensed at this, Gaetan went on a killing spree, blindly killing every villager for trying to cheat and kill him, whether they were guilty or not. He only stopped short of killing a little girl, [[Millie]], as she reminded him of his own sister, thus sparing her, making her the only survivor of the village massacre.
+
+{{Condition|Text = If Geralt investigates}} [[Geralt of Rivia|Geralt]] eventually discovered Gaetan not far from the village and still recovering from his injuries. After telling Geralt about what transpired, he insinuated this wasn't the first time he'd lost his temper.
+:{{Condition|Text = If Geralt chooses to kill him}} Deciding Gaetan's regrets weren't good enough for his actions that killed off an entire village, Geralt fought Gaetan then and there, ending the cat witcher's life.
+:{{Condition|Text = If Geralt chooses to spare him}} Geralt remarked to Gaetan how he himself was often referred to as the [[Butcher of Blaviken]] and that sometimes "heads just roll" and, as the ealdorman did try to attack and kill Gaetan, Geralt couldn't fault him for acting in self-defense. Gaetan then thanked Geralt by giving him the location of his hideout and where he had some valuable items stored as a reward.
+
+== Associated Quest ==
+* [[Where the Cat and Wolf Play...]]
+
+== Notes ==
+* If you approach Gaetan while wearing the [[Cat School Gear|Cat School Witcher Gear]], he will comment on it before you engage him in conversation. Saying "Well well, what have we here? Feline armor, wolf's head medallion - a crossbreed?".
+* In the {{HoS}}, during the secondary quest [[Avid Collector]], [[Marcus T.K. Hodgson]] may award Geralt with Gaetan's [[conserved shaelmaar trophy]], which he had apparently given to Hodgson as collateral for a purchase.
+* In Gaetan's hideout, he has a wall of trophies he collected which Geralt wonders why he still has, and believes he may have been cheated of his reward in the past and kept them as mementos.
+
+[[pl:Gaetan]]
+[[ru:Гаэтан]]
+[[uk:Гаетан]]
+[[it:Gaetan]]
+[[pt-br:Gaetan]]
+[[Category:Witchers]]
+[[Category:The Witcher 3 characters]]

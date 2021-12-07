@@ -1,0 +1,57 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Ge'els
+|Image = Witcher 3 Hearts of Stone, The - Geels.png
+|Aka = 
+|Race = [[Elf]] {{Small|text=[[Aen Elle]]}}
+|Gender = Male
+|Nationality = [[Tir ná Lia]]
+|Affiliations = [[Wild Hunt]]
+|Profession = [[Viceroy]] of [[Tir ná Lia]]
+|Abilities = 
+|Voice = [http://www.imdb.com/name/nm1232570/ Andrew Greenough]
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = Naїvety is a fool's blessing.|citation = Ge'els in {{Gwent standalone}}|audio = Ge'els voice line.ogg}}
+
+'''Ge'els''' was an [[elf]] of the [[Aen Elle]], a member of the [[Dearg Ruadhri]] and one of [[Eredin]]'s most trusted lieutenants together with [[Imlerith]] and [[Caranthir]]. His headquarters was the [[Palace of Awakening]], located in [[Tir ná Lia]].
+
+== Biography ==
+Unlike the other lieutenants, Ge'els did not actively participate in the hunt. Instead, he was assigned to rule the Aen Elle world in Eredin's stead while the king was leading the Red Riders. While he had great skill in plotting and politics, he was also righteous.
+
+=== Betraying Eredin ===
+In {{Year|canon = no|year = 1272}}, in order to weaken Eredin, [[Avallac'h]] and [[Geralt of Rivia|Geralt]] travelled to [[Tir ná Lia]] in order to find Ge'els and convince him to break his support from Eredin, by revealing that Eredin murdered [[Auberon Muircetach|King Auberon]], whom Ge'els admired.
+
+When they finally arrived, they found Ge'els painting a portrait in his garden of an elven woman. Rather than calling the guards, he heard what Geralt and Avallac'h had to say, and agreed to return with them back to [[Novigrad]]. When they arrived, they had [[Corinne Tilly]] use her power of [[oneiromancy]] to reveal Eredin's treachery. Once the dream ended, Ge'els advised them to fight Eredin in their own world, and to lure him there using the [[Sunstone]] on [[Skellige]]. He promised that Eredin would not receive reinforcements, should the king call for them, and Avallac'h assisted Ge'els to return to [[Tir ná Lia]].
+
+== Journal Entry ==
+: ''Intelligent, composed and endowed with massive charisma, Ge'els enjoyed the respect and trust of the inhabitants of the Aen Elle world as well as that of their previous ruler, Auberon Muircetach.''
+: ''For this reason Ge'els not only retained his high-ranking position after Eredin took power, but also became one of the new king's most powerful allies, acting as his viceroy while Eredin traveled at the head of the Wild Hunt.''
+: ''Though Ge'els was one of the most influential of the Aen Elle, power had never been among his driving aims. According to Avallac'h, his loyalty and sense of right and wrong constituted a weakness that could be used - possibly to tip the scales of the final battle.''
+: ''As predicted, Ge'els acted out of loyalty to his former king and withdrew support for Eredin once he learned the truth about Auberon's death. This momentous act portended important ramifications for the outcome of the coming battle.''
+
+== Associated Quest ==
+*[[Through Time and Space]]
+
+== Trivia ==
+*Ge'els' painting style is a visual reference to [https://en.wikipedia.org/wiki/Cubism Cubism] art style.
+
+== Gallery ==
+<gallery>
+Tw3 journal geels.png|journal picture
+Fullgamerender-gels.png|full in game render (by Tokami)
+Gwent cardart monsters geels.png|Gwent standalone cardart.
+Tw3 geel painting.png|Ge'el's painting (censored)
+</gallery>
+
+== External Links ==
+*{{Gwent|Ge'els}}
+[[ar:غيلز]]
+[[de:Ge'els]]
+[[es:Ge'els]]
+[[pl:Ge'els]]
+[[pt-br:Ge'els]]
+[[ru:Ге'эльс]]
+[[uk:Ґе'ельс]]
+[[Category:Elves]]
+[[Category:The Witcher 3 characters]]

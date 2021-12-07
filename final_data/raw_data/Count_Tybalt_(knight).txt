@@ -1,0 +1,28 @@
+{{DisambigMsg|This article is about = the knight from {{Tw2}}|For = the [[gwent]] tournament organizer|see = Count Tybalt (Novigrad)}}
+{{Infobox Character
+|Image = Tw2 Count Tybalt.png
+|Name = Tybalt
+|Titles = [[Count]]
+|Ranks = 
+|Nationality = 
+|Gender = Male
+|Abilities = Swordmanship
+|Race = [[Human]]
+|Eye_color = Brown
+|Hair_color = Dark
+|Profession = [[Knight]]
+|Appears_games = {{Tw2}}
+}}
+Count '''Tybalt''' was a [[Order of the Flaming Rose|Knight of the Flaming Rose]]. If you chose [[Roche]]'s path, Geralt can find him sitting on the right side of the [[King]] [[Henselt]]'s tent at the [[Kaedweni camp]] during [[Chapters|Chapter II]].
+
+If you sided with the Order in {{Tw1}} and imported a save into ''The Witcher 2'', he will reward you with a [[steel plate enhancement]] for your aid. If you killed [[Siegfried of Denesle]] in the original game, he attacks you.
+
+== Trivia ==
+* There is a bug where if you imported a neutral path saved game from ''The Witcher ''but did not kill Siegfried, Tybalt still attacks you saying you did kill Siegfried.
+
+[[it:Conte Tybalt]]
+[[ru:Граф Тибольт (Ведьмак 2)]]
+[[Category:Humans]]
+[[Category:Knights]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 characters]]

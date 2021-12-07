@@ -1,0 +1,53 @@
+{{DisambigMsg|This article is about = the smugglers|For = the sword|see = Hav'caaren (sword)}}[[File:Gwent cardart scoiatael hawker support.jpg|thumb|373x373px]]{{Quote|text = The wagons of profiteers Hav'caaren who traded with the Squirrels began appearing clandestinely on forest tracks, paths, glades and clearings. The elves called them hav'caaren, an untranslatable word, but one which was associated with rapacious greed.|citation = {{BoF}} (UK edition)}}The '''Havekar''' ([[Elder Speech]]: ''hav'caaren''), also known as '''hawkers''', are opportunistic smugglers who sell arms and supplies to the [[Scoia'tael]] at high prices, lining their own pockets on the misfortune of others. They have been known to renege on deals and sell out their own "clients" for the right price or incentive, often taking advantage of the worsening relations between the [[elf|elves]] and the [[human]]s to make profit.
+
+Havekar are looked upon with contempt by both humans and elves. They tended to be primarily human, but their membership does include some assimilated elves and [[dwarf|dwarves]]. They appear in {{BoF}}, the third novel in the {{BoE}} saga.
+== Notable havekars ==
+* [[Kolda]]
+* [[Pavko Gale]]
+
+== {{tw1}} ==
+The '''hav'caaren''' are also known as "hawkers", so conversations about "hawkers and squirrels" abound in {{Tw1}}. [[Siegfried of Denesle|Siegfried]] says that their name derives from an [[Elf|elven]] word for "ravenous greed", although his grasp of the elven tongue may be sub-optimal, his observation is nonetheless quite accurate.
+
+=== Associated Quests ===
+* [[Force Recon]]
+* [[Strangers in the Night (The Witcher)|Strangers in the Night]]
+
+== {{Tw3}} ==
+There are two types of havekar gwent card as part of [[Scoia'tael Gwent deck|Scoia'tael Deck]] and there is also sword with name of this profession.
+
+=== Sword ===
+* [[Hav'caaren (sword)]]
+
+=== Gwent cards ===
+* [[Havekar Smuggler (gwent card)|Havekar Smuggler]]
+* [[Havekar Healer (gwent card)|Havekar Healer]]
+
+== {{TB}} ==
+{{Block Quote|text = It is difficult to say who held more contempt for the hawkers: humans, whose laws they broke by trading with Scoia'tael, or the elven warriors themselves, who viewed them as honorless race traitors. Whatever the case, the hawkers paid neither any mind. If coin was to be had, they'd bargain with anyone.|citation = [[A Canceled Transaction]]}}
+
+== Trivia ==
+* [[Haren Brogg]] can be considered a hawker and even accuses [[Abigail]] of turning him into one in the [[The Witcher: Enhanced Edition|Enhanced Edition]] of the original game.
+
+== Gallery ==
+
+<gallery>
+People Haren full.png|Haren Brogg, hawker
+Tw3 cardart scoiatael havekar smuggler 1.png|Gwent havekar card art
+Tw3 cardart scoiatael havekar smuggler 2.png|Gwent havekar card art
+Tw3 cardart scoiatael havekar smuggler 3.png|Gwent havekar card art
+Tw3 cardart scoiatael havekar healer 1.png|Gwent healer card art
+Tw3 cardart scoiatael havekar healer 2.png|Gwent healer card art
+Tw3 cardart scoiatael havekar healer 3.png|Gwent healer card art
+Gwent cardart scoiatael hawker smuggler.jpg|Havekar smuggler
+Gwent cardart scoiatael havekar healer.jpg|Havekar healer
+</gallery>
+
+[[de:Havkas]]
+[[fr:Hay'caren]]
+[[it:Hawker]]
+[[pl:Havekar]]
+[[ru:Гавенкары]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter I]]
+[[Category:Occupations]]
+[[Category:Baptism of Fire characters]]

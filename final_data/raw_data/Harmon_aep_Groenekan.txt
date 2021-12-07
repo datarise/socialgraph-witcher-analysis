@@ -1,0 +1,21 @@
+{{Infobox Character
+|Name = Harmon aep Groenekan
+|Image = Tw3 Harmon.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Alban}} {{Small|text=likely}}
+|Eye_color = Green
+|Hair_color = Black
+|Profession = [[Commander]]
+|Ranks = Lieutenant General
+|Affiliations = Second Mounted Army<br>[[Nilfgaardian Empire]]
+|Appears_games = {{Tw3}}
+}}Lieutenant General '''Harmon aep Groenekan''', commander of Second Mounted Army of [[Nilfgaardian Empire|Nilfgaard]], was a connoisseur and collector of armors. During {{Year|canon=no|year=1272}}, he demanded that the armorers at [[Crow's Perch]] in [[Velen]] make him a suit, but insisted that the finished product be tested before paying. This evolved into small contest of skills between [[Fergus Graem|Fergus]] and [[Yoana]].
+
+== Associated Quest ==
+* [[Master Armorers]]
+
+[[pl:Harmon aep Groenekan]]
+[[ru:Гармон аэп Гренекан]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

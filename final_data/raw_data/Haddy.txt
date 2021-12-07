@@ -1,0 +1,20 @@
+{{Infobox Character
+|Name = {{Gwent Player}} {{PAGENAME}}
+|Image = Tw3 Haddy.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Blond
+|Abilities = Playing [[gwent]]
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}'''Haddy''' was a young boy from [[Midcopse]], [[Velen]] in {{Year|canon=no|year=1272}} who was considered one of the best [[gwent]] players in the area despite being only a child. His preferred choice of deck was [[Northern Realms Gwent deck|Northern Realms]].
+
+== Associated Quest ==
+* [[Gwent: Velen Players]]
+
+==Notes==
+*If beaten at gwent, Haddy gives the [[Vernon Roche (gwent card)|Vernon Roche gwent card]].
+
+[[ru:Гадко]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

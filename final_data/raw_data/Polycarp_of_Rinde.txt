@@ -1,0 +1,32 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw2_journal_Polycarp.png
+|Titles = Master at arms
+|Hair_color = Bald
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Affiliations = [[Order of the Flaming Rose]]
+|Profession = [[Knight]]
+|Abilities = 
+|Appears_games = {{Tw2}}}}
+'''Polycarp of Rinde''' was a half-brother of the [[Order of the Flaming Rose]] in {{Year|year=1271|canon = no}}. He served the Order as the master at arms.
+
+== Biography ==
+Apparently, Polycarp hailed from the city of [[Rinde]] in southern [[Redania]].
+
+In July 1271, when King [[Radovid V]] invited several Order Knights to [[Loc Muinne]] to act as a police force ensuring peaceful negotiations, Polycarp of Rinde was among them, accompanying [[Grandmaster]] [[Siegfried of Denesle]].
+
+== Journal Entry ==
+:''Despite the favors Geralt had done the Order, half-brother Polycarp of Rinde, the master at arms, was not exceptionally cordial. It was also difficult to convince him to allow the witcher to use the stock of the Order's armory.''
+
+[[de:Polikarp von Rinde]]
+[[fr:Polycarpe de Rinde]]
+[[it:Polycarp di Rinde]]
+[[ru:Поликарп из Ринды]]
+[[uk:Полікарп з Рінди]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:The Witcher 2 characters]]

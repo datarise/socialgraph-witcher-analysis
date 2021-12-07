@@ -1,0 +1,23 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 tjalve son.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Hair_color = Black
+|Parents = [[Lothar (Tjalve's father)|Lothar]] {{Small|text=father}}<br>
+Unnamed mother
+|Appears_games = {{Tw3}}
+|Eye_color = Green}}
+'''Tjalve''' was the son of [[Lothar (Tjalve's father)|Lothar]] in {{Year|canon=no|year=1272}} who fell deathly ill from a cursed nithing planted by his father's scorned lover, [[Jonna]].
+
+== Biography ==
+{{Condition|Text = If Geralt investigates}} on learning Jonna had planted the nithing, he asked her to lift it, which the herbalist agreed to but with for a steep price: she wished for Lothar to denounce Tjalve, which would mean Lothar stripping his wife and son of honor and condemning them to poverty.
+
+:{{Condition|Text = If Geralt gets Lothar to agree}} Lothar reluctantly agreed, and while he saved Tjalve's life by doing so, it also meant condemning him to a harsh upbringing.
+:{{Condition|Text = If Geralt turns the curse on Jonna}} siding with Lothar, Geralt turned the curse on Jonna, saving the boy and allowing Lothar to stay with his family.
+
+== Associated Quest ==
+* [[The Nithing]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

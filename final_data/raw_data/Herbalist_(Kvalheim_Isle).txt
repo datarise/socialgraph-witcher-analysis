@@ -1,0 +1,25 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{herbalist}} {{Gwent Player}} Herbalist
+|Image =Tw3 herbalist kvalheim isle.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Hazel
+|Hair_color =Brown
+|Profession =[[Herbalist]]
+|Nationality ={{Skelliger}}
+|Location = [[Kvalheim Isle]]
+|Appears_games ={{Tw3}}
+}}
+This '''herbalist''' is located in central [[Ard Skellig]], in [[Kvalheim Isle]], and plays [[gwent]], using the [[Scoia'tael Gwent deck|Scoia'tael deck]], and sells [[The Witcher 3 alchemy ingredients|alchemy ingredients]].
+
+== Associated Quest ==
+* [[Person(s) in Distress]]
+
+== Bugs ==
+* Sometimes he cannot be interacted with, and when he can, he simply thanks the witcher for their aid. This can be fixed by meditating a few hours at a time until he is in his house.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Zielarz (Kvalheim)]]

@@ -1,0 +1,371 @@
+{{Character Tabs|first = main|second = netflix}}
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = The Witcher 3 Wild Hunt-Yennefer of Vengerberg.png
+|Aka = Janka<ref name="ttots" /><br>Jenny<ref group=N>English translation of "Janka" in {{TWotW}}</ref><br>Yen<br>Yenna<br>Horsewoman of War
+|Hair_color = Black
+|Eye_color = Violet
+|Skin_color = Pale
+|Race = [[Quarter-elf]]<ref group=N>Noted specifically in {{SESB}} of being quarter elf, though unspecified how much in the saga</ref>
+|Gender = Female
+|Nationality = {{Aedirnian}}
+|Profession = Advisor<br>[[Mage]]
+|Affiliations = [[Lodge of Sorceresses]]<br>[[Demavend III]] {{Small|text=formerly}}<br>[[Brotherhood of Sorcerers]] {{Small|text=formerly}}<br>[[Council of Wizards]] {{Small|text=formerly}}
+|Abilities = [[Magic]]
+|Parents = Unnamed father {{Small|text=disowned}}<br>Unnamed mother
+|Partner = [[Geralt of Rivia]] {{Small|text=love of her life in books, possible lover in games}}<br>[[Istredd]] {{Small|text=lover, formerly}}<br>[[Crach an Craite]] {{Small|text=lover, formerly}}
+|Voice = [http://www.imdb.com/name/nm1740112/ Denise Gough] {{Small|text={{Tw3}}}}
+|Lookalike = [[Anya Chalotra]]<br>[http://www.filmpolski.pl/fp/index.php/113273 Grażyna Wolszczak]
+|Appears_books = {{TLW}}<br>{{SoD}}<br>{{BoE}}<br>{{ToC}}<br>{{BoF}}<br>{{TTotS}}<br>{{TLotL}}<br>{{SESB}}<br>{{SoS}}
+|Appears_games = {{Tw1}} {{Mo}}<br>{{Tw2}} {{Small|text=flashbacks}}<br>{{Tw3}}<br>{{BaW}} {{Small|text=dependent}}<br>{{TB}} {{Mo}}
+|Appears_other = ''[[The Witcher: Killing Monsters]]''<br>''[[The Witcher: Curse of Crows]]''<br>''[[The Witcher: Of Flesh and Flame]]''<br>{{Witcher TV}}
+|Born = {{Year|canon = yes|year = 1173}}<ref group=N>In 1267, she states she's 94 years old ({{TTotS}})</ref>
+|Children = [[Ciri]] {{Small|text=adopted daughter}}
+}}
+{{Quote|text = When I created Yennefer's character I wanted Geralt to fully grow, but then I decided to make things complicated. I created a female character who refuses to be a fantasy stereotype. To please the reader.|citation = [[Andrzej Sapkowski]]}}
+'''Yennefer of Vengerberg''', born on [[Belleteyn]] in {{Year|canon = yes|year = 1173}}, was a [[sorceress]] who lived in [[Vengerberg]], the capital city of [[Aedirn]]. She was [[Geralt of Rivia]]'s true love and a mother figure to [[Ciri]], whom she viewed like a daughter to the point that she did everything she could to rescue the girl and keep her from harm.
+
+She helped advise [[King]] [[Demavend III|Demavend]] of [[Aedirn]] (though was never a formal royal advisor), a close friend of [[Triss Merigold]], and the youngest member of the [[Council of Wizards]] within the [[Brotherhood of Sorcerers]]. After its fall, the [[Lodge of Sorceresses]] attempted to recruit her, but they didn't see eye to eye as the Lodge wanted to advance their own political agenda by using Ciri.
+
+== Biography ==
+{{Stub}}
+
+=== Early life and studying at Aretuza ===
+Born in {{Year|year=1173|canon=yes}}, Yennefer had a rough childhood from the moment she was born due to her congenital hunchback. Her father immediately detested her due to this deformity and blamed Yennefer's mother for it, claiming it was through her side, with mages and [[Elf|elven]] blood, not to mention her having had an abortion before, that caused the deformity. Her mother initially tried to protect Yennefer, believing it was by the will of the gods, but her father still struck Yennefer until one day he left them both for someone else. After this, her mother, upset that her husband had left, also began to beat her own daughter.<ref name="ttots">{{TTotS}}</ref>
+
+At some point, due to her magical potential, she was received in the [[Aretuza]] school for [[Mage|sorceresses]], where rectoress [[Tissaia de Vries]] became her teacher and mother figure. During her training, Yennefer tried to kill herself by cutting both of her wrists, severing her tendons, though she survived. Tissaia claimed that the purposefulness of her attempt was the only thing that prevented her from feeling contempt for her weakness, and continued her training. In accordance with the sorceresses' tradition, any physical flaw, including her hunchback, was magically removed.<ref name="TLotL">{{TLotL}}</ref> Yennefer made friends with her classmate [[Sabrina Glevissig]]<ref name="toc" /> and eventually passed her training and tests in {{Year|canon=yes|year=1186}}, at the age of 13, and graduated as a sorceress. Three years later, in {{Year|year=1189|canon=yes}}, she lost her virginity.<ref name="boe" />
+
+===Meeting Geralt===
+At some point, Yennefer set herself up in the town of [[Rinde]] and, ignoring King [[Heribert]]'s rules that no magic users could stay in [[Redania]], openly practiced her magic and provided her magical services to clients by staying with [[Novigrad]]'s ambassador, [[Beau Berrant]], thus granting her asylum from the law while in the ambassador's home.
+
+One morning, a [[witcher]] intruded on her sleep, revealing himself as Geralt of Rivia and that he needed her assistance in healing his friend, [[Dandelion]], who had been afflicted by a [[djinn]]. After an initially rough greeting where Geralt responded sarcastically to her questions, Yennefer agreed to heal the bard, but she secretly made preparations in hopes of capturing the djinn, after Dandelion makes his final wish. When Geralt tried to stop her from using Dandelion, her spell took hold of the witcher, charming him to do her will against those on the town council who were against her.
+
+After Geralt is arrested, she has Dandelion, now awakened teleported out into town with instructions to make his wish to free Geralt. Yennefer tried to capture the djinn, but it fought her, destroying a good part of Rinde in the struggle, not knowing that the djinn's master was not Dandelion, but in fact, Geralt, who still held one wish. Geralt arrived to see Yennefer struggle with her spell, and he tried to stop her, leading them to fight one another. She got the better of him, and he revealed to her that he was the one with the last wish that could free the djinn. Geralt knew that the moment he made a wish, Yennefer would be too weak to contain the djinn and it would kill her. So Geralt saved their lives, by wishing their fates were tied together. Yennefer was grateful to the witcher, willing to bind himself to her, and the two began a relationship.<ref name="tlw">{{TLW}}</ref>
+
+===A year in Vengerberg===
+TBA
+
+===Temple of Melitele===
+Yennefer traveled to the [[Temple of Melitele (Ellander)|Temple of Melitele]] in [[Ellander]] and spoke to [[Nenneke]] about a cure for her infertility. While she was at the temple, she spent time looking around for Geralt, and after discovering he wasn't there confronted Nenneke and ended up quarrelling with her, before leaving the temple.<ref name="tlw" />
+
+=== The Dragon Hunt ===
+TBA
+
+=== Aedd Gynvael ===
+TBA
+
+=== Battle of Sodden Hill ===
+In {{Year|year=1263|canon=yes}}, she fought at the [[Battle of Sodden Hill]] alongside other sorceresses and sorcerers from the Brotherhood, but was blinded during the battle by [[Fringilla Vigo]], a [[Nilfgaard (city)|Nilfgaardian]] sorceress<ref name="bof">{{BoF}}</ref>. Her sight was later magically restored but she still bore the emotional scars.<ref name="boe">{{BoE}}</ref>
+
+After the Battle of Sodden Hill she became a member of the Council of Wizards.<ref name="toc">{{ToC}}</ref> Later at some point, she travelled to the [[Gors Velen marketplace]], where she saw and comdemned [[Yarpen Zigrin]] for his involvement in the dragon hunt.<ref name="boe" />
+
+=== Saving Dandelion===
+In {{Year|year=1265|canon=yes}}, Yennefer travelled to [[Velen]] on the orders of [[Sigismund Dijkstra]], where she hid under the great oak tree [[Bleobheris]] and watched Dandelion's concert. After the concert, noticing that [[Rience]] was following Dandelion, she followed them both along the road to a small town. She found Dandelion behind the brothel [[Mama Lantieri's]], being attacked by Rience and two other thugs. She killed the two and sent a fire spell at Rience, burning the side of his face deeply, before he teleported away.
+
+The two went into the local inn and had a meal over the discussion of recent affairs.<ref name="boe" />
+
+=== Training Ciri ===
+In {{Year|year=1266|canon=yes}}, after receiving a letter from Geralt, she traveled to the [[Temple of Melitele (Ellander)|Temple of Melitele]] in [[Ellander]] to teach Ciri. Even though at the beginning the two of them didn't get along well at first, they later grew a mother-daughter bond. Yennefer first taught Ciri about [[magic]] and how to harness [[chaos]]. She also helped her with stopping her nightmares for a while, as well as controlling her breathing and pulse.
+
+One night, Nenneke grew tired of Yennefer's training strategies, claiming she had no heart, as Ciri had spent the previous few days sick in bed, recovering from the intense training. This distance between Yennefer and Nenneke led to Ciri spending more and more time with the sorceress, and saw her friends much less.
+
+In June {{Year|year=1267|canon=yes}}, she received news of the coming conflict with Nilfgaard, and revealed it to Ciri one day while the girl bathed. Yennefer decided they would travel to the magical school [[Aretuza]] so Ciri could learn in safety, and the sorceress could meet with the [[Thanedd coup|Conclave of Mages]].<ref name="boe" />
+
+=== Traveling with Ciri ===
+The next morning, they left the temple to travel to Aretuza, first spending a night at an inn in Ellander, where Yennefer watched Ciri foretell the messenger [[Aplegatt]] of his death in a trance, before they left for [[Anchor]] in Temeria, their next rest stop.<ref name="toc" />
+
+They stopped in [[Gors Velen]], the city most famous for being close to Thanedd. There, Yennefer visited [[Giancardi Bank]] and met up with [[Molnar Giancardi]], who told her that people were attempting to access her account in the [[Vivaldi Bank]] in [[Novigrad]]. They then discussed the economic growths and downs and Molnar hinted that the northern kings might be preparing for war. Yennefer then carried out some bank transactions including sending money to the Temple of Melitele and Aretuza for Ciri's future studies. So she could discuss matters more privately with Molnar, Ciri was sent on the tour through the city with [[Fabio Sachs]], during which she got caught by [[Margarita Laux-Antille]] and Tissaia de Vries, who thought she was a runaway student from Aretuza. After meeting up with Yennefer, everything was settled as they spent the evening together in the spa at [[The Silver Heron]]. They discussed mainly Ciri's future studies along with other gossip, until Ciri ran away to see Geralt in [[Hirundum]]. Yennefer followed her there, which led to her reunion with Geralt after almost 4 years.<ref name="toc" />
+
+When Ciri woke up the next day, Yennefer was in an orchard with Geralt arguing. They then made peace and forgave each other for their previous mistakes, and Yennefer invited the witcher and Ciri to the banquet on Thanedd.<ref name="toc" />
+
+=== Thanedd Coup ===
+On the last night of the month, Yennefer was accompanied to the banquet in Aretuza by Geralt. For the first time, the witcher fully confessed his love for her at the beginning of the banquet, before they talked to Sabrina Glevissig, her girlhood rival from studying at Aretuza. They then spoke with [[Philippa Eilhart]] and Sigismund Dijkstra, and then finally Triss Merigold. After the [[Chapter of the Gift and the Art|Chapter]] and Council joined the banquet, Yennefer told Geralt that since the Battle of Sodden Hill she had a member of the Council. She also harshly reminded Triss about them being back together, telling Geralt that she knew about them and didn't want to hear another word about it. She then left the witcher to talk with Tissaia and [[Francesca Findabair]]. Later that night in their room, Yennefer and Geralt made love, and he told her about his conversation with [[Vilgefortz]].<ref name="toc" />
+
+During the night, the sorceresses and sorcerers allied with [[Nilfgaardian Empire|Nilfgaard]] were arrested by [[Philippa Eilhart|Philipa Eilhart]] and her complices. Yennefer's position was unknown, but she was pressumed by many to be one of the traitors. She brought [[Ciri]] to the [[Garstang]] meeting on order of [[Tissaia de Vries]]. [[Ciri]], who had been put into trance to act as a medium, served as a proof, for she couldn't lie in trance. She confirmed the truth behind the [[Dol Angra|attack in Dol Angra]], where [[Demavend III|Demavend]] tried to use it to incite war against [[Nilfgaardian Empire|Nilfgaard]]. However, as it'd been a technical attack against the [[Nilfgaardian Empire|Empire]], [[Emhyr var Emreis|Emhyr's]] troops answered back and began to push into [[Aedirn]] and [[Lyria]]. She then further revealed that [[Vizimir II|King Vizimir II]] had been assassinated last night.
+
+When the fight in [[Garstang]] erupted, [[Ciri]] and Yennefer were attacked by elf, whom Yennefer stabbed with a knife. They ran away, but they needed to seperate. Yennefer told [[Ciri]] to go to [[Loxia]] and search for [[Margarita Laux-Antille|Margarita]], for she will be safe there. She also told [[Ciri]], she loves her.<ref name="toc" />
+
+During the fight, Francesca Findabair used [[artefact compression]] on her to smuggle her off the island, before Rience would find her.
+=== Lodge of Sorceresses ===
+She was kept in the jade figure for forty-seven days before [[Francesca Findabair|Francesca]] freed her. Acording to [[Francesca Findabair|the Queen of Elves]], she was widely searched for and it was safer for her to stay that way. Even tough [[Artefact compression|the artefact compression]] can be dangerous, Yennefer was alright. [[Francesca Findabair|Francesca]] then told her everything that happened during the time she was compressed, including what happened to [[Geralt of Rivia|Geralt]] and [[Ciri]]. Yennefer was told that, beacuse she was missing, everyone considered her to be one of the [[Nilfgaardian Empire|Nilfgaard]] traitors. [[Francesca Findabair|Francesca]] invitied her to join [[Lodge of Sorceresses|the Lodge]] and warned her to not act against the plan of [[Lodge of Sorceresses|the Lodge]]. She wanted Yennefer's word for it, but Yen didn't give it.
+
+She teleported to [[Montecalvo]] with [[Francesca Findabair|Francesca]] and [[Ida Emean aep Sivney]]. Many sorceresses, including [[Sabrina Glevissig]], considered her [[Vilgefortz|Vilgefortz's]] ally and she faced much hatred from her former colleagues. She recognized [[Fringilla Vigo]] as the one who blinded her during [[Battle of Sodden Hill|the Battle of Sodden Hill]].
+
+After [[Philippa Eilhart]] introduced her plan to marry prince [[Tankred Thyssen]] of [[Kovir]] with [[Ciri]] to create northern monarchy that would oppose [[Nilfgaardian Empire|Nilfgaard]], Yennefer told everyone about [[Ciri|Ciri's]] life and powers. The sorceresses then digged into [[Ciri|Ciri's]] true potential as the child of the [[Elder Blood]]. [[Francesca Findabair|Francesca]] told them the story of [[Lara Dorren|Lara Dorren aep Shiadhal]]. Together they unearthed the generations of [[Elder Blood]] gene being passed on to [[Ciri]].
+
+[[Lodge of Sorceresses|The Lodge]] then proceeded to talk about [[Ciri|Ciri's]] whereabouts, when [[Assire var Anahid|Assire]] informed them that the emperor doesn't have a girl with [[Elder Blood|the Elder Blood]], therefore [[Ciri]]. [[Lodge of Sorceresses|The Lodge]] thought [[Ciri]] must had been captured by [[Vilgefortz]]. After this information Yennefer became terrified, because [[Ciri]] was either in [[Vilgefortz|Vilgefortz's]] captivity or went through [[Benavent's portal|the portal]] in [[Tor Lara]] and was pressumably dead or irrevocably lost. She deeply regretted what she pulled [[Ciri]] into.
+
+During the pause she briefly talked to [[Triss Merigold|Triss]] and [[Francesca Findabair|Francesca]], but they left after a while for Yen was showing how much she wanted to be left alone. She was approached by [[Fringilla Vigo]], who perhaps tried to apologize for her actions at [[Battle of Sodden Hill|the Sodden Hill]].. They mentioned what both of them did to the other during [[Battle of Sodden Hill|the Battle]], but they seemed at peace. [[Fringilla Vigo|Fringilla]] then told Yen, she knows about her planned escape and that it is very dangerous thanks to the magical blocade around the castle. But, as she stated, she would warn her not do it if they had been friends, but they weren't.
+
+Yennefer teleported out of [[Montecalvo|the castle]], thanks to the help of [[Fringilla Vigo]], before the meeting resumed.<ref name="bof" />
+
+=== In Skellige ===
+
+=== Captured at Stygga Castle ===
+
+=== Reunited with Geralt and Ciri ===
+
+=== Facing the Lodge ===
+
+=== Farewell and Peace ===
+{{Canon Marker}}
+
+===Captive of the Wild Hunt===
+When Geralt was stabbed with a pitchfork during the [[Rivian Pogrom]] by the drunkard [[Rob]] and Yennefer brought near to death trying to save him, Ciri carried them onto a boat and brought them to the apple-covered [[Malus Island|Isle of Avalon]]. She then departed, using her powers to leave their world. Yennefer and Geralt lived together on the island peacefully in a house with an orchard and stopped keeping track of time.<ref name="tw2">{{Tw2}}</ref> Both were presumed dead to the rest of the world, although ballads sung by Dandelion led some to believe they had married and lived in the happy isles.<ref name="tw1">{{Tw1}}</ref> Eventually, the wraiths of the [[Wild Hunt]] came to the island, burned the house and orchard and took Yennefer captive, seeking to use her as bait to capture Ciri.<ref name="tw2" />
+
+With Yennefer in tow, the Hunt traveled through different worlds<ref name="tw3">{{Tw3}}</ref> and passed through [[Sodden]], [[Cintra]], and [[Angren]], taking twenty-three others captive.<ref name="tw2" /> The time was a blur of blood and fire, a wild chase across worlds.<ref name="tw3" /> Determined to rescue her, Geralt pursued the Riders of the Hunt for over a year. With the aid of [[Letho]] of [[Gulet]], [[Serrit]], and [[Auckes]], three witchers of the [[School of the Viper]] who joined him after he saved Letho from a [[Dracolizard|Slyzard]], he confronted the Wild Hunt at the Hanged Man's Tree in [[Nilfgaardian Empire|Nilfgaard]] on the [[Midwinter|Winter Solstice]] of {{Year|canon = no|year = 1270}}. Outnumbered by the Riders, the battle reached a stalemate, and Geralt proposed a deal with [[Eredin Bréacc Glas]], [[King of the Wild Hunt]], to trade his life for Yennefer's.<ref name="tw2" /> Considering both suitable bait for Ciri,<ref name="tw3" /> Eredin agreed without hesitation.<ref name="tw2" />
+
+===Alliance with Nilfgaard===
+Left in the care of Letho, Serrit, and Auckes, Yennefer was seriously ill, feverish, and delirious, to the point that the witchers believed she would die. Although she recovered from the sickness, she was left disoriented and had no memory. Not wanting Geralt's sacrifice to go for nothing and aware that the headstrong, amnesiac sorceress would likely not survive long on her own, the four traveled the provinces of the Nilfgaardian Empire together. During their time together, Yennefer was a difficult companion, prone to outbursts. At one point, she attempted to seduce Auckes and drive a wedge between the witchers. Everywhere they went, Yennefer got into trouble and Letho, Serrit, and Auckes got her out of it.
+
+One day, they were apprehended by the [[Nilfgaardian Military Intelligence|Imperial secret police]]. In Nilfgaardian custody, Yennefer was separated from the three witchers and questioned at length, though without any torture. Letho believed it was through her that the Nilfgaardians learned of the [[Lodge of Sorceresses]]. As she would not have informed on her fellow sorceresses consciously, he deduced that they used magical means to tap into her memories of the Lodge without her knowledge.<ref name="tw2" /> Later, through the efforts of Emperor [[Emhyr var Emreis]]' mages, she regained her memory.<ref name="tw3" /> While at the palace, Yennefer was closely watched by the men of [[Vattier de Rideaux]], head of the Nilfgaardian Secret Service.<ref name="tw2" />
+
+Yennefer was held hostage in a cell until the day that Emhyr came to her and offered to grant her release and free reign of the Imperial treasury in exchange for helping him locate Ciri, his daughter. Wanting to help Ciri, who she also regarded as her daughter, and aware that the vast power of the Emperor would be of great help to that end, Yennefer agreed. Judging that Geralt had escaped the Hunt and trusting that his witcher mutations would ward off any serious injury, she opted against seeking out her lover and spent the months that followed trying any means she knew to find their adopted daughter. Methods including locating spells, haruspicy, and geomancy all failed to reveal Ciri's whereabouts but brought her activities to the attention of the Wild Hunt, who began to hunt after her trail. Sensing the Wild Hunt's pursuit of her and having exhausted magical means, Yennefer ultimately chose to enlist the help of Geralt, Ciri's adoptive father and the best tracker she knew.<ref name="tw3" />
+
+=== The witcher in White Orchard ===
+In May {{Year|canon = no|year = 1272}}, Yennefer sent Geralt a [[Yennefer's letter|letter]], arranging to meet in the village of [[Willoughby]]. However the village had been burned down, due to the [[Third Northern War]] reaching the region, so she headed through to the [[Nilfgaardian Garrison]], passing through [[White Orchard]] in quite a rush. From the garrison, she headed to [[Vizima]], meeting with Emperor Emhyr var Emreis, concerning the location of Ciri. After a while, she heard Geralt was in White Orchard looking for her, so the sorceress rode with a Nilfgaardian escort to the [[White Orchard inn]] where she found Geralt and [[Vesemir]].
+
+Yennefer announced to Geralt that the emperor himself had summoned the witcher to Vizima. After agreeing and saying their goodbyes to Vesemir, the pair left with the escorts toward Vizima. Once night struck, the company was attacked by the Wild Hunt. The riders killed all of the soldiers and just before they could catch Geralt and Yennefer, the sorceress destroyed a bridge with [[magic]], blocking their pursuit. Just the two of them reached Vizima alive.<ref name="tw3" />
+{{Canon Marker End}}
+
+== Description ==
+The lady of Vengerberg was famous for her beauty, even though she was nearly a century old. Yennefer had locks of curly, raven black hair fragrant with lilac and gooseberry perfume, falling in a cascade of curls on her shapely shoulders. Her face was very pale, triangular in shape with a slightly receded chin. Her eyes were cold and sparkling with a remarkable violet penetrating gaze, in anger blazing with livid, blue-gray fire. Those very eyes also concealed wisdom and imperiousness. Yennefer's nose was slightly long, mouth was pale with thin and slightly crooked, soft, sweet with lipstick, proud lips. On her long and slender neck hung a black marigold with a star made of obsidian sparkling with a multitude of tiny diamonds embedded in it.
+
+Yen had pronounced cheekbones, natural, slightly irregular eyebrows trimmed by hand and emphasized with charcoal, long eyelashes, and petite hands. Even in high-heeled shoes she wasn't tall, was beautiful but threatening, having incredibly thin and slender waist and slender legs.
+
+She always dressed in black and white, at times wore stockings, wore frilled panties but never wore trivialities with underwire, she didn't need to. Her voice was resonant and mildly derisive. Her overall feminine shape was one of a twenty-year-old girl and she moved with a natural, unforced grace. She was a [[quarter-elf]] (meaning she had a quarter [[Elf|elven]] blood, in her case on her mother's side).
+
+It is implied that her attractive looks were a product of magic and had been acquired during her training, as with most other sorceresses. Geralt notes how her shoulders are slightly lopsided and by the end of the story realizes that Yennefer used to be a hunchback. Nevertheless, his love for her does not diminish.<ref name="tlw" />
+
+== Books ==
+
+=== {{TLW}} ===
+{{Block Quote|text = A pale triangular face, violet eyes and narrow, slightly contorted lips appeared beneath the black tresses...She had pretty shoulders, a shapely neck and, around it, a black velvet choker with a star-shaped jewel sparkling with diamonds.|citation = pg. 226, {{TLW}}}}
+{{Block Quote|text = The sorceress finished fastening the straps of her slippers and stood up. Even in high heels, she wasn't impressively tall. She shook her hair which, he found, had retained its picturesque, dishevelled and curling disarray despite the furious combing.|citation = pg. 232, {{TLW}}}}
+{{Block Quote|text = He saw her left shoulder, slightly higher than her right. Her nose, slightly too long. Her lips, a touch too narrow. Her chin, receding a little too much. Her brows a little too irregular. Her eyes. .. He saw too many details. Quite unnecessarily.|speaker = |citation = pg. 236, {{TLW}}}}
+
+=== {{SoD}} ===
+{{Block Quote|text = How ravishing she is, he thought. Everything about her is ravishing. And menacing. Those colors of hers; that contrast of black and white. Beauty and menace. Her raven-black, natural curls. Her cheekbones, pronounced, emphasising a wrinkle, which her smile – if she deigned to smile – created beside her mouth, wonderfully narrow and pale beneath her lipstick. Her eyebrows, wonderfully irregular, when she washed off the kohl that outlined them during the day. Her nose, exquisitely too long. Her delicate hands, wonderfully nervous, restless and adroit. Her waist, willowy and slender, emphasised by an excessively tightened belt. Slim legs, setting in motion the flowing shapes of her black skirt. Ravishing.|citation = pg. 110, {{SoD}}}}
+{{Block Quote|text = She also possessed a very expertly stuffed unicorn, on whose back she liked to make love. Geralt was of the opinion that if there existed a place less suitable for having sex it was probably only the back of a live unicorn. Unlike him, who considered his bed a luxury and valued all the possible uses of that marvellous piece of furniture, Yennefer was capable of being extremely extravagant. Geralt recalled some pleasant moments spent with the sorceress on a sloping roof, in a tree hollow full of rotten wood, on a balcony (someone else's, to boot), on the railing of a bridge, in a wobbly boat on a rushing river and levitating thirty fathoms above the earth. But the unicorn was the worst. One happy day, however, the dummy broke beneath him, split and fell apart, supplying much amusement.|citation = pgs. 102 - 103, {{SoD}}}}
+
+=== {{BoE}} ===
+{{Block Quote|text = She looked him in the eyes and nodded her head lightly, making her glistening, black curls writhe and cascade down to her shoulders. She slipped the roast chicken onto a trencher and began dividing it skilfully. She used a knife and fork. Dandilion had only known one person, up until then, who could eat a chicken with a knife and fork as skilfully. Now he knew how, and from whom, Geralt had learnt the knack. Well, he thought, no wonder. After all, he did live with her for a year in Vengerberg and before he left her, she had instilled a number of strange things into him.|citation = pg. 31, {{BoE}}}}
+{{Block Quote|text = 'The earth which we tread. The fire which does not go out within it. The water from which all life is born and without which life is not possible. The air we breathe. It is enough to stretch out one's hand to master them, to subjugate them. Magic is everywhere. It is in air, in water, in earth and in fire. And it is behind the door which the Conjunction of the Spheres has closed on us. From there, from behind the closed door, magic sometimes extends its hand to us. For us. You know that, don't you? You have already felt the touch of that magic, the touch of the hand from behind that door. That touch filled you with fear. Such a touch fills everyone with fear. Because there is Chaos and Order, Good and Evil in all of us. But it is possible and necessary to control it. This has to be learnt. And you will learn it, Ciri.|citation = pg. 292, {{BoE}}}}
+
+=== {{ToC}} ===
+{{Block Quote|text = A blinding flash materialised into a transparent sphere, and inside it loomed a shape, assuming contours and shapes at frightening speed. Dandelion recognised it at once. He knew those wild, black curls and the obsidian star on a velvet ribbon. What he didn't know and had never seen before was the face. It was a face of rage and fury, the face of the goddess of vengeance, destruction and death.|citation = pg. 100, {{ToC}}}}
+
+=== {{TTotS}} ===
+{{Block Quote|text = Vilgefortz looked at the unconscious body being dragged across the floor towards the stairs that led into the dungeon. Then he looked up at Rience and Schirru. 'There is always a risk,' he said, 'that one of you falls into the hands of my enemies and is interrogated. I would like to believe that you would be as strong minded as her under the screws. Yes, I would like to believe that. But I do not.' Rience and Schirru remained silent. Vilgefortz turned again to the megascope, where an image appeared on the screen, produced by the giant crystal. 'That's all she located,' he said, pointing at the screen. 'I wanted Cirilla and she has given me the witcher. She did not have the empathic matrix of the girl, but when she became weak she gave me Geralt's. I would not have believed she had such deep feelings for him...'|citation = {{TTotS}}}}
+
+=== {{SoS}} ===
+{{Block Quote|text = Yennefer of Vengerberg, black-haired, dressed in black and white composition, brought to mind December morning.|citation = {{SoS}}}}
+
+=== {{TWotW}} ===
+[[File:Official promo artwork.jpg|thumb|334x334px|Official {{Tw3}} promo artwork by Marek Madej]]Yennefer assists Dandelion in writing "The Magic and Religions of the Continent", the third chapter of the compendium. Within the chapter, a fragment of records document her formative years as a student at Aretuza.
+: ''Adepts name: Yennefer''
+: ''Former name: Jenny''
+: ''After initial testing confirmed her magical talent, the adept was admitted to Aretuza's first class. The girl comes from a pathological family – her father abused her psychically and physically, and her mother failed to support her. This rejection and abuse were likely precipitated by the deformation of the girl's spinal column and scapula (she was a hunchback), or possibly by her mixed human-elven bloodline (she is quarter elvish, her mother a half blood).''
+: ''It was undoubtedly the lingering effects of these traumatic childhood experiences that drove her to attempt suicide soon after admission to our academy. The girl tried to cut open her forearm veins and ended up inflicting serious tendon damage (healer documentation attached for reference).''
+: ''Despite the above, the adept was personally recommended and very highly graded by the Chancellor of our Academy, Archmistress Tissaia de Vries. Her deformities and tendon trauma were corrected with use of higher magic during her first year, and her further eduction has fully vindicated the Chancellor's high opinion.''
+: ''Adept Yennefer is highly talented and determined student. Her results on subsequent exams have remained excellent.''
+
+== {{tw1}} ==
+Yennefer does not appear in the first game. During its events (year {{Year|canon=no|year=1271}}), Yen is 98 years old. However, she is indirectly mentioned on several occasions.
+* In the [[Outskirts Inn|Inn]] in the [[Outskirts]] of [[Vizima]], Geralt can talk to a bard, who tells him about [[Dandelion]], and about the ballads of the White Wolf Dandelion's sung. Among them the tale of how "Geralt married a sorceress and they live somewhere on the happy isles".
+* At the very beginning of Chapter III, Triss tells Geralt that "the last time (she) felt this way, (Geralt) and a sorceress were playing with a genie".
+* In Chapter III, talking to the butcher, near town hall, you can ask him " Do you recognize me? anything about me?" he answers " They say you chase anything in a skirt, but you're a real dog for sorceresses, Supposedly, you loved one once "
+* In Chapter IV, the innkeeper of the [[Country Inn]] at [[Murky Waters]] can tell a tale about Ciri. Near the end of it, he says that the sorceress loved the witcher and tried to revive him, but died in the process.
+* If Geralt chose Triss as Alvin's guardian in Chapter III, and if he answers king [[Foltest]] when questioned about their relationship that he really loves Triss, the update on the [[Identity]] - quest says, among other things: "My amnesia prevents me from remembering our relations in the past, but I have the impression I once loved a sorceress, deeply..."
+* In Witcher DLC "Side Effects" made by CD Projekt Red as part of The Witcher: Enhanced Edition, Dandelion asks Geralt during their second conversation in jail :" ...and what about you and Yennefer?" And Geralt says to him: " I don't want to talk about this."
+
+== {{tw2}} ==
+[[File:Yen_tw2.jpg|left|thumb|270px|Yennefer in The Witcher 2 (flashback)]]
+Yennefer appears in flashbacks in the second game.
+
+In an optional encounter at the very beginning of the game Geralt (still without his memory) meets the [[Crinfrid Reavers]] where they mention that they were intending to rape the sorceress and not him (during the events of {{SoD}}). Despite this they fail to remember her name believing her to be called "Connifer".
+
+In the end of the game it is revealed, that Yennefer is probably alive, but has amnesia like Geralt, and that she is located somewhere in [[Nilfgaard (city)|Nilfgaard]].
+
+Also, if the player decides to prevent [[Síle de Tansarville]] from being torn to bits, she will tell Geralt where to search for Yennefer.
+
+== {{TWBA}} ==
+[[File:Twba character model Yennefer.png|thumb|257x257px]]
+
+Yennefer was a playable hero in the now defunct MOBA, having been added with the Season 2 Update on 29 June 2015. Her alternative skin was called Ravenlord's Embrace and one of weapons was called Dark Moon weapon.
+
+{{Clear}}
+
+== {{tw3}} ==
+[[File:Tw3 journal yennefer.png|thumb|270px|left]]
+In the third game, Yennefer is one of the main characters, and is voiced by [[wikipedia:Denise Gough|Denise Gough]]. Her face was originally intended to be based on a 3D scan of Polish model Klaudia Wróbel,<ref>[https://web.archive.org/web/20190127171556/http://www.grynieznane.pl/2015/10/twarzy-yennefer-w-grze-wiedzmin-3.html Twarzy Yennefer w grze Wiedźmin 3 użyczyła polska modelka, Klaudia Wróbel]</ref> however after initial in-game tests, the developers decided to reshape the face in order to give Yennefer a colder and meaner look.<ref>[https://blooddragon.artstation.com/projects/XdrnL Yennefer face and hair concept by Paweł Mielniczuk]</ref> Her first appearance is in the opening cinematic, wherein she is escaping from a battle between Nilfgaardian and Northern forces. Having recovered most of her memory, she has agreed to the serve Emperor [[Emhyr]]'s interests in the hunt for Ciri. There is also a [[Alternative look for Yennefer|free DLC]] which gives Yennefer an alternative outfit.
+
+Yennefer had a [[Yennefer's letter|note]] delivered to the witcher Geralt of Rivia stating that she needed to meet him urgently. Yennefer had given them a location to meet her, however the village was destroyed forcing her to flee towards [[White Orchard]] where Geralt alongside another witcher [[Vesemir]] lost her trail. Unknown to the witchers, Yennefer had then gone to Vizima, however as they had asked the nearby Nilfgaardian garrison commander for information about her location, the captain informed Yennefer of this. Knowning the witcher would be [[Geralt of Rivia|Geralt]], Yennefer travelled to meet him immediately before taking him to Vizima to meet Emperor Emhyr var Emreis. En route, they are ambushed by the [[Wild Hunt]], who slay their Nilfgaardian escort, before Yennefer destroys a bridge to prevent the [[Red Riders]] from pursuing them.
+
+As it turned out Yennefer had learned from the emperor that Ciri had returned to this world and that the Wild Hunt was pursuing her. After Geralt's audience, Yennefer explained that she had been using all manner of spells and rituals to try and track Ciri, only to alert the Hunt to her efforts. Therefore, she decided to rely on more conventional methods by turning to the best tracker she knows. She agreed along with Geralt to search for [[Ciri]]. She decided that he would search [[Velen]] and Novigrad for her whilst deciding to investigate [[Skellige]] herself.
+[[File:yennefer-and-geralt.jpg|left|thumb|350px|While on Skellige]]
+Geralt later rendezvoused with Yennefer in Skellige during King [[Bran Tuirseach]]'s funeral, where she explained that she suspected Ciri to be behind a cataclysm on the eastern end of [[Ard Skellig]] but [[Ermion]], another of Ciri's tutors, refused to let her access the site, until they spoke with [[Crach an Craite]]. Afterwards, Yennefer and Geralt attended a wake at [[Kaer Trolde]], where they stole the [[Mask of Uroboros]], which possessed the ability to see the past events of the place it is viewed it. Upon arriving at the devastated area, they were confronted by Ermion, who warned them that it could only be used once and that using it will bring a cataclysm upon Skellige. As Geralt argued with Ermion, Yennefer went deeper into the devastated area and activated the mask, which caused a storm. Geralt ran to Yennefer and, using the mask's power, they found a place in the area where [[Avallac'h|the elven mage]] had disintegrated a member of the Wild Hunt, then opened a portal and fled with Ciri. Ermion arrived soon after, and the two told him what they have found out. Ermion revealed to them that the Wild Hunt was recently seen on [[Hindarsfjall]], so Geralt and Yennefer went there to investigate.
+
+Upon arriving to Hindarsfjall they went to the village of [[Lofoten]], where the women were performing a ritual. Yennefer and Geralt interrupted them and asked about the Wild Hunt and Ciri. They were told that Ciri has been in the village, and that she was seen with a man they referred to as Craven. The two of them were in the stables right before the Wild Hunt arrived and attacked the village, killing many of its inhabitants. When asked about Craven, the women said that he went to the [[Freya's Garden|sacred garden]] near the village to defeat [[Morkvarg]], some time after the incident, so Yennefer and Geralt went there to find him. In the garden, they found a body, and Yennefer decided to use [[necromancy]] to make it speak.
+
+The man's real name was [[Skjall]]. From what the body said, they learned that Ciri left with the elven mage on a boat as they were being chased by the Wild Hunt. Later on, [[Uma]] arrived on the same beach. After hearing the whole story, Yennefer forced the body to go back to its dead form. Yennefer's usage of necromancy drained all the magical power from the sacred garden, which the villagers of Lofoten didn't take lightly, and they blamed Yennefer and Geralt for not respecting their customs and beliefs. Still, Yennefer didn't care much about villagers' opinions, and she and Geralt ignored their claims. After leaving the garden, Yennefer asked Geralt to meet with her in [[Larvik]], another village on Hindarsfjall, if he wanted to help her with something.
+
+Geralt met Yennefer at the [[Tavern (Larvik)|inn]] of the village, where she told him she wanted to tame a [[djinn]] that belonged to a mage who sank his ship near Larvik harbor. They searched around the bay for the wreckage, until Geralt found a large crater on the bottom of the sea, and half of a seal inside it. He returned to Yennefer on the boat at the surface, and they concluded the mage asked the djinn to teleport him somewhere, which caused a part of the ocean's surface to teleport as well. Yennefer used the part of the seal to open a portal near the other half. Upon going through the portal, the two of them found themselves on top of a mountain, with the wreckage laying nearby.
+
+At this point, Yennefer confessed to Geralt that she needs a djinn to remove Geralt's last wish, which was to bind the two of them forever, so that she could see whether they truly love each other or if they are together because of the magical bond. The player can decide how Geralt would feel about this. Going through the wreckage, they found the other half. Yennefer connected the pieces which summoned the djinn. After a battle, they tamed it, and Yennefer commanded the djinn to remove the magic between her and Geralt. After this, they decided to sit on the edge of the ship, and Yennefer confessed to Geralt that she still has feelings for him. At this point, the player can decide whether Geralt also keeps his feelings for Yennefer or if he is no longer in love with her. This choice doesn't affect gameplay as much, but it is crucial to the ending itself, and Geralt's fate.
+
+After sitting some time on the edge of the ship, Yennefer opened a portal to her room at the Kaer Trolde inn, and they returned there. They knew Uma (also known as 'the ugliest man alive') was somehow important to finding Ciri, and assumed that it is probably a human, but under a curse. Yennefer decided to go to Vizima to report to the emperor, while Geralt went off to get Uma. Afterwards, they were to rendezvous at [[Kaer Morhen]] and decide what to do with the cursed being.
+
+As Geralt was on his way to Kaer Morhen with Uma, he was intercepted by Nilfgaardian soldiers, and brought to Vizima to report to Emhyr himself. Yennefer was also there, and the two of them explained to the emperor what they found out and what their plans were. Afterwards, Yennefer teleported to Kaer Morhen, while Geralt went there on his horse with Uma. Upon arrival, she started ordering everyone around, ordering Eskel to collect [[forktail]] spinal fluid and for Lambert to imbue the phylactery with Power from the [[Circle of Elements]].
+
+Subsequently, she attempts to contact [[Ida Emean aep Sivney|Ida Emean]] via megascope but some interference cause her three separate megascope crystals to explode. When Geralt arrives, she has him search for the source of the interference, which turns out to be [[dimeritium bomb]]s created by Lambert, which Yennefer suspected he planted out of spite. With that out of the way, Yennefer successfully contacted Ida, who translated the Elder speech riddle to be as old as the [[Aen Undod]].
+
+In order to lift the curse, Yennefer reveals that she intends to put Uma through the first half of the [[Trial of the Grasses]] and to use a prolonged magical treatment on Uma to reconstruct his original body piece by piece. Using the phylactery Ciri had repaired, they were able to contain the curse. Uma is revealed to be a transformed [[Avallac'h]], the elven Sage who helped Ciri, who revealed where their young ward was hidden.
+
+Yennefer was finally reunited with Ciri after so many years, but the happy reunion was short-lived, as the Wild Hunt descended on Kaer Morhen. Yennefer participated in the battle by putting up a magic barrier to force the Hunt's navigators to open portals outside the fortress.
+
+In the aftermath of the battle, Yennefer decided that they needed to reunite the Lodge of Sorceresses and managed to work out a deal with Emhyr, with the promise of amnesty and asylum for the Lodge if they help defeat the Hunt. She and Triss traveled to [[Novigrad]] to search for [[Margarita Laux-Antille]] and [[Philippa Eilhart]] respectively.
+
+Yennefer later met with Geralt at [[Crippled Kate's]] to wait for the one man who escaped [[Deireadh prison]], who then panicked, assuming the both of them to be bandits and ran off. They managed to catch up with him and clear up the misunderstanding. Returning to Kate's, the escapee explained that his knowledge of herbs enabled him to use mushrooms growing inside his cell and belladonna to fake his death, tricking the witch hunters into throwing him into the corpse pit, which led to the sewers.
+
+Yennefer then devised a plan for Geralt to infiltrate Deireadh through Oxenfurt's underground elven ruins and provided him with a device to signal her to teleport in once he had found Margarita. However, she could only teleport Margarita out, forcing Geralt to find another way out on his own.
+
+=== Developer comments ===
+{{Block Quote|text = The sorceress Yennefer of Vengerberg - a one-time member of the Lodge of Sorceresses, Geralt's love, and teacher and adoptive mother to Ciri - is without a doubt one of the two key female characters appearing in the Witcher books and games.
+The books provided our artists with a greate deal of detailed information about Yennefer's appearance, including everything from her hairstyle, figure, and height to the color of her eyes and hair to such nuances as the shape of her face and nose. All of these traits were considered while drawing the concepts and creating the model for this sorceress.|citation = ''[[The Witcher 3: Wild Hunt Artbook]]''}}
+
+=== Associated Quests ===
+
+<div class="divTable" style="width:100%;">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell" style="width:33%;">
+* [[Kaer Morhen (quest)|Kaer Morhen]]
+* [[Lilac and Gooseberries]]
+* [[Imperial Audience]]
+* [[The Nilfgaardian Connection]]
+* [[Pyres of Novigrad]]
+* [[To Bait a Forktail...]]
+* [[Battle Preparations]]
+* [[Destination: Skellige]]
+* [[The Incident at White Orchard]]
+</div>
+<div class="divTableCell" style="width:34%;">
+* [[Be It Ever So Humble...]] {{BAW icon}} (dependent)
+* [[Disturbance]]
+* [[Echoes of the Past]]
+* [[Final Preparations]]
+* [[The Final Trial]]
+* [[The Great Escape]]
+* [[It Takes Three to Tango]]
+* [[Blood on the Battlefield]]
+</div>
+<div class="divTableCell" style="width:33%;">
+* [[The King is Dead – Long Live the King]]
+* [[The Last Wish (quest)|The Last Wish]]
+* [[Missing Persons]]
+* [[Nameless]]
+* [[Ugly Baby]]
+* [[Va Fail, Elaine]]
+* [[Veni Vidi Vigo]]
+* [[Something Ends, Something Begins (quest)|Something Ends, Something Begins]] (dependent)
+</div></div></div>
+</div>
+
+=== Journal Entry ===
+:''The witcher first met the raven-haired sorceress a good twenty years back. Their friendship and feelings between them were born of a common adventure involving a genie and a wish granted to Geralt that intertwined their fates inextricably.''
+:''In the time since then their relationship had, however, been quite stormy - rich in ups and downs, crises and break-ups. Geralt and Yennefer's love provides irrefutable proof that "opposites attract."''
+:''A few years ago Geralt and Yennefer had, after a long separation full of adventures for them both, gotten back together again. Their moment of repose was interrupted by the Wild Hunt, which took Yennefer captive. The witcher set out at once to save her, but lost his memory while doing so. When he finally recovered it, he immediately set off once more on his quest to find his beloved sorceress.''
+:''The circumstances of Geralt's initial reunion with Yennefer after two years were quite different than he had imagined. The sorceress was not only safe and sound, but had even secured the aid of an unexpected and mighty ally - the Nilfgaardian Empire.''
+:'''If Geralt romances Yennefer in Skellige'''
+::''A thick air of repressed hostility reigned during Geralt's time with Yennefer in Skellige. More than once the sorceress sharply expressed her displeasure, sparing no cutting remark - just like during the best years of their relationship. In the end, however, the witcher's patience was rewarded, and their expedition to retrieve the mask of Uroboros brought the former lovers back together.''
+::''The gulf that had arisen between them during their time of seperation seemed that much narrower.''
+:''In order to obtain the information they needed Yennefer did not hesitate to resort to necromancy, and destroyed the goddess Freya's garden while doing so. If the proud sorceress felt any guilt as a result,as usual she showed no sign of it.''
+:'''If Geralt helps Yennefer in The Last Wish '''
+::''The idea of hunting another genie together did not at first arouse Geralt's enthusiasm, but Yennefer had a truly valid reason for wanting it. If she succeeded in forcing the genie to take back the wish binding her to the witcher, she would finally know if the feelings between them were truly love or merely magic.''
+:'''If Geralt tells Yennefer he loves her in The Last Wish'''
+::''The genie granted Yennefer's request and broke the thread of destiny binding her to Geralt. Luckily it turned out their love could continue—without the need for supernatural assistance.''
+:''Though the sorceresses' difficult character had made life miserable for everyone at Kaer Morhen, in the end it was her stubborn determination that led to Uma's disenchantment and lifting of Avallac'h's curse.''
+:''Yennefer had always felt some ends justified otherwise unsavoury means. When it became clear rescuing Ciri would require the help of Philippa Eilhart and the other sorceresses of the reviled Lodge, she forgot about any bad blood and convinced Emhyr to grant them amnesty.''
+
+=== Cinematic ===
+[[File:The Witcher 3- Wild Hunt "The Trail" Opening Cinematic|centre|thumb|480x480px]]
+
+== Notes ==
+* Both Ciri and Yennefer were born on Belleteyn - In The Voice of Reason Geralt thinks that's an interesting coincidence.
+* In ''[[The Hexer (TV series)|The Hexer]]'' TV series, she appears in 2 episodes, "[[Smok (episode)|Smok]]" and "[[Okruch lodu (episode)|Okruch lodu]]".
+
+== Gallery ==
+<gallery>
+Yen eurogamer 1.jpg|Concept art for ''The Witcher 3''
+Yen eurogamer 2.jpg|Concept art for ''The Witcher 3''
+Bartlomiej-gawel-yen1.jpg|Concept art for ''The Witcher 3''
+Bartlomiej-gawel-yen4.jpg|Concept art for ''The Witcher 3''
+Yennefer from Vengerberg badass artwork.jpg|Promotional artwork for ''The Witcher 3''
+A1.jpg|Work in progress model of Yennefer's face for TW3, based on Klaudia Wróbel
+Yen face eurogamer 2.jpg|Work in progress model of Yennefer's face for TW3, based on Klaudia Wróbel
+Yen face eurogamer 1.jpg|Work in progress model of Yennefer's face for TW3
+Yen face eurogamer 3.jpg|Work in progress model of Yennefer's face for TW3
+The Witcher 3 Wild Hunt-Yennefer.jpg|Promotional poster for ''The Witcher 3''
+Tw3 yennefer pawel mielniczuk.jpg|Render for ''The Witcher 3''
+Tw3 concept art Alternative Look for Yennefer.jpg|Concept art in her alternative outfit DLC for ''The Witcher 3''
+Yennefer alternate outfit.jpg|[[Alternative look for Yennefer]] in ''The Witcher 3''
+Yennefer Thelastwish.jpg|Yennefer during ''The Last Wish''
+Gwent cardart neutral yennefer divination.jpg|Gwent card art in ''The Witcher 3'' and {{Gwent standalone}} as ''Yennefer: Divination''
+Gwent cardart neutral yennefer conjurer.jpg|Gwent card art in ''The Witcher 3'' and {{Gwent standalone}} as ''Yennefer: Conjurer''
+Gwent cardart neutral yennefer.jpg|Card art in {{Gwent standalone}} as: ''Yennefer''
+Gwent cardart nilfgaard yennefer enchantress.jpg|Card art in {{Gwent standalone}} as: ''Yennefer: Enchantress''
+Tw Curse of Crows Yennefer.png|Yennefer in ''The Witcher: Curse of Crows'' comics
+Tw Killing Monster Yennefer.png|Yennefer in ''The Witcher: Killing Monsters'' comics
+TW2 Yen.jpg|Yennefer trying to heal Geralt during the Rivian Pogrom, from a flashback cutscene in ''The Witcher 2''
+Yennefer artwork2.png|Yennefer captured by Eredin, from a flashback cutscene in ''The Witcher 2''
+Yennefer.jpg|Yennefer in the old graphic novels
+Yennefer tv series.jpg|Yennefer in ''The Hexer''
+Yennefer z filmu.jpg|Yennefer in ''The Hexer'' movie and TV show
+Yeneffer TW-OFAF.png|Yennefer in ''[[The Witcher: Of Flesh and Flame]]''
+</gallery>
+
+== Footnotes ==
+<references group="N"/>
+
+==References==
+<references />
+
+== External Links ==
+*{{Gwent|Yennefer}}
+[[ar:ينيفر من فنغربرغ]]
+[[cs:Yennefer]]
+[[de:Yennefer]]
+[[el:Γέννεφερ]]
+[[es:Yennefer de Vengerberg]]
+[[fr:Yennefer]]
+[[hu:Yennefer]]
+[[it:Yennefer]]
+[[lt:Jenefer]]
+[[nl:Yennefer van Vengerberg]]
+[[pl:Yennefer]]
+[[pt-br:Yennefer de Vengerberg]]
+[[ru:Йеннифэр]]
+[[sr:Јенефер]]
+[[uk:Йеннефер]]
+[[vi:Yennefer]]
+[[zh:葉妮芙]]
+[[Category:Characters in the comics]]
+[[Category:The Hexer characters]]
+[[Category:Quarter-elves]]
+[[Category:Mages]]
+[[Category:The Last Wish characters]]
+[[Category:Sword of Destiny characters]]
+[[Category:Blood of Elves characters]]
+[[Category:Time of Contempt characters]]
+[[Category:Baptism of Fire characters]]
+[[Category:The Tower of the Swallow characters]]
+[[Category:The Lady of the Lake characters]]
+[[Category:Something Ends, Something Begins characters]]
+[[Category:Season of Storms characters]]
+[[Category:The Witcher mentioned-only characters]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 3 characters]]
+[[Category:The Witcher Battle Arena characters]]
+[[Category:Blood and Wine characters]]
+[[Category:Thronebreaker mentioned-only characters]]

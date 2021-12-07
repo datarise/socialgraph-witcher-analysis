@@ -1,0 +1,25 @@
+{{Infobox Character
+|Image = Tw2 journal Succubus censored.png
+|Gender = Female
+|Eye_color = Brown
+|Hair_color = Brown
+|Name = Succubus
+|Race = [[Succubus]]
+}}'''Succubus''', inhabiting underground place near [[Vergen]], is a secondary character in {{Tw2}}. She appears only during the quest [[With Flickering Heart]]. Depending on Geralt's choices he will either slay her or clear her name of accusations sparing her and earning her gratitude which she will show in a traditional succubine way.
+
+== Journal Entry ==
+:''The torched village near Vergen proved to be the home of a real succubus. This beautiful creature, possessing hooves instead of feet, drew handsome young men to it in order to seduce them and feed on their life forces. The seductress was accused of brutally murdering many young men, and the accusation seemed to be solid. For you must know that the unpleasant scent of sulfur is not the sole inconvenience one must endure when encountering succubi, which can be as dangerous as vampires.''
+:'''If Geralt chooses to side with [[Ele'yas]] during Chapter II - With Flickering Heart:'''
+::''Geralt investigated the murders and concluded that the succubus was indeed guilty of the murders of which it was accused. The witcher had no choice but to slay the dangerous, though intensely beautiful, creature.''
+:'''If Geralt chooses to side with the Succubus during Chapter II - With Flickering Heart:'''
+::''Geralt investigated the murders thoroughly. He concluded that the succubus was innocent and that it was being framed by a jealous lover. The witcher cleared the seductress of the charges, and she proceeded to thank him for it in her customary, beautiful manner.''
+
+== Associated Quest ==
+* [[With Flickering Heart]]
+
+[[es:Súcubo (Vergen)]]
+[[pl:Sukkub z Vergen]]
+[[ru:Суккуб (Верген)]]
+[[Category:Succubi]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]

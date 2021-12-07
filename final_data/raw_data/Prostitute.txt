@@ -1,0 +1,79 @@
+{{Infobox Occupation
+|Image = Tw3 prostitue.png
+|Wages = Variable, tend to decrease with age
+|Qualities = Sociability, anatomical knowledge, high interpersonal skills
+|Description = Generally providing sex but can also just provide companionship services
+|Conditions = Variable, ranging from streets to luxury houses such as Passiflora
+|Benefits = Meeting with lots of new interesting people
+|Drawbacks = Meeting with lots of new interesting people
+|Name = Prostitute}}
+'''Prostitution''' flourishes in the world of {{Tw1}}. There are a number of [[:Category:Brothels|brothels]] in all three ''Witcher'' video games and [[Geralt of Rivia|Geralt]] is always ready to use those when he happens to be nearby.
+
+== {{Tw1}} ==
+There are several '''prostitutes''' to be found in the [[Temple Quarter]], while higher class companionship can be found with the [[courtesans]] in the [[Trade Quarter]]. One is near [[Golan Vivaldi]]'s house, one is on the [[Dike]], and another is walking around near [[Ramsmeat's place]], to name but a few. Their [[Eager Thighs brothel|brothel]] madame is [[Carmen]]. The services of all the prostitutes can be had by paying (obviously) around two hundred and fifty {{Oren}}. All the hookers have the same sex card, so there is no need to get intimate with each of them to collect all the different sex cards available in the game.
+
+:'''Note:''' The prostitutes will no longer be willing to "service" Geralt if he supports the [[Scoia'tael|Squirrels]] in the [[Gold Rush]] quest.
+
+When Geralt completes the [[Working Girls]] quest and if he chooses not to accept cash payment, instead telling Carmen that he is "no materialist", the girls will provide their services in exchange for a bouquet of [[Flowers|flowers]]. If he takes the cash reward, then he will only receive a discount on the their services, one hundred and ten {{Oren}} for a date.
+
+Their calls of ''"like the look of me?"'' and ''"yoo-hoo"'' can often be heard while strolling through the Temple Quarter.
+
+=== [[The Witcher journal|Journal]] Entry ===
+:''"Vizima's Temple Quarter offers joys aplenty to those who can afford them."''
+
+== {{Tw2}} ==
+=== Notable prostitutes ===
+* [[Derae]]
+* [[Flotsam brothel]]
+** [[Margot]] (madame)
+** [[Arnesse]]
+** [[Julia (prostitute)|Julia]]
+** Maria
+* [[Kaedweni brothel]]
+** [[Madame Carole]] (madame)
+** [[Arseleta]]
+** [[Birdie]]
+** [[Big Bust Miriam]]
+** [[Licking Lucy]]
+** [[Whistling Wendy]]
+
+== {{Tw3}} ==
+=== Notable prostitutes ===
+* [[Passiflora]]
+** [[Marquise Serenity]] (madame)
+** [[Amrynn]]
+** [[Narcissa]]
+** [[Viola]]
+* [[Crippled Kate's]]
+** [[Madame (Crippled Kate's)|Madame]] (madame)
+** [[Bertha]]
+** [[Mercia]]
+** [[Suzy]]
+** [[Sweet Nettie]]
+* [[The Belles of Beauclair]] {{BAW icon}}
+** [[Madame Isabelle]] (madame)
+** [[Madeleine]]
+
+== Gallery ==
+<gallery>
+People Prostitutes.png|Prostitutes journal image.
+Romance_Prostitutes_censored.png|Censored sex card.
+People Prostitutes full.png|Hooker
+Tw2 prostitute render 1.jpg|Render of The Witcher 2 prostitute
+Tw2 prostitute render 2.jpg|Render of The Witcher 2 prostitute
+</gallery>
+
+[[cs:Prostitutky]]
+[[de:Prostituierte]]
+[[es:Prostitutas]]
+[[fr:Prostituées]]
+[[hu:Prostituáltak]]
+[[it:Prostitute]]
+[[pl:Prostytutki]]
+[[ru:Проститутка]]
+[[Category:Romance cards]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:Occupations]]

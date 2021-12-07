@@ -1,0 +1,23 @@
+{{Infobox Character
+|Image =Tw3 old sage.png
+|Name = {{Gwent Player}} {{PAGENAME}}
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Blue
+|Hair_color =White
+|Profession =[[:Category:Soothsayers|Soothsayer]]
+|Appears_games ={{Tw3}}
+|Nationality = {{Temerian}}}}
+'''Old Sage''' was a soothsayer living in [[Benek]] who got his seer abilities in his youth when he got hit in the back of the head with a rock. However, his gift doesn't let him see what would help him win at [[gwent]] but, despite this, he's considered one of [[Velen]]'s best [[gwent]] players.
+
+He uses the [[Monsters Gwent deck|Monsters deck]] and if beaten he gives the [[Crone: Weavess (gwent card)|Crone: Weavess card]] as a reward.
+
+== Associated Quests ==
+* [[Gwent: Velen Players]]
+* [[The Truth is in the Stars]]
+==Trivia==
+*The joke the old sage told about falling into a witch's magical brew as a child before getting his visions could be a reference to Obelix from ''Asterix and Obelix ''comic series, who fell into his village druid's brew of potion as a baby which made him inhumanly strong.
+[[ru:Прорицатель]]
+[[Category:Humans]]
+[[Category:Soothsayers]]
+[[Category:The Witcher 3 characters]]

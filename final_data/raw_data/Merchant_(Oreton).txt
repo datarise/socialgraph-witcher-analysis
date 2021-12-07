@@ -1,0 +1,16 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Witcher3-oreton merchant.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color =Green 
+|Hair_color =Brown 
+|Profession = [[Merchant]]
+|Appears_games = {{Tw3}}
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant}}The '''Merchant''' in [[Oreton]] is a [[Gwent]] player. He plays with the [[Northern Realms Gwent deck|Northern Realms deck]]. He mostly sells [[Junk|junk items]] but does sell [[saddlebags]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Rudnik)]]

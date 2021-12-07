@@ -1,0 +1,28 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} {{Gwent Player}} Blacksmith
+|Image = Tw3 blacksmith fayrlund.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Light brown
+|Hair_color = Bald {{Small|text=brown moustache}}
+|Profession = [[Blacksmith]] {{Small|text=amateur}}
+|Nationality = {{Skelliger}}
+|Appears_games = {{Tw3}}
+}}
+This '''blacksmith''' was a [[Skellige]]r who lived in [[Fayrlund]].
+
+He loved to play [[gwent]], using the [[Monsters Gwent deck|Monsters deck]].
+
+==Biography==
+In {{Year|year=1272|canon=no}}, he was captured by bandits who imprisoned him at the foot of the cliff below Fayrlund.
+
+{{Condition|Text=If Geralt saved him}} [[Geralt of Rivia]] saved him from his cage, and after a day, the blacksmith was back to business in the village, he was able to sell a unique [[crossbow]], [[:Category:The Witcher 3 weapons|swords]], [[Runestone|runestones]], [[The Witcher 3 crafting components|crafting components]] and also some [[:Category: The Witcher 3 crafting diagrams|diagrams]].
+
+== Associated Quest ==
+* [[Person(s) in distress]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Ferlund)]]

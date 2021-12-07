@@ -1,0 +1,50 @@
+{{Infobox Character 
+|Image = Tw2_journal_Brigida.png
+|Race = [[Human]]
+|Gender = Female
+|Affiliations = [[Blue Stripes]]
+|Profession = Informant
+|Abilities = 
+|Appears_games = {{Tw2}}
+|Nationality = {{Temerian}}
+|Hair_color = Blonde
+|Eye_color = Blue
+|Family = [[Papebrock family]]
+|COA = COA Papebrock.png}}'''Brigida Papebrock''' was the 30 year old informant of the [[Blue Stripes]] commander, [[Vernon Roche]].
+
+Brigida came from the [[Temeria]]n [[Papebrock family]] and was formerly a lady-in-waiting of the Temerian court before she discovered the reasons behind the disappearance of [[Foltest]]'s bastard son, [[Boussy La Valette|Boussy]].
+
+== Journal Entry ==
+: ''A none too significant figure, Brigida Papebrock was a minor courtier who had the fortune or misfortune, depending on how one looks at it, to meet Vernon Roche. Though she lacked powerful friends, connections and patrons, she nevertheless managed to become embroiled in matters far beyond her capabilities. Brigida would surely have become the victim of a political murder if not for the help of the [[witcher]], who agreed to escort her out of [[Loc Muinne]].''
+: ''Brigida was unique in that she was the only adult to have survived the attack on the convoy transporting Foltest's children to Loc Muinne. Thus, she had witnessed the events leading to Boussy's disappearance.''
+: '''If Geralt fails to safely delivery Brigida (the quest fails):'''
+:: ''Yet the witcher proved a poor bodyguard. He failed to lead Brigida to safety, and the young woman perished at the hands of hired assassins.''
+
+== Associated Quests ==
+* [[Lilies and Vipers]]
+* [[Crown Witness]]
+
+==Trivia ==
+*She shares the same first name with her Polish voice actress, Brygida Turowska-Szymczak.
+
+== Notes ==
+* She wasn't originally in {{Tw2}} and only added in later with the [[The Witcher 2: Enhanced Edition|Enhanced Edition]].
+
+== Videos ==
+<gallery position="center">
+File:Brigida_Papebrock_'Second_Ves'_(Witcher_2)_Full_HD
+</gallery>
+
+== Gallery ==
+<gallery>
+Tw2 brigida papebrock.jpg
+Tw2ee_brigida_papebrock.png
+</gallery>
+
+[[pl:Brygida Papebrock]]
+[[de:Brigida Papebrock]]
+[[it:Brigida Papebrock]]
+[[ru:Бригида Пепеброк]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:Humans]]

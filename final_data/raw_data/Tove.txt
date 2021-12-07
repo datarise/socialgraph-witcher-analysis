@@ -1,0 +1,23 @@
+{{Infobox Character
+|Name = Tove
+|Image = Tw3 tove.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Brown
+|Partner = Dagur {{Small|text=husband}}
+|Children = Kvile {{Small|text=son}}
+|Nationality = {{Skelliger}}
+|Appears_games = {{Tw3}}
+|Hair_color = Brown (eyebrows)
+|Relative = Unnamed brother}}'''Tove''' was a [[Skellige]]r who lived around [[Kaer Trolde Harbor]] in {{Year|canon = no|year = 1272}}. She'd once been married and had a son, but her husband was attacked one night out on the cliffs while trying to find their son, who'd sadly met the same fate, dying at the hands of a strong [[water hag]], [[Abaya]].
+
+== Associated Quest ==
+* [[Contract: Muire D'yaeblen]]
+
+== Notes ==
+* In-game, the floating text only names her as "Skellige Woman".
+*Tove's head scarf is a traditional Scottish "tartan" belonging to the MacArthur clan.
+
+[[ru:Туве]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

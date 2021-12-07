@@ -1,0 +1,16 @@
+{{Infobox_Character
+|Image = Tw3 Porter (Putrid Grove).jpeg
+|Hair_color = Black
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Novigradian}}
+|Profession = Porter
+|Affiliations = [[Blindeyes]]
+|Relative = Unnamed sister<br>Unnamed brother-in-law
+|Appears_games = {{Tw3}}
+|Eye_color = Brown}}The '''porter''' was a man in the service of [[Francis Bedlam]], better known as the ''King of Beggars'', working in [[Putrid Grove]], where he was tasked with guarding the main gate to greet the guests and send away the intruders.
+
+== Notes ==
+*According to him, in {{Year|canon=no|year=1267}} he killed his brother-in-law for being too curious.
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]

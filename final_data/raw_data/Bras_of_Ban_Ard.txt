@@ -1,0 +1,31 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw2_journal_Braszbanard.png
+|Hair_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Kaedwenian}}
+|Profession = [[Craftsman]]<br>[[Mage]]<br>[[Merchant]]
+|Abilities = [[Magic]]
+|Appears_games = {{Tw2}}
+}}{{Stub}}
+'''Bras of Ban Ard''' was a [[The Witcher 2 merchants|merchant]], [[craftsman]], and [[The Witcher 2 dice poker|dice poker player]] who can be found east of the [[notice board]] in [[Loc Muinne]] during chapter III.
+
+== Journal Entry ==
+:''[[Human]] [[Sorcerer|sorcerers]] have been fascinated with [[Loc Muinne]] from the very beginning, and Bras of [[Ban Ard]] was one of the many who wanted to fathom its mysteries. During his travels and research, he had come into possession of several quite interesting weapons. He sold these to any whose pouch was deep enough to cover the expense.''
+
+== Associated Quests ==
+* [[An Encrypted Manuscript]]
+* [[The Gargoyle Contract]]
+* [[From a Bygone Era]]
+
+[[de:Bras von Ban Ard]]
+[[fr:Braz de Ban Ard]]
+[[it:Bras di Ban Ard]]
+[[pl:Bras z Ban Ard]]
+[[ru:Брас из Бан Арда]]
+[[Category:Humans]]
+[[Category:Mages]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter III]]

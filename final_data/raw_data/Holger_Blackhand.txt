@@ -1,0 +1,40 @@
+{{Infobox Character
+|Image = Tw3 journal holger blackhand.png
+|Hair_color = Black
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|COA = Tw3 dimun shield.png
+|Titles = Jarl of [[Faroe]]
+|Family = [[Clan Dimun]]
+|Relative = [[Halbjorn]] {{Small|text=son}}
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = ONWAAAAARD!|citation = Holger's war cry, {{Tw3}}|audio = Holger voice line.ogg}}
+
+'''Holger Blackhand''' was the jarl of [[Faroe]], and the leader of [[Clan Dimun]].
+
+== Journal Entry ==
+: ''The dour-faced jarl of Faroe owed his nickname to the dark coloring of his hand and forearm, left there by frostbite he suffered when his longship hit an underwater boulder during a freak autumn blizzard.''
+: ''Even judging by [[Skellige]] standards, where pillaging and plundering are practically rites of passage, Holger was considered a brutal pirate and raider. This opinion surely resulted from the fact that he attacked the villages and ships of enemy Skellige clans with as much nerve as he did the coastal settlements of [[Cidaris]], [[Novigrad]] and [[Nilfgaardian Empire|Nilfgaard]].''
+
+== Associated Quests ==
+* [[A Hallowed Horn]]
+* [[The King is Dead – Long Live the King]]
+
+== Gallery ==
+<gallery>
+Holger-blackhand-1.jpg
+Holger-blackhand-2.jpg
+Tw3 cardart skellige holger blackhand.png|Gwent card art
+</gallery>
+
+== External Links ==
+*{{Gwent|Holger Blackhand}}
+
+[[ar:هولغر ذو اليد السوداء]]
+[[pl:Holger Czarna Ręka]]
+[[ru:Хольгер Чернорук]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

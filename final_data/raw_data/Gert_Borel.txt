@@ -1,0 +1,22 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = 
+|Image = <gallery>
+Tw3 gert borel.png|Normal
+Tw3 gert borel infected.png|Infected
+</gallery>
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = Corpse collector
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+'''Gert Borel''' was a peasant that hauled [[Catriona plague|plague]] victims' bodies as he was confident he was immune to it considering all his life he never got sick. However, later on he was found wandering the battlefields of southern [[Velen]] (near a burned-out settlement east of [[Reardon Manor]]), begging for death, having come down with the plague himself. [[Geralt of Rivia|Geralt]] can choose to end his suffering and burn his body.
+
+== Associated Quest ==
+* [[Hazardous Goods]]
+
+[[ru:Герт Борель]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

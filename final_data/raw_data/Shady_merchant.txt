@@ -1,0 +1,31 @@
+{{Infobox Character
+|Image =Tw3 shady merchant.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Brown
+|Profession =Counterfeiter
+|Nationality =
+|Family =
+|Appears_games ={{Tw3}}
+|Relative = [[Albin Hart]] {{Small|text=brother-in-law}}<br>
+Unnamed sister}}'''Shady merchant''' was an unnamed man located on the [[Velen]] side of the [[Border Post]] in {{Year|canon=no|year=1272}}, where he made and sold counterfeit [[Transit pass|transit passes]] for refugees looking to cross over to [[Redania]]. Even though this was technically illegal, the nearby guards knew about this and even made hints to others that there were other ways to obtain a pass.
+
+{{Condition|Text = If Geralt talks to him}} he'll offer [[Geralt of Rivia|Geralt]] a pass for 100 {{Crown}}. If the [[witcher]] balked at it, he then offered a discount if the witcher would help his brother-in-law, [[Albin Hart]].
+
+{{Condition|Text = If Geralt helps Albin and he survives}} pleased, the merchant then offered to sell the pass to Geralt for 25 {{Crown}}.
+
+{{Condition|Text = If Geralt helps Albin but he dies}} upset over this, the merchant refused to do anymore business with Geralt.
+
+== Associated Quest ==
+* [[Fake Papers]]
+
+== Notes ==
+* The merchant can give 3 different prices for the pass:
+** 100 {{Crown}} for full price
+** 50 {{Crown}} if [[Axii]] is used successfully
+** 25 {{Crown}} if his brother-in-law is helped and survived
+
+[[tr:Şüpheli tüccar]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

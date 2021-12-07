@@ -1,0 +1,25 @@
+{{Infobox Character
+|Image =Tw3 kluhg.png 
+|Aka = 
+|Hair_color =Brown 
+|Eye_color =Brown 
+|Race = [[Human]]
+|Gender = Male
+|Profession = Smuggler
+|Affiliations = 
+|Appears_games = {{Tw3}}
+}}'''Kluhg''' was a smuggler operating in [[Novigrad]] in {{Year|canon=no|year=1272}}.
+
+== Biography ==
+At one point, he was detained and interrogated by the commander of the [[Temple Guard]], [[Caleb Menge]], but was later released. However, this event caused him to become rather forgetful while also developing a bit of a persecution complex.
+
+While in hiding, [[Triss Merigold]] ordered [[magic incense]] from Kluhg to smoke out the [[rat]]s from a warehouse she had been hired to clear. However, on his way to make the delivery, Kluhg became nervous as he passed some Temple Guards and dropped the contraband into the canal. When questioned by the guards, he claimed that the sack contained a dead cat and the guards bought it, leaving him be. Later at his hideout, Triss came by to collect her package with [[Geralt of Rivia|Geralt]] in toll and he relayed the story to her, leaving it to Geralt to go fish the [[Leather sack|sack]] out of the canal.
+
+As they finished talking though, he heard Temple Guards approaching and thought they'd been found, but the guards just happened to be passing by and were none the wiser about the group inside the home. However, as it wasn't safe to exit through the main door with them outside, he then had Triss and Geralt exit through the trapdoor in the hideout instead.
+
+== Associated Quest ==
+*[[Pyres of Novigrad]]
+
+[[ru:Умник]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

@@ -1,0 +1,30 @@
+{{Infobox_Character
+|Name = Mason Harn
+|Image = People_Mason_Harn.png
+|Hair_color = Brown
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = Mason
+|Children = [[Pat]] {{Small|text=son}}
+|Appears_games = {{Tw1}}}}'''Harn''' is the village mason with not the best reputation. [[Geralt of Rivia|Geralt]] meets him one day while strolling the area near the village of [[Murky Waters]]. He is having a great deal of difficulty repairing the bridge. He and his son, [[Pat]], work on it all day, every day, but each night the Griggs undo all their hard work. What to do?
+
+He says that he has been having dreams in which ghosts who haunt the bridge have asked him to rebuild it. Since it has fallen into disrepair, they can not rest.
+
+== Associated Quest ==
+* [[Small Problems]]
+
+== Videos ==
+<gallery position="center">
+File:Griggs_Small_Problems
+</gallery>
+
+[[cs:Harn]]
+[[de:Han, der Maurer]]
+[[fr:Mason Harn]]
+[[hu:Kőműves Harn]]
+[[pl:Harn]]
+[[it:Mason Harn]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]

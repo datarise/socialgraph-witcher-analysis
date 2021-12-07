@@ -1,0 +1,16 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 Bytomir.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Graying black
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+
+'''Bytomir''' was one of the surviving villagers in [[Byways]], the [[Velen]] village terrorized by the [[vampire]] called [[Sarasti]].
+
+== Associated Quest ==
+* [[Contract: The Mystery of the Byways Murders]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

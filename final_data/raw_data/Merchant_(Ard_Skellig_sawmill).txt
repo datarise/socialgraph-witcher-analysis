@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{Shopkeep}} Merchant 
+|Image =Tw3 merchant sawmill ard skellig.png 
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Blue
+|Hair_color = Dark gray
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}}}
+This merchant appears if the [[Sawmill (Ard Skellig)|abandoned site]] in [[Ard Skellig]] is cleared out. He sells numerous things such as [[The Witcher 3 crafting components|crafting components]] and several crafting diagrams.
+
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]
+
+[[pl:Kupiec (Tartak przy Rannvaig)]]

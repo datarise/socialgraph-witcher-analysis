@@ -1,0 +1,146 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Gwent cardart northern king demavend III.jpg
+|Status = Deceased {{Small|text=games}}
+|Aka = Demawend<ref name="boe">{{BoE}}</ref><br>Demaewn<ref name="TW2">{{Tw2}}</ref>
+|Hair_color = Grey<ref>''[https://www.youtube.com/watch?v=NB_1hGDuG58 The Witcher 2 World of The Witcher]'' trailer</ref>
+|Eye_color = Emerald<ref name="G" />
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Aedirnian}}
+|COA = COA Aedirn.svg
+|Titles = [[King]] of [[Aedirn]]<br>Protector of [[Upper Aedirn]]<ref>''[[The Witcher 2: Assassins of Kings Artbook]]''</ref><br>Protector of [[Pontar Valley]]<ref name="TW2" /><br>Sovereign of [[Dol Blathanna]]
+|Family = [[Aedirnian Dynasty]]
+|Parents = [[Virfuril]] {{Small|text=father}}
+|Partner = Unnamed wife<br>[[Demaretta of Gulet]] {{Small|text=lover}}<ref name="TB"/>
+|Children = [[Stennis]] {{Small|text=son}}<ref name="TW2"/><br>[[Baldwin of Gulet|Baldwin]] {{Small|text= illegitimate son}}<ref name="TB">{{TB}}</ref>
+|Relative = [[Esterad Thyssen]] {{Small|text=second cousin}}<br>[[Meve]] {{Small|text=cousin, unknown degree}}<ref name="TB"/>
+|Appears_books = {{BoE}}<br>{{ToC}}<br>{{BoF}}<br>{{TTotS}}<br>{{TLotL}}
+|Appears_games = {{Tw2}}<br>{{Gwent standalone}}<br>{{TB}}
+|Appears_other = {{WGW}}}}
+'''Demavend III''', also spelled '''Demawend'''<ref name="boe" /> or in [[Elder Speech]] '''Demaewn''', was the son of [[Virfuril]] who succeeded his father as the 16th [[King]] of [[Aedirn]]. He had one legitimate son and heir, [[Stennis]].<ref name="TW2" />
+
+Much of his reign was marked by a [[Lormark War|centuries-old dispute]] with [[Kaedwen]], ruled at the time by King [[Henselt]], over the fertile land of [[Upper Aedirn]]. Apart from that, Demavend fought in both the [[Northern War I|First]] and [[Northern War II|Second Northern Wars]] against the invading [[Nilfgaardian Empire]]. After the second war, he was one of the negotiators of the [[Peace of Cintra|peace treaty]].
+
+Demavend wasn't very trustful of [[mage]]s, calling them "devious old windbags", and preferred royal messengers for communication. He nonetheless had [[Radcliffe]] of [[Oxenfurt]] as an advisor and informant, and also called [[Yennefer of Vengerberg|Yennefer]] for help from time to time.
+
+== Biography ==
+=== Childhood ===
+At some point in {{Year|canon = no|year = 1226|type = other}}, agents of the [[Temerian Secret Service]] who infiltrated [[Aedirnian Special Forces]] stationed in [[Aldersberg]], made an attempt on the life of underage Prince Demavend, an act meant to be [[Medell]]'s revenge for the shameful defeat Virfuril handed him near [[Hagge]]. Although it was unsuccessful, Virfuril flew into a rage and executed an entire third of the special forces including the Commissar [[Vilmerik Moebius]].<ref name="wgw">{{WGW}}</ref>
+
+=== First Northern War and after ===
+In {{Year|canon = yes|year = 1263}}, upon learning about the atrocities perpetrated by the [[Nilfgaardian Army|Black Forces]] in [[Cintra]], Demavend joined the rest of the [[Four Kingdoms]] with [[Aedirnian Army|his army]] to avenge [[Calanthe]] and drive the invaders back. Led by [[Vizimir II]] of [[Redania]], the united forces of the North managed to defeat Nilfgaard in the [[battle of Sodden Hill]]. A truce was negotiated shortly after the battle, which Demavend signed.<ref name="boe" />
+
+This concord among the North's great powers disappeared just as soon as Nilfgaard retreated. Demavend and [[Henselt]] renewed their quarrel over the Upper Aedirn which, however, they stopped in spring {{Year|canon = yes|year = 1267}} when Demavend summoned Henselt along with Vizimir II, [[Foltest]] of [[Temeria]] and his staunchest ally [[Meve]] of [[Lyria and Rivia]] to Hagge.
+
+=== Meeting at Hagge ===
+[[File:TB Hagge meeting.jpeg|250px|thumb|left|Demavend (third from right) deliberating with Vizimir II, Meve, Henselt, and Foltest at Hagge]]
+In the beginning, Demavend corrected Henselt it wouldn't be sergeants but young officers who were going to lead Nilfgaard's armies in wars to come, following [[Emhyr var Emreis]]' military purges. Later, when they discussed the spreading of a pro-Nilfgaard prophecy in the North, Demavend revealed he once had a cleric tortured to find out how much Emhyr paid him but the cleric expired before revealing a thing. This prompted Vizimir II to warn him against such methods to avoid making martyrs. He also eagerly agreed with a major campaign to root out [[Scoia'tael]] and momentarily considered a punitive expedition to [[Dol Blathanna]].
+
+As the monarchs agreed Cintra should be conquered back, Demavend proposed for it to be a joint protectorate but was persuaded it should be a free country once more. He quickly guessed that the mysterious force searching for the lost heir of Cintra, [[Ciri]], was Emhyr who wanted her to legalize his conquest. Another proposition he came up with afterward was a morganatic marriage of Ciri to [[Vissegerd]] as a puppet king, but this was turned down by others present. In order to get ahead of Emhyr, the kings eventually silently agreed that the Cintran heir had to die.<ref name="BoE" />
+
+=== Second Northern War ===
+Right after the summit, Demavend began the war preparations. He launched a large-scale persecution of [[nonhuman]]s and an offensive against the Scoia'tael simultaneously with Henselt, in order to clear the rear before striking Nilfgaard. Teaming up with Meve, Demavend redistributed around third of his men into forts along the southern frontier, as close to the enemy as possible. The plan was to provoke Nilfgaardian rangers stationed in [[Dol Angra]] to attack Lyrians or Aedirnians who could then call it a ''casus belli'', cross [[Yaruga]] in full force and call others for help.<ref name="ToC" />
+
+By June {{Year|year=1267|canon=yes}}, Demavend began to send messengers to Foltest and Vizimir II, informing them soldiers disguised as Nilfgaardians were ready for July 2nd night. Foltest replied first, asking Demavend to withhold until the [[Thanedd coup|mages' assembly]] was over. Vizimir then wanted the same, adding what the [[Redanian Secret Service]] found out – that there had been a betrayal, Emhyr knew about the plan and moved a massive army under [[Menno Coehoorn]] to Dol Angra. Alas, the reply never reached Demavend as [[Aplegatt|the messenger]] was shot by [[Yaevinn]] in the woods of the [[Pontar Valley]].<ref name="ToC" />
+
+==== Defeat and elopement abroad ====
+On a night from 1 to 2 July, Nilfgaardian force disguised as Lyrians and Aedirnians seized [[Glevitzingen]], an Imperial border post. Mere moments after, a group of Demavend's heralds escorted by Lyrian soldiers – all of whom were quite possibly still disguised Black Ones – informed the folk of the surrounding villages that Aedirn was taking control now. Claiming this an act of aggression, the Imperials crossed the Yaruga immediately, conquering the Lyrian border fortresses [[Scala]] and [[Spalla]] in just three days. [[Rivia]] was prepared for months of siege but capitulated under the promise of no harm. As Nilfgaard captured her realm, Meve retreated to Aedirn, seeking aid.
+
+When she found him, Demavend was participating in the [[battle of Aldersberg]].<ref name="ToC">{{ToC}}</ref>
+
+{{Canon Marker|Type=games}}
+Unbeknownst to most, he was carrying out an affair with a local [[prostitute]] [[Demaretta of Gulet|Demaretta]] which resulted in an illegitimate son named [[Baldwin of Gulet|Baldwin]]. Demavend and his forces fell back to the [[Old City]] where the prostitute was going into labor. With Meve and the remnant of [[Lyrian Army|her army]], they held out until Demavend's child was born, retreating from the city right after. When the battle ended, Demavend gave Meve a few of his men to help her in a guerilla war and then bid her farewell.<ref name="TB">{{TB}}</ref>
+
+{{Canon Marker End|Type=games}}
+
+Seeing his army annihilated, the kingdom in ashes and betrayal from Henselt who struck a deal with Nilfgaard and robbed him of Lormark, Demavend sought asylum in [[Tretogor]],<ref name="ToC" /> where the [[Regency Council]] hosted him.<ref>{{TTotS}}</ref> When Nilfgaard reached the defenseless Vengerberg they had no mercy, [[Sack of Vengerberg|burning]] it entirely to the ground.<ref>{{BoF}}</ref>
+
+==== Restoring Aedirn ====
+Demavend did not waste time in Redania but worked hard to gather as many soldiers as possible to reclaim his dominion. When in March {{Year|canon = yes|year = 1268}} the decisive [[battle of Brenna]] commenced, Demavend sent some of his units in support. As the battle turned victorious for the Noth, Demavend and Henselt met on Aedirnian soil, shook hands and agreed to advance against [[Ardal aep Dahy]], the commander of Nilfgaardian [[East Army Group]], together. Strengthened by Redanian reinforcements and Meve's guerillas, who had cruelly sacked Nilfgaard's rear, the allied kings not only stopped Ardal's advance but drove him all the way to Aldersberg. Without any delay, Demavend and Henselt routed his army in a [[Second battle of Aldersberg|final battle]] and won, despite Nilfgaard having a significant numerical advantage.
+
+Since Foltest had similar success with driving Nilfgaard south past [[Angren]], Nilfgaard started to sue for peace. Meeting at the end of the March in [[Cintra (city)|Cintra]], the Northern kings negotiated with [[Shilard Fitz-Oesterlen]] who represented the Emperor. To avoid unwanted complications with Nilfgaard and unnecessary bloodshed, Demavend agreed to accept Dol Blathanna as an autonomous elven duchy. Aedirnian control of Hagge, occupied by Foltest for safety reasons since late July last year, was also restored. Only Henselt refused to return the Upper Aedirn as he claimed it was an ethnic territory of Kaedwen. In the end, his court sorcerer [[Sabrina Glevissig]] pressed him into withdrawing from conquered castles in less than a week. The treaty's final version was signed on 2 April.
+
+To celebrate the end of the war, a great celebration was held in [[Novigrad]] which Demavend attended.<ref name="TLotL" />
+
+{{Canon Marker|Type=games}}
+
+=== Continuing conflict over Upper Aedirn ===
+It took but one year before the [[Kaedwenian Army]] attempted to retake the Upper Aedirn. They crossed [[Pontar (river)|Pontar]] on a third day after the [[Velen (holiday)|Velen]] equinox without any formal declaration of war to have an element of surprise. Demavend, however, had good spies, so he was ready for them. He lined up his troops consisting of banners from Vengerberg, Aldersberg, [[Gulet]] and a dwarven regiment from [[Vergen]] along the hills near and gave their command to his champion [[Seltkirk]] who was a great inspiration to fighting Aedirnians. They numbered more than 5,000.
+
+As the battle started, Aedirnians quickly decimated the [[Dun Banner]] and wreaked havoc among the Kaedwenians but the [[Lormark War#Second Lormark War|battle]] later turned into a veritable hell after Sabrina Glevissig conjured [[Melgar's Fire]], killing Aedirnians and Kaedwenians alike. Henselt then ordered Sabrina to be burned alive at the stake and retreated back to his kingdom.
+
+=== Death ===
+[[File:22101809.jpg|250px|thumb]]
+In {{Year|canon = no|year = 1271}}, while out on one of his ships celebrating with various entertainment, the [[witcher]] [[Letho]] secretly boarded and, using a [[Northern Wind]]-based special capsule, froze the majority of the ship and its people in place, though a [[Abelard of Hagge|mage]] on board managed to protect the king and a few other guards. However, none of them could best the witcher, who proceeded to cut them all down before grabbing Demavend and killing him, then cut off his head as proof.<ref name="TW2" />
+
+{{Canon Marker End|Type=games}}
+
+== Physical appearance ==
+Despite apparently having a belly large enough to hold a tankard full of beer while he was sprawled in his armchair,<ref name="BoE">{{BoE}}</ref> Demavend was still considered a handsome man by 1268.<ref name="TLotL">{{TLotL}}</ref>
+
+He was especially attractive in his younger years and it was said that Foltest himself would've envied his eagle-like profile with piercing emerald-green eyes. Demavend also had a rather lustrous mane that, to his great sorrow, receded quickly with age. To hide this he often wore a white cap embroidered with golden thread.<ref name="G" />
+
+== Appearance and personality ==
+Demavend was intelligent, well-educated and knowledgeable about tactics. This is best evidenced by how he was able to predict Emhyr's moves during the Northern Wars.<ref name="BoE" /> A shrewd, farseeing politician, he knew precisely what to do to ensure the integrity of his realm. One of his other characteristic traits was self-control. Demavend was able to maintain calm façade even when arguing with impulsive people like Henselt. Only his face betrayed how much effort he put into not losing composure.<ref name="TLotL" />
+
+He was cruel at times, ordering [[priest]]s whose preachings interfered with his politics to be tortured to death. His hatred for [[elf|elves]] was legendary and he went as far as launching a large persecution of nonhumans that resulted in many a [[pogrom]].<ref name="BoE" /> What's more, Demavend offered 50 [[ducat]]s for every Scoia'tael head, even in a time when the royal treasury was nearly drained by the war with Nilfgaard.<ref name="G">{{Gwent standalone}}</ref> It must be said, though, that he didn't hate the nonhumans blindly. He had good relations with dwarves of [[Mahakam]] and eventually allowed Dol Blathanna to be an autonomous elven duchy.<ref name="TLotL" />
+
+=={{Tw2}}==
+
+=== Journal Entry ===
+:''Demavend, son of Virfuril, ruled the Kingdom of Aedirn, which was mightily aggrieved during the last war with Nilfgaard. A proponent of authoritarian rule, he was seen as having no love for nonhumans. He often moved radically against the Scoia'tael, though he drooled in spite of himself when the guerrillas perpetrated massacres on his own people, as these justified the punitive expeditions he delighted in sending into the foothills of Dol Blathanna. He also showed no shyness towards imprisoning and torturing rabble-rousers and street prophets who would interfere in his politics. Thus it is no wonder that many could not wait to see him dead. In spite of this, his subjects could not help but be surprised by his death, for it is not every day that a crowned head paints the palace floor with its blood.''
+
+== {{Gwent standalone}} ==
+Demavend is a leader in the Homecoming version.
+=== Reward Tree entries ===
+:'''''Scroll 1:''' Demavend possessed many traits that predisposed the king for greatness. Well-educated, shrewd, cunning, a master of political intrigue. Unfortunately, he was also very, very impatient.''
+:'''''Scroll 2:''' King Demavend was never satisfied with the present. He always looked to tomorrow, to the great feats of his future, shrugging off the mundane tasks of the court. Whilst his advisers bored him with the nuances of prudent fiscal policy, he quietly planned his next conquest...''
+:'''''Scroll 3:''' Aedirn's neighbors learned quickly that Demavend could never be appeased with compromise. His kingdom expanded like dough baked in too small a bread pan, pushing and stretching in all directions. Not unlike the Nilfgaardian Empire...''
+:'''''Scroll 4:''' When Nilfgaardian forces eventually crossed the Yaruga, a panicked fear struck deeply in all the rulers of the North. All except for King Demavend, that is. He rejoiced, for at last he would face an enemy worthy of Aedirn's might! Of course... His jubilation would not last long.''
+:'''''Chest 1:''' Although all now are too young to recall, Demavend was once a strapping young man. Foltest himself would have envied the man's eagle-like profile. Maidens swooned when caught under the gaze of his piercing emerald eyes. But years of plenty have taken their toll. A plump belly and rosy cheeks show clearly that the king was never want for sumptuous food and drink. His saggy neck and hunched shoulders proved further that he preferred to command his armies from a silk-lined throne in place of a saddle...''
+:'''''Chest 2:''' Demavend's hatred for elves was legendary. While Vizimir and Foltest fought the Squirrels out of necessity, the King of Aedirn hunted the rebels down with astonishing enthusiasm. Despite the fact that the war with Nilfgaard had nearly drained Aedirn's royal treasury, Demavend offered 50 ducats for every Scoia'tael head. Taking advantage of the lucrative bounty, Aedirnians often falsely accused and captured innocent elves and dwarves. Demavend was perfectly aware his subjects were exploiting the offer. And yet, he didn't seem bothered in the least...''
+:'''''Chest 3:''' Under his crown, Demavend always wore a white cap embroidered with gold thread – undeterred even by the sweltering summer months. Why? It seems the vain king was ashamed of his retreating hairline. Many alchemists and barbers passed through his court, offering promises to restore the Aedirnian ruler's lustrous mane. Each of them, to the last, spent their remaining days in the Aldersberg dungeons for their failure – deprived of freedom... and their own scalps.''
+
+== Notes ==
+* In one of the fan interviews, [[Andrzej Sapkowski]] confirmed that he indeed named Demavend after [[wikipedia:Mount Damavand|the highest peak of Iran]], after opening an encyclopedia on a random page looking for original names.<ref>[https://sapkowskipl.wordpress.com/2017/03/11/klawisz-f8/ ''Klawisz F8'' interview]</ref>
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 2 Assassins of Kings - Intro
+</gallery>
+
+== Gallery ==
+<gallery>
+Demavend_artbook.png
+Tw2 dream letho.png|Demavend's head in [[Letho's dream]]
+TB demavend.png
+Skins Demawend front.png|Gwent leader skin front
+Skins Demawend back.png|Gwent leader skin back
+</gallery>
+
+== References ==
+{{Reflist|colnumber = 2}}
+{{Aedirn}}
+
+[[cs:Demawend]]
+[[de:Demawend]]
+[[es:Demawend]]
+[[fr:Demavend]]
+[[it:Demavend III]]
+[[pl:Demawend]]
+[[ru:Демавенд]]
+[[sk:Demawend]]
+[[uk:Демавенд]]
+[[pt-br:Demawend]]
+[[Category:Humans]]
+[[Category:Monarchs]]
+[[Category:Royal family members]]
+[[Category:Blood of Elves characters]]
+[[Category:Time of Contempt characters]]
+[[Category:Baptism of Fire characters]]
+[[Category:The Tower of the Swallow characters]]
+[[Category:The Lady of the Lake characters]]
+[[Category:Wiedźmin: Gra Wyobraźni characters]]
+[[Category:The Witcher 2 characters]]
+[[Category:Thronebreaker characters]]

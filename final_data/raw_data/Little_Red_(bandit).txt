@@ -1,0 +1,35 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Little Red
+|Image = Tw3 little red bandit.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Blue
+|Hair_color = Black
+|Profession = Bandit
+|Appears_games = {{Tw3}}
+|Abilities = [[Werewolf]]
+|Affiliations = [[Bertram (peasant)|Bertram]] {{Small|text=formerly}}
+|Aka = Lilly
+|Parents = Unnamed mother<br>Unnamed father}}
+'''Little Red''' (real name '''Lilly'''<ref>[[A mother's letter]]</ref>) was the leader of a gang around [[Yantra]] in {{Year|canon = no|year = 1272}} and the last in a family of [[Werewolf|werewolves]].
+
+== Biography ==
+Little Red appeared to have a mostly normal childhood, albeit one that involved being a werewolf, an ability she inherited from both her parents. Despite this, her mother tried to instill in her to show that [[human]]s and werewolves could live in harmony and soon, Little Red headed off to the [[Oxenfurt Academy|Academy]] to further her education.
+
+However, while she was away at school, her parents fell into a great amount of debt and soon her parents' secret was discovered and the [[witch hunter]]s had them arrested, planning a big execution of the "monsters". As one last bid, Little Red's mother sent a letter to her daughter, wanting her to not avenge them and to live peacefully.
+
+By 1272 though, Little Red was little more than a bandit, leading a small group of outcasts and robbing people in the Yantra area. While rumors spread about her mingling with [[Wolf (creature)|wolves]], nobody knew for certain about her lycanthropy.
+
+She was eventually approached one day by [[Bertram (peasant)|Bertram]], a peasant from Yantra, who had an offer: he'd point out who was worth robbing in the area and he'd get a cut of the spoils. She agreed and for half a year this worked, until Bertram got greedy and asked for more. Little Red refused, so Bertram went and told the witch hunters about the bandits, who proceeded to kill half her gang. Wanting revenge, she decided to "visit" the village to kill just Bertram.
+
+{{Condition|Text = If Geralt helps but stands aside for her}} Little Red explained the deal to the [[witcher]] and, with [[Geralt of Rivia|Geralt]] standing aside on learning the truth, she was true to her word and only killed one villager: Bertram. She and her men then left the village.
+
+{{Condition|Text = If Geralt helps but kills her}} Despite Bertram's part in everything, Geralt stood between Little Red and the peasant that cost her half her men. Set on revenge, she morphed into a werewolf but soon met her end at the witcher's blade.
+
+== Associated Quest ==
+* [[Little Red (quest)|Little Red]]
+
+== References ==
+<references />[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

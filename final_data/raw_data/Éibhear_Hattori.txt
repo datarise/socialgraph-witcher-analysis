@@ -1,0 +1,46 @@
+{{Character Tabs|first = main|second = store}}
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = <gallery>
+Tw3 eibhear hattori.png|Default
+Tw3 eibhear hattori alt outfit.png|Alternate
+</gallery>
+|Race = [[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Black
+|Profession = Cook<br>[[Blacksmith]] {{Small|text=master}}
+|Name = {{Blacksmith}} {{PAGENAME}}
+|Voice = [http://www.imdb.com/name/nm0914907/ Timothy Watson]
+|Appears_games = {{Tw3}}}}
+
+'''Éibhear Hattori''' was an [[Elf|elven]] master swordsmith living in a [[Hattori's home|house]] in the [[Glory Lane]] district of [[Novigrad]] around {{Year|canon = no|year = 1272}}.
+
+He sells a variety of [[:Category:The Witcher 3 crafting components|crafting components]], [[runestone]]s, and [[:Category:The Witcher 3 crafting diagrams|diagrams]] once [[Of Swords and Dumplings]] is complete.
+
+== Biography ==
+Hattori made a decent living making master swords, and his name came to be known far and wide. However, when a fellow swordsmith, [[Ernst van Hoorn]], started their own business, van Hoorn realized they lacked real skill to compete with the others in the area and so began to find other ways to monopolize on the swordsmithing trade, pushing anyone out of business or making false accusations, like accusing Hattori of working with [[havekar]]s.
+
+Hattori tried to fight back and took the matter to town hall, but with van Hoorn backed by a local gang leader, [[Carlo Varese|Cleaver]], Hattori's appeal was denied. Faced with either being killed or dropping out of the swordsmithing business, Hattori turned to making dumplings instead, converting the outside of his home into a small restaurant.
+
+{{Condition|Text = If Geralt helps him get back into swordsmithing}} One day Hattori was greeted by a [[witcher]], [[Geralt of Rivia|Geralt]], and decided he missed the forge too much and to try and get supplies through another gang leader, the [[Francis Bedlam|King of Beggars]]. However, it soon led to him having to get a temporary bodyguard in the form of [[Sukrus]], as undoubtedly Cleaver would try to do away with the one trying to break up the swordsmithing monopoly. However, even with all the troubles that arose, Hattori was finally successful and able to return to working with a forge in peace.
+
+== Associated Quest ==
+* [[Of Swords and Dumplings]]
+
+== Trivia ==
+* His surname and role in the game are referencing Hattori Hanzō, the famous samurai in Sengoku era of Japan, as well as a former master swordsmith and sushi bar owner in the film ''Kill Bill Vol. 1''.
+* His first name is the Irish word for "granite."
+
+{{Clear}}
+
+== Gallery ==
+<gallery>
+Gwent cardart scoiatael eibhear hattori.jpg|Gwent card art
+</gallery>
+
+[[pl:Éibhear Hattori]]
+[[ru:Эйвар Хаттори]]
+{{DEFAULTSORT:Eibhear Hattori}}
+[[Category:Elves]]
+[[Category:The Witcher 3 characters]]

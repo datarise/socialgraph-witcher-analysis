@@ -1,0 +1,22 @@
+{{Infobox Character
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Temerian}}
+|Parents = [[Odolan]] {{Small|text=father}}<br>
+Unnamed mother
+|Appears_games = {{Tw3}}
+|Image = Tw3 mandy.png
+|Hair_color = Black
+|Eye_color = Blue}}
+'''Mandy''' was the daughter of one of [[White Orchard]]'s residents, [[Odolan]]. With the [[Northern War III|war]] going on in {{Year|canon=no|year=1272}}, the local drinking water became contaminated with dead bodies and Mandy, having drank this water, became very ill. Her father was informed the only way she'd get better was to find a clean source of drinking water.
+
+{{Condition|Text = If Geralt helps Odolan}} Mandy survived thanks to the [[witcher]] killing off the [[Devil by the Well]].
+
+== Associated Quest ==
+* [[Contract: Devil by the Well]]
+
+[[it:Mandy]]
+[[ru:Люба]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

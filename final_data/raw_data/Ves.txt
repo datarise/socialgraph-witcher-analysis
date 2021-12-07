@@ -1,0 +1,90 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3_journal_ves.png
+|Affiliations = [[Blue Stripes]]
+|Profession = Soldier
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Blue
+|Hair_color = Blonde
+|Voice = [http://www.imdb.com/name/nm1162450/ Laura Rogers]
+|Appears_games = {{Tw2}}<br>{{Tw3}}
+|Nationality = {{Temerian}}}}
+{{Quote|text = Lads, the time to discuss this is later.|citation = Ves, {{Tw3}}|audio = Ves voice line.ogg}}
+'''Ves''' was a member of the elite [[Blue Stripes]] special forces group. She was the only woman in the unit under [[Vernon Roche]]'s command.
+
+== Biography ==
+
+=== Early life ===
+At 16 years of age, Ves was a beautiful young girl. Therefore, during the annihilation of her village by the [[Scoia'tael]], she was spared and abducted by the commando's leader, as he had taken a shine to her. For several years, she was held prisoner by the commando. Eventually, Ves was freed by [[Vernon Roche]] and the Blue Stripes soldiers. After noticing her potential, Roche convinced her to enlist with the [[Blue Stripes]] unit.
+
+== {{Tw2}} ==
+=== Associated Quests ===
+* [[A Rough Landing]]
+* [[Hung Over]]
+* [[Death to the Traitor!]]
+* [[Ave Henselt!]]
+* [[Where is Triss Merigold?]] (Iorveth path)
+
+=== Journal Entry ===
+:"''The fair-haired Ves stood apart from the rest of Vernon Roche's unit, and not only in that she was the only woman in an elite formation of hardened cutthroats and swashbucklers. Her girlish face and shapely body would stand out even if a uniform did emphasize them. For there is something in soldier women that attract a man's gaze, and Ves was no exception. The reader should not, however, be mislead by this description - one does not earn a Blue Stripes membership with good looks, but with skill, determination and, at times, ruthlessness. Anyone disregarding Ves would pay dearly for misjudging this young woman."''
+:''Because of her gender, Ves would sometimes receive assignments where her beauty was more important than her combat abilities and efficiency. Roche had used Ves as his trump card more than once.''
+:''Ves had a steady hand and sure eye, making her the best sharpshooter in the unit. Not many could match her at throwing knives either.''
+
+== {{Tw3}} ==
+Ves returns in ''The Witcher 3'', aiding Roche in his guerrilla campaign against [[Nilfgaardian Empire|Nilfgaard]] although she is more radical, going as far as disobeying Roche's orders to protect those who helped them.
+
+=== Journal Entry ===
+: ''Ves was a veteran officer of the Blue Stripes and the only solider from Roche's former unit to have survived the war. After the Blue Stripes were decimated and officially disbanded, Ves remained at her commander's side to continue with him the seemingly hopeless struggle for Temerian freedom.''
+: ''Energetic and tough, Ves had always impressed with her skill with crossbow and sword alike, outshooting and outshining all the men in her unit to a laughable degree.''
+: ''Though usually well-disciplined, Ves refused to heed Vernon's command and set off alone to face enemy forces.''
+: ''Ves' rash move landed her in a horrible pot of trouble that only Geralt's sword could dish her out of.''
+:'''If Geralt asks Roche for help at Kaer Morhen:'''
+:: ''Even had Ves not owed Geralt her life, she would have come to the defense of [[Kaer Morhen]] all the same, for she would follow Vernon Roche into the very bowels of the abyss.''
+:'''If Geralt did not intervene in Reason of State:'''
+::''Ves had been a soldier all her life, a fact which made her unfortunate death during a political intrigue even bitterer. At least one part of her death matched her life: she fell at her commander's side.''
+
+=== Associated Quests ===
+* [[An Eye for an Eye]]
+* [[Reason of State]]
+
+==Trivia==
+* In the first chapter of ''The Witcher 2'', Ves [http://www.youtube.com/watch?v=3Sc9TRlFX-o kills Geralt] in the dungeons if he attempts to attack Roche.
+* In ''The Witcher 2'', [[Geralt of Rivia|Geralt]] may have the opportunity to [[The Witcher 2 romance|sleep with]] Ves in chapter II, depending on whom he sides with during that chapter.
+* Ves doesn't hold a grudge against non-humans, even though she fights the Scoia'tael. She treats every criminal equally, regardless of race.
+* In the quest An Eye for an Eye, Ves can die even if Geralt does try to help her. In this case Vernon won't go to Kaer Morhen to help Geralt.
+* She is also known as Bianka in others localizations, like in Russian, and retains this name in the game files.
+
+== Videos ==
+<gallery position="center">
+File:Hung Over (The Witcher 2) Full HD
+File:The Witcher 2 - Sex With Ves
+</gallery>
+
+== Gallery ==
+<gallery>
+Tw2 journal Ves.png|Ves in the Witcher 2 journal
+Tw2 conceptart Ves.jpg|Ves' concept art.
+MR Ves.jpg|3D Render
+Tw3 cardart northernrealms ves.png|Ves' gwent card art
+Gwent cardart northern ves.jpg|Gwent standalone card art
+witcher2 - ves.png|Ves, [[Vernon Roche]] and [[Geralt of Rivia|Geralt]] in interrogation room.
+Hung over ves screen.jpg|Ves and [[Geralt of Rivia|Geralt]] during a dialogue.
+The_Witcher_2_Romancing_Ves_Video_Clip_Game_Trailers_&_Videos_GameTrailers_com_642_362.jpg|Ves and [[Geralt of Rivia|Geralt]] during romance scene.
+</gallery>
+
+== External Links ==
+*{{Gwent|Ves}}
+[[ar:فيس]]
+[[cs:Ves]]
+[[de:Ves]]
+[[es:Ves]]
+[[fr:Cyn]]
+[[it:Ves]]
+[[pl:Ves]]
+[[pt-br:Ves]]
+[[ru:Бьянка]]
+[[uk:Вес]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 3 characters]]

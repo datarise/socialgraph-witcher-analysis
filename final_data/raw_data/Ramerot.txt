@@ -1,0 +1,18 @@
+{{Infobox Character
+|Name = Ramerot
+|Image = People Nobleman.png
+|Hair_color = Grey
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Toussaintois}}
+|Relative = [[Buse]] {{Small|text=brother}}<br>[[Corbin]] {{Small|text=brother}}<br>[[Antoinette]] {{Small|text=cousin}}
+|Appears_games = {{Tw1}}
+}}[[de:Ramerot]]'''Ramerot '''and his brothers [[Corbin]] and [[Buse]] were noblemen from [[Beauclair]] and [[Antoinette]]'s cousins. During [[Chapters|Chapter V]] they were in hiding in the [[Refugees' caves|refugee caves]] in the [[swamp cemetery]] after incurring the disfavour of the King [[Foltest]] and they were completely out of [[orens]].
+
+Ramerot himself is in the southernmost refugee cave, in the chamber next to the boxer, [[Zdenek]].
+
+== Associated Quest ==
+* [[Mud and Velvet]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter V]]

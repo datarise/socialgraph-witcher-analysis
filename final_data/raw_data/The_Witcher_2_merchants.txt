@@ -1,0 +1,91 @@
+
+'''Merchants''' in {{Tw2}} can either be specialists or generalists, and some also offer [[craftsman|crafting services]].
+
+== Arena ==
+* [[Dragan]]
+
+== [[File:Tw2 icon training.png|32px|Prologue]] Prologue ==
+* None
+
+==[[File:Tw2 icon numberone.svg|32px|Chapter I]] Chapter I==
+* [[Anezka]] in [[Lobinden]]
+* [[Berthold Candeleria]] at the dwarven smithy in the non-human district of [[Flotsam]]
+* [[Cedric (elf)|Cedric]] in [[Lobinden]]
+* [[Einar Gausel]] in [[Flotsam]]
+* [[Fioravanti]] in the main square in [[Flotsam]]
+* at the [[Flotsam inn]]
+** Marty Beaver, the upstairs innkeeper
+** Lyudmila, the upstairs waitress
+** Dyson Beaver, the downstairs innkeeper
+** Sunshine, the downstairs waitress
+* [[Sendler]] in [[Lobinden]]
+* [[Vilmos Bartok]], in the first building past the gate east of the Flotsam inn.
+* ''[[Mysterious merchant]]'', near the harbor in [[Flotsam]]
+
+==[[File:Tw2 icon numbertwo.svg|32px|Chapter II]] Chapter II==
+'''Iorveth's path'''
+* [[Earso]]
+* [[Felicia Cori]], in Rhundurin Square
+* [[Haggard]], next to the blacksmith in the northeast section of [[Vergen]]
+* [[Mael]], in [[Rhundurin Square]]
+* [[Mottle]], depending on a choice made during the quest "[[The Floating Prison]]"
+* [[Thorak]]
+'''Roche's path'''
+* [[Isidor Kay]], standing outside the tent northeast of [[Lasota]]'s in the [[Kaedweni camp]].
+* [[Lasota]]
+* [[Myron]]
+* [[Raymond Gessler]] at the [[camp followers' encampment]].
+* [[Relic peddler]] inside the Kaedweni camp canteen.
+* [[Sambor]] at the camp followers' encampment.
+Available on either path:
+* [[Spark]], in Rhundurin Square northeast of the [[Mahakam Gate]] in [[Vergen]].
+* ''[[Mysterious merchant]]'', standing outside the [[old tower]] at the camp followers' encampment or near [[the Cauldron]] in [[Vergen]].
+
+==[[File:Tw2 icon numberthree.svg|32px|Chapter III]] Chapter III==
+* [[Bras of Ban Ard]] in [[Loc Muinne]]
+* Britta, near the gathering of sorceresses outside the amphitheatre
+* [[Dalum]], inside the ruined building used as an inn southwest of the [[notice board]] in Loc Muinne
+* [[Earso]]
+* [[Falas]]
+* [[Felicia Cori]]
+* [[Ilona]]
+* [[The Incredible Lockhart]]
+* [[Marcus]]
+* [[Polycarp of Rinde]]
+* Two randomly named women outside the [[Loc Muinne amphitheatre]]
+
+== Galleries ==
+=== Chapter I ===
+<gallery>
+Tw2-screenshot-candeleria-01.png|Berthold
+Cedric-02.png|Cedric
+Einar Gausel screen.jpg|Einar Gausel
+Fioravanti.png|Fioravanti
+Vilmos Bartok screen.jpg|Vilmos Bartok
+</gallery>
+
+=== Chapter II ===
+<gallery>
+Tw2 screenshot haggard.jpg|Haggard
+Tw2 screenshot mottle.jpg|Mottle
+Master myron screen.jpg|Master Myron
+Relic merchant screen.jpg|Relic peddler
+Tw2-screenshot-sambor-01.png|Sambor
+Tw2_screenshot_spark.jpg|Spark in Vergen
+Tw2 screenshot thorak.jpg
+</gallery>
+
+=== Chapter III ===
+<gallery>
+Tw2 screenshot bras.jpg|Bras of Ban Ard
+Tw2_screenshot_dalum.jpg|Dalum
+Tw2 screenshot felicia.jpg|Felicia Cori
+Marcus screen.jpg|Marcus
+</gallery>
+
+[[Category:The Witcher 2 characters| ]]
+[[Category:Merchants]]
+
+[[de:Händler (The Witcher 2)]]
+[[fr:Marchands dans The Witcher 2]]
+[[it:Mercanti in The Witcher 2]]

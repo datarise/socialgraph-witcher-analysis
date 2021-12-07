@@ -1,0 +1,44 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw2_journal_Boussy.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Blue
+|Hair_color = Blond
+|Titles = [[Prince]] of [[Temeria]]
+|Family = [[House of La Valette]]
+|Parents = [[Maria Louisa La Valette]] {{Small|text=mother}}<br>[[Old Baron La Valette]] {{Small|text=official father}}<br>[[Foltest]] {{Small|text=biological father}}
+|Relative = [[Anaïs La Valette|Anaïs]] {{Small|text=sister}}<br>[[Aryan La Valette|Aryan]] {{Small|text=half-brother}}<br>[[Adda the White]] {{Small|text=half-sister}}
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw2}}}}
+'''Boussy La Valette''' was the son of [[Mary Louisa La Valette]] and brother of [[Anaïs La Valette|Anaïs]]. Who his father was is not known for sure. Officially, it was the [[Old Baron La Valette]], but many rumors persist that he and his sister were actually [[King]] [[Foltest]] of [[Temeria]]'s progeny. If this is true, then both he and his sister were in line for the Temerian throne.
+
+In Chapter II, if [[Geralt of Rivia|Geralt]] chose [[Vernon Roche|Roche]]'s path, he learned that Boussy was accidentally killed in the attempt to kidnap the siblings, leaving his sister, Anaïs, the sole heir to the throne.
+
+== Journal Entry ==
+: ''No more than a lad back then, Boussy already displayed the pride and obstinacy typical of the La Valettes. Some, however, attributed these qualities to the fact that King Foltest was his father.''
+: ''The boy had died in mysterious circumstances, but the significance of this event was clear. Of [[Baroness]] La Valette's and King Foltest's two children, only Anaïs remained alive – a young girl born out of wedlock, the sole and highly problematic heir to the Temerian throne.''
+: ''As Geralt was sailing up the Pontar, Boussy was packed up and placed in a convoy that was to take him to Loc Muinne. The boy never reached the city. The rumors Geralt had heard from King Radovid proved true. Vile intentions had bred a series of unfortunate coincidences. In short, Boussy was dead.''
+
+== Associated Quests ==
+* [[Blood of His Blood]]
+* [[Lilies and Vipers]]
+
+== Gallery ==
+<gallery>
+witcher2-boussy.png|Boussy minutes before Foltest's assassination.
+Boussy screen 1.jpg
+witcher2 - foltest and kids.png|Foltest and his children (Boussy and Anaïs).
+</gallery>
+
+[[cs:Bertil La Valette]]
+[[de:Bussy La Valette]]
+[[fr:Bussy de La Valette]]
+[[it:Boussy La Valette]]
+[[pl:Bussy La Valette]]
+[[ru:Бусси Ла Валетт]]
+[[uk:Буссі Ла Валетт]]
+[[pt-br:Bussy La Valette]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Prologue]]

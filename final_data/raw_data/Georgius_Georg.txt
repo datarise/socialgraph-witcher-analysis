@@ -1,0 +1,20 @@
+{{Infobox Character
+|Image = Tw3 georgius georg.png
+|Race = [[Human]]
+|Gender = Male
+|Hair_color = Black
+|Eye_color = Blue
+|Profession = Fistfighter
+|Appears_games = {{Tw3}}
+|Aka = The Piledriver}}
+'''Georgius "The Piledriver" Georg''' was the tavern fistfighting champion at the [[The Golden Sturgeon|Golden Sturgeon]] in {{Year|canon=no|year=1272}}.
+
+== Associated Quest ==
+* [[Fists of Fury: Novigrad]]
+
+== Trivia ==
+* Georgius Georg is a reference to Gorgeous George, the bare knuckle boxer from ''Snatch''.
+
+[[ru:Георг Георгиус]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

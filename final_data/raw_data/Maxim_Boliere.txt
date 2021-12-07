@@ -1,0 +1,16 @@
+{{Infobox Character
+|Image =Tw3-maxim.jpg
+|Profession = Actor 
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Brown
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}
+}}
+'''Maxim Boliere''' is an actor residing in [[Novigrad]]. He belongs to the troupe of [[the Butcher's Yard theater]]. Maxim has a drinking problem and is usually seen with a bottle in his hand outside the theater. [[Geralt of Rivia|Geralt]] can choose either him or [[Abelard Rizza]] to play the role of the [[doppler]] during the quest [[The Play's the Thing]].
+
+== Associated Quest ==
+* [[The Play's the Thing]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

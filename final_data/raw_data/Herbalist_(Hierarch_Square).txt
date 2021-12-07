@@ -1,0 +1,16 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox_Character
+|Name = {{Herbalist}} Herbalist
+|Image = Tw3 herbalist hs.png
+|Hair_color = Brown
+|Eye_color = Hazel
+|Race = [[Human]]
+|Gender = Male
+|Profession = [[Herbalist]]
+|Appears_games = {{Tw3}}
+}}This '''herbalist''' is found in the southern part of [[Hierarch Square]], near the gate to [[Triss Merigold|Triss]]' [[Triss' house (Novigrad)|house]].
+
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]
+
+[[pl:Zielarz (Rynek)]]

@@ -1,0 +1,24 @@
+{{DisambigMsg|This article is about = the old, blind woman during the [[Bald Mountain (quest)|Bald Mountain]] quest|For = the similarly sounding worker at Priestess Maerlina's baths|see = Tekla}}
+{{Infobox Character
+|Name = 
+|Image = Tw3 Thecla.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Milky white
+|Hair_color = White
+|Profession = Seer
+|Affiliations = [[Crones]]
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw3}}
+|Aka = Old Thecla}}
+'''Thecla''' was a very old, blind woman that was considered to be wise by the locals around the [[Road to Bald Mountain|village]] below [[Bald Mountain (location)|Bald Mountain]] and who worshiped the [[Crones]]. A cunning senior, she was accompanied by her young helper or more precisely servant, [[Marica]].
+
+At one point, she claimed that those in [[Downwarren]] were being punished with [[The Whispering Hillock]] for disrespecting the Crones.
+
+== Associated Quest ==
+* [[Bald Mountain (quest)|Bald Mountain]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]
+[[pl:Tekla]]
+[[ru:Текла]]

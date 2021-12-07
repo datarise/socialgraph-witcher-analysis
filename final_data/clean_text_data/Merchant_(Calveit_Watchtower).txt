@@ -1,0 +1,1 @@
+This merchant appears after Calveit Watchtower is cleared of monsters. Like other merchants, he sells a mixture of weapons, armor, diagrams, and crafting components.    Unlike many other merchants, this merchant's model and appearance is random for each player and playthrough. It's unclear why this is.

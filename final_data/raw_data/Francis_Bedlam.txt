@@ -1,0 +1,47 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw3_journal_bedlam.png
+|Aka = The [[King of Beggars]]
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Novigradian}}
+|Affiliations = [[Big Four]]<br>[[Blindeyes]]<br>[[Syndicate]]<ref>{{Gwent standalone}}</ref>
+|Profession = Crime lord
+|Abilities =
+|Family =
+|Hair_color = Bald
+|Eye_color = Brown
+|Appears_games = {{Tw3}}}}
+{{Quote|text = You say "tribute," I say "taxes." You say "thieves," I say "hard-workin' street clerks."|citation = Francis to Geralt}}
+'''Francis Bedlam''' was one of the [[Big Four|four]] underworld bosses in [[Novigrad]] in {{Year|canon = No|year = 1272}}, alongside [[Cyprian Wiley|Whoreson Junior]], [[Sigismund Dijkstra|Sigi Reuven]], and [[Carlo Varese|Cleaver]].
+
+On his search for [[Ciri]], [[Geralt of Rivia|Geralt]]'s travels finally take him to Francis' court, the [[Putrid Grove]], a safe haven in [[Novigrad]] for [[mage]]s, and those who had to flee the [[Witch hunter]]s.
+
+== Journal Entry ==
+:''"The Free City of Novigrad had known no king's rule for nearly two hundred years. Francis Bedlam surely has this fact in mind when he anointed himself the King of Beggars, a title that mocked the pomposity crowned heads while simultaneously stealing a bit of said pomp for itself. Bedlam was a pragmatic man, a trait of great use in his profession, which involved managing a network of thieves, beggars, tramps and street urchins that tricked through every part of the city.''
+:''His contacts provided him with the freshest gossip and tastiest morsels of information, and the cut he took of his "subjects" earnings guaranteed a sizeable income for the maintenance of his "court" in the Putrid Grove.''
+:''Francis despised fanaticism and prejudice in equal measure, which meant that mages fleeing the witch hunter's pincers often turned to him for protection.''
+
+== Associated Quests ==
+* [[Pyres of Novigrad]]
+* [[Get Junior]]
+* [[Honor Among Thieves]]
+
+== Gallery ==
+<gallery>
+Gwent cardart neutral king of beggars.jpg|Gwent standalone card art
+Gwent cardart syndicate king of beggars.png|Alternative gwent card art
+</gallery>
+
+== References ==
+<references />
+
+== External Links ==
+*{{Gwent|King of Beggars}}
+
+[[ar:فرانسيس بدلام]]
+[[pl:Franciszek Bedlam]]
+[[ru:Франциск Бедлам]]
+[[Category:Criminals]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

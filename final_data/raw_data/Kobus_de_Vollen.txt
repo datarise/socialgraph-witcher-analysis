@@ -1,0 +1,17 @@
+{{DisambigMsg|This article is about = the character in {{Tw1}}|For = the character in {{TLotL}}|see = Kobus de Ruyter}}
+{{Infobox Character
+|Image = People Nobleman.png
+|Hair_color = Gray
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Titles = [[Count]]
+|Profession = Palantine
+|Appears_games = {{Tw1}}}}
+'''Kobus de Vollen''',<ref>Intercepted name from conversation in [[New Narakort Inn]]</ref> palatine of the Northern Border, was a prominent [[Temeria]]n nobleman who was present at [[Adda the White|Adda]]'s [[A Posh Reception|reception]].
+
+== References ==
+<references />
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter III]]

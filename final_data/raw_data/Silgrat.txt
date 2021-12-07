@@ -1,0 +1,29 @@
+{{Infobox Character
+|Image = Tw2 Silgrat.png
+|Hair_color = Dark
+|Eye_color = Green
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Aedirnian}}
+|Relative = [[Seltkirk]] {{Small|text=brother}}
+|Appears_games = {{Tw2}}
+}}'''Silgrat''' was the younger brother of [[Seltkirk]], the hero of the previous war with [[Kaedwen]]. Everyone in [[Vergen]] had heard of Seltkirk, but his brother was not nearly as famous. Living in the shadow of his great brother, Silgrat became embittered, hungry for acclaim. He thought defeating a [[witcher]] in a fistfight would bring him glory. [[Geralt of Rivia|Geralt]] picked up the gauntlet after winning several fistfights at [[The Cauldron]] in [[Vergen]].
+
+== Associated Quests ==
+* [[One on One: Vergen]]
+* [[Royal Blood]]
+* [[A Score to Settle]]
+
+== Gallery ==
+<gallery>
+Tw2 screenshot silgrat.jpg|Younger brother of King's champion.
+Tw2 screenshot silgrat vergen.jpg|Fistfighting against Geralt.
+</gallery>
+[[de:Silgrat]]
+[[fr:Silgrat]]
+[[it:Silgrat]]
+[[ru:Зильгарт]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:The Witcher 2 Chapter III]]

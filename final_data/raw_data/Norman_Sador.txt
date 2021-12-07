@@ -1,0 +1,21 @@
+{{Infobox Character
+|Image =Norman Sador1.jpg
+|Ranks =Corporal
+|Race =[[Human]]
+|Gender =Male
+|Nationality ={{Temerian}}
+|Profession =Crossbowman
+|Affiliations =[[Temerian Army]]
+|Appears_games ={{Tw2}}
+}}
+'''Norman Sador''' was a [[Temeria]]n crossbowman and a veteran of the [[Battle of Brenna]] and the Pontar Wars.
+
+== {{Tw2}} ==
+During the Prologue, just before full charge on [[La Valette Castle]], King [[Foltest]] recognized and promoted him to corporal of crossbowmens for his long service to Crown. After that he appears no more.
+
+[[pl:Norman Sador]]
+[[ru:Норман Садор]]
+[[uk:Норман Садор]]
+[[Category:Humans]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Prologue]]

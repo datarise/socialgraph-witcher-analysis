@@ -1,0 +1,17 @@
+{{Infobox Character
+|Image = Tw3 Folmer.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = Warrior
+|Appears_games = {{Tw3}}
+}}
+'''Folmer''' was a warrior from [[Ard Skellig]], who can be encountered in the [[Kaer Trolde|town]] under the [[Kaer Trolde citadel]], with another warrior advising his friend [[Ruar]] to not eat so much, as he would likely be in pain and thus unable to go raiding otherwise.
+
+== Notes ==
+* Folmer does not have his own model and will appear in the form of a random warrior.
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

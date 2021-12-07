@@ -1,0 +1,51 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image =<gallery>
+File:Tw3 Morkvarg infobox.png|Human form
+File:Tw3 Morkvarg werewolf.png|Werewolf form
+</gallery>
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Blue
+|Hair_color =Brown
+|Profession =Pirate
+|abilities=[[Werewolf]]
+|Appears_games ={{Tw3}}
+|Affiliations = [[Terror Crew]]
+|Nationality = {{Skelliger}}}}
+{{Quote|text = Hrrrr you can't hide your stenchaa. hrrr mmmm...|citation = Morkvarg the Werewolf, {{Tw3}}|audio = Morkvarg voice line.ogg}}
+
+'''Morkvarg''' was a notorious and cruel pirate. He and his [[Terror Crew]] sailed the seas around [[Skellige]], pillaging and raping as they went and none seemed able to stop them. Morkvarg was said to fear nothing, except the wrath of the gods. In order to dispel that rumor as well, he and his crew sailed to [[Hindarsfjall]] to ransack [[Freya's Garden|Freya's garden]].
+
+There, they rounded up the priestesses and bound them, but the Arch priestess [[Ulve]] stood in Morkvarg's way. He cut her down together with the other clergywomen, but with her dying breath she uttered a curse upon him.
+
+It turns out it was not the priestess who cursed Morkvarg, but was [[Einar (Larvik)|Einar]], one of Morkvarg's crew members. Disgusted with the atrocities Morkvarg committed against the gods by defiling the garden, Einar transformed Morkvarg into a [[Werewolf]] using a cursed wolf pendant given to him by his father. The curse not only bound him to the garden for eternity, it also gave him an immense hunger that no food or prey could ever satisfy as it immediately turns to ash. Even trying to consume his own flesh would cause him incredible pain. If he is killed, he invariably is resurrected and returns to the garden where the cycle begins anew.
+== Associated Quest ==
+* [[In Wolf's Clothing]]
+
+== Trivia ==
+* The name Morkvarg is derived from Swedish ''mörk varg'', meaning "dark wolf".
+
+== Videos ==
+<gallery position="center">
+File:The Witcher 3 Morkvarg the Werewolf Boss Fight (Hard Mode)
+</gallery>
+
+== Gallery ==
+<gallery>
+Gwent_cardart_skellige_morkvarg_heart_of_terror.png|Morkvarg leading his fleet
+Gwent cardart skellige morkvarg.png
+Tw3 Morkvarg werewolf 2.jpg
+Tw3 Morkvarg human.png 
+Tw3 Morkvarg human 2.png
+</gallery>
+
+== External Links ==
+*{{Gwent|Morkvarg}}
+
+[[pl:Morkvarg]]
+[[ru:Моркварг]]
+[[Category:Humans]]
+[[Category:The Witcher 3 bestiary]]
+[[Category:The Witcher 3 characters]]
+[[Category:Criminals]]

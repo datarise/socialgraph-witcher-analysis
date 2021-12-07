@@ -1,0 +1,36 @@
+{{DisambigMsg|This article is about = the sylvan|For = the fighter in {{Tw2}}'s trailer|see = Allgood}}
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Allgod-001.jpg
+|Appears_games = {{Tw3}}
+|Affiliations =[[Cult of Allgod]]
+|Profession = Self-appointed god
+|Gender = Male
+|Race = [[Sylvan]]
+|Worshiped = local villagers}}
+'''Allgod''' was a [[sylvan]] worshiped by some villagers in [[Velen]]. His [[Cult of Allgod|cult]] was initiated in the 12th century after Allgod inadvertently "revealed" himself to Roslav of [[Oreton]], as he'd made his lair in a cellar below.
+
+== Biography ==
+Living in relative comfort for almost a century, Allgod secretly lived in the hidden cellar off of his worshipers' offerings, soon growing fat off the amount of food he demanded.
+
+{{Condition|Text = If Geralt comes along and discovers Allgod}} In {{Year|canon = no|year = 1272}}, [[Geralt of Rivia|Geralt]] discovered locals trying to appease Allgod with their meager offerings, as the [[Northern War III|war]] had ravaged their food source. Annoyed at the lack of food, Allgod claimed he'd bring bad luck down on the locals if his demands weren't met.
+
+:{{Condition|Text = If Geralt killed the sylvan}} Allgod soon learned he'd bitten off more than he could chew and the [[witcher]] summarily killed him for his greed.
+:{{Condition|Text = If Geralt convinced the sylvan to accept any offerings}} Geralt convinced the sylvan that the scraps that the local peasantry were offering would be sufficient. Allgod conceded but explained he would be back to good meals after the war was done.
+:{{Condition|Text = If Geralt couldn't persuade the sylvan}} Allgod made Geralt tell the peasantry that he would not take any scraps, which led to the peasants sacrificing even more of their food.
+
+== Associated Quest ==
+* [[A Greedy God]]
+
+== Gallery ==
+<gallery>
+File:Fight Geralt vs Allgod.jpg|Geralt fighting Allgod
+File:Arkadiusz-matyszewski-allgod-hp.jpg|Full render of him by Arkadiusz Matyszewski
+File:Arkadiusz-matyszewski-allgod-1.jpg|Colored render also by Arkadiusz Matyszewski
+Gwent_cardart_neutral_allgod.png|Gwent card art
+</gallery>
+
+[[es:Dios codicioso]]
+[[ru:Всебог]]
+[[Category:Sylvans]]
+[[Category:The Witcher 3 characters]]

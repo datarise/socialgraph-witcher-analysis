@@ -1,0 +1,14 @@
+{{Infobox Character
+|Image = LordSwann.png
+|Gender = Male
+|Nationality = {{Temerian}}
+|Titles = Lord
+|Profession = Knight
+|Affiliations = [[Foltest]]
+|Race = [[Human]]
+|Appears_games = {{Tw2}}}}
+'''Swann''' was a [[Temeria]]n noble who leads some of the men during the siege of [[La Valette Castle]]. His command from [[Foltest]] was to attack middle tower and ruin the main gate. He, his men, [[Foltest]] and [[Geralt of Rivia|Geralt]] went to stop [[Aryan La Valette]].
+[[Category:Humans]]
+[[Category:Knights]]
+[[Category:The Witcher 2 Prologue]]
+[[Category:The Witcher 2 characters]]

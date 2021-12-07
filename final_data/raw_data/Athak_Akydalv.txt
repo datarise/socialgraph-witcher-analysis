@@ -1,0 +1,34 @@
+{{Infobox Character
+|Aka = Errant Troll
+|Image = Tw3_Champion_of_Champions.jpeg
+|Titles = Champion of Champions
+|Race = [[Rock troll]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Profession = Fist fighter
+|Appears_games = {{Tw3}}
+}}
+{{Quote|text = Fight good!|citation = Champion to Geralt, {{Tw3}}|audio = Champion of Champions voice line.ogg}}
+
+'''Athak Akydalv''' was a [[rock troll]] and professional fist fighter who held the title of Champion of Champions in {{Year|canon=no|year=1272}}. Upon his arrival at the arena in [[Hov]] on the island of [[Spikeroog]], Athak won the title by defeating Zama, the previous Champion of Champions. For Geralt to earn the title Champion of Champions, he must defeat the previously-reigning fist fighting champions of [[Novigrad]], [[Velen]], and [[Skellige]], and finally Athak. It is not explicitly stated if Athak also defeated the previously-reigning champions.
+
+== Associated Quest ==
+*[[Fists of Fury: Champion of Champions]]
+
+== Notes ==
+
+* Initially, the troll's name is not known, and the arena's bookie states he would only reveal it if he is defeated. The troll gives his name if interacted with afterwards.
+* In the Polish (original) version it's spelled ''"Asiak Akydałw"'' which is ''"Kasia Władyka"'' backwards, which is the name of one of CDPR quest designers.
+
+==Gallery==
+<gallery>
+Gwent cardart skellige champion of hov.png |Card art in {{Gwent standalone}}
+</gallery>
+
+== External Links ==
+*{{Gwent|Champion of Hov}}
+
+[[pl:Athak Akydalv]]
+[[ru:Чемпион Чемпионов]]
+[[Category:The Witcher 3 characters]]
+[[Category:Trolls]]

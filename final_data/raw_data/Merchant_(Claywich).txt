@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant
+|Race =[[Human]]
+|Gender =Male
+|Profession =[[Merchant]]
+|Appears_games ={{Tw3}}
+|Image = Tw3 claywich merchant.png
+|Nationality = {{Temerian}}
+|Eye_color = Brown
+|Hair_color = Brown}}
+The '''merchant''' from [[Claywich]] does not appear there until he is freed from the [[Bandits' Camp]] located on a large island to the east of [[Oreton]]. Initially, he is marked on the map as a [[Person(s) in distress|person in distress]]. Once freed, the merchant can be found in Claywich, where he plays [[gwent]], using the [[Northern Realms Gwent deck|Northern Realms deck]], and sells some gwent cards.
+
+== Associated Quest ==
+* [[Person(s) in Distress]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Glińsk)]]

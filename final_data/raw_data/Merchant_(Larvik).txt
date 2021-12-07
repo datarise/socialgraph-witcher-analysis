@@ -1,0 +1,19 @@
+{{Character Tabs|first = main|second = store}}
+{{Stub}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant 
+|Image =Merchant-larvik.jpg
+|Race =[[Human]]
+|Nationality = {{Skelliger}}
+|Gender =Male
+|Eye_color =Green
+|Hair_color =Dark brown
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}
+The '''merchant''' in [[Larvik]] plays [[gwent]]. He plays with the [[Scoia'tael Gwent deck|Scoia'tael deck]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Larvik)]]

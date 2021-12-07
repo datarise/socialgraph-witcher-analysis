@@ -1,0 +1,17 @@
+{{Infobox Character
+|Name = Gottard
+|Image = Tw3 Gottard.jpg
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Hazel
+|Hair_color = Dirty blonde
+|Profession = Peasant
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}}}
+'''Gottard''' is peasant living in village [[Yantra]] on the east side of the lake, northeast of [[Novigrad]]. When leader of bandits known as [[Little Red (bandit)|Little Red]] wants to settle score with [[Bertram (peasant)|Bertram]], his neighbor, he is among villagers wanting to somehow protect him. When Geralt appears he is unwelcome at him but then changes his mind and tells everything he know.
+
+== Associated Quest ==
+* [[Little Red (quest)|Little Red]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

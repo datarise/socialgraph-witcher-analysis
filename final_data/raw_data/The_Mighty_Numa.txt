@@ -1,0 +1,38 @@
+{{Infobox Character
+|Image = Tw2 journal Numa.png
+|Race =[[Human]]
+|Gender =Male
+|Profession =[[Arm wrestling|Arm wrestler]]
+|Appears_games ={{Tw2}}
+|Eye_color = Blue}}
+'''The Mighty Numa''' was a circus performer and [[Arm wrestling|arm wrestler]] who can be found with [[Marcus]], his assistant, southeast of the tower near [[Loc Muinne]]'s central square during chapter III.
+
+== Journal Entry ==
+:''Mighty Numa's moniker was not baseless. This huge man supposedly had inhuman grit which he was liked to show off by, among other things, arm wrestling. He had no equal in this discipline. They say his grip could crush the hands of weaker opponents. Many tried to win the title of champion from him, yet nobody had managed to best him at this competition.''
+
+== Associated Quest ==
+*[[Bring it on: Loc Muinne]]
+
+==Trivia==
+*[[Skalen Burdon]] once challenged him to an arm wrestling match. After being defeated he could not move his arm for weeks.
+*There's a possible glitch in the game, if you beat him at arm wrestle, you can no longer die or regain vigor. (A possible workaround can be found [http://www.gamefaqs.com/boards/997903-the-witcher-2-assassins-of-kings/64541192 here])
+
+== Gallery ==
+<gallery>
+Tw2_screenshot_Numa_armwrestle.jpg|Arm wrestling with Geralt
+Tw2_screenshot_Numa_fistfight.jpg|Fistfighting with Geralt
+</gallery>
+
+== Videos ==
+<gallery position="center">
+File:The Mighty Numa (The Witcher 2) Full HD
+</gallery>
+
+[[de:Der Starke Numa]]
+[[fr:Numa le Puissant]]
+[[it:Numa il Possente]]
+[[ru:Могучий Нума]]
+[[pl:Mocarny Numa]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:Humans]]

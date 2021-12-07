@@ -1,0 +1,21 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 Lessy.png
+|Race = [[Human]]
+|Gender = Female
+|Hair_color = Black
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}
+|Eye_color = Brown
+|Parents = Unnamed mother
+|Relative = Unnamed grandmother {{Small|text=deceased}}<br>[[Jackamar]] {{Small|text=grandfather, deceased}}
+}}'''Lessy''' is the granddaughter of the unnamed Old Woman that asked [[Geralt of Rivia|Geralt]] to place her [[wedding ring]] on the grave of her husband, [[Jackamar]], who died in battle in [[Rinde]].
+
+If Geralt places the ring and goes to collect his reward, Lessy is surprised as her grandmother has been dead for years. However unbelievable it is to her, she feels Geralt is being honest and will give him a small reward for his troubles.
+
+== Associated Quest ==
+* [[Last Rites]]
+
+[[ru:Леся]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

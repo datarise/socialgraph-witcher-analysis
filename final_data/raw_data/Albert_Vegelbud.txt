@@ -1,0 +1,29 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = 
+|Image = Albert.jpg
+|Titles = [[Count]]
+|Race = [[Human]]
+|Gender = Male
+|Profession = Amateur alchemist
+|Family = [[Vegelbud family]]
+|Parents = [[Ingrid Vegelbud]] {{Small|text=mother}}
+|Relative = [[Patricia Vegelbud]] {{Small|text=grandmother}}<br>[[Luc Vegelbud]] {{Small|text=cousin}}
+|Appears_games = {{Tw3}}
+|Nationality ={{Redanian}} 
+|Hair_color = Blond
+|Eye_color = Blue}}
+'''Albert Vegelbud''' was an amateur alchemist from the [[Novigrad]] region and part of the wealthy [[Vegelbud family]].
+
+== Biography ==
+After [[Loc Muinne]]'s events and [[King]] [[Radovid V]]'s witch hunts, Albert became a target for his dabbling in alchemy. His mother, [[Ingrid Vegelbud]], used the family's wealth and influence to pay off the city guards to not tell the [[witch hunter]]s about her son, but somehow they still found out and planned to attack him on his [[Vegelbud Residence|family's own estate]].
+
+{{Condition|Text = If Geralt helps Triss get Albert out of Novigrad}} with [[Geralt of Rivia|Geralt]]'s help, Albert was safely evacuated from his family's estate during a masquerade ball. When other hiding mages fled Novigrad, he went with them to [[Kovir and Poviss|Kovir]], a known safe haven for [[magic]] users.
+
+== Associated Quest ==
+* [[A Matter of Life and Death (The Witcher 3)|A Matter of Life and Death]]
+
+[[pl:Albert Vegelbud]]
+[[ru:Альберт Вегельбуд]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

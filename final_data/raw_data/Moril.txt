@@ -1,0 +1,45 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw2 journal Moril.png
+|Hair_color = Blonde
+|Eye_color = Brown
+|Race = [[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender = Female
+|Partner = [[Seherim]]
+|Children = Unnamed son {{Small|text=dependent}}
+|Appears_games = {{Tw2}}
+}}
+'''Moril''' is a secondary character in {{Tw2}}. At the beginning of Chapter I, Geralt learns from [[Seherim]] and [[Cedric (elf)|Cedric]] that Moril disappeared nearly a year ago under mysterious circumstances. He also learns that Seherim was Moril's partner.
+==Roche's path==
+If Geralt sides with [[Vernon Roche|Vernon]] and participates in the raid on [[Bernard Loredo]]'s headquarters, he and [[Ves]] find Moril. Together, they free the now heavily pregnant young elven woman, who has been raped and held captive by Loredo.
+
+As the trio are attempting to leave the building, Moril's water breaks and Ves stays behind to assist in the delivery while Geralt fights his way out. After the fighting ceases, Ves emerges and announces that a healthy baby boy has been born, but the celebrations are short-lived as a blood-curdling scream is heard and Ves and Geralt rush back to find that Moril has taken her own life.
+
+Vernon then announces that they must leave and cannot take a newborn with them, so Geralt tells the soldiers to take the child to Seherim and to make sure to tell the elf that this child is Moril's.
+
+As Roche's ships sails out of Flotsam harbour, Seherim can be seen with the child on the shore.
+== Associated Quests ==
+* [[At a Crossroads: Vernon Roche]]
+* [[Death to the Traitor!]]
+
+== Journal Entry ==
+:''At times a man is left to wonder whether there are any limits to depravity in this world. The elf woman Moril had disappeared from [[Flotsam]] many months before and was found in the tower in Commandant [[Loredo]]'s house. At the mercy of the degenerate and his mad mother, beaten and abused, she was but a pale shadow of a once proud [[Aen Seidhe]].''
+:''As long as she was with child, the elf had a purpose, a goal to live for. Yet as soon as that child was born, the tormented Moril decided to end her life and opened her veins. Thus her tragic story came to an end.''
+
+== Gallery ==
+<gallery>
+Tw2_screenshot_moril_01.png|Moril in Loredo's mansion
+Tw2_screenshot_moril_02.png|Helping Moril escape
+Tw2_screenshot_moril_03.png
+Tw2_screenshot_moril_04.png
+Tw2_screenshot_moril_05.png|Dead Moril with son
+Tw2_screenshot_moril_06.png|Seherim with Moril's son
+</gallery>
+
+[[de:Moril]]
+[[it:Moril]]
+[[pl:Moril]]
+[[ru:Мориль]]
+[[Category:Elves]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]

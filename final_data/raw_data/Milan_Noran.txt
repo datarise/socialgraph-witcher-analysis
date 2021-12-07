@@ -1,0 +1,18 @@
+{{Infobox Character
+|Image =Tw3 Milan Noran.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Blue
+|Hair_color =Bald {{Small|text=black eyebrows}}
+|Profession =[[Soldier]]
+|Ranks =Officer
+|Nationality = {{Alban}} (?)
+|Appears_games ={{Tw3}}
+}}'''Milan Noran''' was an officer of the [[Nilfgaardian Army|Imperial Army]] of [[Nilfgaardian Empire|Nilfgaard]]. He was stationed in [[Velen]] with his outpost in village of [[Oreton]].
+
+== Associated Quest ==
+*[[Contract: The Mystery of the Byways Murders]]
+
+[[ru:Милан Норан]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

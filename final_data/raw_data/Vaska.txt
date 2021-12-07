@@ -1,0 +1,63 @@
+{{Infobox Character
+|Image = People Grandma full.png
+|Hair_color = Grey
+|Race = [[Human]]
+|Gender = Female
+|Titles = Eldress
+|Profession = [[Merchant]]
+|Voice = [http://www.imdb.com/name/nm0302502/ Teresa Gallagher]
+|Appears_games = {{Tw1}}}}
+'''Vaska''' was the eldress of the [[Brickmakers' village]]. These simple folk live in the [[swamp]], surrounded by Clay Pits, the [[Sephirot|Maal'kad]] and [[Sephirot|Y'esath]] obelisks. She worships the [[Water Lords]] — probably [[vodyanoi]] — and is quite touchy when it comes to them. She talks in riddles and seems a bit crazy, but her flock respects her and she does provide some useful information.
+
+She can be found during Chapters II and III either inside her hut, or just outside, doing her laundry. In the Epilogue, she reappears at the [[safe house]] in the [[Temple Quarter]] where she gives Geralt one last piece of advice regarding his destiny.
+
+Vaska is a [[The Witcher dice poker|novice dice player]] as well as a merchant. She buys and sells:
+* [[The Witcher food and drink|food]]
+* [[Alcohol]]
+* [[Wyvern meat]]
+* [[Wyvern egg]]s
+
+== Associated Quests ==
+* [[A Lost Lamb]]
+* [[A Mysterious Tower]]
+* [[Berengar's Secret]]
+* [[Clay Pits]]
+* [[Dice Poker: The Novice]], as a possible opponent
+* [[Diplomacy and Hunting]], indirectly
+* [[Monoliths]]
+* [[Reaping Time]]
+* [[The Sentry]]
+
+== [[The Witcher journal|Journal]] Entry ==
+:''Vaska is the leader of the brickmakers who live in the swamp. She talks in riddles and seems a bit crazy.''
+:''She seems to worship the Water Lords — probably vodyanoi — and is quite touchy when it comes to them.''
+
+== Notes ==
+* Geralt can [[Meditation|rest]] at her house whenever she is there.
+
+== Videos ==
+<gallery position="center">
+File:Vaska_Reaping_Time
+</gallery>
+
+== Gallery ==
+<gallery>
+File:People_Vaska.png|Vaska's journal image
+File:Places_Vaskas_house.png|Vaska's hut
+</gallery>
+
+[[cs:Vaska]]
+[[de:Vaska]]
+[[es:Vaska]]
+[[fr:Vaska]]
+[[hu:Vaska]]
+[[lt:Vaska]]
+[[pl:Vaska]]
+[[ru:Васка]]
+[[it:Vaska]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter II]]
+[[Category:The Witcher Chapter III]]
+[[Category:The Witcher Epilogue]]

@@ -1,0 +1,50 @@
+{{Infobox Character
+|Name = 
+|Image = <gallery>
+Tw3 Zdenek.png|Tw3
+People Zdenek full.png|Tw1
+</gallery>
+|Affiliations = 
+|Profession = [[Fistfighters in The Witcher|Fistfighter]]
+|Abilities =
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = White
+|Appears_games = {{Tw1}}
+{{Tw2}}<br>{{Tw3}}
+|Nationality = {{Temerian}}
+|Status = Deceased {{Small|text=killed by thugs}}}}
+'''Zdenek''' was an aging [[Fistfighters in The Witcher|champion]] of [[The Witcher fistfighting|fistfighting]], considered the world's best boxer throughout [[Temeria]] due to never being defeated twice in a row. However, when he went to enter [[Whoreson Junior]]'s [[Whoreson Junior's arena|arena]] in [[Novigrad]] in {{Year|canon=no|year=1272}}, he was murdered by thugs just outside the arena.
+
+== Biography ==
+Little is known about his past. "Zdenek" was his pseudonym but he kept his real name a secret. During {{Year|canon=no|year=1270}}, Zdenek could be found in the [[Refugees' caves|southernmost refugee cave]] in the [[swamp cemetery]], keeping his fistfights to the privacy of his own chamber in the cave. One of his biggest fans was [[Zahin Schmartz]], who would pay 250{{Oren}} for Zdenek's tooth.
+
+After leaving Vizima he went to [[Flotsam]] where he became champion soon enough. He also slightly changed his appearance by shaving his head.
+
+In 1272 he ended up in Novigrad where he was murdered by thugs near [[The Nowhere Inn]] on his way to join fistfights in Whoreson Junior's arena.
+
+== {{Tw1}} ==
+=== Associated Quests ===
+* [[Fistfight (quest)|Fistfight]]
+* [[Won't Hurt a Bit]]
+
+== {{Tw2}} ==
+=== Associated Quest ===
+* [[Fight Club]]
+
+== {{Tw3}} ==
+=== Associated Quest ===
+* [[Get Junior]]
+[[cs:Zdeněk]]
+[[de:Zdenek]]
+[[fr:Zdenek]]
+[[it:Zdenek]]
+[[pl:Zdenek]]
+[[ru:Ждан]]
+[[Category:Humans]]
+[[Category:The Witcher Chapter V]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 3 characters]]

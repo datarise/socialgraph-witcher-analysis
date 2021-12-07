@@ -1,0 +1,18 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} {{Gwent Player}} Innkeep
+|Image = Innkeep-larvik.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Brown
+|Hair_color = Bald
+|Profession = [[Innkeeper]]
+|Appears_games = {{Tw3}}
+}}The '''innkeep''' in [[Larvik]] plays [[Gwent|gwent]]. He uses the [[Scoia'tael Gwent deck|Scoia'tael deck]].
+
+[[Category:Humans]]
+[[Category:Innkeepers]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Karczmarz (Larvik)]]

@@ -1,0 +1,21 @@
+{{Infobox Character
+|Nationality = {{Kaedwenian}}
+|Gender = Male
+|Profession = [[Mage]] {{Small|text=student}}
+|Affiliations = [[Ban Ard Academy]]
+|Abilities = [[Magic]]
+|Family = 
+|Race = [[Human]]
+|Appears_games = {{HoS}}}}
+'''Igor de Sade''' was a [[Kaedwen]]i noble-born [[mage]], or in fact student at [[Ban Ard Academy]] who wrote ''On the Workings and Construction of Golems, Based on the Work of Master [[Alzur]] ''just some minutes before he died by hands of an earth elemental ([[golem]]).<ref>[[Igor de Sade's journal]]</ref>
+
+== Trivia ==
+*Igor de Sade's story is loosely based on Dr. [https://en.wikipedia.org/wiki/Victor_Frankenstein Victor Frankenstein].
+**His name is also a reference to [https://en.wikipedia.org/wiki/Igor_(character) Igor], Frankenstein's assistant in various movie adaptations of the story.
+
+== References ==
+<references />
+
+[[ru:Игорь де Садэ]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

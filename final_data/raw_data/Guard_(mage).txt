@@ -1,0 +1,14 @@
+{{Infobox_Character
+|Image = Tw2 Vran Guard.png
+|Race = [[Vran]]
+|Eye_color = Ruby-red
+|Gender = Male
+|Profession = [[Mage]]
+|Appears_games = {{Tw2}}}}
+The '''Guard''' was a [[vran]] [[mage]] entrusted with the protection of the [[forgotten vran sword]] hidden in an [[Crypt of Mages|ancient crypt]] under [[Loc Muinne]]. To do so, the Guard wielded a powerful staff which helped him with [[teleportation]], raining [[fireball]]s, creating [[Protection (defensive spell)|defensive shields]] and summoning [[wraith]]s.
+
+[[ru:Страж]]
+[[Category:Vrans]]
+[[Category:Mages]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:The Witcher 2 characters]]

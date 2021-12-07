@@ -1,0 +1,47 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Tw2_journal_Anais.png
+|Race = [[Human]]
+|Gender = Female
+|Family = [[House of La Valette]]
+|Parents = [[Maria Louisa La Valette]] {{Small|text=mother}}<br>[[Old Baron La Valette]] {{Small|text=official father}}<br>[[Foltest]] {{Small|text=biological father}}
+|Relative = [[Adda the White]] {{Small|text=half-sister}}<br>[[Aryan La Valette]] {{Small|text=half-brother}}<br>[[Boussy La Valette]] {{Small|text=brother}}
+|Appears_games = {{Tw2}}
+|Nationality = {{Temerian}}}}
+'''Anaïs La Valette''' was the daughter of [[Mary Louisa La Valette]] and sister of [[Boussy La Valette|Boussy]]. Who her father was is not known for sure. Officially, it was the [[Old Baron La Valette]], but many rumors persist that she and her brother were actually [[King]] [[Foltest]] of [[Temeria]]'s progeny. If this is true, then both she and her brother were in line for the Temerian throne.
+
+In Chapter II, if [[Geralt of Rivia|Geralt]] chose [[Vernon Roche|Roche]]'s path, he learned that Boussy was accidentally killed in the attempt to kidnap the siblings, leaving Anaïs the sole heir to the throne. If Geralt handed her over to [[John Natalis]], Roche will later inform Geralt that when Natalis tried to give her a doll to play with, she refused, stating she wanted a sword and to learn how to fight.
+
+== Journal Entry ==
+: ''The daughter of [[Baroness]] Mary Louisa La Valette was a scant few summers old at the time. Rumors that King Foltest was her father gave beginning to many important events.''
+
+== Associated Quests ==
+* [[The Assassins of Kings]]
+* [[Of His Blood and Bone]]
+
+==Note==
+* [[Of His Blood and Bone]] is a quest related to a kidnapped Anaïs that Geralt must free. You can unlock this quest only if you chose to side with [[Roche]] at the end of Chapter I, and if you choose to follow Vernon after [[For Temeria!]] quest, in Chapter III, instead of saving Triss.
+* During the whole game she does not say anything directly.
+* In the novel {{BoE}} it is only said that Maria Luiza and King Foltest were in love, but nothing about common children.
+
+== Gallery ==
+<gallery>
+Witcher2 - foltest and kids.png|Foltest and the kids (Boussy and Anaïs)
+Anais screen1.jpg
+Anais jail screen3.jpg|Anaïs kidnapped in Chapter III
+Anais Natalis screen.jpg|Anaïs and Constable [[John Natalis]]
+</gallery>
+
+[[cs:Anais La Valette]]
+[[de:Anais La Valette]]
+[[fr:Anaïs de La Valette]]
+[[it:Anaïs La Valette]]
+[[pl:Anais La Valette]]
+[[pt-br:Anais La Valette]]
+[[ru:Анаис Ла Валетт]]
+[[uk:Анаїс Ла Валетт]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:The Witcher 2 Prologue]]
+[[Category:The Witcher 2 Chapter III]]
+[[Category:The Witcher 3 mentioned-only characters]]

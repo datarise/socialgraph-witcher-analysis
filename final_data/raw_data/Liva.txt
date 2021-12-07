@@ -1,0 +1,30 @@
+{{Infobox Character
+|Image = Tw2_journal_Liva.png
+|Race =[[Human]]
+|Gender =Female
+|Affiliations =[[Kaedweni camp]]
+|Profession =Medic
+|Appears_games ={{Tw2}}
+}}'''Liva''' was a [[medic]] working in the [[Kaedweni camp]] in 1271.
+
+== Journal Entry ==
+:''Because the hygiene of nearly every army's troops leaves a lot to be desired, military brothels have a reputation as dens of questionable pleasure and indubitable gonorrhea. Therefore Liva, fulfilling both the role of camp follower and medic, was an important element of the military machine. A brothel without medical supervision can easily turn into a seed of infirmity, and that is just one step away from becoming a source of sabotage and damaging military capability.''
+:''Liva had worked in the camp during the previous [[Kaedwen]]i-[[Aedirn|Aedernian]] campaign, and knew a lot about the events of those terrible days.''
+
+== Associated Quests ==
+* [[Conspiracy Theory]]
+* [[Little Sisters]]
+
+== Videos ==
+<gallery position="center">
+File:Little Sisters (The Witcher 2) Full HD
+</gallery>
+
+[[de:Liwa]]
+[[fr:Liva]]
+[[it:Liva]]
+[[pl:Liwa]]
+[[ru:Лива]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Humans]]

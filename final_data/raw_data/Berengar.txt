@@ -1,0 +1,103 @@
+{{DisambigMsg|This article is about = the witcher in {{Tw1}}|For = the [[Nilfgaardian Empire|Nilfgaardian]] nobleman|see = Berengar Leuvaarden}}
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = People Berengar full.png
+|Status = Deceased
+|Hair_color = Brown
+|Race = [[Human]] {{Small|text=[[Witcher]]}}
+|Gender = Male
+|Profession = [[Witcher]]
+|Affiliations = [[School of the Wolf]]<br>[[Salamandra]]
+|Abilities = Superhuman Abilities<br>Swordsmaship<br>[[Alchemy]]<br>[[Signs]]
+|Voice = [http://www.imdb.com/name/nm0662511/ Nathaniel Parker]
+|Appears_games = {{Tw1}}<br>{{Tw2}} {{Small|text=in a dream}}<br>{{Tw3}} {{Mo}}
+}}
+'''Berengar''' was a [[witcher]] of the [[School of the Wolf]] taught by [[Vesemir]] at [[Kaer Morhen]] and active during the [[Timeline/Games|13th century]].
+
+==Biography==
+During his time at Kaer Morhen, he was attempting to forge the sword [[Tor'haerne]], and left to fight a [[chort]] in the valley. He was unsuccessful and lost the diagram for the sword.<ref>{{Tw3}}</ref>
+
+== {{Tw1}} ==
+After a long search through the swamp, Geralt finds a [[Split salamander brooch|cloven Salamandra medallion]], along with Berengar's belongings leading him to conclude that Berengar must be dead. However, in Chapter IV, Geralt finds Berengar, still very much alive just outside of [[Murky Waters]].
+
+Berengar and Geralt work together briefly, before Berengar explains why he left Kaer Morhen. He voices his disdain for the Witchers, whom he holds responsible for denying him a normal life. Later, on [[Black Tern Island]], Berengar confronts Geralt with the intention of challenging him to a duel, forcing Geralt to choose once again, his next course of action.
+
+If he spares Berengar, then Geralt will have an ally to aid in the final battle with [[Azar Javed]]. If he duels with Berengar (as Geralt tells Berengar, just before the fight), only one can come out alive and Geralt prevails. This leaves Geralt with Berengar's remaining belongings, which include a [[Berengar's medallion|powerful medallion]], so powerful in fact, that Azar Javed cannot fail to notice it in the final battle.
+
+Note that when Azar Javed kills Berengar (if Geralt spared him earlier), the [[Berengar's medallion|powerful medallion]] cannot be found on his corpse.
+
+=== Notes ===
+It is actually possible to prevent Azar Javed from killing Berengar at the end of Chapter V, but nothing happens between Geralt and Berengar if this is the case. When the player clicks on Berengar, the witcher says: ''"I needed time to think"'' as a normal NPC would do, no choice dialogues appear. If Geralt returns to the Laboratory in the catacombs of the Old Mansion, Berengar is still standing there as if the game never expected the player to prevent Berengar's death.
+
+=== Associated Quests ===
+Berengar is implicated in the following quests:
+
+* [[Alvin (quest)|Alvin]]
+* [[Armor (quest)|Armor]]
+* [[Berengar's Secret]]
+* [[Memory of a Blade]] (indirectly)
+* [[Ripples]]
+* [[Sweet Revenge]]
+* [[The Paths of Destiny]]
+
+=== [[The Witcher journal|Journal]] Entry ===
+:''Vesemir mentioned a witcher who had left Kaer Morhen before my arrival. His name is Berengar.''
+:''Berengar was seen in the Outskirts earlier. He agreed to kill the Beast but then disappeared. Did he fear facing the monster?''
+:''I found out Berengar had dealings with Salamandra. I don't know whether he was their associate or enemy.''
+:''Berengar remains one step ahead of me. He was in Vizima, where he was hired by Kalkstein the alchemist. Just like me.''
+:''Berengar the witcher is dead.''
+:''The early rumors about Berengar proved false. The witcher was working with Salamandra, and the Professor had ordered him to find Alvin.''
+:''I finally met Berengar in the village of Murky Waters. A bitter and unfriendly outcast, he bears a grudge against other witchers. Apparently, I'm included.''
+:''I had a serious conversation with Berengar, which left me with a better understanding of his experiences and motivations. Berengar seemed moved and decided to seek peace elsewhere, far away from trouble''.
+
+:''Berengar wrote a letter in which he admitted that he was a coward, that he had collaborated with Salamandra and that he had betrayed Kaer Morhen. I was moved by our meeting - Berengar set off to Vizima to catch Azar Javed in a hidden Salamandra laboratory.''
+:'''If Geralt kills Berengar''':
+
+::''After a tense conversation, Berengar challenged me to a duel. I had to kill him.''
+:'''If Geralt spares Berengar''':
+
+::''This time it was Berengar who followed me. He came to my aid as I fought Azar Javed. Unfortunately, he perished, but his sacrifice was not in vain.''
+
+There is no additional entry to Berengar's character section if the player prevents Javed from killing him.
+
+== {{Tw2}} ==
+[[File:Witcher2_2016-09-23_15-03-56-289.jpg|thumb]]Berengar and another witcher who seems to be [[Lambert]] appear in Geralt's dream at the beginning of the second game.
+=== Associated Quests ===
+* [[The Assassins of Kings]] (dream only)
+
+== {{Tw3}} ==
+Although deceased, Berengar is indirectly involved in the Kaer Morhen quest [[Berengar's Blade]]. The quest cannot be triggered if Geralt already has the silver blade [[Tor'haerne]] in his possession. Also, while doing the [[Contract: Doors Slamming Shut]], Geralt can tell his contract giver which school he belongs to. When answering he belongs to the school of the Wolf, [[Count]] [[Kurt Dysart]] will tell him he once knew a witcher from the school of the wolf, his name beginning with the letter B, possible referring to Berengar.
+
+== Videos ==
+<gallery position="center">
+File:Berengar The Paths of Destiny
+File:Legends of The Witcher Who is The Witcher Berengar?-0
+</gallery>
+
+== Gallery ==
+<gallery>
+File:Witcher2 2016-09-23 15-08-08-822.jpg|Berengar and (likely) Lambert in second game.
+File:People Berengar 2.png|Before Geralt meets him.
+File:People Berengar.png|Entry after they meet.
+File:Cutscene killed Berengar 1.png|Geralt and dead Berengar.
+File:Cutscene spared Berengar 1.png|Berengar leaves Geralt.
+</gallery>
+
+==References==
+<references />
+
+[[cs:Berengar]]
+[[de:Berengar]]
+[[es:Berengar]]
+[[fr:Berengar]]
+[[hu:Berengar]]
+[[it:Berengar]]
+[[pl:Berengar]]
+[[ru:Беренгар]]
+[[uk:Беренгар]]
+[[Category:Witchers]]
+[[Category:The Witcher Chapter IV]]
+[[Category:The Witcher Chapter V]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 3 mentioned-only characters]]

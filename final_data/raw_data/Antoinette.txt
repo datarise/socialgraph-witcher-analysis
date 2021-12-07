@@ -1,0 +1,39 @@
+{{Infobox Character
+|Image = People Noblewoman 3.png
+|Hair_color = Brown
+|Eye_color = Blue
+|Race = [[Human]]
+|Gender = Female
+|Nationality = {{Toussaintois}}
+|Relative = [[Buse]] {{Small|text=cousin}}<br> 
+[[Corbin]] {{Small|text=cousin}}<br>[[Ramerot]] {{Small|text=cousin}}<br>[[Jean-Pierre]] {{Small|text=fiancé}}
+|Appears_games = {{Tw1}}
+}}'''Antoinette''' was a noblewoman from [[Beauclair]], [[Toussaint]], that Geralt meets after his audience with the [[King Foltest|King]] at the [[Foltest's castle|Royal castle]] in the original game.
+
+== {{Tw1}} ==
+At the beginning of [[:Category:The Witcher Chapter V|Chapter V]]. Her cousins, [[Buse]], [[Corbin]] and [[Ramerot]] are in hiding in the [[Refugees' caves|refugee caves]] in the [[swamp cemetery]] after incurring the disfavour of the king and they are completely out of [[oren]]s.
+
+When Geralt speaks to Antoinette, she mentions that she recognizes Geralt because in her home many years ago, she saw him dancing all night with [[Fringilla Vigo|a sorceress]] that he was very fond of.
+
+Geralt doubts this due to his inability to dance. Antoinette questions if all Witcher's have white hair; Geralt says he is the only one, and she says she must be confused because she remembers him dancing with a sorceress.
+
+=== Associated Quest ===
+* [[Mud and Velvet]]
+
+=== Antoinette's cousins ===
+* '''Corbin''' is in the Druids' cave.
+* '''Buse''' is in the refugee cave nearest the entrance to the cemetery on Cemetery Island.
+* '''Ramerot''' is in the southernmost refugee cave, in the chamber next to the boxer, Zdenek.
+
+:
+[[cs:Antoinette]]
+[[de:Antoinette]]
+[[es:Antoinette]]
+[[fr:Antoinette]]
+[[hu:Antoinette]]
+[[pl:Antoinette]]
+[[ru:Антуанетта]]
+[[it:Antoinette]]
+[[Category:Humans]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter V]]

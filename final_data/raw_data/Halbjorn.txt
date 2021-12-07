@@ -1,0 +1,42 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Halbjorn
+|Image = Tw3_journal_halbjorn.png
+|Status = Deceased
+|Hair_color = Brown
+|Eye_color = Blue
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|COA = Tw3 dimun shield.png
+|Profession = Warrior
+|Affiliations = [[Clan Dimun]]
+|Family = [[Clan Dimun]]
+|Relative = [[Holger Blackhand]] {{Small|text=father}}
+|Appears_games = {{Tw3}}
+}}
+'''Halbjorn''' was the son<ref>According to in-game dialogue in {{Tw3}}</ref> of [[Holger Blackhand]].
+==Biography==
+In {{Year|canon=no|year=1272}}, Halbjorn attended the wake at [[Kaer Trolde]] that followed King [[Bran Tuirseach|Bran]]'s death. There, he sat at the table reserved for the children of jarls, along with [[Cerys an Craite]], [[Blueboy Lugos]], and [[Otrygg an Hindar]]. They were all later joined briefly by [[Geralt of Rivia|Geralt]] and [[Yennefer of Vengerberg|Yennefer]]. At the end of the wake, Halbjorn was among those who put forth a claim to the throne of Skellige.
+
+Later that year, Halbjorn was one of many victims killed by the Vildkaarl massacre at Kaer Trolde.
+
+== Journal Entry ==
+: ''Young Halbjorn was the nephew of Holger Blackhand, the jarl of Faroe, and one of the claimants to Skellige's crown.''
+: ''Despite his young age he had already managed to achieve some renown, both during overseas raids and while fighting the monsters dwelling in the dangerous regions of the archipelago. His deeds had earned him enough fame, name-recognition and treasure that he stood a good chance of being elected king.''
+: ''Halbjorn's courage and bravery were not enough, however, to save him from the massacre of Kaer Trolde.''
+
+== Associated Quests ==
+* [[The King is Dead – Long Live the King]]
+* [[King's Gambit]]
+== Notes ==
+* His journal entry incorrectly spells his name as "Hjalborn". Cerys and Geralt also pronounce his name as "Hjalborn".
+* At the wake, Cerys introduces Halbjorn as the son of Holger Blackhand, a statement which Geralt may then acknowledge by replying that the table at which they are sat is only occupied by the children of jarls. However, Halbjorn's journal entry incorrectly states that he is the ''nephew'' of Holger Blackhand.
+
+==References==
+<references />
+[[ar:هالبيورن]]
+[[pl:Halbjorn]]
+[[ru:Хальбьорн]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

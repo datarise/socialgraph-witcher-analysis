@@ -1,0 +1,34 @@
+{{SpoilerBanner}}
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} {{Gwent Player}} Olivier
+|Image =Tw3 olivier.png
+|Race =[[Human]]
+|Gender =Male
+|Eye_color =Brown
+|Hair_color =Black (beard)
+|Profession = [[Innkeeper]]
+|Appears_games ={{Tw3}}
+|Nationality = {{Redanian}}
+}}
+'''Olivier''' was the owner and innkeeper of [[The Kingfisher Inn|The Kingfisher]] in [[Novigrad]], having named it after one of [[Dandelion]]'s ballads.
+
+He plays [[Gwent]], using the [[Monsters Gwent deck|Monsters deck]], and the [[Tibor Eggebracht (gwent card)|Tibor Eggebracht]] card can be obtained from him if beaten. He also sells the following cards:
+* [[Havekar Healer (gwent card)|Havekar Healer]]
+* [[Havekar Smuggler (gwent card)|Havekar Smuggler]]
+* [[Mahakaman Defender (gwent card)|Mahakaman Defender]]
+* [[Vrihedd Brigade Veteran (gwent card)|Vrihedd Brigade Veteran]]
+
+== Associated Quests ==
+* [[Gwent: Playing Innkeeps]]
+* [[Now or Never]]
+
+== Notes ==
+* If Geralt decides to help [[Anisse]] and [[Berthold]], in the quest [[Now or Never]], Olivier will be killed by the [[Witch hunter]]s. He is then replaced by an [[Innkeep (The Kingfisher)|unnamed innkeeper]].
+* If Olivier dies during Now or Never quest and the player didn't win his card yet, it can be found in the room near the counter, opposite the entrance to the cellar.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Oliwier]]
+[[ru:Оливер]]

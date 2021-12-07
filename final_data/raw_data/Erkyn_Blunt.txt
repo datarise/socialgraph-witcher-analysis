@@ -1,0 +1,28 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = Erkyn von Blunt
+|Image = People_Erkin_full.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[Knight]]/spy
+|Appears_games = {{Tw1}}}}
+'''Erkin von Blunt''', otherwise known as [[Thaler (spy)|Thaler]]'s mute friend at [[A Posh Reception]]. Thaler says he has taken at least two vows: a vow of silence and a vow to protect the Royal Family, despite Adda's obvious contempt. What is his game? Perhaps a drink would loosen him up?
+
+[[Geralt of Rivia|Geralt]] meets this fellow in Chapter III, during the posh reception at [[The New Narakort]]. He does not speak, at least not at first, and Thaler explains that von Blunt has designated him as his spokesman, considering that his vow does not permit him to speak and that he is hoping for an audience with [[Declan Leuvaarden|Leuvaarden]] as well as the [[Adda the White|Princess]].
+
+A few tankards of [[Alcoholic beverages|sodden mead]] (or other medium strength alcohol) later and that vow is no more. Erkin lets it slip that he is really just one of Thaler's boys who is ''supposed'' to be there incognito. He begs the witcher not to publicize his lamentable lapse in judgement and gives Geralt the [[House of the Night signet ring]] to keep quiet.
+
+== Notes ==
+* Erkyn has supposedly taken a vow of silence, sworn on a heron. This is a reference to {{TLotL}}, where many of the errant knights of [[Toussaint]] take vows on a roast heron.
+
+== Associated Quest ==
+* [[A Posh Reception]]
+[[de:Erkyn von Blunt]]
+[[it:Erkin von Blunt]]
+[[pl:Erkyn von Blunt]]
+[[ru:Эркин фон Блант]]
+[[Category:Humans]]
+[[Category:Knights]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter III]]

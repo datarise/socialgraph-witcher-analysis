@@ -1,0 +1,33 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = BertholdCandeleria.png
+|Race = [[Dwarf]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Profession = [[The Witcher 2 merchants|Merchant]]
+|Appears_games = {{Tw2}}
+}}
+'''Berthold Candeleria''' was a [[The Witcher 2 merchants|merchant]], [[craftsman]], and [[The Witcher 2 dice poker|dice poker player]] who can be found at the [[Dwarf|dwarven]] smithy south of [[Einar Gausel]]'s house in the [[nonhuman]] district of [[Flotsam]]. Geralt can play [[dice poker|dice]] with him.
+==Biography==
+A representative of a guild can be seen subtly threatening Berthold with setting his workshop on fire and breaking his arm, unless he joins the guild. Berthold, however, considers his weapons superior and refuses to change his prices and join the guild, despite the threats.
+==Notes==
+*In some versions of the game (like the Enhanced Edition) he no longer sells any of the [[Red meteorite ore|3]] [[Yellow meteorite ore|Meteorite]] [[Blue meteorite ore|Ores]].
+
+== Associated Quests ==
+* [[Poker Face: Flotsam]]
+* [[A Sword for Monsters]]
+
+== Gallery ==
+<gallery>
+tw2-screenshot-candeleria-02.png
+</gallery>
+
+[[de:Berthold Candeleria]]
+[[fr:Berthold Candeleria]]
+[[it:Berthold Candeleria]]
+[[pl:Berthold Candeleria]]
+[[ru:Бертольд Канделерия]]
+[[Category:The Witcher 2 characters]]
+[[Category:Dwarves]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 Chapter I]]

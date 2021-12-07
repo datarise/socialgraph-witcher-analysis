@@ -1,0 +1,17 @@
+{{Infobox Character
+|Image = Valdo.jpg
+|Hair_color = Brown
+|Eye_color = Brown
+|Race = [[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender = Male
+|Profession = Circus performer
+|Appears_games = {{Tw3}}}}
+'''Valdo''' is an [[elf]]. He and his friend [[Aegar]] are part of a non-human travelling circus. Valdo became friends with [[Ciri]] and helped her to escape the [[Wild Hunt]].
+
+== Associated Quest ==
+* [[Payback]]
+
+[[pl:Valdo]]
+[[ru:Вальдо]]
+[[Category:Elves]]
+[[Category:The Witcher 3 characters]]

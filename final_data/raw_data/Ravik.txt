@@ -1,0 +1,20 @@
+{{Infobox Character
+|Image = Tw3 Ravvi.png
+|Aka = Ravvy
+|Race = [[Human]]
+|Gender = Male
+|Nationality = 
+|Abilities = 
+|Eye_color = Brown
+|Hair_color = Blond
+|Appears_games = {{Tw3}}
+}}
+'''Ravik''', also known as '''Ravvy''', was a friend of [[Zoltan Chivay|Zoltan]]'s and a fellow [[Gwent]] card collector. He had the unique "[[John Natalis (gwent card)|John Natalis]]" gwent card. You can find him at [[The Golden Sturgeon]], where he is being held hostage by [[Earl (gangster)|Earl]].
+
+== Associated Quest ==
+* [[A Dangerous Game]]
+
+[[pl:Ravik]]
+[[ru:Равик]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

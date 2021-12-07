@@ -1,0 +1,14 @@
+{{Infobox Character
+|Image = Tw3 yagoda.png
+|Race = [[Human]] {{Small|text=presumably}}
+|Gender = Female
+|Nationality = {{Temerian}}
+|Appears_games = {{Tw3}}
+|Status = Deceased}}
+'''Yagoda''' was a woman that lived in [[Lurtch]] when, in {{Year|canon=no|year=1272}}, the village inhabitants robbed from a nearby altar, not realizing it was cursed. Shortly after, she and all the rest were transformed into pigs. Unfortunately, due to a war going on, famine was rampant and when several bandits passed through, they captured Yagoda in her pig form and killed and roasted her, not realizing her true origins.
+
+== Associated Quest ==
+* [[Fools' Gold]]
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

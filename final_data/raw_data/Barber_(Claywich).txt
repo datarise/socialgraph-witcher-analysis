@@ -1,0 +1,15 @@
+{{Infobox Character
+|Name = {{Barber}} {{PAGENAME}}
+|Image = Tw3 Claywich barber.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = [[Barber]]
+|Appears_games = {{Tw3}}
+|Nationality = {{Temerian}}}}
+
+This '''Barber''' arrived to [[Claywich]] in [[Velen]] if [[Geralt of Rivia]] freed him from few bandits that were keeping him in cage, southwest of [[Hangman's Alley]].
+[[Category:Humans]]
+
+[[Category:The Witcher 3 characters]]

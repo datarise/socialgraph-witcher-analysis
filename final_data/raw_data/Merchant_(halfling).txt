@@ -1,0 +1,21 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name ={{Shopkeep}} Merchant
+|Image =Tw3 halfing merchant silverton.png
+|Race =[[Halfling]]
+|Gender =Male
+|Nationality = {{Redanian}}
+|Eye_color =Brown
+|Hair_color =Brown
+|Profession =[[The Witcher 3 merchants|Merchant]]
+|Appears_games ={{Tw3}}
+}}
+This '''merchant''' is located in [[Novigrad]]'s [[Silverton]] district, selling alchemy ingredients and books from an alleyway.
+
+== Associated Quest ==
+* [[Hey, You Wanna Look at my Stuff?]]
+[[Category:Halflings]]
+
+[[Category:The Witcher 3 characters]]
+
+[[pl:Handlarz (niziołek)]]

@@ -1,0 +1,19 @@
+{{Infobox Character
+|Name = Manfred
+|Image = Tw3 manfred.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Black
+|Appears_games = {{Tw3}}
+|Profession = Merchant}}'''Manfred''' was a well informed merchant passing through on the roads between [[Novigrad]] and [[Oxenfurt]] in {{Year|canon = no|year = 1272}}. At one point he stopped and camped out with two others: a [[Redania]]n soldier named [[Rufus]] and a sorcerer named [[Theophile Maria Rosco]].
+
+{{Condition|Text = If Geralt stops by to talk and refuses to get involved or helps Rufus}} Rufus killed Manfred, believing he was a spy, though he had no proof. On searching Manfred's body, he felt the [[Nilfgaardian Empire|Nilfgaardian]] [[Floren|florens]] the merchant had been carrying were enough to justify his suspicions.
+
+{{Condition|Text = If Geralt stops by to talk but then defends Manfred}} Sadly, [[Geralt of Rivia|Geralt]] had no other choice but to kill Rufus, who was dead set on killing Manfred, believing he was a spy.
+
+{{Condition|Text = If Geralt stops by but leaves after introduction}} Rufus and Manfred remained passive, and the original three men continued to camp out.
+== Associated Quest ==
+* [[Strangers in the Night (The Witcher 3)|Strangers in the Night]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

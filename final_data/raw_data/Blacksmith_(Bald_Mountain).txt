@@ -1,0 +1,19 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Blacksmith}} Blacksmith
+|Image = Blacksmith-bald-mountain.jpg
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Temerian}}
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = [[Blacksmith]] (amateur)
+|Ranks = 
+|Appears_games = {{Tw3}}
+}}
+The '''Blacksmith''' from the little [[Road to Bald Mountain|village]] near [[Bald Mountain (location)|Bald Mountain]] will only appear once the [[Bald Mountain (quest)|Bald Mountain]] quest has begun. Before that, the village is not inhabited by humans, but only by [[foglet]]s.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kowal (Łysa Góra)]]

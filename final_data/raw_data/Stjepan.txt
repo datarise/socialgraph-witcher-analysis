@@ -1,0 +1,29 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} {{Gwent Player}} {{PAGENAME}}
+|Image = Tw3 stjepan.png
+|Race = [[Human]]
+|Gender = Male
+|Hair_color = Brown
+|Profession = [[Innkeeper]]
+|Nationality = {{Redanian}}
+|Appears_games = {{Tw3}}
+|Eye_color = Brown}}'''Stjepan''' was [[The Alchemy]]'s innkeep and a [[gwent]] player, using the [[Nilfgaardian Empire Gwent deck|Nilfgaardian Empire deck]]. If beaten, he'll give the [[Yennefer of Vengerberg (gwent card)|Yennefer gwent card]].
+
+On top of the usual food and drink, he also sells three gwent cards:
+* [[Dwarven Skirmisher (gwent card)|Dwarven Skirmisher]] (10 {{Crown}})
+* [[Mahakaman Defender (gwent card)|Mahakaman Defender]] (20 {{Crown}})
+* [[Vrihedd Brigade Veteran (gwent card)|Vrihedd Brigade Veteran]] (20 {{Crown}})
+
+== Associated Quests ==
+*[[Gwent: Playing Innkeeps]]
+*[[Contract: The Oxenfurt Drunk]]
+==Notes==
+*If [[Aldert Geert]] is beaten at gwent in the Prologue, he recommends playing Stjepan, praising him as a "true maestro" in gwent.
+
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]
+[[Category:Innkeepers]]
+
+[[pl:Stjepan]]
+[[ru:Штепан]]

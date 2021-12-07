@@ -1,0 +1,17 @@
+{{Character Tabs|first = Main|second = Store}}
+{{Infobox Character
+|Name = {{Shopkeep}} {{Gwent Player}} Merchant
+|Image = Tw3 merchant gildorf.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Graying black
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}
+}}
+This '''merchant''' in the [[Gildorf]] district of [[Novigrad]] is a [[gwent]] player (using the [[Nilfgaardian Empire Gwent deck|Nilfgaardian deck]]). He sells a few quest items, including artifacts from the [[mage]] [[Aeramas]] and the [[elven crossbow]], in his [[Gildorf]] district [[Shop (Gildorf)|shop]].
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Złote Miasto)]]

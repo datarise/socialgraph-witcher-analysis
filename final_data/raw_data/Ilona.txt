@@ -1,0 +1,30 @@
+{{Infobox Character
+|Image = Tw2_journal_Ilona.png
+|Race =[[Elf]] {{Small|text=[[Aen Seidhe]]}}
+|Gender =Female
+|Profession =[[Merchant]]
+|Appears_games ={{Tw2}}
+|Partner = [[Falas]] {{Small|text=husband}}
+|Hair_color = Blonde
+|Eye_color = Brown}}
+'''Ilona''' was a [[The Witcher 2 merchants|merchant]] who could be found near [[Falas]], her husband, outside of the [[Loc Muinne amphitheatre]] during Chapter III. She only sells [[The Witcher 2 food|food items]].
+
+Although she did not initially have a beard when Geralt found her, he could get her to "grow it out". This was virtually instantaneous.
+
+== Journal Entry ==
+: ''A bearded elven woman is an exceptional sight, even if the beard is false. When there were no crowds, Ilona made ends meet by running a food shop.''
+
+== Gallery ==
+<gallery>
+Tw2 screenshot ilonawithbeard.jpg|Ilona with her beard grown out
+</gallery>
+
+[[de:Ylona]]
+[[fr:Ylona]]
+[[it:Yolna]]
+[[pl:Ilona]]
+[[ru:Илона]]
+[[Category:Elves]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter III]]

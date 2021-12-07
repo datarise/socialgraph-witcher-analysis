@@ -1,0 +1,22 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Innkeep}} {{Gwent Player}} Innkeep
+|Image = Tw3 innkeep svorlag.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Skelliger}}
+|Eye_color = Blue
+|Hair_color = Dark
+|Profession = [[Innkeeper]]
+|Appears_games = {{Tw3}}
+}}The '''innkeep''' from the [[Tavern (Svorlag)|tavern]] at [[Svorlag]] is aside from his casual duties also avid player of [[gwent]] and sells a some of his cards, some of those are:
+* [[Ice Giant (gwent card)|Ice Giant]]
+* [[Arachas (gwent card)|Arachas]]
+* [[Vampire: Ekimmara (gwent card)|Vampire: Ekimmara]]
+* [[Foglet (gwent card)|Foglet]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[Category:Innkeepers]]
+
+[[pl:Karczmarz (Svorlag)]]

@@ -1,0 +1,19 @@
+{{DisambigMsg|This article is about = the Kaedweni knight|For = others with the same name|see = Roderick}}
+{{Infobox Character
+|Image =Tw2 Roderick of Daevon.png
+|Race =[[Human]]
+|Gender =Male
+|Nationality ={{Kaedwenian}}
+|Eye_color =Brown
+|Profession =[[Knight]]
+|Appears_games ={{Tw2}}
+}}
+{{Quote|text = Surprised? They have a hand in every rebellion, every evil cause.|citation = Roderick about [[Scoia'tael]]}}
+'''Roderick of Daevon''' is a minor character and a Elite Kaedweni Knight featured in {{Tw2}} during the Chapter II. He can be found in the tent near main gate to [[Kaedweni camp]]. He is likely from [[Daevon]] and belongs to [[Henselt]]'s trusted knights, meaning he knows that king can be very touchy when it comes to his safety.
+
+== Trivia ==
+* He does not believe that [[Elf|elves]] and [[human]]s can live in peace and also thinks that legend around [[Saskia]] is just propaganda of [[Aedirn]].
+[[Category:Humans]]
+
+[[Category:Knights]]
+[[Category:The Witcher 2 characters]]

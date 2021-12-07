@@ -1,0 +1,34 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Name = The Mysterious Elf
+|Image = Tw3_journal_mysteriouself.png
+|Aka =''[[Avallac'h|Spoiler!]]''
+|Race = [[Elf]] {{Small|text=[[Aen Elle]]}}
+|Gender = Male
+|Eye_color = Brown
+|Profession = [[Mage]]
+|Affiliations = [[Aen Elle]]
+|Appears_games = {{Tw3}}
+}}
+
+'''The Mysterious Elf''' was an [[Elf|elven]] [[sorcerer]] who helped [[Ciri]] evade the [[Wild Hunt]] and later disappeared.
+
+[[Geralt of Rivia|Geralt]] first learnt of the Mysterious Elf from [[Keira Metz]] whom he met while pursuing leads relating to Ciri in [[Velen]]. Keira stated that this mage visited and questioned her about Ciri some time before Geralt did. She also believed that this was no ordinary [[mage]], but one of the [[Aen Saevherne]].
+
+When Geralt and Keira explored the elven ruins which the Mysterious Elf was using as a refuge, they discovered a number of morphotic projections left behind by the Elf. These contained cryptic clues intended to provide guidance for Ciri but remained indecipherable to the Wild Hunt. Geralt, however, had great knowledge of Ciri and followed these clues to determine a connection between Ciri and the [[Crones|witches]] of [[Crookback Bog]].
+
+== Journal Entry ==
+: ''It turned out not only Geralt was looking for Cirilla. Also on her trail – a mysterious elven mage. Like the [[witcher]], he had gone to Keira Metz to inquire after Ciri's whereabouts. During this conversation he also revealed that he kept a hideout in the ruins near the village of [[Midcopse]].''
+: ''Geralt decided to follow up on this lead. Though he was not able to establish the mysterious mage's identity, he did learn that he had been traveling with Cirilla some time before and the Wild Hunt was after him as well.''
+: ''Geralt's investigation in [[Skellige]] unearthed evidence that the mysterious elven mage had protected Ciri from certain death at the hands of the Wild Hunt's warriors.''
+: ''[[Skjall]]'s words drew a new detail onto the emerging picture of the mage. After the Wild Hunt's attack, Skjall had seen Ciri and a mysterious elf sail away from Skellige, their course set for the high seas.''
+
+== Associated Quests ==
+* [[Wandering in the Dark]]
+* [[Magic Lamp (quest)|Magic Lamp]]
+
+[[Category:Elves]]
+[[Category:Mages]]
+[[Category:The Witcher 3 characters]]
+
+[[ar:إلف غامض]]

@@ -1,0 +1,17 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Shopkeep}} Merchant
+|Image = Tw3 Boatmakers hut merchant.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Brown
+|Hair_color = Brown
+|Profession = [[The Witcher 3 merchants|Merchant]]
+|Appears_games = {{Tw3}}
+}}
+This '''merchant''' appears after the [[Boatmakers' Hut]] has been cleared of [[alghoul]]s and [[ghoul]]s.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kupiec (Chata szkutników)]]

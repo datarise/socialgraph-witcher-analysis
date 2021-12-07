@@ -1,0 +1,18 @@
+{{Infobox Character
+|Name = 
+|Image = Tw3 suzy.png
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Blue
+|Hair_color = Brown
+|Profession = [[Prostitute]]
+|Appears_games = {{Tw3}}}}'''Suzy''' was a [[prostitute]] working at [[Crippled Kate's]] in [[Novigrad]] in {{Year|canon=no|year=1272}}. If approached, she initially tried to be somewhat seductive, stating she was under a spell and asking if [[Geralt of Rivia|Geralt]] came there to kiss her to break it, but when asked to reveal anything about herself she refuses.
+
+==Notes==
+* Note that employing the services of strumpets at Crippled Kate's will never result in any backlash from either [[Triss Merigold|Triss]] or [[Yennefer of Vengerberg|Yennefer]] and will not affect any of the romance endings Geralt can receive.
+
+[[es:Suzy]]
+[[pl:Zuzia]]
+[[ru:Зузя]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

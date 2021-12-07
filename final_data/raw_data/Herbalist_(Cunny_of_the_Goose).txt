@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw3 herbalist cunny of the goose.png
+|Race = [[Human]]
+|Gender = Male
+|Nationality = {{Redanian}}
+|Hair_color = Graying brown
+|Eye_color = Brown
+|Profession = [[Herbalist]]
+|Abilities = 
+|Appears_games = {{Tw3}}
+|Name = {{Herbalist}} Herbalist}}The '''herbalist''' outside the [[Cunny of the Goose]] sells mostly [[The Witcher 3 alchemy ingredients|alchemy ingredients]].
+
+== Notes ==
+* Some players may experience a bug where this [[herbalist]] will be able to be interacted with, but his shop window will not open.
+
+[[Category:The Witcher 3 characters]]
+[[Category:Humans]]
+
+[[pl:Zielarz (Karczma Gęsia Pipa)]]

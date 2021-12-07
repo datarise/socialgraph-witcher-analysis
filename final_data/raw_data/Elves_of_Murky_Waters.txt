@@ -1,0 +1,56 @@
+{{Infobox_Organization
+|Image = People Elves of Murky Waters.png
+|Type = Band of [[elf|elven]] refugees
+|Established = {{Year|year = 1270}}
+|Headquarters = [[Elven cave|Cave]] on the [[Lakeside]]
+|Leader = [[Toruviel]]
+|Members = [[Chireadan]]<br>[[Elven craftsman]]
+|Appears_games = {{Tw1}}
+}}
+{{Quote|text = Elves are proud beings with fiery temperaments, but they can't take care of themselves. It's a good thing they find those who bring them food once in a while.|citation = Geralt's [[The Witcher journal|Journal]] entry}}
+These '''elves''' were a band of wounded and starving refugees who at one point found shelter in the [[Elven cave|cave]] on the [[Lakeside]] near [[Murky Waters]]. They were led by [[Toruviel]] and had a relationship with the villagers that could at best be described as uneasy. They spent their days fishing or trying to heal their own sick and wounded.
+
+One elf, in particular, stood guard outside the cave all day and night. Toruviel, [[Chireadan]], the [[elven craftsman]], and some other [[elf|elves]] come out to the shore during the day and return to the cave at night. Because of the dire situation they found themselves in, the elves accepted any food, including [[wyvern meat]] and [[The Witcher food and drink|gutted fish.]]
+
+They also had one elven [[sorceress]] among them which, despite a quite combative attitude, could be wooed by [[Geralt of Rivia]] if he gave the group food of some kind apart from bread.
+
+== Associated Quests ==
+* [[The Witcher armor|Armor]]
+* [[Daily Bread]]
+* [[Dice Poker: The Sharper]]
+* [[Free Elves]]
+* [[The Giant Centipede Contract]]
+* [[The Heat of the Day]]
+
+== Notes ==
+* It is possible to lure [[Wyvern]]s and [[Wolf (creature)|Wolves]] to the cave entrance. Any elves in the area will fight these creatures. As Toruviel is essential to later primary quests, she can be wounded and knocked down but never killed. However, wyverns can easily kill all the other elves outside the cave, and none of them will respawn. Because Chireadan and the Elven craftsman are helpful, if not necessary, for other quests, take care to defend them against any foes you lure to their cave's entrance.
+*If you do let a wyvern kill them, the elves' remains will contain the following:
+**Elven craftsman has 500 {{oren}}, two [[Elven sword of the Blue Mountains|Elven swords of the Blue Mountains]], and one [[Short weapons|Deithwen dagger]].
+**Chireadan has 50 {{oren}}, two [[Ceremonial sword of Deithwen]], one [[Deithwen dagger]], and a set of "Rare dice #9" (which do not appear in your inventory or quest items after you loot them).
+**The generically named Elf's remains have 26 {{oren}}, a [[Blade enhancement|grindstone]], and one [[Deithwen dagger]].
+
+== Videos ==
+<gallery position="center">
+File:Lakeside_Elves_Toruviel_and_Chireadan
+File:Elf Woman Card
+</gallery>
+
+== Gallery ==
+<gallery>
+People Toruviel full.png|Toruviel
+People Elf full.png|Chireadan
+People Elf full 3.png|the elven craftsman
+People Elf sorceress full.png|the elven sorceress
+Romance Elves.png|the sorceress' romance card<br>censored version is identical
+</gallery>
+
+[[cs:Elfové z Bahnic]]
+[[de:Elfen von Trübwasser]]
+[[es:Elfos de Aguas Turbias]]
+[[fr:Elfes d'Eaux-Troubles]]
+[[it:Elfi di Acque Oscure]]
+[[pl:Elfy z Odmętów]]
+[[Category:Elves]]
+[[Category:The Witcher characters]]
+[[Category:The Witcher Chapter IV]]
+[[Category:Romance cards]]

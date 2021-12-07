@@ -1,0 +1,20 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Name = {{Armorer}} {{Gwent Player}} Armorer
+|Image = Tw3 armorer oxenfurt.png
+|Race = [[Human]]
+|Gender = Male
+|Profession = [[Armorer]] {{Small|text=journeyman}}
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}
+|Hair_color = Black
+|Eye_color = Brown
+|Abilities = }}
+This '''armorer''' is in a building right off of [[Oxenfurt]]'s market and is a [[Gwent]] player who uses the [[Scoia'tael Gwent deck|Scoia'tael deck]].
+
+He talked a bit to [[Geralt of Rivia|Geralt]] initially, excited to see a [[witcher]] visit his shop as he'd have him craft far more interesting things than what the locals typically need.
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Płatnerz (Oxenfurt)]]

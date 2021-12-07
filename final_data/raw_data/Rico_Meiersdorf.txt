@@ -1,0 +1,25 @@
+{{Infobox_Character
+|Image = Tw3 Rico Meiersdorf.jpeg
+|Race = [[Halfling]]
+|Gender = Male
+|Profession = [[Spy]]
+|Affiliations = [[Blindeyes]]
+|Family =
+|Parents = [[Holofernes Meiersdorf|Holofernes]] {{Small|text=father}}
+|Relative = Bernie {{Small|text=brother}}<br>Franklin {{Small|text=brother}}<br>Hugo {{Small|text=brother}}
+|Appears_games = {{Tw3}}}}'''Rico Meiersdorf''' was the youngest son of [[Holofernes Meiersdorf]]. In {{Year|canon=no|year=1272}} the [[halfling]] was working for [[Francis Bedlam]], better known as the ''King of Beggars'', as a [[spy]]. However [[Cyprian Wiley]], the person Rico was tasked to spy on, exposed him and brought him to his [[Whoreson Junior's casino|casino]] in order to torture him and learn all the information he knew.
+
+{{Condition|Text = If Geralt helps Rico}} Luckily for the halfling, the [[witcher]] [[Geralt of Rivia]] freed him and helped him escape from Wiley's casino. The King of Beggars later recommended he leave the city for his safety.
+
+== Associated Quest ==
+* [[Get Junior]]
+
+== Gallery ==
+<gallery>
+Gwent_cardart_syndicate_Rico_Meiersdorf.png|Rico spying on Whoreson Junior 
+</gallery>
+
+[[pl:Rico Meiersdorf]]
+[[ru:Рико Майерсдорф]]
+[[Category:Halflings]]
+[[Category:The Witcher 3 characters]]

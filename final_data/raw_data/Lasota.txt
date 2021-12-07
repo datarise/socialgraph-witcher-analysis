@@ -1,0 +1,30 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Tw2_journal_Lasota.png
+|Race =[[Human]]
+|Gender = Male
+|Nationality ={{Kaedwenian}}
+|Affiliations =
+|Profession =[[Merchant]], [[Craftsman]], [[The Witcher 2 dice poker|Dice Poker Player]]
+|Abilities =
+|Appears_games ={{Tw2}}
+}}
+'''Lasota''' is a secondary character in {{Tw2}}. He is a [[The Witcher 2 merchants|merchant]], [[craftsman]], and [[The Witcher 2 dice poker|dice poker player]] who can be found in the first tent northeast of the main entrance to the [[Kaedweni camp]] during Chapter II.
+
+If you beat him during the [[Poker Face: Kaedweni Camp]] quest, he'll give you the option of taking gold or one of three crafting diagrams: [[Diagram: Leather|leather]], [[Diagram: Hardened leather|hardened leather]], or [[Diagram: Studded leather|studded leather]]. Note that while the dialogue seems to indicate that you will get the armor diagram, you only actually get the diagram for the material itself.
+
+== [[The Witcher 2 journal|Journal]] Entry ==
+: ''When it turned out that the break-up letter from his beloved had just been a bad joke, Lasota proved to be a really helpful person. As the quartermaster's assistant, he had access to both armor and weapons, obviously for a price.''
+
+== Associated Quests ==
+* [[Poker Face: Kaedweni Camp]]
+
+[[de:Lasota]]
+[[fr:Lasota]]
+[[it:Lasota]]
+[[pl:Lasota]]
+[[ru:Лесовик]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter II]]
+[[Category:Merchants]]
+[[Category:Humans]]

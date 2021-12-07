@@ -1,0 +1,31 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image = Vilmos Bartok screen.jpg
+|Appears_games = {{tw2}}
+|Affiliations = [[Flotsam]]
+|Profession = [[Merchant]]
+|Eye_color = Brown
+|Race = [[Human]]
+|Gender = Male}}
+'''{{PAGENAME}}''' is the incense merchant in [[Flotsam]]. [[Vencel Pugg]] is extremely interested in the recipe for one particular blend of incense.
+
+Some Flotsam women are very suspicious about the true nature of the substances that Vilmos sells. Indeed it is quite odd that the incense causes hallucinations and is addictive.
+
+Vilmos Bartok also sells some [[The Witcher 2 ingredients|alchemical ingredients]] (herbs and plants), [[The Witcher 2 crafting components|crafting components]] and some [[:Category:The Witcher 2 crafting diagrams|recipes]] for [[The Witcher 2 potions|potions]] and [[The Witcher 2 oils|oils]].
+
+== Associated Quests ==
+* [[The Scent of Incense]]
+* [[Little Shop of Dreams]]
+
+== Gallery ==
+<gallery>
+File:Incense shop screen.jpg|The incense shop in Flotsam
+</gallery>
+
+[[de:Vilmos Bartok]]
+[[fr:Vilmos Bartok]]
+[[it:Vilmos Bartok]]
+[[Category:The Witcher 2 characters]]
+[[Category:The Witcher 2 Chapter I]]
+[[Category:Humans]]
+[[Category:Merchants]]

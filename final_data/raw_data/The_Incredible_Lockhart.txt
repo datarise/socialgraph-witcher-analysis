@@ -1,0 +1,41 @@
+{{Character Tabs|first = main|second = store}}
+{{Infobox Character
+|Image =Tw2 journal Lockhart.png
+|Aka =
+|Race =[[Human]]
+|Gender =Male
+|Affiliations =[[Ban Ard Academy]] {{Small|text=formerly}}
+|Profession =[[Merchant]], [[The Witcher 2 dice poker|Dice Poker Player]]
+|Abilities =
+|Appears_games ={{Tw2}}
+}}
+'''The Incredible Lockhart''' was a [[The Witcher 2 merchants|merchant]] and [[The Witcher 2 dice poker|dice poker player]] who can be found under the arch in [[Loc Muinne]]'s central square during chapter III.
+
+==Background==
+Lockhart was previously a student at the [[Ban Ard Academy]] from which he was expelled as a result of his drinking and gambling. Upon his arrival at the Loc Muinne summit, he found himself ostracized from the magical community, and began to renounce his profession by trying to sell off his magical items, such as grimoires and amulets.
+
+==Notes==
+Beating The Incredible Lockhart at dice can net one of several rewards:
+* Gold
+* A design for the [[Diagram: Magic wrap|magic wrap armor enhancement]]
+* 1 [[fire rune]] and 1 [[earth rune]]
+* 1 [[runic armor enhancement]]
+
+== Journal Entry ==
+: ''Expelled from the [[Ban Ard Academy|Ban Ard magical school]] for carousing and gambling, Lockhart was selling his magical tomes and amulet at quite moderate prices.''
+
+== Associated Quest ==
+*[[Poker Face: Loc Muinne]]
+
+== Trivia ==
+* His name is in reference to [[w:c:harrypotter:Gilderoy Lockhart|Gilderoy Lockhart]], a famous wizard in the Harry Potter universe who is actually a fraud, taking credit for everyone else's work.
+
+[[de:Der Unglaubliche Lockhart]]
+[[fr:Lockhart le Terrible]]
+[[it:Lockhart il Magnifico]]
+[[pl:Lockhart]]
+[[ru:Локхарт Невероятный]]
+[[Category:The Witcher 2 characters]]
+[[Category:Humans]]
+[[Category:Merchants]]
+[[Category:The Witcher 2 Chapter III]]

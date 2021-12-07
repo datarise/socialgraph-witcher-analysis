@@ -1,0 +1,22 @@
+{{Infobox Character
+|Image = Tw3 Bea.jpg
+|Race = [[Human]]
+|Gender = Female
+|Eye_color = Blue
+|Hair_color = Red
+|Profession = Barmaid
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}}}
+'''Bea''' was a young woman who worked as a barmaid in [[The Golden Sturgeon]]. She helped [[Ciri]] during her stay in [[Novigrad]] while on the run from the [[Wild Hunt]]. They became friends and when Ciri reappeared in the free city, she visited Bea alongside [[Geralt of Rivia|Geralt]] and gave her a trinket as thanks.
+
+== Associated Quest ==
+* [[Payback]]
+== Gallery ==
+<gallery>
+File:Bea.jpg|Face close-up.
+</gallery>
+
+[[pl:Bea]]
+[[ru:Беа]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]

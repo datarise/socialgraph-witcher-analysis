@@ -1,0 +1,21 @@
+{{Character Tabs|first=main|second=store}}
+{{Infobox Character
+|Name = {{alchemy}} {{Gwent Player}} Preacher
+|Image = Tw3 alchemist preacher.png
+|Race = [[Human]]
+|Gender = Male
+|Eye_color = Green
+|Hair_color = Graying black
+|Profession = [[Alchemist]]<br>[[Priest]]
+|Nationality = 
+|Appears_games = {{Tw3}}}}This '''preacher''' is also an alchemist, though he has to hide this fact to protect himself, making him a rather reluctant priest of the [[Eternal Fire]].
+
+He can be found at the [[Electors' Square]] in [[Novigrad]] during the day and sells a variety of crafting diagrams and [[The Witcher 3 alchemy ingredients|alchemical supplies]]. He will also play [[gwent]] though he doesn't give any special cards.
+
+== Associated Quest ==
+* [[Free Spirit]]
+
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+
+[[pl:Kapłan Wiecznego Ognia (alchemik)]]
