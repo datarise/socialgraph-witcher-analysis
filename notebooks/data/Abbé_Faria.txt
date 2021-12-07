@@ -1,0 +1,34 @@
+{{SpoilerBanner}}
+{{Infobox Character
+|Image = Abbe Faria.png
+|Race = [[Human]]
+|Gender = Male
+|Abilities = Herbology
+|Profession = [[Herbalist]]
+|Appears_games = {{Tw3}}
+|Nationality = {{Redanian}}
+|Eye_color = Yellow
+|Hair_color = Grey {{Small|text=hair}}<br>Black {{Small|text=beard}}
+}}
+'''Abbé Faria''' was a [[herbalist]] who was the only person known to have ever escaped from [[Deireadh prison]] in [[Oxenfurt]].
+
+==Biography==
+As a youth, Faria had apprenticed with an apothecary in [[Silverton]], a district of [[Novigrad]].
+
+Later in his life, he was imprisoned at Deireadh prison in Oxenfurt. Using his prior knowledge of [[Plants in the novels|herbs]], Faria faked his own death by consuming a mixture of sleeping mushrooms, which he found growing on the walls of his cell, and [[belladonna]], which he harvested in the prison yard. Despite the fact that this mixture was indeed life-threateningly toxic, Faria drank it one day anyway, an hour before the guards' evening rounds, given that, as he later stated in retrospect, he preferred to die on his own terms were that to be his fate.
+
+After his seemingly-dead body was discovered, Faria was thrown into a pit, as was the prison's procedure for handling cadavers at the time. Once he awakened, he used an outlet that lead into the river to escape. This prompted the prison's management to bar that outlet with a grate, in order to prevent any further escapes. The procedure for handling dead bodies at the prison was also altered; the bodies were began to be cremated, instead of being thrown into a pit.
+
+=== Meeting Geralt ===
+In {{Year|canon = no|year = 1272}}, Faria returned to Novigrad, where he was approached by [[Geralt of Rivia]] and [[Yennefer of Vengerberg|Yennefer]] at the [[Crippled Kate's]] [[brothel]]. Initially fearing for his life, he fled, forcing Geralt and Yennefer to pursue him across the city. Faria was not able to outrun Geralt, however, who simply explained to him that he was being chased for information about Deireadh prison. Faria later sat down with Geralt and Yennefer at Crippled Kate's and revealed the details of his escape over a drink, allowing Geralt and Yennefer to formulate a plan to free the [[Mage|sorceress]] [[Margarita Laux-Antille]] from Deireadh. Faria then stopped frequenting Crippled Kate's as per Yennefer's advice, given his relative notoriety in that establishment.
+== Associated Quest ==
+*[[The Great Escape]]
+
+== Trivia ==
+* [[wikipedia:Abbé_Faria|Abbé Faria]], a Goan Catholic monk known for his scientific study of hypnotism, was for some period of his life imprisoned in [[Wikipedia:Château d'If|Château d'If]]. His fictionalized version appeared in the novel ''[[Wikipedia:The Count of Monte Cristo|The Count of Monte Cristo]]''.
+
+[[pl:Abbé Faria]]
+[[ru:Аббат Фариа]]
+[[Category:Humans]]
+[[Category:The Witcher 3 characters]]
+[[Category:Herbalists]]

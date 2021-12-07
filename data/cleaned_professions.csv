@@ -1,0 +1,241 @@
+original,cleaned
+:Category:Herbalists|Herbalist,Herbalist
+:Category:Soothsayers|Soothsayer,Soothsayer
+"['Alchemist]]<br>[[Armorer', ('Alchemist', 'Armorer'), '[[Alchemist]]<br>[[Armorer]]<br>Author']",Alchemist
+"['Alchemist]]<br>[[Mage', ('Alchemist', 'Mage'), '[[Alchemist]]<br>[[Mage]]']",Mage
+"['Alchemist]]<br>[[Priest', ('Alchemist', 'Priest'), '[[Alchemist]]<br>[[Priest]]']",Mage
+"['Bandit', 'Bandit', 'Bandit', 'Bandit', 'Bandit', 'Bandit']",Bandit
+"['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']",Merchant
+"['Blacksmith', 'Cook', 'Cook<br>[[Blacksmith]] {{Small|text=master}}']",Blacksmith
+"['Craftsman]]<br>[[Mage]]<br>[[Merchant', ('Craftsman', 'Mage'), '[[Craftsman]]<br>[[Mage]]<br>[[Merchant]]']",Mage
+"['Craftsman]]<br>[[Merchant', ('Craftsman', 'Merchant'), '[[Craftsman]]<br>[[Merchant]]']",Merchant
+"['Druid]]<br>[[Alchemist', ('Druid', 'Alchemist'), '[[Druid]]<br>[[Alchemist]]']",Druid
+"['Imperator', 'Witcher]]<br>[[Imperator|Empress of Nilfgaard', '[[Witcher]]<br>[[Imperator|Empress of Nilfgaard]] {{Small|text=dependent, games}}']",Imperator Empress of Nilfgaard
+"['Knight]]<br>[[Merchant', ('Knight', 'Merchant'), '[[Knight]]<br>[[Merchant]]<br>Quartermaster']",Merchant
+"['Mage', 'Advisor', 'Advisor<br>[[Mage]]']",Mage
+"['Mercenary', 'Gardener', 'Gardener<br>[[Mercenary]] {{Small|text=formerly}}']",Mercenary
+"['Merchant', 'Bookseller', 'Bookseller<br>[[Merchant]]']",Merchant
+"['Merchant', 'Fence', 'Fence<br>[[Merchant]]']",Merchant
+"['Merchant', 'Healer', 'Healer<br>[[Merchant]]']",Merchant
+"['Merchant', 'Merchant', 'Merchant', 'Merchant', 'Merchant', 'Merchant']",Merchant
+"['Merchant]]<br>[[Barber', ('Merchant', 'Barber'), '[[Merchant]]<br>[[Barber]]']",Merchant
+"['Merchant]]<br>[[Craftsman', ('Merchant', 'Craftsman'), '[[Merchant]]<br>[[Craftsman]]']",Merchant
+"['Merchant]]<br>[[Herbalist', ('Merchant', 'Herbalist'), '[[Merchant]]<br>[[Herbalist]]']",Merchant
+"['Merchant]]<br>[[Mage', 'Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress', ('Barber', 'Merchant'), '[[Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress]]']",Mage
+"['Spy', 'Informant', 'Informant<br>[[Spy]]']",Spy
+"['The Witcher 2 merchants', 'Craftsman]]<br>[[The Witcher 2 merchants|Merchant', '[[Craftsman]]<br>[[The Witcher 2 merchants|Merchant]]']",Merchant
+"['The Witcher 3 merchants', 'Quartermaster]]<br>[[The Witcher 3 merchants|Merchant', '[[Quartermaster]]<br>[[The Witcher 3 merchants|Merchant]]']",Merchant
+"['The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]']",Merchant
+"['The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]']",Merchant
+"['Vizima', 'Jailer', 'Jailer<br>[[Vizima]] city guardsman']",Jailer
+|Abilities =,No Profession
+|Abilities = ,No Profession
+|Abilities =[[Magic]]<br>Time manipulation<br>Wish granting<br>Teleportation ,No Profession 
+|Affiliations = ,No Profession 
+|Affiliations = [[Order of the White Rose]]<br>[[Order of the Flaming Rose]]<br>[[Syndicate]]<ref>{{Gwent standalone}}</ref> {{Small|text=secretly}},No Profession 
+|Appears_games = {{Tw3}},No Profession
+|Appears_games ={{Tw3}},No Profession 
+|Appears_games ={{tw3}},No Profession 
+|Nationality = {{Skelliger}},No Profession 
+|Ranks = ,No Profession 
+|Titles = Prince,Prince
+Accountant,Accountant
+Actor,Actor
+Actor ,Actor 
+Actress,Actress
+Alchemist,Alchemist
+Alderman,Alderman
+Amateur alchemist,Amateur alchemist
+Ambassador]] of [[Nilfgaardian Empire|Nilfgaard,Ambassador
+Archer,Archer
+Arena fighter,Arena fighter
+Arena master,Arena master
+Aretuza]]<br>[[Mage,Aretuza
+Arm wrestling|Arm wrestler,Arm wrestler
+Armorer,Armorer
+Artist,Artist
+Assassin-for-hire,Assassin-for-hire
+Assistant,Assistant
+Bald Mountain (location)|Bald Mountain,No Profession
+Bandit,Bandit
+Bank,Bank
+Banker,Banker
+barber,Barber
+Barber,Barber
+Bard,Bard
+Bard|Trobairitz,Bard
+Barmaid,Barmaid
+Blacksmith,Blacksmith
+Boatwright,Boatwright
+Boatwright's apprentice,Boatwright's apprentice
+Book seller,Book seller
+Bookie,Bookie
+Bookkeeper,Bookkeeper
+Bounty hunter,Bounty hunter
+Brickmaker,Brickmaker
+Businessman,Businessman
+Carer,Carer
+Chief Surgeon,Chief Surgeon
+Choreographer,Choreographer
+Circus performer,Circus performer
+Commandant,Commandant
+Commander,Commander
+Con artist,Con artist
+Coroner,Coroner
+Corpse collector,Corpse collector
+Count Reuven's Treasure,Count Reuven's Treasure
+Counterfeiter,Counterfeiter
+Court jester,Court jester
+Courtesan,Courtesan
+Crime boss,Crime boss
+Crime Boss,Crime boss
+"Crime boss<br>Butcher<ref name=""gwent"" />",Crime boss
+Crime lord,Crime lord
+Criminal}},Criminal
+Crossbowman,Crossbowman
+Deireadh prison,Deireadh prison
+Dentist,Dentist
+Drug dealer,Drug dealer
+Drug lord,Drug lord
+Druid,Druid
+Druid]] {{Small|text=formerly}}<br>[[Priest]] of [[Svalblod]]<br>King [[Svanrige Tuirseach|Svanrige,Druid
+Ealdorman,Ealdorman
+Ealdorman}},Ealdorman
+Ealdorman/village elder,Ealdorman
+Farmer,Farmer
+Feather collector,Feather collector
+"fence]], [[havekar",fence
+Ferryman,Ferryman
+Fisherman,Fisherman
+Fisstech,Fisstech
+Fisstech Dealer,Fisstech Dealer
+Fist fighter,Fist fighter
+Fistfight organizer,Fistfight organizer
+Fistfighter,Fistfighter
+Fistfighter}},Fistfighter
+Fistfighters in The Witcher|Fistfighter,Fistfighters
+Flotsam,Flotsam
+Funder,Funder
+Goddess of chivalry,Goddess of chivalry
+Gravedigger,Gravedigger
+Guard,Guard
+Guard/soldier,Guard
+Guardsman,Guardsman
+Guerrilla fighter,Guerrilla fighter
+Guerrilla fighter<br>Unit commander,Guerrilla fighter
+Herbalist,Herbalist
+Horse,Horse
+Horse racer,Horse racer
+Hunter,Hunter
+Huntsman,Huntsman
+Imperial Chamberlain,Imperial Chamberlain
+Informant,Informant
+Innkeeper,Innkeeper
+Kaedweni brothel,Kaedweni brothel
+Kitchen helper,Kitchen helper
+Knight,Knight
+Laundress,Laundress
+Leader of Vizima's underground,Leader of Vizima's underground
+Lighthouse keeper,Lighthouse keeper
+Lumberjack,Lumberjack
+Lurtch]] has been liberated by [[Geralt of Rivia,Lurtch
+Madame,Madame
+Mage,Mage
+Mage]] {{Small|text=formerly}}<br>[[Alchemist,Mage
+Mage|Sorceress,Mage
+Maid,Maid
+Mason,Mason
+Master craftsman,Master craftsman
+Master shipwright,Master shipwright
+Meat seller,Meat seller
+Medic,Medic
+Medic<br>Dean of the Department of Medicine,Medic
+Medic|Apothecary]]<br>[[Merchant,Merchant
+Medic|Field,Medic
+Mercenary,Mercenary
+Merchant,Merchant
+"Merchant]], [[Craftsman]], [[The Witcher 2 dice poker|Dice Poker Player",Merchant
+"Merchant]], [[The Witcher 2 dice poker|Dice Poker Player",Merchant
+Merchant/Spy,Merchant
+Merchant<br>Thief,Merchant
+Miller<br>Apiarist,Miller
+Minor nobleman,Minor nobleman
+Monk,Monk
+Murky Waters,Murky Waters
+No Profession,No Profession
+Nobleman,Nobleman
+Novigrad]] and [[Oxenfurt]] in {{Year|canon = no|year = 1272}}. At one point he stopped and camped out with two others: a [[Redania]]n soldier named [[Rufus]] and a sorcerer named [[Theophile Maria Rosco,No Profession
+Nun<br>Nurse,Nurse
+Nurse,Nurse
+Oneiromancer,Oneiromancer
+Oxenfurt Academy faculties|Assistant professor,Assistant professor
+Oxenfurt Academy faculties|Faculty of Applied Archaeology,Assistant professor
+Palantine,Palantine
+Peasant,Peasant
+Peat digger,Peat digger
+Pellar,Pellar
+Performer,Performer
+Pirate,Pirate
+Pirate/raider,Pirate
+Poet,Poet
+Porter,Porter
+Priest,Priest
+Priest]] of the [[Eternal Fire,Priest
+Priest]]ess<br>[[Alchemist,Priest
+Private investigator,Private investigator
+Prostitute,Prostitute
+Prostitute|Escort,Prostitute
+Prostitute|Madame,Prostitute
+Quartermaster,Quartermaster
+Quartermaster (rank)|Quartermaster]]<br>[[Blacksmiths|Blacksmith,Quartermaster
+Real estate,Real estate
+Resident mage|Advisor]]<br>[[Mage,Mage
+Royal Guard,Royal Guard
+Royal guard,Royal Guard
+Runesmith,Runesmith
+Seer,Seer
+Self-appointed god,Self-appointed god
+Seneschal,Seneschal
+Servant,Servant
+Ship captain,Ship captain
+Skald,Skald
+Slavery|Slaver,Slaver
+Smuggler,Smuggler
+Soldier,Soldier
+Soldier<br>Farmer,Soldier
+Soldier|Commando,Soldier
+Spy,Spy
+Spymaster<br>Chancellor,Spymaster
+Stablemaster,Stablemaster
+Steward,Steward
+Swordsmith,Swordsmith
+Tailor,Tailor
+Tanner,Tanner
+Tavern owner,Tavern owner
+Teacher,Teacher
+Temeria,Temeria
+The Witcher 2 dice poker|Dice poker,Dice poker
+The Witcher 2 merchants|Merchant,Merchant
+The Witcher 2 merchants|Merchant]]<br>[[Craftsman,Merchant
+The Witcher 3 merchants|Merchant,Merchant
+Thief,Thief
+Thug,Thug
+Torch guardian,Torch guardian
+Torturer,Torturer
+Vaedermakar,Vaedermakar
+Velen]] who could be found in the [[Inn at the Crossroads,Velen
+Viceroy]] of [[Tir ná Lia,Viceroy
+Village Elder,Village Elder
+Village elder,Village Elder
+Vizima,Vizima
+Waitress,Waitress
+Warrior,Warrior
+Warrior<br>Guard,Warrior
+Wild Hunt Navigator|Navigator,Navigator
+Witch,Witch
+Witch hunter,Witch hunter
+Witcher,Witcher
+Witcher]] {{Small|text=formerly}}<br>Assassin {{Small|text=formerly}}<br>[[Merchant,Witcher
+Witcher<br>Assassin,Witcher
+Woodcarver,Woodcarver
+Total Result,Total Result

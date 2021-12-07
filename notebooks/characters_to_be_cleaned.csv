@@ -1,0 +1,837 @@
+,pageid,title,Race,Gender,Nationality,Family,Profession,Profession_Clean
+0,8046,Innkeeper,No Race,No Gender,No Nationality,No Family,[],No Profession
+1,5069,The Witcher journal character entries,No Race,No Gender,No Nationality,No Family,[],No Profession
+2,2478,Abigail,Human,Female,Temerian,No Family,"['Witch', '[[Witch]]']",Witch
+3,53882,Adalbert (soldier),Human,Male,Temerian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+4,2210,Adam (Murky Waters),Human,Male,Temerian,No Family,"['Poet', 'Poet']",Poet
+5,2491,Adda the White,Human,Female,Temerian,No Family,[],No Profession
+6,2212,Alina,Human,Female,Temerian,No Family,[],No Profession
+7,2216,Alvin,Human,Male,Temerian,No Family,[],No Profession
+8,5971,Andrew Gablodda,No Race,No Gender,No Nationality,No Family,[],No Profession
+9,2709,Angus,Human,Male,Temerian,No Family,"['Drug', 'Drug dealer']",Drug dealer
+10,4774,Antoinette,Human,Female,Toussaintois,No Family,[],No Profession
+11,6920,Armorer,No Race,No Gender,No Nationality,No Family,[],No Profession
+12,2487,Azar Javed,Human,Male,Zerrikanian,No Family,"['Alchemist]]<br>[[Mage', ('Alchemist', 'Mage'), '[[Alchemist]]<br>[[Mage]]']","['Alchemist]]<br>[[Mage', ('Alchemist', 'Mage'), '[[Alchemist]]<br>[[Mage]]']"
+13,2488,Berengar,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+14,5075,Blacksmith,No Race,No Gender,No Nationality,No Family,[],No Profession
+15,7593,Blacksmith's son,Human,Male,Temerian,No Family,"['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']","['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']"
+16,7595,Blacksmith's wife,Human,Female,Temerian,No Family,[],No Profession
+17,2230,Blue-eyed lass,Human,Female,Temerian,No Family,"['Courtesan', 'Courtesan']",Courtesan
+18,10264,Bogut Kuternoga,Human,Male,No Nationality,No Family,[],No Profession
+19,9349,Boholt,Human,Male,Crinfrider,No Family,"['Mercenary', '[[Mercenary]]']",Mercenary
+20,8545,Bookseller,Human,Male,Temerian,No Family,"['Merchant', 'Bookseller', 'Bookseller<br>[[Merchant]]']","['Merchant', 'Bookseller', 'Bookseller<br>[[Merchant]]']"
+21,4333,Bootblack (Vizima),No Race,No Gender,No Nationality,No Family,[],No Profession
+22,6786,Brickmakers,No Race,No Gender,No Nationality,No Family,[],No Profession
+23,2547,Brogg,No Race,No Gender,No Nationality,No Family,[],No Profession
+24,8037,Buse,Human,Male,Toussaintois,No Family,[],No Profession
+25,5973,Butter Bean,No Race,No Gender,No Nationality,No Family,[],No Profession
+26,2207,Carmen,Human,Female,Temerian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+27,3776,Caroline,Human,Female,Temerian,No Family,[],No Profession
+28,2597,Celina,Human,Female,Temerian,No Family,[],No Profession
+29,3385,Chireadan,Elf,Male,Redanian,No Family,"['Tavern', 'Tavern owner {{Small|text=canon}}<br>Guerrilla fighter {{Small|text=games}}']",Tavern owner
+30,5355,City Guard,No Race,No Gender,No Nationality,No Family,[],No Profession
+31,2602,Clerks,No Race,No Gender,No Nationality,No Family,[],No Profession
+32,4310,Coccacidium,No Race,No Gender,No Nationality,No Family,[],No Profession
+33,4476,Coleman,Human,Male,Temerian,No Family,"['Fisstech', 'Fisstech Dealer']",Fisstech Dealer
+34,6536,Con artist,Human,Male,Temerian,No Family,"['Con', 'Con artist']",Con artist
+35,4533,Conrad,Human,Male,Temerian,No Family,[],No Profession
+36,8039,Corbin,Human,Male,Toussaintois,No Family,[],No Profession
+37,3778,Courtesans,No Race,No Gender,No Nationality,No Family,[],No Profession
+38,2403,Dandelion,Human,Male,Redanian,No Family,"['Bard', '[[Bard]]']",Bard
+39,2483,Declan Leuvaarden,Human,Male,Alban,Leuvaarden family,"['Merchant', 'Merchant/Spy']",Merchant/Spy
+40,8043,Desperate father,No Race,No Gender,No Nationality,No Family,[],No Profession
+41,8093,Desperate merchant,Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+42,10776,Distressed nurse,Human,Female,No Nationality,No Family,"['Nurse', 'Nurse']",Nurse
+43,5060,Elder druid,Human,Male,Temerian,No Family,"['Druid', '[[Druid]]']",Druid
+44,8581,Elven convict,No Race,No Gender,No Nationality,No Family,[],No Profession
+45,7600,Elven craftsman,Elf,Male,No Nationality,No Family,"['Master', 'Master craftsman']",Master craftsman
+46,3787,Elves of Murky Waters,No Race,No Gender,No Nationality,No Family,[],No Profession
+47,4763,Erkyn Blunt,Human,Male,Temerian,No Family,"['Knight', '[[Knight]]/spy']",Knight
+48,2801,Eskel,Human,Male,No Nationality,No Family,"['Witcher', 'Witcher']",Witcher
+49,5974,Fat Fred,No Race,No Gender,No Nationality,No Family,[],No Profession
+50,6607,Fence,Human,Male,No Nationality,No Family,"['Merchant', 'Fence', 'Fence<br>[[Merchant]]']","['Merchant', 'Fence', 'Fence<br>[[Merchant]]']"
+51,2661,Ferryman,Human,Male,No Nationality,No Family,"['Ferryman', 'Ferryman']",Ferryman
+52,45858,Fisher King (lover of Lady of the Lake),Human,Male,No Nationality,No Family,"['Ferryman', 'Ferryman']",Ferryman
+53,4781,Fistfighters in The Witcher,No Race,No Gender,No Nationality,No Family,[],No Profession
+54,1965,Foltest,Human,Male,Temerian,Temerian Dynasty,['|Abilities ='],|Abilities =
+55,39945,Franz Kniprode,Human,Male,Temerian,No Family,"['Mage', '[[Mage]]']",Mage
+56,4647,Friendly vodyan priest,Vodyanoy,Male,No Nationality,No Family,"['Priest', '[[Priest]]']",Priest
+57,3562,Gambling ghost,No Race,No Gender,No Nationality,No Family,[],No Profession
+58,3557,Gardener,Human,Male,No Nationality,No Family,"['Mercenary', 'Gardener', 'Gardener<br>[[Mercenary]] {{Small|text=formerly}}']","['Mercenary', 'Gardener', 'Gardener<br>[[Mercenary]] {{Small|text=formerly}}']"
+59,4780,Gellert Bleinheim,Human,Male,No Nationality,No Family,"['Drug', 'Drug lord']",Drug lord
+60,1801,Geralt of Rivia,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+61,2493,Golan Vivaldi,Dwarf,Male,No Nationality,Vivaldi family,"['Bank', '[[Bank]]er']",Bank
+62,4477,Gramps,Human,Male,No Nationality,No Family,[],No Profession
+63,4652,Grandma,Human,Female,No Nationality,No Family,[],No Profession
+64,38055,Gravedigger (Vizima),No Race,No Gender,No Nationality,No Family,[],No Profession
+65,8465,Greater cockatrice,No Race,No Gender,No Nationality,No Family,[],No Profession
+66,2401,Half-elf,No Race,No Gender,No Nationality,No Family,[],No Profession
+67,39948,Halfar,Human,Male,No Nationality,No Family,"['Bandit', 'Bandit']",Bandit
+68,2476,Haren Brogg,Human,Male,Temerian,No Family,"['Merchant', 'Merchant ([[fence]], [[havekar]])']","fence]], [[havekar"
+69,41050,Havekar,No Race,No Gender,No Nationality,No Family,[],No Profession
+70,8040,Headhunter (person),No Race,No Gender,No Nationality,No Family,[],No Profession
+71,72910,Herbalist,No Race,No Gender,No Nationality,No Family,[],No Profession
+72,4093,Hermit,Human,Male,No Nationality,No Family,"['Druid', '[[Druid]]']",Druid
+73,2660,Hierophant,Human,Male,Temerian,No Family,"['Druid', '[[Druid]]']",Druid
+74,3941,Hildegard Zollstock,Human,Female,Temerian,No Family,[],No Profession
+75,8050,Ida Vertz,No Race,No Gender,No Nationality,No Family,[],No Profession
+76,3859,Ilsa,Human,Female,Temerian,No Family,[],No Profession
+77,3495,Jacques de Aldersberg,Human,Male,Aedirnian,No Family,['|Affiliations = [[Order of the White Rose]]<br>[[Order of the Flaming Rose]]<br>[[Syndicate]]<ref>{{Gwent standalone}}</ref> {{Small|text=secretly}}'],|Affiliations = [[Order of the White Rose]]<br>[[Order of the Flaming Rose]]<br>[[Syndicate]]<ref>{{Gwent standalone}}</ref> {{Small|text=secretly}}
+78,4534,Jean-Pierre,Human,Male,Toussaintois,No Family,[],No Profession
+79,6499,Jester,No Race,No Gender,No Nationality,No Family,[],No Profession
+80,2569,Jethro,Human,Male,Temerian,No Family,"['Vizima', 'Jailer', 'Jailer<br>[[Vizima]] city guardsman']","['Vizima', 'Jailer', 'Jailer<br>[[Vizima]] city guardsman']"
+81,10031,Juan Pablo Vassermiller,Human,Male,Ebbinger,No Family,[],No Profession
+82,3506,Julian,Human,Male,Kovirian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+83,2486,Kalkstein,Human,Male,Temerian,No Family,"['Alchemist]]<br>[[Armorer', ('Alchemist', 'Armorer'), '[[Alchemist]]<br>[[Armorer]]<br>Author']","['Alchemist]]<br>[[Armorer', ('Alchemist', 'Armorer'), '[[Alchemist]]<br>[[Armorer]]<br>Author']"
+84,2142,King of the Wild Hunt,Ghost,Male,No Nationality,No Family,[],No Profession
+85,11132,Kingslayers,No Race,No Gender,No Nationality,No Family,[],No Profession
+86,36400,Kobus de Vollen,Human,Male,Temerian,No Family,"['Palantine', 'Palantine']",Palantine
+87,10262,Kristina,Human,Female,No Nationality,No Family,[],No Profession
+88,2492,Lady of the Lake (nymph),Nymph,Female,No Nationality,No Family,"['Goddess', 'Goddess of chivalry']",Goddess of chivalry
+89,2802,Lambert,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+90,2477,Leo,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+91,3518,Lilly,No Race,No Gender,No Nationality,No Family,[],No Profession
+92,5602,Lowlife,No Race,No Gender,No Nationality,No Family,[],No Profession
+93,9787,Maggot,Human,Male,Temerian,No Family,[],No Profession
+94,5889,Malcolm Stein,Dwarf,Male,No Nationality,No Family,"['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']","['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']"
+95,8049,Marcus Vertz,No Race,No Gender,No Nationality,No Family,[],No Profession
+96,4585,Mason Harn,Human,Male,Temerian,No Family,"['Mason', 'Mason']",Mason
+97,2550,Meis,No Race,No Gender,No Nationality,No Family,[],No Profession
+98,2149,Midday bride,No Race,No Gender,No Nationality,No Family,[],No Profession
+99,3321,Mikul,Human,Male,Temerian,No Family,"['Guard', '[[Guard]]']",Guard
+100,10261,Missing creatures,No Race,No Gender,No Nationality,No Family,[],No Profession
+101,3521,Moa,No Race,No Gender,No Nationality,No Family,[],No Profession
+102,2577,Morenn,Dryad,Female,Brokilonian,No Family,[],No Profession
+103,4095,Munro Bruys,Dwarf,Male,Mahakaman,No Family,"['Bouncer', 'Bouncer<ref name=""tw1""/><br>[[Soldier]] {{Small|text=formerly}}']",Soldier
+104,4561,Murky Waters blacksmith,Human,Male,Temerian,No Family,"['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']","['Blacksmith]]<br>[[Merchant', ('Blacksmith', 'Merchant'), '[[Blacksmith]]<br>[[Merchant]]']"
+105,4586,Murky Waters healer,Human,Female,Temerian,No Family,"['Merchant', 'Healer', 'Healer<br>[[Merchant]]']","['Merchant', 'Healer', 'Healer<br>[[Merchant]]']"
+106,15807,Mysterious assassin,Human,Male,No Nationality,No Family,"['Witcher', 'Witcher']",Witcher
+107,7049,Mysterious man,Human,Male,No Nationality,No Family,[],No Profession
+108,2878,Nadir,No Race,No Gender,No Nationality,No Family,[],No Profession
+109,99049,Naiad (Murky Waters lakeside),Naiad,Female,No Nationality,No Family,[],No Profession
+110,5755,Novice nun,Human,Female,No Nationality,No Family,"['Nun', 'Nun<br>Nurse']",Nun<br>Nurse
+111,2485,Nurses,No Race,No Gender,No Nationality,No Family,[],No Profession
+112,2480,Odo (merchant),Human,Male,No Nationality,No Family,"['Merchant', 'Merchant']",Merchant
+113,11235,Old brickmaker,Human,Male,Temerian,No Family,"['Brickmaker', 'Brickmaker']",Brickmaker
+114,8052,Order quartermaster,Human,Male,No Nationality,No Family,"['Knight]]<br>[[Merchant', ('Knight', 'Merchant'), '[[Knight]]<br>[[Merchant]]<br>Quartermaster']","['Knight]]<br>[[Merchant', ('Knight', 'Merchant'), '[[Knight]]<br>[[Merchant]]<br>Quartermaster']"
+115,5288,Ori Reuven,Human,Male,Redanian,No Family,"['Assistant', 'Assistant']",Assistant
+116,3860,Ozzrel,No Race,No Gender,No Nationality,No Family,[],No Profession
+117,7591,Pat,Human,Male,Temerian,No Family,[],No Profession
+118,2662,Patrick de Weyze,Human,Male,Temerian,No Family,"['Knight', '[[Knight]]']",Knight
+119,3777,People of Murky Waters,No Race,No Gender,No Nationality,No Family,[],No Profession
+120,2817,People of the Outskirts,No Race,No Gender,No Nationality,No Family,[],No Profession
+121,4480,Philippa Eilhart,Human,Female,Redanian,No Family,"['Mage', 'Advisor', 'Advisor<br>[[Mage]]']","['Mage', 'Advisor', 'Advisor<br>[[Mage]]']"
+122,3558,Poor townsfolk,No Race,No Gender,No Nationality,No Family,[],No Profession
+123,4723,Prize-winning cow,No Race,Female,No Nationality,No Family,[],No Profession
+124,3401,Professor (assassin),Human,Male,No Nationality,No Family,"['Assassin', 'Assassin-for-hire']",Assassin-for-hire
+125,3486,Prostitute,No Race,No Gender,No Nationality,No Family,[],No Profession
+126,2573,Queen of the Night,Bruxa,Female,No Nationality,No Family,"['Prostitute|Madame', '[[Prostitute|Madame]]']",Prostitute|Madame
+127,4789,Radovid V,Human,Male,Redanian,Redanian Dynasty,[],No Profession
+128,8038,Ramerot,Human,Male,Toussaintois,No Family,[],No Profession
+129,2570,Ramsmeat,Human,Male,Temerian,No Family,"['Leader', ""Leader of Vizima's underground""]",Leader of Vizima's underground
+130,11206,Raven,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+131,2490,Rayla,Half-elf,Female,Lyrian,No Family,"['Mercenary', '[[Mercenary]]']",Mercenary
+132,2571,Raymond Maarloeve,Human,Male,Temerian,No Family,"['Private', 'Private investigator']",Private investigator
+133,2664,Ren Grouver,Dwarf,Male,No Nationality,No Family,"['Guerrilla', 'Guerrilla fighter']",Guerrilla fighter
+134,8874,Resolute girl,Human,Female,Temerian,No Family,[],No Profession
+135,2479,Reverend (Outskirts),Human,Male,No Nationality,No Family,"['Priest', '[[Priest]]']",Priest
+136,5972,The Rock,No Race,No Gender,No Nationality,No Family,[],No Profession
+137,2572,Roderick de Wett,Human,Male,Alban,de Wett family,"['Knight', '[[Knight]]']",Knight
+138,4779,Roland Bleinheim,Human,Male,No Nationality,No Family,"['Drug', 'Drug lord']",Drug lord
+139,2668,Royal huntsman,Human,Male,Temerian,No Family,"['Huntsman', 'Huntsman']",Huntsman
+140,31635,Saint Gregory,Human,Male,No Nationality,No Family,[],No Profession
+141,4314,Savolla,Human,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+142,8313,Scoia'tael quartermaster,Dwarf,Male,No Nationality,No Family,"['Merchant', '[[Merchant]]<br>Quartermaster']",Merchant
+143,2407,Shani,Human,Female,Redanian,No Family,"['Medic', 'Medic<br>Dean of the Department of Medicine {{Small|text=retired}}']",Medic<br>Dean of the Department of Medicine
+144,2481,Siegfried of Denesle,Human,Male,Redanian,No Family,"['Knight', '[[Knight]]']",Knight
+145,8051,Swordsmith,No Race,No Gender,No Nationality,No Family,[],No Profession
+146,3516,Teyu,Vodyanoy,Male,No Nationality,No Family,"['Priest', '[[Priest]]']",Priest
+147,2482,Thaler (spy),Human,Male,Temerian,No Family,"['Spy', '[[Spy]]master<br>When in cover:']",Spy
+148,4463,The Witcher merchants,No Race,No Gender,No Nationality,No Family,[],No Profession
+149,3512,Tobias Hoffman,Human,Male,Temerian,No Family,"['Chief', 'Chief/Mayor of [[Murky Waters]]']",Murky Waters
+150,16957,Torch Guardian,Human,Male,Temerian,No Family,"['Torch', 'Torch guardian']",Torch guardian
+151,2437,Toruviel,Elf,Female,No Nationality,No Family,[],No Profession
+152,3290,Townsfolk,No Race,No Gender,No Nationality,No Family,[],No Profession
+153,8028,Trader,No Race,No Gender,No Nationality,No Family,[],No Profession
+154,2035,Triss Merigold,Human,Female,Temerian,No Family,"['Mage', 'Advisor', 'Advisor<br>[[Mage]]']","['Mage', 'Advisor', 'Advisor<br>[[Mage]]']"
+155,3517,Ureus,No Race,No Gender,No Nationality,No Family,[],No Profession
+156,2576,Vaska,Human,Female,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+157,2574,Velerad,Human,Male,Temerian,No Family,"['Burgomeister', 'Burgomeister of [[Vizima]]']",Vizima
+158,8048,Vertz,Human,Female,Temerian,No Family,[],No Profession
+159,2424,Vesemir,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+160,2475,Vesna Hood,Human,Female,No Nationality,No Family,"['Waitress', 'Waitress']",Waitress
+161,3519,Vesper,No Race,No Gender,No Nationality,No Family,[],No Profession
+162,2158,Vetala,No Race,No Gender,No Nationality,No Family,[],No Profession
+163,2484,Vincent Meis,Human,Male,Temerian,No Family,"['Guard', '[[Guard]]']",Guard
+164,3520,Voref,No Race,No Gender,No Nationality,No Family,[],No Profession
+165,6500,Waitresses,No Race,No Gender,No Nationality,No Family,[],No Profession
+166,2489,Yaevinn,Elf,Male,No Nationality,No Family,[],No Profession
+167,66782,Yamo Ryeboozer,Human,Male,No Nationality,No Family,[],No Profession
+168,4504,Yaren Bolt,Dwarf,Male,No Nationality,No Family,"['Lumberjack', 'Lumberjack']",Lumberjack
+169,4502,Zahin Schmartz,Dwarf,Male,No Nationality,No Family,"['Dentist', 'Dentist']",Dentist
+170,5975,Zdenek,Human,Male,Temerian,No Family,"['Fistfighters in The Witcher|Fistfighter', '[[Fistfighters in The Witcher|Fistfighter]]']",Fistfighters in The Witcher|Fistfighter
+171,4032,Zephyr,No Race,Male,No Nationality,No Family,[],No Profession
+172,2408,Zoltan Chivay,Dwarf,Male,Mahakaman,No Family,[],No Profession
+173,14238,The Witcher 2 merchants,No Race,No Gender,No Nationality,No Family,[],No Profession
+174,35920,Abelard of Hagge,Human,Male,Aedirnian,No Family,"['Mage', '[[Mage]]']",Mage
+175,16759,Adalbert (Nilfgaardian sorcerer),Human,Male,Nilfgaardian,No Family,"['Mage', '[[Mage]]']",Mage
+176,9584,Adam Pangratt,Human,Male,No Nationality,No Family,"['Mercenary', '[[Mercenary]]']",Mercenary
+177,16120,Adrianna,Human,Female,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+178,16811,Aep Dearhenna,Human,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+179,35912,Allgood,Human,Male,Aedirnian,No Family,"['Fist', 'Fist fighter']",Fist fighter
+180,9775,Anaïs La Valette,Human,Female,Temerian,House of La Valette,[],No Profession
+181,12799,Anezka,Human,Female,Temerian,No Family,"['Merchant]]<br>[[Herbalist', ('Merchant', 'Herbalist'), '[[Merchant]]<br>[[Herbalist]]']","['Merchant]]<br>[[Herbalist', ('Merchant', 'Herbalist'), '[[Merchant]]<br>[[Herbalist]]']"
+182,40362,Anselm of Aedirn,Human,Male,Aedirnian,No Family,"['Royal', 'Royal guard']",Royal guard
+183,98046,Archpriest (Monastery),Human,Male,Temerian,No Family,"['Priest', '[[Priest]]']",Priest
+184,72260,Arnesse,Human,Female,Temerian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+185,15321,Arnolt Malliger,Human,Male,Kaedwenian,No Family,"['Spy', 'Spy']",Spy
+186,72247,Arseleta,Human,Female,Kaedwenian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+187,3669,Arthur Tailles,Human,Male,Temerian,No Family,"['Knight', '[[Knight]]']",Knight
+188,11789,Aryan La Valette,Human,Male,Temerian,House of La Valette,"['Knight', 'Knight']",Knight
+189,4833,Assire var Anahid,Human,Female,Vicovarian,var Anahid family,"['Mage', '[[Mage]]<br>Researcher']",Mage
+190,13262,Auckes,Human,Male,No Nationality,No Family,"['Witcher', 'Witcher {{Small|text=formerly}}<br>Assassin']",Witcher<br>Assassin
+191,12990,Baltimore,Dwarf,Male,No Nationality,No Family,[],No Profession
+192,15306,Bartholomew Bargee,Human,Male,Temerian,No Family,[],No Profession
+193,11795,Bernard Loredo,Human,Male,Temerian,No Family,"['Commandant', '[[Commandant]]']",Commandant
+194,14728,Berthold Candeleria,Dwarf,Male,Temerian,No Family,"['The Witcher 2 merchants|Merchant', '[[The Witcher 2 merchants|Merchant]]']",The Witcher 2 merchants|Merchant
+195,72245,Big Bust Miriam,Human,Female,Kaedwenian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+196,72242,Birdie,Human,Female,Kaedwenian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+197,16096,Bolton of Ironford,Human,Male,No Nationality,No Family,"['Knight', '[[Knight]]']",Knight
+198,9774,Boussy La Valette,Human,Male,Temerian,House of La Valette,[],No Profession
+199,12993,Bras of Ban Ard,Human,Male,Kaedwenian,No Family,"['Craftsman]]<br>[[Mage]]<br>[[Merchant', ('Craftsman', 'Mage'), '[[Craftsman]]<br>[[Mage]]<br>[[Merchant]]']","['Craftsman]]<br>[[Mage]]<br>[[Merchant', ('Craftsman', 'Mage'), '[[Craftsman]]<br>[[Mage]]<br>[[Merchant]]']"
+200,16706,Brigida Papebrock,Human,Female,Temerian,Papebrock family,"['Informant', 'Informant']",Informant
+201,16331,Burton,Human,Male,Kaedwenian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+202,9342,Carduin,Human,Male,Kovirian,No Family,"['Mage', '[[Mage]]<br>Advisor']",Mage
+203,12550,Cecil Burdon,Dwarf,Male,No Nationality,Skalen Burdon,"['Alderman', 'Alderman']",Alderman
+204,12420,Cedric (elf),Elf,Male,No Nationality,No Family,"['The Witcher 2 merchants', 'Craftsman]]<br>[[The Witcher 2 merchants|Merchant', '[[Craftsman]]<br>[[The Witcher 2 merchants|Merchant]]']","['The Witcher 2 merchants', 'Craftsman]]<br>[[The Witcher 2 merchants|Merchant', '[[Craftsman]]<br>[[The Witcher 2 merchants|Merchant]]']"
+205,12445,Chorab,Human,Male,Temerian,No Family,"['Village', 'Village Elder']",Village Elder
+206,13006,Ciaran aep Easnillen,Elf,Male,No Nationality,No Family,"['Soldier', '[[Soldier]]']",Soldier
+207,15255,Clovisse Merse,Human,Female,No Nationality,No Family,[],No Profession
+208,37172,Count Felart,Human,Male,Aedirnian,No Family,"['Nobleman', 'Nobleman']",Nobleman
+209,14903,Count Tybalt (knight),Human,Male,No Nationality,No Family,"['Knight', '[[Knight]]']",Knight
+210,14233,Craftsman,No Race,No Gender,No Nationality,No Family,[],No Profession
+211,9025,Crinfrid Reavers,No Race,No Gender,No Nationality,No Family,[],No Profession
+212,12886,Cynthia,Human,Female,Alban,No Family,"['Mage', '[[Mage]]']",Mage
+213,35976,Dagonet,Human,Male,Aedirnian,No Family,"['Court', 'Court jester']",Court jester
+214,16496,Dalum,Human,Male,No Nationality,No Family,"['Merchant', 'Merchant']",Merchant
+215,7587,Demavend III,Human,Male,Aedirnian,Aedirnian Dynasty,[],No Profession
+216,12820,Derae,Elf,Female,No Nationality,No Family,"['Prostitute|Escort', '[[Prostitute|Escort]]']",Prostitute|Escort
+217,9571,Detmold,Human,Male,Kovirian,No Family,"['Mage', '[[Mage]]<br>Royal Advisor']",Mage
+218,13076,Dmitri,Human,Male,No Nationality,No Family,"['Bandit', 'Bandit']",Bandit
+219,16117,Dragan,Human,Male,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+220,12913,Earso,Human,Male,No Nationality,No Family,"['Merchant]]<br>[[Craftsman', ('Merchant', 'Craftsman'), '[[Merchant]]<br>[[Craftsman]]']","['Merchant]]<br>[[Craftsman', ('Merchant', 'Craftsman'), '[[Merchant]]<br>[[Craftsman]]']"
+221,13640,Edwin Leistham,Human,Male,Kaedwenian,No Family,[],No Profession
+222,12415,Einar Gausel,Dwarf,Male,No Nationality,No Family,"['Merchant]], [[The Witcher 2 dice poker|Dice Poker Player', '[[Merchant]], [[The Witcher 2 dice poker|Dice Poker Player]]']","Merchant]], [[The Witcher 2 dice poker|Dice Poker Player"
+223,103230,Ekhart Henessy,Human,Male,Kaedwenian,No Family,"['Soldier', 'Soldier']",Soldier
+224,13260,Ele'yas,Elf,Male,No Nationality,No Family,"['Soldier', '[[Soldier]]']",Soldier
+225,15462,Elthon,Human,Male,No Nationality,No Family,"['Feather', 'Feather collector']",Feather collector
+226,15429,Elven prisoner,Elf,Male,No Nationality,No Family,[],No Profession
+227,15239,Enzo Etcheverry,Human,Male,Temerian,No Family,[],No Profession
+228,9796,Eredin Bréacc Glas,Elf,Male,No Nationality,No Family,[],No Profession
+229,12818,Falas,Human,Male,No Nationality,No Family,"['Merchant]]<br>[[Craftsman', ('Merchant', 'Craftsman'), '[[Merchant]]<br>[[Craftsman]]']","['Merchant]]<br>[[Craftsman', ('Merchant', 'Craftsman'), '[[Merchant]]<br>[[Craftsman]]']"
+230,16876,Farid,Human,Male,No Nationality,No Family,"['Alchemist', 'Alchemist']",Alchemist
+231,14344,Felicia Cori,Human,Female,No Nationality,No Family,"['Merchant]]<br>[[Mage', 'Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress', ('Barber', 'Merchant'), '[[Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress]]']","['Merchant]]<br>[[Mage', 'Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress', ('Barber', 'Merchant'), '[[Barber]]<br>[[Merchant]]<br>[[Mage|Sorceress]]']"
+232,41267,Felix Favela,Dwarf,Male,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+233,15874,Fenn (commando),Human,Male,Temerian,No Family,[],No Profession
+234,16062,Finch,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+235,12408,Fioravanti,Human,Male,No Nationality,No Family,"['Merchant]], [[The Witcher 2 dice poker|Dice Poker Player', '[[Merchant]], [[The Witcher 2 dice poker|Dice Poker Player]]']","Merchant]], [[The Witcher 2 dice poker|Dice Poker Player"
+236,44184,Gar,Human,Male,Crinfrider,No Family,"['Mercenary', '[[Mercenary]]']",Mercenary
+237,16875,Gaspar,Human,Male,No Nationality,No Family,"['Alchemist', '[[Alchemist]]']",Alchemist
+238,15948,Gavrilo,Human,Male,Kaedwenian,No Family,"['Soldier', 'Soldier']",Soldier
+239,14497,Gridley,Human,Male,Aedirnian,No Family,"['Medic|Field', '[[Medic|Field]] {{Small|text=formerly}}']",Medic|Field
+240,16770,Guard (mage),Vran,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+241,37287,Gus of Tretogor,Human,Male,Redanian,No Family,"['Mage', '[[Mage]]']",Mage
+242,15357,Haggard,Dwarf,Male,No Nationality,No Family,"['The Witcher 2 merchants|Merchant]]<br>[[Craftsman', '[[The Witcher 2 merchants|Merchant]]<br>[[Craftsman]]<br>']",The Witcher 2 merchants|Merchant]]<br>[[Craftsman
+243,16118,Harald Gord,Dwarf,Male,Mahakaman,No Family,"['Mercenary', '[[Mercenary]]<br>Arena fighter']",Mercenary
+244,35974,Harmond,Human,Male,Aedirnian,No Family,"['Court', 'Court jester']",Court jester
+245,5201,Henselt,Human,Male,Kaedwenian,Dynasty of the Unicorn,[],No Profession
+246,35747,Hieronymus Lash,No Race,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+247,35916,Himsbach,Human,Male,Aedirnian,No Family,"['Royal', 'Royal Guard']",Royal Guard
+248,15915,Igo,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+249,16079,Igor Vivaldi,Dwarf,Male,No Nationality,Vivaldi family,"['Bank', '[[Bank]]er']",Bank
+250,12816,Ilona,Elf,Female,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+251,9576,Iorweth,Elf,Male,No Nationality,No Family,"['Guerrilla', 'Guerrilla fighter<br>Unit commander']",Guerrilla fighter<br>Unit commander
+252,14753,Isidor Kay,Dwarf,Male,No Nationality,No Family,"['The Witcher 2 merchants|Merchant]]<br>[[Craftsman', '[[The Witcher 2 merchants|Merchant]]<br>[[Craftsman]]']",The Witcher 2 merchants|Merchant]]<br>[[Craftsman
+253,8123,Jan Natalis,Human,Male,Temerian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+254,72262,Julia (prostitute),Human,Female,Temerian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+255,15613,Kalten,Human,Male,No Nationality,No Family,[],No Profession
+256,9350,Kennet,Human,Male,Crinfrider,No Family,"['Mercenary', '[[Mercenary]]']",Mercenary
+257,14546,King Ziggy,Human,No Gender,No Nationality,No Family,"['Fistfight', 'Fistfight organizer']",Fistfight organizer
+258,14607,Lasota,Human,Male,Kaedwenian,No Family,"['Merchant]], [[Craftsman]], [[The Witcher 2 dice poker|Dice Poker Player', '[[Merchant]], [[Craftsman]], [[The Witcher 2 dice poker|Dice Poker Player]]']","Merchant]], [[Craftsman]], [[The Witcher 2 dice poker|Dice Poker Player"
+259,15409,Letande Avet,Human,Male,Cidarian,No Family,[],No Profession
+260,12220,Letho,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]<br>Assassin']",Witcher
+261,72235,Licking Lucy,Human,Female,Kaedwenian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+262,16795,Linus Maravel,Human,Male,Temerian,No Family,[],No Profession
+263,14338,Liva,Human,Female,No Nationality,No Family,"['Medic', 'Medic']",Medic
+264,12797,Louis Merse,Human,Male,Temerian,No Family,"['Royal', 'Royal burgomaster in [[Flotsam]]']",Flotsam
+265,15389,Madame Carole,Human,Female,No Nationality,No Family,"['Madame', 'Madame of the [[Kaedweni brothel]]']",Kaedweni brothel
+266,12807,Mael,Elf,Male,No Nationality,No Family,"['Craftsman]]<br>[[Merchant', ('Craftsman', 'Merchant'), '[[Craftsman]]<br>[[Merchant]]']","['Craftsman]]<br>[[Merchant', ('Craftsman', 'Merchant'), '[[Craftsman]]<br>[[Merchant]]']"
+267,15413,Magnus,Human,Male,No Nationality,No Family,"['Blacksmith', '[[Blacksmith]]']",Blacksmith
+268,12435,Malena,Elf,Female,No Nationality,No Family,"['Soldier', '[[Soldier]]']",Soldier
+269,14783,Malget,No Race,No Gender,No Nationality,No Family,[],No Profession
+270,13450,Manfred (soldier),Human,Male,Kaedwenian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+271,16089,Mantas Birut,Dwarf,Male,No Nationality,No Family,[],No Profession
+272,12814,Marcus,Human,Male,No Nationality,No Family,"['The Witcher 2 merchants|Merchant', '[[The Witcher 2 merchants|Merchant]]']",The Witcher 2 merchants|Merchant
+273,12343,Margot,Human,Female,No Nationality,No Family,"['Madame', 'Madame']",Madame
+274,9773,Maria Louisa La Valette,Human,Female,No Nationality,House of La Valette,[],No Profession
+275,12897,Marietta Loredo,Human,Female,Temerian,No Family,"['Fisstech', '[[Fisstech]] producer']",Fisstech
+276,16330,Matilda Szabo,Human,Female,Temerian,No Family,[],No Profession
+277,13447,Mavrick,Human,Male,Kaedwenian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+278,13443,Moril,Elf,Female,No Nationality,No Family,[],No Profession
+279,14190,Mottle,Elf,Female,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+280,12710,Myron,Human,Male,Kaedwenian,No Family,"['Medic|Apothecary]]<br>[[Merchant', '[[Medic|Apothecary]]<br>[[Merchant]]']",Medic|Apothecary]]<br>[[Merchant
+281,14757,Mysterious merchant,No Race,No Gender,No Nationality,No Family,[],No Profession
+282,14150,Newboy,Human,Male,Temerian,No Family,"['Mercenary', 'Mercenary']",Mercenary
+283,104008,Nilfgaardian's wraith,Human,Male,Nilfgaardian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+284,35895,Norman Sador,Human,Male,Temerian,No Family,"['Crossbowman', 'Crossbowman']",Crossbowman
+285,13082,Odrin,Human,Male,Kaedwenian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+286,88187,Ogden,Dwarf,Male,No Nationality,No Family,"['Funder', 'Funder']",Funder
+287,13084,Olcan,No Race,No Gender,Aedirnian,No Family,[],No Profession
+288,12668,Operator,Vran,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+289,15914,Oven,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+290,13139,Penitent Monk,Human,Male,No Nationality,No Family,"['Monk', 'Monk']",Monk
+291,13441,Polycarp of Rinde,Human,Male,Redanian,No Family,"['Knight', '[[Knight]]']",Knight
+292,14331,Proximo,Human,Male,No Nationality,No Family,"['Arena', 'Arena master']",Arena master
+293,16791,Ravanen Kimbolt,Human,Male,Temerian,No Family,[],No Profession
+294,14749,Raymond Gessler,Dwarf,Male,No Nationality,No Family,[],No Profession
+295,14759,Relic peddler,Human,Male,Kaedwenian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+296,13439,Renuald aep Matsen,Human,Male,Alban,No Family,"['Soldier', '[[Soldier]]']",Soldier
+297,4935,Roach,No Race,Female,No Nationality,No Family,[],No Profession
+298,52779,Roderick of Daevon,Human,Male,Kaedwenian,No Family,"['Knight', '[[Knight]]']",Knight
+299,14500,Rupert Brandhuber,Human,Male,Aedirnian,No Family,"['Medic', '[[Medic]]']",Medic
+300,3868,Sabrina Glevissig,Human,Female,Kaedwenian,No Family,"['Resident mage|Advisor]]<br>[[Mage', '[[Resident mage|Advisor]]<br>[[Mage]]']",Resident mage|Advisor]]<br>[[Mage
+301,12950,Saesenthessis,Dragon,Female,Aedirnian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+302,14342,Sambor,Human,Male,No Nationality,No Family,"['Merchant]]<br>[[Barber', ('Merchant', 'Barber'), '[[Merchant]]<br>[[Barber]]']","['Merchant]]<br>[[Barber', ('Merchant', 'Barber'), '[[Merchant]]<br>[[Barber]]']"
+303,15417,Seherim,Elf,Male,No Nationality,No Family,[],No Profession
+304,15193,Seltkirk,Human,Male,Aedirnian,No Family,"['Knight', '[[Knight]]']",Knight
+305,35914,Semko,Human,Male,Aedirnian,No Family,"['Fist', 'Fist fighter']",Fist fighter
+306,12443,Sendler,Human,Male,No Nationality,No Family,"['Tanner', 'Tanner']",Tanner
+307,13267,Serrit,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+308,35858,Seuxen,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+309,13063,She-troll of Vergen,Troll,Female,No Nationality,No Family,[],No Profession
+310,25019,Sheala de Tancarville,Human,Female,Creydener,No Family,"['Advisor', 'Advisor<br>Researcher<br>[[Mage]]']",Mage
+311,9449,Sheldon Skaggs,Dwarf,Male,Mahakaman,No Family,"['Warrior', 'Warrior']",Warrior
+312,15913,Sheridan,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+313,9503,Shilard Fitz-Oesterlen,Human,Male,Alban,Fitz-Oesterlen family,"['Ambassador]] of [[Nilfgaardian Empire|Nilfgaard', '[[Ambassador]] of [[Nilfgaardian Empire|Nilfgaard]]']",Ambassador]] of [[Nilfgaardian Empire|Nilfgaard
+314,16063,Shorty,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+315,15912,Silas,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+316,14927,Silgrat,Human,Male,Aedirnian,No Family,[],No Profession
+317,12864,Skalen Burdon,Dwarf,Male,No Nationality,Cecil Burdon,"['Arm wrestling|Arm wrestler', '[[Arm wrestling|Arm wrestler]]']",Arm wrestling|Arm wrestler
+318,15508,Spark,Elf,Female,No Nationality,No Family,"['The Witcher 2 merchants|Merchant', '[[The Witcher 2 merchants|Merchant]]']",The Witcher 2 merchants|Merchant
+319,13143,Stennis,Human,Male,Aedirnian,Aedirnian Dynasty,[],No Profession
+320,57686,Succubus (Vergen),Succubus,Female,No Nationality,No Family,[],No Profession
+321,40229,Sven (Manfred's son),Human,Male,Kaedwenian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+322,35860,Swann,Human,Male,Temerian,No Family,"['Knight', 'Knight']",Knight
+323,16808,Talking Golem,No Race,No Gender,No Nationality,No Family,"['Guard', 'Guard']",Guard
+324,12812,The Incredible Lockhart,Human,Male,No Nationality,No Family,"['Merchant]], [[The Witcher 2 dice poker|Dice Poker Player', '[[Merchant]], [[The Witcher 2 dice poker|Dice Poker Player]]']","Merchant]], [[The Witcher 2 dice poker|Dice Poker Player"
+325,12804,The Mighty Numa,Human,Male,No Nationality,No Family,"['Arm wrestling|Arm wrestler', '[[Arm wrestling|Arm wrestler]]']",Arm wrestling|Arm wrestler
+326,15872,Thirteen,Human,Male,Temerian,No Family,"['Knight', '[[Knight]]']",Knight
+327,12892,Thorak,No Race,No Gender,No Nationality,No Family,"['Runesmith', 'Runesmith']",Runesmith
+328,12866,Troll of Flotsam,Troll,Male,No Nationality,No Family,[],No Profession
+329,13060,Troll of Vergen,Troll,Male,No Nationality,No Family,[],No Profession
+330,17992,Tybalt of Vengerberg,Human,Male,Aedirnian,No Family,"['Archer', 'Archer']",Archer
+331,15667,Vandergrift,Human,Male,Kaedwenian,No Family,"['Soldier', 'Soldier']",Soldier
+332,13847,Vanhemar,Human,Male,Alban,No Family,"['Mage', '[[Mage]]']",Mage
+333,15257,Vencel Pugg,Human,Male,No Nationality,No Family,"['Alchemist', '[[Alchemist]]']",Alchemist
+334,11456,Vernon Roche,Human,Male,Temerian,No Family,"['Soldier|Commando', '[[Soldier|Commando]]']",Soldier|Commando
+335,12262,Ves,Human,Female,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+336,15510,Vilmos Bartok,Human,Male,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+337,16119,Vincent Molnar,Human,Male,No Nationality,No Family,"['Knight', '[[Knight]]']",Knight
+338,12985,Vinson Traut,Human,Male,Kaedwenian,No Family,[],No Profession
+339,14340,Visionary,Human,Male,No Nationality,No Family,[],No Profession
+340,37458,Whistling Wendy,Human,Female,Kaedwenian,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+341,88189,Willy Oblate,Human,Male,Aedirnian,No Family,"['Servant', 'Servant']",Servant
+342,4604,Yarpen Zigrin,Dwarf,Male,Mahakaman,Clan Zigrin,"['Adventurer', 'Adventurer<br>Dragon slayer<br>[[Soldier]]']",Soldier
+343,2007,Yennefer of Vengerberg,Quarter-elf,Female,Aedirnian,No Family,"['Mage', 'Advisor', 'Advisor<br>[[Mage]]']","['Mage', 'Advisor', 'Advisor<br>[[Mage]]']"
+344,64810,Zindrab,Human,Male,No Nationality,No Family,"['The Witcher 2 dice poker|Dice poker', '[[The Witcher 2 dice poker|Dice poker]] player']",The Witcher 2 dice poker|Dice poker
+345,9748,Zyvik,Human,Male,Kaedwenian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+346,88190,File:Tw2 Willy Oblate.jpeg,No Race,No Gender,No Nationality,No Family,[],No Profession
+347,72448,Gwent players,No Race,No Gender,No Nationality,No Family,[],No Profession
+348,36469,Abbé Faria,Human,Male,Redanian,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+349,73979,Abelard Rizza,Human,Male,Redanian,No Family,"['Actor', 'Actor']",Actor
+350,73071,Aegar,Elf,Male,No Nationality,No Family,"['Circus', 'Circus performer']",Circus performer
+351,72208,Agda,Human,Female,Skelliger,No Family,[],No Profession
+352,42730,Agneta,Human,Female,Temerian,No Family,[],No Profession
+353,38102,Aki II,Human,Male,Skelliger,Clan Brokvar,[],No Profession
+354,34770,Albert Vegelbud,Human,Male,Redanian,Vegelbud family,"['Amateur', 'Amateur alchemist']",Amateur alchemist
+355,43323,Albin Hart,Human,Male,No Nationality,No Family,['|Appears_games = {{Tw3}}'],|Appears_games = {{Tw3}}
+356,72721,Alchemist (Crematory),Human,Male,Redanian,No Family,"['Mage]] {{Small|text=formerly}}<br>[[Alchemist', '[[Mage]] {{Small|text=formerly}}<br>[[Alchemist]]']",Mage]] {{Small|text=formerly}}<br>[[Alchemist
+357,32177,Aldert Geert,Human,Male,Redanian,No Family,"['Oxenfurt Academy faculties|Assistant professor', '[[Oxenfurt Academy faculties|Assistant professor]]']",Oxenfurt Academy faculties|Assistant professor
+358,43558,Alexander,Human,Male,No Nationality,No Family,"['Mage', '[[Mage]]<br>Epidemiologist']",Mage
+359,31185,Allgod,Sylvan,Male,No Nationality,No Family,"['Self', 'Self-appointed god']",Self-appointed god
+360,70351,Ambros,Human,Male,Temerian,No Family,[],No Profession
+361,88252,Amos var Ypsis,No Race,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+362,72270,Amrynn,Elf,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+363,31899,Anabelle,Human,Female,Temerian,No Family,[],No Profession
+364,41769,Anisse,Human,Female,No Nationality,No Family,"['Mage|Sorceress', '[[Mage|Sorceress]]']",Mage|Sorceress
+365,23959,Anna Strenger,Human,Female,Temerian,No Family,[],No Profession
+366,40382,Anselm (merchant),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+367,74522,Archibald O'Neill,Human,Male,No Nationality,No Family,"['Fistfighter', 'Fistfighter']",Fistfighter
+368,38475,Armorer (Hierarch Square),Human,Male,Redanian,No Family,"['Armorer', '[[Armorer]] {{Small|text=journeyman}}']",Armorer
+369,72118,Armorer (Kaer Muire),Human,Male,Skelliger,No Family,"['Armorer', '[[Armorer]] {{Small|text=journeyman}}']",Armorer
+370,61682,Armorer (Kaer Trolde keep),Human,Male,Skelliger,Clan an Craite,"['Armorer', '[[Armorer]] {{Small|text=journeyman}}']",Armorer
+371,67011,Armorer (Larvik),Human,Male,Skelliger,No Family,"['Armorer', '[[Armorer]] {{Small|text=amateur}}']",Armorer
+372,38345,Armorer (Midcopse),Human,Male,Temerian,No Family,"['Armorer', '[[Armorer]] {{Small|text=amateur}}']",Armorer
+373,38477,Armorer (Oxenfurt),Human,Male,Redanian,No Family,"['Armorer', '[[Armorer]] {{Small|text=journeyman}}']",Armorer
+374,72111,Armorer (Urialla Harbor),Human,Male,Skelliger,No Family,"['Armorer', '[[Armorer]] {{Small|text=amateur}}']",Armorer
+375,43471,Arnout Vester,Human,Male,Nilfgaardian,No Family,"['Bounty hunter', '[[Bounty hunter]]']",Bounty hunter
+376,46352,Arnvald,Human,Male,Skelliger,No Family,"['Seneschal', '[[Seneschal]]']",Seneschal
+377,38635,Artis,Human,Male,Skelliger,No Family,"['Druid]] {{Small|text=formerly}}<br>[[Priest]] of [[Svalblod]]<br>King [[Svanrige Tuirseach|Svanrige', ""[[Druid]] {{Small|text=formerly}}<br>[[Priest]] of [[Svalblod]]<br>King [[Svanrige Tuirseach|Svanrige]]'s advisor {{Small|text=optional}}""]",Druid]] {{Small|text=formerly}}<br>[[Priest]] of [[Svalblod]]<br>King [[Svanrige Tuirseach|Svanrige
+378,68867,Astrid (Skjall's sister),Human,Female,Skelliger,Clan Heymaey,[],No Profession
+379,54652,Astrid the Vipress,Human,Female,Skelliger,No Family,[],No Profession
+380,60695,Athak Akydalv,Rock troll,Male,Skelliger,No Family,"['Fist', 'Fist fighter']",Fist fighter
+381,9185,Auberon Muircetach,Elf,Male,No Nationality,No Family,[],No Profession
+382,9305,Avallac'h,Elf,Male,No Nationality,No Family,[],No Profession
+383,51405,Axel an Tordarroch,Human,Male,Skelliger,Clan Tordarroch,"['Warrior', 'Warrior<br>Guard']",Warrior<br>Guard
+384,44000,Aynara,Human,Female,Temerian,No Family,[],No Profession
+385,44433,Barber (Claywich),Human,Male,Temerian,No Family,"['Barber', '[[Barber]]']",Barber
+386,73638,Barber (Gildorf),Human,Male,Redanian,No Family,"['Barber', '[[Barber]]']",Barber
+387,44439,Barber (Oxenfurt),Human,Male,Redanian,No Family,"['Barber', '[[Barber]]']",Barber
+388,44435,Barber (Svorlag),Human,Male,Skelliger,No Family,"['Barber', '[[Barber]]']",Barber
+389,73642,Barber (The Bits),Human,Male,Redanian,No Family,"['Barber', '[[Barber]]']",Barber
+390,31498,Bart,Rock troll,Male,Zerrikanian,No Family,"['Guardian', ""Guardian of camels {{Small|text=formerly}}<br>Sentinel of [[Count Reuven's Treasure]]""]",Count Reuven's Treasure
+391,65113,Barylka,Dog,No Gender,No Nationality,No Family,[],No Profession
+392,69632,Bastien Vildenvert,Human,Male,Temerian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+393,50899,Bea,Human,Female,Redanian,No Family,"['Barmaid', 'Barmaid']",Barmaid
+394,75874,Beast Tamer,Human,Male,Redanian,No Family,['|Appears_games = {{Tw3}}'],|Appears_games = {{Tw3}}
+395,77622,Berem,Human,Male,Temerian,No Family,[],No Profession
+396,36165,Bernard Tulle,Halfling,Male,No Nationality,No Family,"['Merchant', 'Merchant {{Small|text=cover}}<br>Thief']",Merchant<br>Thief
+397,50701,Bertha,Human,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+398,41770,Berthold,Human,Male,No Nationality,No Family,"['Alchemist', '[[Alchemist]]']",Alchemist
+399,51502,Bertram (peasant),Human,Male,Redanian,No Family,[],No Profession
+400,28394,Birna,Human,Female,Skelliger,Clan Tuirseach,['|Affiliations = '],|Affiliations = 
+401,51579,Bjern,Human,Male,Skelliger,No Family,"['Fisherman', 'Fisherman']",Fisherman
+402,43016,Bjorg,Human,Male,Skelliger,No Family,"['Master', 'Master shipwright']",Master shipwright
+403,43283,Black Bogdan,Human,Male,Temerian,No Family,"['Horse', '[[Horse]] racer']",Horse
+404,72800,Blacksmith (Bald Mountain),Human,Male,Temerian,No Family,"['Blacksmith', '[[Blacksmith]] (amateur)']",Blacksmith
+405,41353,Blacksmith (Blackbough),Human,Male,Temerian,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+406,41345,Blacksmith (Fayrlund),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+407,72494,Blacksmith (Harviken),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+408,72798,Blacksmith (Larvik),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+409,40024,Blacksmith (Lindenvale),Human,Male,Temerian,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+410,41333,Blacksmith (Novigrad),Human,Male,Redanian,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=journeyman}}']",Blacksmith
+411,41359,Blacksmith (Oreton),Human,Male,Temerian,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+412,41340,Blacksmith (Oxenfurt),Human,Male,Redanian,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=journeyman}}']",Blacksmith
+413,71763,Blacksmith (Silverton),Human,Male,Redanian,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+414,41369,Blacksmith (Urialla Harbor),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+415,72203,Boatwright,Human,Male,Temerian,No Family,"['Boatwright', 'Boatwright']",Boatwright
+416,42733,Bolko,Human,Male,Temerian,No Family,"['Ealdorman', 'Ealdorman']",Ealdorman
+417,40208,Boris (bear),Bear,Male,No Nationality,No Family,[],No Profession
+418,40209,Boris (troll),Rock troll,Male,No Nationality,No Family,[],No Profession
+419,29854,Bram,Human,Male,Temerian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+420,8702,Bran Tuirseach,Human,Male,Skelliger,Clan Tuirseach,[],No Profession
+421,41527,Bran's unidentified concubine,Human,Female,Skelliger,No Family,['|Nationality = {{Skelliger}}'],|Nationality = {{Skelliger}}
+422,61300,Brean Hotsch,Halfling,Male,No Nationality,No Family,"['Lumberjack', 'Lumberjack']",Lumberjack
+423,38655,Brewess,Relict,Female,No Nationality,No Family,"['Witch', '[[Witch]]']",Witch
+424,51232,Bruno,Human,Male,Temerian,No Family,[],No Profession
+425,42947,Bytomir,Human,Male,Temerian,No Family,[],No Profession
+426,40111,Caesar Bilzen,Dwarf,Male,Novigradian,No Family,"['Accountant', 'Accountant']",Accountant
+427,29718,Caleb Menge,Human,Male,Novigradian,No Family,"['Witch hunter', '[[Witch hunter]]']",Witch hunter
+428,43665,Captain Liglad,Human,Male,No Nationality,No Family,"['Ship', 'Ship captain']",Ship captain
+429,43663,Captain Wolverstone,Human,Male,No Nationality,No Family,"['Ship', 'Ship captain']",Ship captain
+430,22966,Caranthir Ar-Feiniel,Elf,Male,No Nationality,No Family,"['Wild Hunt Navigator|Navigator', '[[Wild Hunt Navigator|Navigator]]']",Wild Hunt Navigator|Navigator
+431,38138,Carlo Rycher,Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+432,23910,Carlo Varese,Dwarf,Male,Novigradian,No Family,"['Crime', 'Crime boss<br>Butcher {{Small|text = formerly}}<ref name=""gwent"" />']","Crime boss<br>Butcher<ref name=""gwent"" />"
+433,9475,Carthia van Canten,Human,Female,Nilfgaardian,No Family,"['Spy', 'Informant', 'Informant<br>[[Spy]]']","['Spy', 'Informant', 'Informant<br>[[Spy]]']"
+434,37408,Caspar,Human,Male,Redanian,No Family,"['Soldier', 'Soldier']",Soldier
+435,26056,Cerys an Craite,Human,Female,Skelliger,Clan an Craite,[],No Profession
+436,8975,Chappelle,Human,Male,Redanian,No Family,[],No Profession
+437,44023,Chet,Human,Male,Temerian,No Family,[],No Profession
+438,2754,Ciri,Human,Female,Cintran,House of Raven,"['Imperator', 'Witcher]]<br>[[Imperator|Empress of Nilfgaard', '[[Witcher]]<br>[[Imperator|Empress of Nilfgaard]] {{Small|text=dependent, games}}']","['Imperator', 'Witcher]]<br>[[Imperator|Empress of Nilfgaard', '[[Witcher]]<br>[[Imperator|Empress of Nilfgaard]] {{Small|text=dependent, games}}']"
+439,72228,Claer,Human,Female,Temerian,No Family,[],No Profession
+440,38901,Cledwyn,Human,Male,Nilfgaardian,No Family,"['Imperial', 'Imperial [[barber]]']",barber
+441,25240,Corinne Tilly,Human,Female,No Nationality,No Family,"['Oneiromancer', '[[Oneiromancer]]']",Oneiromancer
+442,37553,Count de Luverten,Human,Male,Ebbinger,No Family,[],No Profession
+443,36186,Count Tybalt (Novigrad),Human,Male,Redanian,No Family,['|Abilities = '],|Abilities = 
+444,3573,Crach an Craite,Human,Male,Skelliger,Clan an Craite,[],No Profession
+445,21014,Crones,No Race,No Gender,No Nationality,No Family,[],No Profession
+446,29404,Cyprian Wiley,Human,Male,Novigradian,No Family,"['Crime', 'Crime boss']",Crime boss
+447,9572,Cyrus Engelkind Hemmelfart,Human,Male,No Nationality,No Family,"['Priest]] of the [[Eternal Fire', '[[Priest]] of the [[Eternal Fire]]']",Priest]] of the [[Eternal Fire
+448,43451,Dagmar,Human,Male,Temerian,No Family,[],No Profession
+449,37396,Damiaan,Human,Male,Redanian,No Family,"['Soldier', 'Soldier']",Soldier
+450,37295,Dea,No Race,Female,Temerian,No Family,[],No Profession
+451,38643,Dieter,Human,Male,Temerian,No Family,"['Servant', 'Servant']",Servant
+452,43440,Dilvyn,Human,Male,Nilfgaardian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+453,37533,Dirk,Human,Male,Novigradian,No Family,"['Torturer', 'Torturer']",Torturer
+454,18736,Djenge Frett,Human,Male,Skelliger,No Family,"['Bounty hunter', '[[Bounty hunter]]']",Bounty hunter
+455,35119,Dolores Reardon,Human,Female,Temerian,No Family,[],No Profession
+456,31462,Donar an Hindar,Human,Male,Skelliger,Clan an Hindar,[],No Profession
+457,77732,Dragomir (The Witcher 3),Human,Male,No Nationality,No Family,"['Spy', 'Spy']",Spy
+458,3578,Draig Bon-Dhu,Human,Male,Skelliger,No Family,"['Skald', '[[Skald]]}}']",Skald
+459,3577,Drogodar,Human,Male,Cintran,No Family,"['Bard', '[[Bard]]']",Bard
+460,69526,Dromle,Human,Male,Temerian,No Family,['|Appears_games ={{tw3}}'],|Appears_games ={{tw3}}
+461,7578,Dudu,Doppler,Male,No Nationality,Biberveldt family,"['Businessman', 'Businessman']",Businessman
+462,38312,Duke (gangster),Human,Male,Redanian,No Family,"['Crime', 'Crime Boss']",Crime Boss
+463,69553,Dune Vildenvert,Human,Male,temerian,No Family,[],No Profession
+464,73031,Durden,Elf,Male,No Nationality,No Family,"['Fistfighter', 'Fistfighter']",Fistfighter
+465,44034,Ealdorman (Downwarren),Human,Male,Temerian,No Family,"['Ealdorman', 'Ealdorman}}']",Ealdorman}}
+466,38777,Ealdorman (White Orchard),Human,Male,Temerian,No Family,"['Ealdorman', 'Ealdorman']",Ealdorman
+467,38316,Earl (gangster),Human,Male,Redanian,No Family,[],No Profession
+468,36314,Edna var Attre,Human,Female,Attrean,Attre ruling houses|var Attre family,[],No Profession
+469,37392,Egbert,Human,Male,Redanian,No Family,"['Guard', 'Guard/soldier']",Guard/soldier
+470,51583,Egill,Human,Male,Skelliger,No Family,"['Druid', '[[Druid]]']",Druid
+471,41176,Éibhear Hattori,Elf,Male,No Nationality,No Family,"['Blacksmith', 'Cook', 'Cook<br>[[Blacksmith]] {{Small|text=master}}']","['Blacksmith', 'Cook', 'Cook<br>[[Blacksmith]] {{Small|text=master}}']"
+472,42110,Einar (Harviken),Human,Male,Skelliger,No Family,[],No Profession
+473,51560,Einar (Larvik),Human,Male,Skelliger,No Family,"['Pirate', 'Pirate/raider']",Pirate/raider
+474,21061,Elihal,Elf,Male,No Nationality,No Family,"['Tailor', 'Tailor']",Tailor
+475,29932,Elsa,Human,Female,Temerian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+476,3313,Emhyr var Emreis,Human,Male,Alban,House of Emreis,[],No Profession
+477,94069,Ernst van Hoorn,Human,Male,No Nationality,No Family,"['Swordsmith', 'Swordsmith']",Swordsmith
+478,51556,Eryka,Human,Female,Skelliger,No Family,[],No Profession
+479,51521,Evald,Human,Male,Skelliger,No Family,[],No Profession
+480,54385,Eyvind,Human,Male,Skelliger,No Family,"['Skald', '[[Skald]]']",Skald
+481,72322,Fabian Meyer,Dwarf,Male,Mahakaman,No Family,"['Woodcarver', 'Woodcarver']",Woodcarver
+482,36201,Felix Grubb,Human,Male,Redanian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+483,35360,Fergus Graem,Dwarf,Male,No Nationality,No Family,"['Armorer', '[[Armorer]] {{Small|text=journeyman}}']",Armorer
+484,36167,Finneas,Half-elf,Male,No Nationality,No Family,[],No Profession
+485,46354,Folan,Human,Male,Skelliger,Clan Tuirseach,"['Warrior', 'Warrior']",Warrior
+486,52313,Folmer,Human,Male,Skelliger,No Family,"['Warrior', 'Warrior']",Warrior
+487,23591,Francis Bedlam,Human,Male,Novigradian,No Family,"['Crime', 'Crime lord']",Crime lord
+488,37413,Freek,Human,Male,Redanian,No Family,"['Soldier', 'Soldier']",Soldier
+489,38753,Freya Priestess,Human,Female,Skelliger,No Family,"['Priest]]ess<br>[[Alchemist', '[[Priest]]ess<br>[[Alchemist]]']",Priest]]ess<br>[[Alchemist
+490,4835,Fringilla Vigo,Human,Female,Toussaintois,No Family,"['Mage', '[[Mage]]']",Mage
+491,38650,Fritjof,Human,Male,Skelliger,No Family,"['Vaedermakar', '[[Vaedermakar]]']",Vaedermakar
+492,40297,Fugas,Sylvan,Male,No Nationality,No Family,"['Guard', 'Guard of [[Bald Mountain (location)|Bald Mountain]]']",Bald Mountain (location)|Bald Mountain
+493,27833,Gaetan,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+494,73099,Gascoigne,Human,Male,No Nationality,No Family,"['Bard', '[[Bard]]']",Bard
+495,72324,Gaspard,Dwarf,Male,Mahakaman,No Family,"['Real', 'Real estate']",Real estate
+496,19053,Gaunter O'Dimm,No Race,Male,No Nationality,No Family,['|Abilities =[[Magic]]<br>Time manipulation<br>Wish granting<br>Teleportation '],|Abilities =[[Magic]]<br>Time manipulation<br>Wish granting<br>Teleportation 
+497,21065,Ge'els,Elf,Male,No Nationality,No Family,"['Viceroy]] of [[Tir ná Lia', '[[Viceroy]] of [[Tir ná Lia]]']",Viceroy]] of [[Tir ná Lia
+498,44002,Genny,Human,Male,Temerian,No Family,[],No Profession
+499,74521,Georgius Georg,Human,Male,No Nationality,No Family,"['Fistfighter', 'Fistfighter']",Fistfighter
+500,60212,Gerd (peasant),Human,Male,Redanian,No Family,[],No Profession
+501,43405,Gert Borel,Human,Male,Temerian,No Family,"['Corpse', 'Corpse collector']",Corpse collector
+502,38041,Gilbert Witschke,Human,Male,Redanian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+503,60211,Ginter de Lavirac,Human,Male,No Nationality,No Family,"['Fisstech', '[[Fisstech]] dealer}}']",Fisstech
+504,18737,Gjarr,Human,Male,Skelliger,No Family,"['Village', 'Village elder']",Village elder
+505,70146,Glenna,Human,Female,Temerian,No Family,"['Meat', 'Meat seller']",Meat seller
+506,85905,Gomo Seeling,Human,Male,Redanian,No Family,[],No Profession
+507,51504,Gottard,Human,Male,Redanian,No Family,"['Peasant', 'Peasant']",Peasant
+508,31456,Graden,Human,Male,Redanian,No Family,"['Witch hunter', '[[Witch hunter]]']",Witch hunter
+509,46357,Graham,Human,Male,Temerian,No Family,"['Fisherman', 'Fisherman']",Fisherman
+510,23964,Gran,Human,Female,Temerian,No Family,"['Carer', 'Carer']",Carer
+511,38053,Gravedigger (Lindenvale),Human,Male,Temerian,No Family,"['Gravedigger', 'Gravedigger']",Gravedigger
+512,37225,Gregor,Human,Male,Redanian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+513,32134,Gremist,Human,Male,Skelliger,No Family,"['Druid]]<br>[[Alchemist', ('Druid', 'Alchemist'), '[[Druid]]<br>[[Alchemist]]']","['Druid]]<br>[[Alchemist', ('Druid', 'Alchemist'), '[[Druid]]<br>[[Alchemist]]']"
+514,29317,Gretka,Human,Female,Temerian,No Family,"['Kitchen', 'Kitchen helper']",Kitchen helper
+515,73033,Grim,Human,Male,Skelliger,No Family,"['Lumberjack', 'Lumberjack']",Lumberjack
+516,43904,Griswold,Human,Male,Redanian,No Family,"['Merchant', 'Merchant']",Merchant
+517,18738,Grossbart Brothers,Human,Male,Skelliger,No Family,"['Bandit', 'Bandit', 'Bandit', 'Bandit', 'Bandit', 'Bandit']","['Bandit', 'Bandit', 'Bandit', 'Bandit', 'Bandit', 'Bandit']"
+518,74766,Gus Meyer,Dwarf,Male,Mahakaman,No Family,"['Woodcarver', 'Woodcarver']",Woodcarver
+519,74124,Gustav Roene,Human,Male,No Nationality,No Family,"['Arena', 'Arena fighter']",Arena fighter
+520,42735,Haddy,Human,Male,Temerian,No Family,[],No Profession
+521,73130,Hal,Human,Male,Metinnese,No Family,"['Fistfighter', 'Fistfighter']",Fistfighter
+522,46359,Halbjorn,Human,Male,Skelliger,Clan Dimun,"['Warrior', 'Warrior']",Warrior
+523,28487,Hammond,Human,Male,Skelliger,No Family,"['Slavery|Slaver', '[[Slavery|Slaver]]<br>Pirate']",Slavery|Slaver
+524,34347,Hanna,Human,Female,Temerian,No Family,[],No Profession
+525,37100,Hans of Cidaris,Human,Male,Cidarian,No Family,"['Mercenary', '[[Mercenary]]']",Mercenary
+526,66696,Happen the Eunuch,Human,Male,No Nationality,No Family,"['Bookkeeper', 'Bookkeeper']",Bookkeeper
+527,38145,Harald (Fayrlund),Human,Male,Skelliger,No Family,"['Ealdorman', 'Ealdorman/village elder']",Ealdorman/village elder
+528,31981,Harald an Tordarroch,Human,Male,Skelliger,Clan Tordarroch,[],No Profession
+529,38143,Harald Featherbuns,Human,Male,Redanian,No Family,[],No Profession
+530,49176,Harmon aep Groenekan,Human,Male,Alban,No Family,"['Commander', '[[Commander]]']",Commander
+531,35599,Havart var Moehoen,Human,Male,Alban,No Family,"['Soldier', '[[Soldier]]']",Soldier
+532,30917,Hegel Grossbart,No Race,No Gender,No Nationality,No Family,[],No Profession
+533,42813,Helma,Human,Female,Redanian,No Family,[],No Profession
+534,27540,Hendrik,Human,Male,Nilfgaardian,No Family,"['Merchant', '[[Merchant]] {{Small|text=cover}}<br>']",Merchant
+535,37555,Henri Rautlec,Halfling,Male,Redanian,No Family,"['Artist', 'Artist']",Artist
+536,24655,Henry var Attre,Human,Male,Attrean,Attre ruling houses|var Attre family,[],No Profession
+537,72500,Herbalist (campsite),Human,Male,Temerian,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+538,77555,Herbalist (Cunny of the Goose),Human,Male,Redanian,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+539,43145,Herbalist (Glory Lane),Halfling,Male,No Nationality,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+540,116172,Herbalist (Hierarch Square),Human,Male,No Nationality,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+541,43153,Herbalist (Kaer Trolde),Human,Male,Skelliger,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+542,73470,Herbalist (Kvalheim Isle),Human,Male,Skelliger,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+543,42967,Herbalist (Liberated camp),Human,Male,No Nationality,No Family,"['Herbalist', ""Herbalist}}This '''Herbalist''' sets up shop once the camp west of [[Lurtch]] has been liberated by [[Geralt of Rivia]]. He sells alchemical ingredients and the following formulae:""]",Lurtch]] has been liberated by [[Geralt of Rivia
+544,71258,Herbalist (Refugees' Camp),Human,Male,Temerian,No Family,"[':Category:Herbalists|Herbalist', '[[:Category:Herbalists|Herbalist]]']",:Category:Herbalists|Herbalist
+545,42960,Herbalist (Shrine),Human,Male,Temerian,No Family,"[':Category:Herbalists|Herbalist', '[[:Category:Herbalists|Herbalist]]']",:Category:Herbalists|Herbalist
+546,81603,Herbalist (Spitfire Bluff),Human,Male,Temerian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+547,28048,Herevard II,Human,Male,Temerian,No Family,[],No Profession
+548,10409,Hjalmar an Craite,Human,Male,Skelliger,Clan an Craite,[],No Profession
+549,30577,Hjort,Human,Male,Skelliger,No Family,"['Druid', '[[Druid]]<br>Advisor']",Druid
+550,31464,Holger Blackhand,Human,Male,Skelliger,Clan Dimun,[],No Profession
+551,40546,Holofernes Meiersdorf,Halfling,Male,No Nationality,No Family,"['Miller', 'Miller<br>Apiarist']",Miller<br>Apiarist
+552,35896,Hortensio,Human,Male,Temerian,No Family,"['Soldier', 'Soldier']",Soldier
+553,76039,Hrodeberth,Human,Male,Nazairi,No Family,"['Soldier', 'Soldier']",Soldier
+554,40105,Hubert Rejk,Higher vampire,Male,No Nationality,No Family,"['Coroner', 'Coroner']",Coroner
+555,37381,Hubrecht,Human,Male,Redanian,No Family,"['Witch hunter', '[[Witch hunter]]']",Witch hunter
+556,40015,Hunter (Lindenvale),Human,Male,Temerian,No Family,"['Hunter', 'Hunter']",Hunter
+557,65013,Hussar,Dog,Male,No Nationality,No Family,[],No Profession
+558,4836,Ida Emean aep Sivney,Elf,Female,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+559,77519,Igor (Fools' Gold),Human,Male,Temerian,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+560,38260,Igor de Sade,Human,Male,Kaedwenian,No Family,"['Mage', '[[Mage]] {{Small|text=student}}']",Mage
+561,40207,Igor the Hook,Human,Male,Novigradian,No Family,[],No Profession
+562,41532,Ilge,Human,Male,Skelliger,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+563,22833,Imlerith,Elf,Male,No Nationality,No Family,"['Commander', '[[Commander]]']",Commander
+564,34774,Ingrid Vegelbud,Human,Female,No Nationality,Vegelbud family,[],No Profession
+565,72577,Innkeep (Cunny of the Goose),Human,Male,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+566,40948,Innkeep (Harviken),Human,Male,Skelliger,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+567,67722,Innkeep (Inn at the Crossroads),Human,Male,Temerian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+568,73038,Innkeep (Larvik),Human,Male,Skelliger,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+569,39966,Innkeep (Lindenvale),Human,Male,Temerian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+570,73977,Innkeep (Rosemary and Thyme),Human,Male,No Nationality,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+571,72585,Innkeep (Seven Cats Inn),Human,Female,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+572,41542,Innkeep (Svorlag),Human,Male,Skelliger,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+573,72594,Innkeep (The Golden Sturgeon),Human,Male,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+574,73975,Innkeep (The Kingfisher),Human,Male,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+575,72579,Innkeep (The Nowhere Inn),Human,Female,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+576,73040,Innkeep (Urialla Harbor),Human,Male,Skelliger,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+577,46361,Irina Renarde,Human,Female,No Nationality,No Family,"['Actress', 'Actress']",Actress
+578,38049,Iron Mortimer,Human,Male,Redanian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+579,40123,Iron-Arse Hans,Human,Male,Temerian,No Family,"['Horse', 'Horse racer']",Horse racer
+580,92325,Ivar,Human,Male,Skelliger,No Family,[],No Profession
+581,27825,Jad Karadin,Human,Male,No Nationality,No Family,"['Witcher]] {{Small|text=formerly}}<br>Assassin {{Small|text=formerly}}<br>[[Merchant', '[[Witcher]] {{Small|text=formerly}}<br>Assassin {{Small|text=formerly}}<br>[[Merchant]]']",Witcher]] {{Small|text=formerly}}<br>Assassin {{Small|text=formerly}}<br>[[Merchant
+582,10068,Janne,No Race,No Gender,No Nationality,No Family,[],No Profession
+583,30918,Jesse Grossbart,No Race,No Gender,No Nationality,No Family,[],No Profession
+584,24782,"Jesse, Joe and Dodger",No Race,No Gender,No Nationality,No Family,[],No Profession
+585,29633,Joachim von Gratz,Human,Male,Redanian,No Family,"['Chief', 'Chief Surgeon']",Chief Surgeon
+586,27329,John Geermer,Human,Male,Temerian,No Family,"['Insurgent', 'Insurgent [[Temeria]]n soldier<br>Merchant {{Small|text=cover}}']",Temeria
+587,29147,John Verdun,Human,Male,Temerian,No Family,"['Soldier', 'Soldier {{Small|text=formerly}}']",Soldier
+588,20844,Johnny,Godling,Male,No Nationality,No Family,[],No Profession
+589,43899,Jonah,Human,Male,Temerian,No Family,[],No Profession
+590,38804,Jonas the Innkeep,Human,Male,Skelliger,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+591,72148,Jonna,Human,Female,Skelliger,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+592,41393,Jorulf the Wolverine,Human,Male,Skelliger,No Family,"['Warrior', 'Warrior']",Warrior
+593,40241,Josta,Human,Female,Skelliger,No Family,"['Priest', '[[Priest]]ess']",Priest
+594,37404,Jouke,Human,Male,Redanian,No Family,"['Soldier', 'Soldier']",Soldier
+595,56815,Jutta an Dimun,Human,Female,Skelliger,Clan Dimun,[],No Profession
+596,72950,Karli,Human,Female,Skelliger,No Family,[],No Profession
+597,4831,Keira Metz,Human,Female,Temerian,No Family,"['Mage', 'Advisor', 'Advisor<br>[[Mage]]']","['Mage', 'Advisor', 'Advisor<br>[[Mage]]']"
+598,29325,King of the Wolves (creature),No Race,No Gender,No Nationality,No Family,[],No Profession
+599,21955,Kiyan,Human,Male,No Nationality,No Family,"['Witcher', '[[Witcher]]']",Witcher
+600,79609,Kluhg,Human,Male,No Nationality,No Family,"['Smuggler', 'Smuggler']",Smuggler
+601,74525,Kobe,Human,Male,No Nationality,No Family,[],No Profession
+602,73058,Kori,Human,Male,Skelliger,Clan Drummond,[],No Profession
+603,73061,Kraki,Human,Male,Skelliger,Clan Drummond,[],No Profession
+604,40238,Kurisu,Human,Female,Skelliger,No Family,[],No Profession
+605,37536,Kurt (witch hunter),Human,Male,Novigradian,No Family,"['Witch hunter', '[[Witch hunter]]']",Witch hunter
+606,24476,Kurt Dysart,Human,Male,Temerian,No Family,[],No Profession
+607,51311,La Valette Guard Captain,Human,Male,Redanian,No Family,"['Soldier', 'Soldier']",Soldier
+608,73067,Leif,Human,Male,Skelliger,Clan Drummond,[],No Profession
+609,74531,Lena,Human,Female,Temerian,No Family,[],No Profession
+610,41941,Leslav,Human,Male,Temerian,No Family,"['Peat', 'Peat digger']",Peat digger
+611,43314,Lessy,Human,Female,Temerian,No Family,[],No Profession
+612,79909,Liesje,Human,Female,Temerian,No Family,"['Farmer', 'Farmer']",Farmer
+613,51500,Little Red (bandit),Human,Female,No Nationality,No Family,"['Bandit', 'Bandit']",Bandit
+614,71637,Loan Shark,Human,Male,No Nationality,No Family,"['Merchant', '[[Merchant]]']",Merchant
+615,75635,Lodrin,Human,Male,Temerian,No Family,"['Guard', 'Guard']",Guard
+616,72151,Lothar (Tjalve's father),Human,Male,Skelliger,No Family,[],No Profession
+617,43469,Louis (bandit),Human,Male,No Nationality,No Family,"['Criminal', 'Criminal}}']",Criminal}}
+618,34772,Luc Vegelbud,Human,Male,No Nationality,Vegelbud family,[],No Profession
+619,74527,Lucas,Human,Male,No Nationality,No Family,[],No Profession
+620,41391,Lugos Drummond (Blueboy),Human,Male,Skelliger,Clan Drummond,[],No Profession
+621,31468,Lugos Drummond (Madman),Human,Male,Skelliger,Clan Drummond,[],No Profession
+622,28490,Lund,Human,Male,No Nationality,No Family,['|Abilities = '],|Abilities = 
+623,43478,Lussi,Human,Female,No Nationality,No Family,"['Thief', 'Thief']",Thief
+624,38572,Lyffned,Human,Male,Nilfgaardian,No Family,"['Soldier', 'Soldier']",Soldier
+625,37451,Madame (Crippled Kate's),Human,Female,No Nationality,No Family,"['Madame', 'Madame']",Madame
+626,72735,Mandy,Human,Female,Temerian,No Family,[],No Profession
+627,41880,Manfred (merchant),Human,Male,No Nationality,No Family,"['Merchant', ""Merchant}}'''Manfred''' was a well informed merchant passing through on the roads between [[Novigrad]] and [[Oxenfurt]] in {{Year|canon = no|year = 1272}}. At one point he stopped and camped out with two others: a [[Redania]]n soldier named [[Rufus]] and a sorcerer named [[Theophile Maria Rosco]].""]",Novigrad]] and [[Oxenfurt]] in {{Year|canon = no|year = 1272}}. At one point he stopped and camped out with two others: a [[Redania]]n soldier named [[Rufus]] and a sorcerer named [[Theophile Maria Rosco
+628,30916,Manfred Grossbart,No Race,No Gender,No Nationality,No Family,[],No Profession
+629,41137,Marabella,Human,Female,No Nationality,No Family,"['Teacher', 'Teacher']",Teacher
+630,29578,Marcus T.K. Hodgson,Human,Male,Redanian,No Family,"['Book', 'Book seller']",Book seller
+631,4830,Margarita Laux-Antille,Human,Female,No Nationality,No Family,"['Rectoress', 'Rectoress of [[Aretuza]]<br>[[Mage]]']",Aretuza]]<br>[[Mage
+632,34346,Margrit,Human,Female,Temerian,No Family,[],No Profession
+633,45984,Marica,Human,Female,Temerian,No Family,"['Servant', 'Servant']",Servant
+634,85906,Marius Florin,Human,Male,Redanian,No Family,[],No Profession
+635,32140,Marquise Serenity,Human,Female,No Nationality,No Family,"['Madame', 'Madame']",Madame
+636,74404,Master Claytop,Human,Male,No Nationality,No Family,"['Bookie', 'Bookie']",Bookie
+637,51768,Mathios,Human,Male,Skelliger,No Family,"['Steward', 'Steward']",Steward
+638,73045,Maxim Boliere,Human,Male,Redanian,No Family,"['Actor', 'Actor ']",Actor 
+639,85811,Medic (Novigrad Docks),Human,Male,Redanian,No Family,"['Medic', '[[Medic]]']",Medic
+640,85809,Medic (Oxenfurt Morgue),Human,Male,Redanian,No Family,"['Medic', '[[Medic]]']",Medic
+641,72105,Merchant (Ard Skellig sawmill),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+642,43902,Merchant (Blackbough),Human,Male,Temerian,No Family,"['The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]']","['The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]']"
+643,72847,Merchant (Blandare),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+644,44047,Merchant (Boatmakers' Hut),Human,Male,No Nationality,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+645,71333,Merchant (boatyard),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+646,77879,Merchant (Border Post),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+647,36157,Merchant (Calveit Watchtower),Human,Male,Nilfgaardian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+648,72498,Merchant (campsite),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+649,51218,Merchant (Claywich),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+650,39247,Merchant (Downwarren),Human,Male,No Nationality,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+651,44041,Merchant (Fayrlund),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+652,43075,Merchant (Fish Market),Human,Male,No Nationality,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+653,72600,Merchant (fishmonger),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+654,72803,Merchant (Fyresdal),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+655,42563,Merchant (Gildorf),Human,Male,No Nationality,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+656,72880,Merchant (halfling),Halfling,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+657,72450,Merchant (Harviken),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+658,72808,Merchant (Hierarch Square),Human,Male,No Nationality,No Family,"['The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]']","['The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', 'The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]', '[[The Witcher 3 merchants|Merchant]]']"
+659,72868,Merchant (Holmstein's Port),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+660,41350,Merchant (Isolated Hut),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+661,72875,Merchant (Kaer Trolde Harbor),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+662,72850,Merchant (Larvik),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+663,40018,Merchant (Lindenvale),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+664,42861,Merchant (Midcopse),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+665,76075,Merchant (Nilfgaardian Army Group 'Center' Camp),Human,Male,Nilfgaardian,No Family,"['Merchant', 'Merchant', 'Merchant', 'Merchant', 'Merchant', 'Merchant']","['Merchant', 'Merchant', 'Merchant', 'Merchant', 'Merchant', 'Merchant']"
+666,72267,Merchant (Oreton),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+667,72719,Merchant (Oxenfurt),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+668,72573,Merchant (Putrid Grove),Human,Male,Novigradian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+669,41186,Merchant (Scoia'tael),Elf,Male,No Nationality,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+670,72877,Merchant (Silverton docks),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+671,72603,Merchant (Silverton),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+672,72852,Merchant (Svorlag),Human,Male,Skelliger,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+673,72597,Merchant (The Bits),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+674,72490,Merchant (Tretogor Gate),Human,Male,Redanian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+675,73981,Merchant (White Orchard sawmill),Human,Male,Temerian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+676,29905,The Witcher 3 merchants,No Race,No Gender,No Nationality,No Family,[],No Profession
+677,50698,Mercia,Human,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+678,38907,Mererid,Human,Male,Nilfgaardian,No Family,"['Imperial', 'Imperial Chamberlain']",Imperial Chamberlain
+679,38631,Mikah,Human,Male,Temerian,No Family,[],No Profession
+680,72212,Mikkel (Skelliger),Human,Male,Skelliger,No Family,[],No Profession
+681,42832,Mikkjal,Human,Male,Skelliger,Clan Drummond,"['Lighthouse', 'Lighthouse keeper']",Lighthouse keeper
+682,44004,Mikula (orphan),Human,Female,Temerian,No Family,[],No Profession
+683,42949,Milan Noran,Human,Male,Alban,No Family,"['Soldier', '[[Soldier]]']",Soldier
+684,43513,Millie,Human,Female,Temerian,No Family,[],No Profession
+685,38642,Mislav,Human,Male,Temerian,No Family,"['Hunter', '[[Hunter]]']",Hunter
+686,51313,Molly,Human,Female,No Nationality,No Family,"['Maid', 'Maid {{Small|text=dependent}}']",Maid
+687,31459,Moreelse,Human,Male,Novigradian,No Family,[],No Profession
+688,42942,Moritz Diefenthel,Human,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+689,40516,Morkvarg,Human,Male,Skelliger,No Family,"['Pirate', 'Pirate']",Pirate
+690,9390,Morvran Voorhis,Human,Male,Alban,Voorhis family,[],No Profession
+691,3575,Mousesack,Human,Male,Skelliger,No Family,"['Druid', '[[Druid]]<br>']",Druid
+692,78496,Moving merchant,Human,Male,Temerian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+693,57571,Napp,Human,Male,Temerian,No Family,['|Appears_games ={{Tw3}}'],|Appears_games ={{Tw3}}
+694,72272,Narcissa,Human,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+695,31215,Nathaniel Pastodi,Human,Male,Redanian,No Family,"['Priest', '[[Priest]]']",Priest
+696,78877,Nidas,Human,Male,Temerian,No Family,"['Soldier', 'Soldier {{Small|text=formerly}}']",Soldier
+697,34348,Niellen,Human,Male,Temerian,No Family,"['Hunter', '[[Hunter]]']",Hunter
+698,36273,Nikolas Friedman,Human,Male,Redanian,No Family,"['Commander', '[[Commander]] of the Oxenfurt City Regiment']",Commander
+699,38787,Nilfgaardian Nobleman (Royal Palace at Vizima),Human,Male,Nilfgaardian,No Family,"['Nobleman', 'Nobleman']",Nobleman
+700,73109,Nissa,Elf,Female,No Nationality,No Family,"['Performer', 'Performer']",Performer
+701,23372,Nithral,Elf,Male,No Nationality,No Family,"['Warrior', 'Warrior']",Warrior
+702,44044,Odhen,Human,Male,Skelliger,No Family,[],No Profession
+703,42682,Odolan,Human,Male,Temerian,No Family,"['Farmer', 'Farmer']",Farmer
+704,40202,"Ogg, Pogg and Rogg",Troll,Male,No Nationality,No Family,[],No Profession
+705,52685,Olaf (bear),No Race,Male,No Nationality,No Family,[],No Profession
+706,51517,Olaf (guardsman),Human,Male,Skelliger,No Family,"['Guardsman', 'Guardsman']",Guardsman
+707,41687,Old Sage,Human,Male,Temerian,No Family,"[':Category:Soothsayers|Soothsayer', '[[:Category:Soothsayers|Soothsayer]]']",:Category:Soothsayers|Soothsayer
+708,76160,Old Woman (White Orchard),Human,Female,Temerian,No Family,[],No Profession
+709,53725,Ole-Kristian,Human,Male,Skelliger,No Family,[],No Profession
+710,41793,Olivier,Human,Male,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+711,43998,Orphans,No Race,No Gender,No Nationality,No Family,[],No Profession
+712,60665,Oswin,Human,Male,Temerian,No Family,"['Stablemaster', 'Stablemaster']",Stablemaster
+713,42382,Otrygg an Hindar,Human,Male,Skelliger,Clan an Hindar,[],No Profession
+714,67034,Otto Bamber,Halfling,Male,Redanian,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+715,34775,Patricia Vegelbud,Human,Female,No Nationality,Vegelbud family,[],No Profession
+716,38147,Patrick Hazelnutt,Human,Male,Novigradian,No Family,"['Minor', 'Minor nobleman']",Minor nobleman
+717,27137,Peter Saar Gwynleve,Human,Male,Alban,No Family,"['Soldier', 'Soldier<br>Farmer {{Small|text=formerly}}']",Soldier<br>Farmer
+718,76346,Petter,Human,Male,Skelliger,No Family,[],No Profession
+719,20605,Phillip Strenger,Human,Male,Temerian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+720,52274,Piet,Human,Male,Redanian,No Family,[],No Profession
+721,79610,Polly,Human,Female,No Nationality,No Family,"['Choreographer', 'Choreographer']",Choreographer
+722,84322,Porter (Putrid Grove),Human,Male,Novigradian,No Family,"['Porter', 'Porter']",Porter
+723,40248,Preacher (Temple Isle),Human,Male,No Nationality,No Family,"['Alchemist]]<br>[[Priest', ('Alchemist', 'Priest'), '[[Alchemist]]<br>[[Priest]]']","['Alchemist]]<br>[[Priest', ('Alchemist', 'Priest'), '[[Alchemist]]<br>[[Priest]]']"
+724,43447,Preben,Human,Male,Temerian,No Family,[],No Profession
+725,38176,Princess (goat),No Race,Female,No Nationality,No Family,[],No Profession
+726,21069,Priscilla,Human,Female,Kovirian,No Family,"['Bard|Trobairitz', '[[Bard|Trobairitz]]']",Bard|Trobairitz
+727,37889,Prison Warden,Human,Male,Redanian,No Family,"['Warden', 'Warden of [[Deireadh prison]]']",Deireadh prison
+728,51453,Quartermaster (Crow's Perch),Human,Male,Temerian,No Family,"['The Witcher 3 merchants', 'Quartermaster]]<br>[[The Witcher 3 merchants|Merchant', '[[Quartermaster]]<br>[[The Witcher 3 merchants|Merchant]]']","['The Witcher 3 merchants', 'Quartermaster]]<br>[[The Witcher 3 merchants|Merchant', '[[Quartermaster]]<br>[[The Witcher 3 merchants|Merchant]]']"
+729,39076,Quartermaster (Nilfgaardian Garrison),Human,Male,Nilfgaardian,No Family,"['Quartermaster (rank)|Quartermaster]]<br>[[Blacksmiths|Blacksmith', '[[Quartermaster (rank)|Quartermaster]]<br>[[Blacksmiths|Blacksmith]] {{Small|text=amateur}}']",Quartermaster (rank)|Quartermaster]]<br>[[Blacksmiths|Blacksmith
+730,43280,Radko,Human,Male,Temerian,No Family,"['Soldier', '[[Soldier]]<br>Race coordinator']",Soldier
+731,38314,Ravik,Human,Male,No Nationality,No Family,[],No Profession
+732,44151,Refugee (Benek),Human,Male,Temerian,No Family,[],No Profession
+733,37549,Remi Villeroy,Human,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+734,69558,Rhosyn,Human,Male,Nilfgaardian,No Family,"['Soldier', 'Soldier']",Soldier
+735,84319,Rico Meiersdorf,Halfling,Male,No Nationality,No Family,"['Spy', '[[Spy]]']",Spy
+736,43296,Ronvid of the Small Marsh,Human,Male,Kaedwenian,No Family,"['Knight', '[[Knight]]']",Knight
+737,36313,Rosa var Attre,Human,Female,Attrean,Attre ruling houses|var Attre family,[],No Profession
+738,43526,Rostan Muggs,Dwarf,Male,No Nationality,No Family,[],No Profession
+739,52335,Ruar,Human,Male,Skelliger,No Family,[],No Profession
+740,35456,Rudolf de Jonkheer,Human,Male,Redanian,No Family,"['Banker', 'Banker']",Banker
+741,30922,Rufus,Human,Male,Redanian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+742,51335,Rurik,Human,Male,Skelliger,No Family,"['Boatwright', ""Boatwright's apprentice""]",Boatwright's apprentice
+743,21889,Salma,No Race,No Gender,No Nationality,No Family,[],No Profession
+744,43172,Sarah,Godling,Female,No Nationality,No Family,[],No Profession
+745,43901,Sergeant Ardal,Human,Male,Temerian,No Family,"['Soldier', '[[Soldier]]']",Soldier
+746,43330,Shady merchant,Human,Male,No Nationality,No Family,"['Counterfeiter', 'Counterfeiter']",Counterfeiter
+747,7586,Sigismund Dijkstra,Human,Male,Redanian,No Family,"['Spymaster', 'Spymaster<br>Chancellor']",Spymaster<br>Chancellor
+748,31111,Sigo Buntz,Human,Male,Kovirian,No Family,"['Mage', '[[Mage]]']",Mage
+749,41330,Sigurd,Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+750,44409,Simun Brambling,Human,Male,Skelliger,No Family,[],No Profession
+751,44431,Sjusta,Human,Male,Skelliger,No Family,"['Tailor', 'Tailor and [[barber]]']",barber
+752,28435,Skjall,Human,Male,Skelliger,Clan Heymaey,"['Warrior', 'Warrior']",Warrior
+753,41342,Smith (Fyresdal),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+754,41347,Smith (Kaer Muire),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=journeyman}}']",Blacksmith
+755,41366,Smith (Svorlag),Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=amateur}}']",Blacksmith
+756,43897,Smithy,Human,Male,Temerian,No Family,"['Blacksmith', ""Blacksmith}}'''Smithy''' was one of the fistfighters from [[Velen]] who could be found in the [[Inn at the Crossroads]].""]",Velen]] who could be found in the [[Inn at the Crossroads
+757,73126,Sofus the Bull,Human,Male,Metinnese,No Family,"['Fistfighter', 'Fistfighter']",Fistfighter
+758,42550,Stan Fishgulper,Human,Male,Temerian,No Family,"['Fisherman', 'Fisherman']",Fisherman
+759,43678,Steingrim,Human,Male,Skelliger,Clan an Craite,[],No Profession
+760,32137,Stjepan,Human,Male,Redanian,No Family,"['Innkeeper', '[[Innkeeper]]']",Innkeeper
+761,43282,Stuttering Mattko,Human,Male,Temerian,No Family,"['Horse', 'Horse racer']",Horse racer
+762,40628,Succubus (Ard Skellig),Succubus,Female,Skelliger,No Family,[],No Profession
+763,83516,Sukrus,Human,Male,Skelliger,Clan Tuirseach,"['Mercenary', '[[Mercenary]]']",Mercenary
+764,43918,Survivor (Heatherton),Human,Male,Temerian,No Family,[],No Profession
+765,50702,Suzy,Human,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+766,70388,Svana,Human,Female,Skelliger,No Family,"['Priest', '[[Priest]]ess}}']",Priest
+767,24914,Svanrige Tuirseach,Human,Male,Skelliger,Clan Tuirseach,[],No Profession
+768,40231,Sven (Fayrlund),Human,Male,Skelliger,No Family,[],No Profession
+769,43779,Sverre,Human,Male,Skelliger,Clan Heymaey,"['Warrior', 'Warrior']",Warrior
+770,37455,Sweet Nettie,Human,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+771,38354,Swordsmith (Mulbrydale),Human,Male,Temerian,No Family,"['Armorer', '[[Armorer]] {{Small|text=amateur}}']",Armorer
+772,38051,Sylvester Amello,Human,Male,Redanian,No Family,"['Merchant', 'Merchant']",Merchant
+773,44021,Symko,Human,Male,Temerian,No Family,[],No Profession
+774,28090,Tamara Strenger,Human,Female,Temerian,No Family,"['Witch hunter', '[[Witch hunter]]']",Witch hunter
+775,25569,Tavar Eggebracht,Human,Male,Alban,Eggebracht family,"['Quartermaster', '[[Quartermaster]]']",Quartermaster
+776,18211,The Ghost in the Tree,No Race,Female,No Nationality,No Family,"['Druid', 'Druid']",Druid
+777,47302,The Mysterious Elf,Elf,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+778,33673,The Pellar,Human,Male,Temerian,No Family,"['Pellar', '[[Pellar]] (soothsayer)']",Pellar
+779,45982,Thecla,Human,Female,Temerian,No Family,"['Seer', 'Seer']",Seer
+780,30920,Theophile Maria Rosco,Human,Male,No Nationality,No Family,"['Mage', '[[Mage]]']",Mage
+781,43782,Thorleif,Human,Male,Skelliger,No Family,"['Village', 'Village elder']",Village elder
+782,76361,Tim Knott,Human,Male,No Nationality,No Family,[],No Profession
+783,72032,Timmon,Human,Male,Skelliger,Clan Dimun,['|Appears_games = {{Tw3}}'],|Appears_games = {{Tw3}}
+784,83519,Tinboy,Human,Male,No Nationality,No Family,"['Thug', 'Thug']",Thug
+785,28970,Titus Gielas,Human,Male,Temerian,No Family,"['Fisstech', '[[Fisstech]] dealer']",Fisstech
+786,72153,Tjalve,Human,Male,Skelliger,No Family,[],No Profession
+787,26176,Tomira,Human,Female,Temerian,No Family,"['Herbalist', '[[Herbalist]]']",Herbalist
+788,51552,Torgun,Human,Male,Skelliger,No Family,[],No Profession
+789,43018,Tove,Human,Female,Skelliger,No Family,[],No Profession
+790,51451,Trader (Crow's Perch),Human,Male,Temerian,No Family,"['Merchant', '[[Merchant]]']",Merchant
+791,40082,Traveling trader (Velen),Human,Male,Temerian,No Family,"['The Witcher 3 merchants|Merchant', '[[The Witcher 3 merchants|Merchant]]']",The Witcher 3 merchants|Merchant
+792,43996,Travik,Human,Male,Temerian,No Family,[],No Profession
+793,58877,Trollololo,Troll,Male,No Nationality,No Family,['|Ranks = '],|Ranks = 
+794,51554,Trygvi,Human,Male,Skelliger,No Family,[],No Profession
+795,30575,Udalryk an Brokvar,Human,Male,Skelliger,Clan Brokvar,[],No Profession
+796,70776,Ulf,Human,Male,Skelliger,No Family,[],No Profession
+797,72210,Ulf (Timmon's brother),Human,Male,Skelliger,No Family,[],No Profession
+798,47617,Ulle the Unlucky,Human,Male,Skelliger,No Family,[],No Profession
+799,22572,Uma,Unknown,Male,No Nationality,No Family,[],No Profession
+800,53723,Uve,Human,Male,Skelliger,Clan Drummond,"['Guard', 'Guard']",Guard
+801,41395,Uve Jabberjaw,Human,Male,Skelliger,No Family,"['Warrior', 'Warrior']",Warrior
+802,72945,Vagn,Human,Male,Skelliger,No Family,[],No Profession
+803,38262,Vairmont Jonne,Human,Male,Redanian,No Family,"['Oxenfurt Academy faculties|Faculty of Applied Archaeology', '[[Oxenfurt Academy faculties|Faculty of Applied Archaeology]] Professor']",Oxenfurt Academy faculties|Faculty of Applied Archaeology
+804,74890,Valdo,Elf,Male,No Nationality,No Family,"['Circus', 'Circus performer']",Circus performer
+805,40228,Valgard,Human,Male,Skelliger,No Family,"['Fistfighter', 'Fistfighter}}']",Fistfighter}}
+806,40224,Valgridovt,Human,Male,No Nationality,No Family,['|Titles = Prince'],|Titles = Prince
+807,51270,Var Attre Guard Captain,Human,Male,Alban,No Family,"['Soldier', 'Soldier']",Soldier
+808,29607,Vernossiel,Elf,Female,No Nationality,No Family,[],No Profession
+809,8974,Vespula,Human,Female,Novigradian,No Family,"['Laundress', 'Laundress']",Laundress
+810,73102,Victor,Human,Male,No Nationality,No Family,"['Bard', '[[Bard]]']",Bard
+811,28488,Vienne,Elf,Female,No Nationality,No Family,[],No Profession
+812,46365,Vigi the Loon,Human,Male,Skelliger,Clan Tordarroch,"['Boatwright', 'Boatwright']",Boatwright
+813,40222,Viki,Human,Female,No Nationality,No Family,[],No Profession
+814,51575,Vilmar (druid),Human,Male,Skelliger,No Family,"['Druid', '[[Druid]]']",Druid
+815,4017,Vimme Vivaldi,Dwarf,Male,No Nationality,Vivaldi family,"['Bank', '[[Bank]]er']",Bank
+816,72279,Viola,Human,Female,No Nationality,No Family,"['Prostitute', '[[Prostitute]]']",Prostitute
+817,38230,Vladimir de Cret,Human,Male,Redanian,No Family,"['Nobleman', 'Nobleman']",Nobleman
+818,76303,Volund,Human,Male,Skelliger,No Family,[],No Profession
+819,70700,Voytek,Human,Male,Temerian,No Family,"['Fisherman', 'Fisherman']",Fisherman
+820,43476,Wallter,Human,Male,No Nationality,No Family,[],No Profession
+821,38660,Weavess,Relict,Female,No Nationality,No Family,"['Witch', '[[Witch]]']",Witch
+822,38664,Whispess,Relict,Female,No Nationality,No Family,"['Witch', '[[Witch]]']",Witch
+823,30099,Willis,Dwarf,Male,No Nationality,No Family,"['Armorer', '[[Armorer]] {{Small|text=amateur}}']",Armorer
+824,44007,Yagna,Human,Female,Temerian,No Family,[],No Profession
+825,77517,Yagoda,Human,Female,Temerian,No Family,[],No Profession
+826,29066,Yamurlak (spy),Human,Male,Redanian,No Family,"['Spy', 'Spy']",Spy
+827,76258,Yanina,Human,Female,Redanian,No Family,[],No Profession
+828,44018,Yanna (The Witcher 3),Human,Female,No Nationality,No Family,[],No Profession
+829,45202,Yanne,Human,Male,Skelliger,No Family,"['Blacksmith', '[[Blacksmith]] {{Small|text=journeyman}}']",Blacksmith
+830,75637,Yaren,Human,Male,Temerian,No Family,[],No Profession
+831,35362,Yoana,Human,Female,Skelliger,Clan Tordarroch,"['Armorer', 'Armorer {{Small|text=master}}']",Armorer
+832,51581,Yolar,Human,Male,Skelliger,No Family,"['Druid]]<br>[[Alchemist', ('Druid', 'Alchemist'), '[[Druid]]<br>[[Alchemist]]']","['Druid]]<br>[[Alchemist', ('Druid', 'Alchemist'), '[[Druid]]<br>[[Alchemist]]']"
+833,43932,Yontek,Human,Male,Temerian,No Family,[],No Profession
+834,76242,Yorg,Human,Male,Skelliger,No Family,[],No Profession
+835,76245,Yorg's sister,Human,Female,Skelliger,No Family,[],No Profession

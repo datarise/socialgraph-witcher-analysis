@@ -1,0 +1,1 @@
+The herbalist outside the Cunny of the Goose sells mostly alchemy ingredients.    Some players may experience a bug where this herbalist will be able to be interacted with, but his shop window will not open.

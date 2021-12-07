@@ -1,0 +1,1 @@
+This merchant appears at the abandoned site west of Lurtch once it's clear of hostiles. Unlike most other merchants, this one will always be lying down until Geralt talks to him, but after exiting the conversation, he'll immediately be positioned lying down again.
