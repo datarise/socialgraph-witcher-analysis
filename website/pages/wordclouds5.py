@@ -144,7 +144,7 @@ def app():
     with col2:
         attribute = st.selectbox("Select the attribute to visualize", ("Race","Gender","Nationality","Family","Profession"))
         if attribute:
-            choose = df[attribute].unique()
+            choose = df[attribute].unique()[1:]
             attributes = st.multiselect("Select the attributes to visualize", choose)
 
 
