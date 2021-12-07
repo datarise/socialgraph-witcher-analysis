@@ -114,8 +114,6 @@ def generate_word_clouds(texts_dict, col1, col2):
         
 
 def make_cloud(wordcloud_string, attr, icon_path):
-    st.text(icon_path)
-
     wolf_mask = np.array(Image.open(icon_path))
 
     wc = WordCloud(background_color="black", max_words=2000, mask=wolf_mask, collocations=False, colormap='RdBu', height=1000, width=1000)
